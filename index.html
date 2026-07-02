@@ -3,167 +3,155 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>ศูนย์รวมความรู้และข่าวสาร ไอที (IT Knowledge Base)</title>
+    <title>IT Knowledge Hub</title>
     <script src="https://cdn.jsdelivr.net/npm/@tailwindcss/browser@4"></script>
     <script src="https://cdn.jsdelivr.net/npm/fuse.js@7.0.0/dist/fuse.basic.min.js"></script>
 </head>
 <body class="bg-slate-50 text-slate-800 min-h-screen font-sans">
 
-    <header class="bg-gradient-to-r from-blue-700 to-indigo-800 text-white py-12 px-4 shadow-md text-center">
-        <div class="max-w-4xl mx-auto">
-            <span class="bg-blue-500/30 text-blue-200 text-xs font-semibold px-3 py-1 rounded-full uppercase tracking-wider">Prototype / ต้นแบบระบบ Knowledge Base</span>
-            <h1 class="text-3xl md:text-4xl font-bold mt-3">ศูนย์รวมความรู้และข่าวสารไอที</h1>
-            <p class="text-blue-100 mt-2 text-sm md:text-base">รวบรวมข่าวสาร ความรู้ด้านเทคโนโลยีเพื่อบุคลากรในจุดเดียว</p>
+    <header class="bg-gradient-to-r from-slate-800 to-blue-900 text-white py-12 px-4 shadow-md text-center">
+        <div class="max-w-5xl mx-auto">
+            <span class="bg-blue-500/30 text-blue-200 text-xs font-semibold px-3 py-1 rounded-full uppercase tracking-wider">IT Knowledge & News Hub</span>
+            <h1 class="text-3xl md:text-4xl font-bold mt-3">ศูนย์รวมความรู้และข่าวสารไอทีองค์กร</h1>
+            <p class="text-slate-300 mt-2 text-sm md:text-base">จุดเดียวสำหรับการค้นหาข่าวสารไอทีภายนอก และคู่มือปฏิบัติงานภายใน</p>
         </div>
     </header>
 
-    <main class="max-w-4xl mx-auto px-4 py-8">
+    <main class="max-w-5xl mx-auto px-4 py-8">
         
         <div class="bg-white p-6 rounded-2xl shadow-sm border border-slate-200/80 mb-8 -mt-16 relative z-10">
             <div class="relative">
-                <input type="text" id="searchInput" placeholder="พิมพ์สิ่งที่คุณต้องการค้นหา เช่น Docker, AI, ข่าววันนี้..." 
-                       class="w-full bg-slate-50 border border-slate-300 rounded-xl py-3.5 pl-5 pr-12 text-slate-900 placeholder-slate-400 focus:outline-none focus:ring-2 focus:ring-blue-600 focus:border-transparent text-lg transition shadow-inner">
-                <div class="absolute inset-y-0 right-0 flex items-center pr-4 pointer-events-none text-slate-400">
-                    🔍
+                <input type="text" id="searchInput" placeholder="พิมพ์คำค้นหา เช่น รหัสผ่าน, Docker, AI..." 
+                       class="w-full bg-slate-50 border border-slate-300 rounded-xl py-3.5 pl-5 pr-12 text-slate-900 placeholder-slate-400 focus:outline-none focus:ring-2 focus:ring-blue-600 text-lg transition shadow-inner">
+                <div class="absolute inset-y-0 right-0 flex items-center pr-4 pointer-events-none text-slate-400">🔍</div>
+            </div>
+        </div>
+
+        <div class="grid grid-cols-1 md:grid-cols-4 gap-6">
+            <div class="md:col-span-1">
+                <div class="bg-white p-4 rounded-2xl shadow-xs border border-slate-200 sticky top-4">
+                    <h3 class="font-bold text-slate-900 mb-3 px-2 text-sm uppercase tracking-wider text-slate-400">หมวดหมู่ความรู้</h3>
+                    <nav class="space-y-1" id="categoryMenu">
+                        <button onclick="switchCategory('ALL')" id="tab-ALL" class="w-full text-left px-3 py-2.5 rounded-xl font-medium text-sm transition cursor-pointer bg-blue-600 text-white shadow-xs">
+                            🌐 ทั้งหมด
+                        </button>
+                        <button onclick="switchCategory('Internal')" id="tab-Internal" class="w-full text-left px-3 py-2.5 rounded-xl font-medium text-sm transition cursor-pointer text-slate-600 hover:bg-slate-100">
+                            📋 คู่มือภายในองค์กร
+                        </button>
+                        <button onclick="switchCategory('General')" id="tab-General" class="w-full text-left px-3 py-2.5 rounded-xl font-medium text-sm transition cursor-pointer text-slate-600 hover:bg-slate-100">
+                            📰 ข่าวสารไอทีทั่วไป
+                        </button>
+                        <button onclick="switchCategory('Security')" id="tab-Security" class="w-full text-left px-3 py-2.5 rounded-xl font-medium text-sm transition cursor-pointer text-slate-600 hover:bg-slate-100">
+                            🛡️ Cyber Security
+                        </button>
+                    </nav>
                 </div>
             </div>
-            <div class="flex flex-wrap gap-2 mt-4 text-xs text-slate-500 items-center">
-                <span class="font-medium">คำค้นหายอดนิยม:</span>
-                <button onclick="quickSearch('AI')" class="bg-slate-100 hover:bg-slate-200 px-2.5 py-1 rounded-md cursor-pointer transition">AI</button>
-                <button onclick="quickSearch('Cloud')" class="bg-slate-100 hover:bg-slate-200 px-2.5 py-1 rounded-md cursor-pointer transition">Cloud</button>
-                <button onclick="quickSearch('Security')" class="bg-slate-100 hover:bg-slate-200 px-2.5 py-1 rounded-md cursor-pointer transition">Security</button>
-                <button onclick="quickSearch('')" class="bg-blue-50 hover:bg-blue-100 text-blue-600 font-medium px-2.5 py-1 rounded-md cursor-pointer transition ml-auto">แสดงทั้งหมด</button>
+
+            <div class="md:col-span-3">
+                <div class="mb-4 flex items-center justify-between">
+                    <h2 class="text-lg font-bold text-slate-900 flex items-center gap-2">
+                        ผลการค้นหา <span id="resultCount" class="text-xs bg-slate-200 text-slate-700 px-2.5 py-0.5 rounded-full">กำลังโหลด...</span>
+                    </h2>
+                </div>
+                
+                <div id="newsContainer" class="space-y-4">
+                    <div class="text-center py-12 text-slate-400">⏳ กำลังโหลดคลังความรู้...</div>
+                </div>
             </div>
-        </div>
-
-        <div class="mb-4 flex items-center justify-between">
-            <h2 class="text-xl font-bold text-slate-900 flex items-center gap-2">
-                📂 ผลการค้นหาความรู้
-                <span id="resultCount" class="text-sm font-normal bg-slate-200 text-slate-700 px-2 py-0.5 rounded-full">กำลังโหลดข้อมูล...</span>
-            </h2>
-        </div>
-
-        <div id="newsContainer" class="space-y-4">
-            <div class="text-center py-12 text-slate-400">⏳ กำลังจัดเตรียมคลังความรู้อัจฉริยะ...</div>
         </div>
 
     </main>
 
-    <footer class="text-center py-8 text-xs text-slate-400 border-t border-slate-200 mt-12">
-        © 2026 IT Knowledge Base System (RAG Prototype) • อัปเดตข้อมูลอัตโนมัติทุกเช้าผ่าน GitHub Actions
-    </footer>
-
     <script>
-        let newsData = [];
+        let allData = [];
+        let currentFilteredData = [];
+        let currentCategory = 'ALL';
         let fuse = null;
 
-        // 1. ดึงข้อมูลจากไฟล์ data.json ที่บอทสร้างไว้
-        async function loadNewsData() {
+        async function loadData() {
             try {
-                // ดึงไฟล์ data.json จากโฟลเดอร์เดียวกัน
                 const response = await fetch('data.json');
-                if (!response.ok) throw new Error('ไม่สามารถโหลดฐานข้อมูลความรู้ได้');
+                allData = await response.json();
                 
-                newsData = await response.json();
-                
-                // ตั้งค่าระบบค้นหา Fuse.js 
-                const options = {
-                    keys: ['title', 'content', 'source'], // ให้ค้นหาจากหัวข้อ เนื้อหา และแหล่งที่มา
-                    threshold: 0.4, // ค่าความยืดหยุ่นในการพิมพ์ผิด (ยิ่งน้อยยิ่งต้องตรงเป๊ะ)
-                    ignoreLocation: true
-                };
-                fuse = new Fuse(newsData, options);
-
-                // แสดงข้อมูลทั้งหมดในตอนแรก
-                displayNews(newsData);
-                
+                // เริ่มต้นให้ข้อมูลปัจจุบันเท่ากับข้อมูลทั้งหมดก่อน
+                filterAndDisplay();
             } catch (error) {
                 console.error(error);
-                document.getElementById('newsContainer').innerHTML = `
-                    <div class="bg-red-50 text-red-700 p-4 rounded-xl text-center border border-red-200">
-                        ❌ ไม่สามารถโหลดข้อมูลคลังความรู้ได้ กรุณารอระบบดึงข้อมูลในครั้งแรกสักครู่ครับ
-                    </div>
-                `;
+                document.getElementById('newsContainer').innerHTML = `<div class="text-center text-red-500 py-8">❌ ไม่สามารถโหลดคลังข้อมูลความรู้ได้</div>`;
             }
         }
 
-        // 2. ฟังก์ชันแสดงผลการค้นหาออกมาเป็น HTML การ์ดสวยๆ
+        // ฟังก์ชันในการกรองหมวดหมู่และค้นหาไปพร้อมกัน
+        function filterAndDisplay() {
+            const searchQuery = document.getElementById('searchInput').value.trim();
+            
+            // 1. กรองตามหมวดหมู่ก่อน
+            if (currentCategory === 'ALL') {
+                currentFilteredData = allData;
+            } else {
+                currentFilteredData = allData.filter(item => item.category === currentCategory);
+            }
+
+            // 2. ถ้ามีการพิมพ์ค้นหา ให้ใช้ Fuse.js ค้นหาต่อจากหมวดหมู่นั้น
+            if (searchQuery) {
+                const options = { keys: ['title', 'content', 'source'], threshold: 0.4 };
+                const localFuse = new Fuse(currentFilteredData, options);
+                const results = localFuse.search(searchQuery);
+                displayNews(results.map(r => r.item));
+            } else {
+                displayNews(currentFilteredData);
+            }
+        }
+
         function displayNews(articles) {
             const container = document.getElementById('newsContainer');
-            const countBadge = document.getElementById('resultCount');
-            
-            countBadge.innerText = `พบ ${articles.length} รายการ`;
+            document.getElementById('resultCount').innerText = `${articles.length} รายการ`;
 
             if (articles.length === 0) {
-                container.innerHTML = `
-                    <div class="bg-white p-12 rounded-xl text-center border border-slate-200 text-slate-400">
-                        🔍 ไม่พบข้อมูลที่เกี่ยวข้อง ลองค้นหาด้วยคำอื่นดูนะครับ
-                    </div>
-                `;
+                container.innerHTML = `<div class="bg-white p-12 rounded-2xl text-center border text-slate-400">🔍 ไม่พบข้อมูลในหมวดหมู่นี้ ลองค้นหาคำอื่นดูนะครับ</div>`;
                 return;
             }
 
-            container.innerHTML = articles.map(article => {
-                // จัดฟอร์แมตวันที่ให้อ่านง่ายขึ้นเบื้องต้น
-                const dateStr = article.pubDate ? new Date(article.pubDate).toLocaleDateString('th-TH', {
-                    year: 'numeric', month: 'short', day: 'numeric'
-                }) : 'ไม่มีระบุวันที่';
-
+            container.innerHTML = articles.map(item => {
+                const dateStr = item.pubDate ? new Date(item.pubDate).toLocaleDateString('th-TH', { year: 'numeric', month: 'short', day: 'numeric' }) : '';
                 return `
-                    <article class="bg-white p-6 rounded-2xl shadow-xs border border-slate-200/60 hover:border-blue-400 hover:shadow-md transition duration-200 flex flex-col justify-between">
-                        <div>
-                            <div class="flex items-center gap-2 mb-2">
-                                <span class="bg-blue-50 text-blue-700 text-xs font-semibold px-2.5 py-0.5 rounded-md">
-                                    📍 ${article.source || 'คลังความรู้'}
-                                </span>
-                                <span class="text-xs text-slate-400">${dateStr}</span>
-                            </div>
-                            <h3 class="text-lg font-bold text-slate-950 mb-2 leading-snug hover:text-blue-600 transition">
-                                <a href="${article.link}" target="_blank" class="hover:underline flex items-center gap-1">
-                                    ${article.title} 🔗
-                                </a>
-                            </h3>
-                            <p class="text-slate-600 text-sm line-clamp-3 mb-4 leading-relaxed">
-                                ${article.content.replace(/<[^>]*>/g, '')} </p>
+                    <article class="bg-white p-6 rounded-2xl border border-slate-200/70 hover:border-blue-400 hover:shadow-xs transition">
+                        <div class="flex items-center gap-2 mb-2 text-xs">
+                            <span class="bg-slate-100 text-slate-700 px-2 py-0.5 rounded-md font-medium">📍 ${item.source}</span>
+                            <span class="text-slate-400">${dateStr}</span>
                         </div>
-                        <div class="border-t border-slate-100 pt-3 flex justify-between items-center">
-                            <span class="text-xs text-slate-400 italic">ID: ${article.id.slice(0,8)}</span>
-                            <a href="${article.link}" target="_blank" class="text-blue-600 hover:text-blue-800 font-medium text-xs flex items-center gap-1 cursor-pointer">
-                                อ่านเนื้อหาฉบับเต็ม →
-                            </a>
-                        </div>
+                        <h3 class="text-lg font-bold text-slate-900 mb-2 hover:text-blue-600">
+                            <a href="${item.link}" target="_blank" class="hover:underline">${item.title}</a>
+                        </h3>
+                        <p class="text-slate-600 text-sm leading-relaxed whitespace-pre-line">${item.content.replace(/<[^>]*>/g, '').slice(0, 300)}${item.content.length > 300 ? '...' : ''}</p>
                     </article>
                 `;
             }).join('');
         }
 
-        // 3. ระบบดักจับการพิมพ์ในช่องค้นหา
-        document.getElementById('searchInput').addEventListener('input', (e) => {
-            const query = e.target.value.trim();
+        // ฟังก์ชันสลับแท็บหมวดหมู่
+        function switchCategory(cat) {
+            currentCategory = cat;
             
-            if (!query) {
-                displayNews(newsData); // ถ้าช่องค้นหาว่าง ให้แสดงทั้งหมด
-                return;
+            // เปลี่ยนสไตล์ปุ่มที่เลือก
+            const buttons = document.querySelectorAll('#categoryMenu button');
+            buttons.forEach(btn => {
+                btn.className = "w-full text-left px-3 py-2.5 rounded-xl font-medium text-sm transition cursor-pointer text-slate-600 hover:bg-slate-100";
+            });
+            
+            const activeBtn = document.getElementById(`tab-${cat}`);
+            if (activeBtn) {
+                activeBtn.className = "w-full text-left px-3 py-2.5 rounded-xl font-medium text-sm transition cursor-pointer bg-blue-600 text-white shadow-xs";
             }
 
-            if (fuse) {
-                const searchResults = fuse.search(query);
-                // แปลงฟอร์แมตผลลัพธ์ของ Fuse.js ให้กลับมาเป็นอาร์เรย์ของบทความปกติ
-                const filteredNews = searchResults.map(result => result.item);
-                displayNews(filteredNews);
-            }
-        });
-
-        // ฟังก์ชันเสริมสำหรับคำค้นหาด่วน
-        function quickSearch(keyword) {
-            const input = document.getElementById('searchInput');
-            input.value = keyword;
-            // สั่งให้ระบบค้นหาทำงานทันทีเหมือนมีคนพิมพ์จริง
-            input.dispatchEvent(new Event('input'));
+            filterAndDisplay();
         }
 
-        // เริ่มต้นโหลดข้อมูลเมื่อเปิดหน้าเว็บ
-        window.onload = loadNewsData;
+        // ดักจับการพิมพ์ค้นหา
+        document.getElementById('searchInput').addEventListener('input', filterAndDisplay);
+
+        window.onload = loadData;
     </script>
 </body>
 </html>
