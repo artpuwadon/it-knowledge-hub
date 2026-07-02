@@ -124,12 +124,27 @@
             container.innerHTML = articles.map(item => {
                 const dateStr = item.pubDate ? new Date(item.pubDate).toLocaleDateString('th-TH', { year: 'numeric', month: 'short', day: 'numeric' }) : '';
                 
-                // ค้นหารูปภาพหน้าปก: เช็กจากตัวแปร thumbnail ก่อน ถ้าไม่มีให้ไปควานหาจากในเนื้อหาข่าว
-                let imageUrl = item.thumbnail || extractFirstImageUrl(item.content);
+// ดึงรูปภาพจากการเตรียมข้อมูลหลังบ้าน
+                let imageUrl = item.thumbnail;
                 
-                // ถ้าระบบหาภาพอะไรไม่ได้เลย ให้ใช้ภาพสีพื้น Default เก๋ๆ แทน ภาพจะได้ไม่พัง
+                // ค้นหาเพิ่มเติมกรณีรูปภาพหลุดรอด
                 if (!imageUrl) {
-                    imageUrl = "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=500&auto=format&fit=crop&q=60"; 
+                    imageUrl = extractFirstImageUrl(item.content);
+                }
+                
+                // หากไม่มีรูปจริงจากข่าวนั้นๆ ให้สุ่มเลือกรูปไอทีจาก Unsplash ตามความยาวของตัวอักษรเพื่อไม่ให้ภาพซ้ำกัน
+                if (!imageUrl) {
+                    const fallbackImages = [
+                        "https://images.unsplash.com/photo-1518770660439-4636190af475?w=500&auto=format&fit=crop&q=60", // แผงวงจร
+                        "https://images.unsplash.com/photo-1488590528505-98d2b5aba04b?w=500&auto=format&fit=crop&q=60", // โน้ตบุ๊ก / โค้ด
+                        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=500&auto=format&fit=crop&q=60", // เครือข่ายคลาวด์
+                        "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=500&auto=format&fit=crop&q=60", // ดิจิทัลเมทริกซ์
+                        "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=500&auto=format&fit=crop&q=60", // ปลอดภัยระบบ Security
+                        "https://images.unsplash.com/photo-1531297484001-80022131f5a1?w=500&auto=format&fit=crop&q=60"  // เทคโนโลยีล้ำสมัย
+                    ];
+                    // สุ่มตำแหน่งในอาเรย์จากผลรวมความยาวชื่อเรื่อง
+                    const index = (item.title ? item.title.length : 0) % fallbackImages.length;
+                    imageUrl = fallbackImages[index];
                 }
 
                 return `
