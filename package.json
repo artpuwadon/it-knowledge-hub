@@ -1,0 +1,9 @@
+{
+  "name": "it-news-rag-bot",
+  "version": "1.0.0",
+  "description": "Auto fetch IT news",
+  "main": "fetch_news.js",
+  "dependencies": {
+    "rss-parser": "^3.13.0"
+  }
+}
