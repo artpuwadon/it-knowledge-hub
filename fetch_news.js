@@ -2,8 +2,9 @@ const Parser = require('rss-parser');
 const fs = require('fs');
 const path = require('path');
 
-// เพิ่มการตั้งค่าเพื่อให้อ่านแท็กรูปภาพพรีวิวจากเว็บข่าวได้หลากหลายขึ้น
+// ตั้งค่าให้ดึงรูปภาพ และจำกัดเวลา Timeout ไม่เกิน 10 วินาทีต่อเว็บ (เว็บไหนช้าให้ข้ามทันที บอทจะไม่ค้าง)
 const parser = new Parser({
+    timeout: 10000, 
     customFields: {
         item: [
             ['media:content', 'mediaContent', {keepArray: true}],
@@ -13,26 +14,23 @@ const parser = new Parser({
     }
 });
 
+// คัดเลือกเฉพาะคลังข่าวไอทีไทยที่เปิด RSS Feed เสถียรและโหลดเร็ว
 const FEEDS = [
     { url: 'https://www.blognone.com/atom.xml', category: 'General' },
     { url: 'https://www.beartai.com/feed', category: 'General' }
 ];
 
-// ฟังก์ชันช่วยดึงลิงก์รูปภาพแรกสุดที่ซ่อนอยู่ในแท็กเนื้อหาข่าวต่างๆ
 function findImage(item) {
-    // 1. ลองหาจากแท็กมาตรฐาน media:content
     if (item.mediaContent && item.mediaContent.length > 0) {
         if (item.mediaContent[0].$ && item.mediaContent[0].$.url) return item.mediaContent[0].$.url;
     }
-    // 2. ลองหาจากแท็ก enclosure
     if (item.enclosure && item.enclosure.url) return item.enclosure.url;
     
-    // 3. ลองควานหาแท็ก <img> จากข้อความ description หรือ content
     const searchTarget = (item.description || '') + (item.content || '');
     const imgMatch = searchTarget.match(/<img[^>]+src="([^">]+)"/i);
     if (imgMatch && imgMatch[1]) return imgMatch[1];
 
-    return null; // ถ้าไม่มีจริงๆ ค่อยส่งค่าว่างกลับไป
+    return null;
 }
 
 function readLocalKnowledge() {
@@ -66,7 +64,7 @@ function readLocalKnowledge() {
                         if (key.trim() === 'title') title = value;
                         if (key.trim() === 'category') category = value;
                         if (key.trim() === 'source') source = value;
-                        if (key.trim() === 'thumbnail') thumbnail = value; // ดึงค่ารูปภาพหน้าปกเฉพาะไฟล์นี้
+                        if (key.trim() === 'thumbnail') thumbnail = value;
                     }
                 });
             }
@@ -79,7 +77,7 @@ function readLocalKnowledge() {
                 pubDate: new Date().toISOString(),
                 source: source,
                 category: category,
-                thumbnail: thumbnail // บันทึกรูปภาพลงฐานข้อมูล
+                thumbnail: thumbnail
             });
         }
     });
@@ -104,11 +102,13 @@ async function main() {
                     pubDate: item.pubDate || item.isoDate,
                     source: feed.title,
                     category: feedConfig.category,
-                    thumbnail: findImage(item) // หาลิงก์รูปภาพตรงของข่าวนั้นๆ มาบันทึกไว้เลย
+                    thumbnail: findImage(item)
                 });
             });
+            console.log(`ดึงสำเร็จจาก: ${feedConfig.url}`);
         } catch (error) {
-            console.error(`เกิดข้อผิดพลาดกับ ${feedConfig.url}:`, error.message);
+            // หากเว็บไหนโหลดช้าเกิน 10 วินาที จะตกมาที่นี่ และข้ามไปรันเว็บถัดไปทันที ระบบจะไม่ค้าง
+            console.error(`ข้ามเนื่องจากเกิดข้อผิดพลาดหรือช้าเกินไปที่ ${feedConfig.url}:`, error.message);
         }
     }
 
@@ -117,7 +117,7 @@ async function main() {
     allArticles.sort((a, b) => new Date(b.pubDate) - new Date(a.pubDate));
 
     fs.writeFileSync('data.json', JSON.stringify(allArticles, null, 2), 'utf-8');
-    console.log(`ดึงข้อมูลพร้อมจัดเก็บรูปภาพสำเร็จ! ทั้งหมด ${allArticles.length} รายการ`);
+    console.log(`ดึงข้อมูลเสร็จสิ้นทั้งหมด ${allArticles.length} รายการ`);
 }
 
 main();
