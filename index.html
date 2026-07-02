@@ -9,6 +9,7 @@
 </head>
 <body class="bg-slate-50 text-slate-800 min-h-screen font-sans">
 
+    <!-- Header -->
     <header class="bg-gradient-to-r from-slate-800 to-blue-900 text-white py-12 px-4 shadow-md text-center">
         <div class="max-w-5xl mx-auto">
             <span class="bg-blue-500/30 text-blue-200 text-xs font-semibold px-3 py-1 rounded-full uppercase tracking-wider">IT Knowledge & News Hub</span>
@@ -17,8 +18,10 @@
         </div>
     </header>
 
+    <!-- Main Content -->
     <main class="max-w-5xl mx-auto px-4 py-8">
         
+        <!-- กล่องค้นหา -->
         <div class="bg-white p-6 rounded-2xl shadow-sm border border-slate-200/80 mb-8 -mt-16 relative z-10">
             <div class="relative">
                 <input type="text" id="searchInput" placeholder="พิมพ์คำค้นหา เช่น รหัสผ่าน, Docker, AI..." 
@@ -28,6 +31,7 @@
         </div>
 
         <div class="grid grid-cols-1 md:grid-cols-4 gap-6">
+            <!-- Sidebar ตัวเลือกหมวดหมู่ -->
             <div class="md:col-span-1">
                 <div class="bg-white p-4 rounded-2xl shadow-xs border border-slate-200 sticky top-4">
                     <h3 class="font-bold text-slate-900 mb-3 px-2 text-sm uppercase tracking-wider text-slate-400">หมวดหมู่ความรู้</h3>
@@ -48,6 +52,7 @@
                 </div>
             </div>
 
+            <!-- รายการแสดงผลการค้นหา -->
             <div class="md:col-span-3">
                 <div class="mb-4 flex items-center justify-between">
                     <h2 class="text-lg font-bold text-slate-900 flex items-center gap-2">
@@ -67,14 +72,20 @@
         let allData = [];
         let currentFilteredData = [];
         let currentCategory = 'ALL';
-        let fuse = null;
+
+        // ฟังก์ชันช่วยดึงลิงก์รูปแรกที่เจอจากข้อความที่เป็น HTML
+        function extractFirstImageUrl(htmlString) {
+            if (!htmlString) return null;
+            const div = document.createElement('div');
+            div.innerHTML = htmlString;
+            const img = div.querySelector('img');
+            return img ? img.src : null;
+        }
 
         async function loadData() {
             try {
                 const response = await fetch('data.json');
                 allData = await response.json();
-                
-                // เริ่มต้นให้ข้อมูลปัจจุบันเท่ากับข้อมูลทั้งหมดก่อน
                 filterAndDisplay();
             } catch (error) {
                 console.error(error);
@@ -82,18 +93,15 @@
             }
         }
 
-        // ฟังก์ชันในการกรองหมวดหมู่และค้นหาไปพร้อมกัน
         function filterAndDisplay() {
             const searchQuery = document.getElementById('searchInput').value.trim();
             
-            // 1. กรองตามหมวดหมู่ก่อน
             if (currentCategory === 'ALL') {
                 currentFilteredData = allData;
             } else {
                 currentFilteredData = allData.filter(item => item.category === currentCategory);
             }
 
-            // 2. ถ้ามีการพิมพ์ค้นหา ให้ใช้ Fuse.js ค้นหาต่อจากหมวดหมู่นั้น
             if (searchQuery) {
                 const options = { keys: ['title', 'content', 'source'], threshold: 0.4 };
                 const localFuse = new Fuse(currentFilteredData, options);
@@ -115,42 +123,52 @@
 
             container.innerHTML = articles.map(item => {
                 const dateStr = item.pubDate ? new Date(item.pubDate).toLocaleDateString('th-TH', { year: 'numeric', month: 'short', day: 'numeric' }) : '';
+                
+                // ค้นหารูปภาพหน้าปก: เช็กจากตัวแปร thumbnail ก่อน ถ้าไม่มีให้ไปควานหาจากในเนื้อหาข่าว
+                let imageUrl = item.thumbnail || extractFirstImageUrl(item.content);
+                
+                // ถ้าระบบหาภาพอะไรไม่ได้เลย ให้ใช้ภาพสีพื้น Default เก๋ๆ แทน ภาพจะได้ไม่พัง
+                if (!imageUrl) {
+                    imageUrl = "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=500&auto=format&fit=crop&q=60"; 
+                }
+
                 return `
-                    <article class="bg-white p-6 rounded-2xl border border-slate-200/70 hover:border-blue-400 hover:shadow-xs transition">
-                        <div class="flex items-center gap-2 mb-2 text-xs">
-                            <span class="bg-slate-100 text-slate-700 px-2 py-0.5 rounded-md font-medium">📍 ${item.source}</span>
-                            <span class="text-slate-400">${dateStr}</span>
+                    <article class="bg-white p-5 rounded-2xl border border-slate-200/70 hover:border-blue-400 hover:shadow-md transition duration-200 flex flex-col sm:flex-row gap-5">
+                        
+                        <!-- พื้นที่รูปภาพตัวอย่าง (Thumbnail) -->
+                        <div class="sm:w-40 sm:h-28 w-full h-40 flex-shrink-0 bg-slate-100 rounded-xl overflow-hidden border border-slate-100">
+                            <img src="${imageUrl}" class="w-full h-full object-cover" alt="thumbnail" loading="lazy" onerror="this.src='https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=500&auto=format&fit=crop&q=60'">
                         </div>
-                        <h3 class="text-lg font-bold text-slate-900 mb-2 hover:text-blue-600">
-                            <a href="${item.link}" target="_blank" class="hover:underline">${item.title}</a>
-                        </h3>
-                        <p class="text-slate-600 text-sm leading-relaxed whitespace-pre-line">${item.content.replace(/<[^>]*>/g, '').slice(0, 300)}${item.content.length > 300 ? '...' : ''}</p>
+
+                        <!-- พื้นที่ข้อมูลบทความ -->
+                        <div class="flex flex-col justify-between flex-1">
+                            <div>
+                                <div class="flex items-center gap-2 mb-1.5 text-xs">
+                                    <span class="bg-slate-100 text-slate-700 px-2 py-0.5 rounded-md font-medium">📍 ${item.source}</span>
+                                    <span class="text-slate-400">${dateStr}</span>
+                                </div>
+                                <h3 class="text-lg font-bold text-slate-900 mb-1 leading-snug hover:text-blue-600">
+                                    <a href="${item.link}" target="_blank" class="hover:underline">${item.title}</a>
+                                </h3>
+                                <p class="text-slate-600 text-sm leading-relaxed line-clamp-2">${item.content.replace(/<[^>]*>/g, '').trim()}</p>
+                            </div>
+                        </div>
+
                     </article>
                 `;
             }).join('');
         }
 
-        // ฟังก์ชันสลับแท็บหมวดหมู่
         function switchCategory(cat) {
             currentCategory = cat;
-            
-            // เปลี่ยนสไตล์ปุ่มที่เลือก
             const buttons = document.querySelectorAll('#categoryMenu button');
-            buttons.forEach(btn => {
-                btn.className = "w-full text-left px-3 py-2.5 rounded-xl font-medium text-sm transition cursor-pointer text-slate-600 hover:bg-slate-100";
-            });
-            
+            buttons.forEach(btn => btn.className = "w-full text-left px-3 py-2.5 rounded-xl font-medium text-sm transition cursor-pointer text-slate-600 hover:bg-slate-100");
             const activeBtn = document.getElementById(`tab-${cat}`);
-            if (activeBtn) {
-                activeBtn.className = "w-full text-left px-3 py-2.5 rounded-xl font-medium text-sm transition cursor-pointer bg-blue-600 text-white shadow-xs";
-            }
-
+            if (activeBtn) activeBtn.className = "w-full text-left px-3 py-2.5 rounded-xl font-medium text-sm transition cursor-pointer bg-blue-600 text-white shadow-xs";
             filterAndDisplay();
         }
 
-        // ดักจับการพิมพ์ค้นหา
         document.getElementById('searchInput').addEventListener('input', filterAndDisplay);
-
         window.onload = loadData;
     </script>
 </body>
