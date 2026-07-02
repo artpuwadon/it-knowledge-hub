@@ -27,11 +27,11 @@ const FEEDS = [
 
     // [เพิ่ม] แหล่งข้อมูลจาก Facebook Page (ใส่ลิงก์ที่แปลงจาก rss.app ตรงนี้)
     // ลิงก์ด้านล่างนี้เป็นตัวอย่างโครงสร้าง ให้คุณนำลิงก์ที่ได้จากข้อ 1 มาเปลี่ยนใส่ได้เลยครับ
-    { url: 'https://rss.app/r/feed/ka1sg6tTe0Lwo2rW', category: 'Info', sourceName: 'Facebook Page Enterprise ITPro ข่าวไอทีและบทความความรู้สำหรับองค์กร' } 
-    { url: 'https://rss.app/r/feed/1K4gOhGLzk6DAc46', category: 'Info', sourceName: 'Facebook Page TechTalk Thai ข่าว Enterprise I.T. ภาษาไทย' }
-    { url: 'https://rss.app/r/feed/Wyje7uvLch8WcB7r', category: 'Info', sourceName: 'Facebook Page NCSA Thailand' }
-    { url: 'https://rss.app/r/feed/4Rw50WZSnq6bs0Nr', category: 'Info', sourceName: 'Facebook Page DGA Thailand' }
-    { url: 'https://rss.app/r/feed/6pdUDaYQ2eVFg3J5', category: 'Info', sourceName: 'Facebook Page ThaiCERT' }
+    { url: 'https://rss.app/r/feed/ka1sg6tTe0Lwo2rW', category: 'Info', sourceName: 'Facebook Page Enterprise ITPro ข่าวไอทีและบทความความรู้สำหรับองค์กร' }, 
+    { url: 'https://rss.app/r/feed/1K4gOhGLzk6DAc46', category: 'Info', sourceName: 'Facebook Page TechTalk Thai ข่าว Enterprise I.T. ภาษาไทย' },
+    { url: 'https://rss.app/r/feed/Wyje7uvLch8WcB7r', category: 'Info', sourceName: 'Facebook Page NCSA Thailand' },
+    { url: 'https://rss.app/r/feed/4Rw50WZSnq6bs0Nr', category: 'Info', sourceName: 'Facebook Page DGA Thailand' },
+    { url: 'https://rss.app/r/feed/6pdUDaYQ2eVFg3J5', category: 'Info', sourceName: 'Facebook Page ThaiCERT' },
 ];
 
 function findImage(item) {
