@@ -17,7 +17,9 @@ const parser = new Parser({
 // คัดเลือกเฉพาะคลังข่าวไอทีไทยที่เปิด RSS Feed เสถียรและโหลดเร็ว
 const FEEDS = [
     { url: 'https://www.blognone.com/atom.xml', category: 'General' },
-    { url: 'https://www.beartai.com/feed', category: 'General' }
+    { url: 'https://www.beartai.com/feed', category: 'General' },
+    { url: 'https://www.it24hrs.com/feed/', category: 'Security' }, // ดึงข้อมูลเพิ่มอัตโนมัติ
+    { url: 'https://techsauce.co/feed', category: 'General' }       // ดึงข้อมูลเพิ่มอัตโนมัติ
 ];
 
 function findImage(item) {
