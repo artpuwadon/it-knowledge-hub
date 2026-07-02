@@ -1,16 +1,40 @@
 const Parser = require('rss-parser');
 const fs = require('fs');
 const path = require('path');
-const parser = new Parser();
 
-// 1. กำหนดแหล่งข้อมูล RSS แยกตามหมวดหมู่
+// เพิ่มการตั้งค่าเพื่อให้อ่านแท็กรูปภาพพรีวิวจากเว็บข่าวได้หลากหลายขึ้น
+const parser = new Parser({
+    customFields: {
+        item: [
+            ['media:content', 'mediaContent', {keepArray: true}],
+            ['enclosure', 'enclosure'],
+            ['description', 'description']
+        ]
+    }
+});
+
 const FEEDS = [
     { url: 'https://www.blognone.com/atom.xml', category: 'General' },
-    { url: 'https://www.beartai.com/feed', category: 'General' },
-    { url: 'https://threatpost.com/feed/', category: 'Security' } // ตัวอย่างเว็บข่าว Security ต่างประเทศ (หรือเปลี่ยนเป็นเว็บไทยที่มี RSS ได้)
+    { url: 'https://www.beartai.com/feed', category: 'General' }
 ];
 
-// ฟังก์ชันสำหรับอ่านไฟล์ Markdown จากโฟลเดอร์ knowledge
+// ฟังก์ชันช่วยดึงลิงก์รูปภาพแรกสุดที่ซ่อนอยู่ในแท็กเนื้อหาข่าวต่างๆ
+function findImage(item) {
+    // 1. ลองหาจากแท็กมาตรฐาน media:content
+    if (item.mediaContent && item.mediaContent.length > 0) {
+        if (item.mediaContent[0].$ && item.mediaContent[0].$.url) return item.mediaContent[0].$.url;
+    }
+    // 2. ลองหาจากแท็ก enclosure
+    if (item.enclosure && item.enclosure.url) return item.enclosure.url;
+    
+    // 3. ลองควานหาแท็ก <img> จากข้อความ description หรือ content
+    const searchTarget = (item.description || '') + (item.content || '');
+    const imgMatch = searchTarget.match(/<img[^>]+src="([^">]+)"/i);
+    if (imgMatch && imgMatch[1]) return imgMatch[1];
+
+    return null; // ถ้าไม่มีจริงๆ ค่อยส่งค่าว่างกลับไป
+}
+
 function readLocalKnowledge() {
     const knowledgeDir = path.join(__dirname, 'knowledge');
     let localArticles = [];
@@ -23,12 +47,12 @@ function readLocalKnowledge() {
             const filePath = path.join(knowledgeDir, file);
             const content = fs.readFileSync(filePath, 'utf-8');
             
-            // แยกส่วนหัว (Front Matter) และ เนื้อหา
             const match = content.match(/^---\r?\n([\s\S]*?)\r?\n---\r?\n([\s\S]*)$/);
             
             let title = file.replace('.md', '');
             let category = 'Internal';
             let source = 'คู่มือภายใน';
+            let thumbnail = null;
             let actualContent = content;
 
             if (match) {
@@ -42,6 +66,7 @@ function readLocalKnowledge() {
                         if (key.trim() === 'title') title = value;
                         if (key.trim() === 'category') category = value;
                         if (key.trim() === 'source') source = value;
+                        if (key.trim() === 'thumbnail') thumbnail = value; // ดึงค่ารูปภาพหน้าปกเฉพาะไฟล์นี้
                     }
                 });
             }
@@ -49,11 +74,12 @@ function readLocalKnowledge() {
             localArticles.push({
                 id: `local-${file}`,
                 title: title,
-                link: `https://github.com/`, // ใส่ลิงก์ไปยัง repo ของคุณได้
+                link: `https://github.com/`,
                 content: actualContent,
                 pubDate: new Date().toISOString(),
                 source: source,
-                category: category
+                category: category,
+                thumbnail: thumbnail // บันทึกรูปภาพลงฐานข้อมูล
             });
         }
     });
@@ -64,7 +90,6 @@ function readLocalKnowledge() {
 async function main() {
     let allArticles = [];
 
-    // ดึงข้อมูลจาก RSS Feeds
     for (const feedConfig of FEEDS) {
         try {
             console.log(`กำลังดึงข้อมูลจาก: ${feedConfig.url}`);
@@ -78,7 +103,8 @@ async function main() {
                     content: item.contentSnippet || item.content || "",
                     pubDate: item.pubDate || item.isoDate,
                     source: feed.title,
-                    category: feedConfig.category // ใส่หมวดหมู่ให้ข่าว
+                    category: feedConfig.category,
+                    thumbnail: findImage(item) // หาลิงก์รูปภาพตรงของข่าวนั้นๆ มาบันทึกไว้เลย
                 });
             });
         } catch (error) {
@@ -86,16 +112,12 @@ async function main() {
         }
     }
 
-    // ดึงข้อมูลจากไฟล์คู่มือภายในองค์กร (.md)
     const localData = readLocalKnowledge();
     allArticles = [...localData, ...allArticles];
-
-    // เรียงลำดับล่าสุดขึ้นก่อน
     allArticles.sort((a, b) => new Date(b.pubDate) - new Date(a.pubDate));
 
-    // บันทึกลง data.json
     fs.writeFileSync('data.json', JSON.stringify(allArticles, null, 2), 'utf-8');
-    console.log(`ดึงและรวมคลังความรู้สำเร็จ! ทั้งหมด ${allArticles.length} รายการ`);
+    console.log(`ดึงข้อมูลพร้อมจัดเก็บรูปภาพสำเร็จ! ทั้งหมด ${allArticles.length} รายการ`);
 }
 
 main();
