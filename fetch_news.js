@@ -25,9 +25,9 @@ const FEEDS = [
     { url: 'https://medium.com/feed/tag/cybersecurity', category: 'Security', sourceName: 'Medium (Cybersecurity)' },
     { url: 'https://medium.com/feed/tag/cloud-computing', category: 'General', sourceName: 'Medium (Cloud)' },
 
-    // แหล่งข้อมูลจาก Facebook Page ผ่านตัวกลาง rss.app
-    { url: 'https://rss.app/r/feed/ka1sg6tTe0Lwo2rW', category: 'Info', sourceName: 'FB: Enterprise ITPro' }, 
-    { url: 'https://rss.app/r/feed/1K4gOhGLzk6DAc46', category: 'Info', sourceName: 'FB: TechTalk Thai' }
+// เปลี่ยนจากลิงก์ Facebook มาเป็น RSS ตรงจากหน้าเว็บหลักของแท้ ดึงผ่านฉลุยแน่นอนครับ:
+    { url: 'https://www.techtalkthai.com/feed/', category: 'Info', sourceName: 'TechTalk Thai (Web)' },
+    { url: 'https://enterpriseitpro.net/feed/', category: 'Info', sourceName: 'Enterprise ITPro (Web)' },
 ];
 
 function findImage(item) {
