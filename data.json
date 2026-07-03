@@ -4,10 +4,120 @@
     "title": "แนวทางปฏิบัติการตั้งรหัสผ่านให้ปลอดภัยสำหรับบุคลากร",
     "link": "https://github.com/",
     "content": "1. รหัสผ่านต้องมีความยาวอย่างน้อย 8 ตัวอักษร\n2. ประกอบด้วยอักษรตัวพิมพ์ใหญ่ ตัวพิมพ์เล็ก ตัวเลข และสัญลักษณ์พิเศษ\n3. ห้ามใช้ข้อมูลส่วนตัว เช่น วันเกิด หรือเบอร์โทรศัพท์\n4. เปลี่ยนรหัสผ่านใหม่ทุกๆ 3-6 เดือนเพื่อความปลอดภัย",
-    "pubDate": "2026-07-03T08:06:55.068Z",
+    "pubDate": "2026-07-03T09:14:42.417Z",
     "source": "คู่มือภายในองค์กร",
     "category": "Internal",
     "thumbnail": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=500&auto=format&fit=crop&q=60"
+  },
+  {
+    "id": "https://medium.com/p/5bec93523910",
+    "title": "From Branches to Bytes",
+    "link": "https://medium.com/@ieeewiesusl/from-branches-to-bytes-5bec93523910?source=rss------cybersecurity-5",
+    "content": "The Rise of FinTech and the Critical Role of Cybersecurity\nContinue reading on Medium »",
+    "pubDate": "Fri, 03 Jul 2026 08:59:36 GMT",
+    "source": "Medium (Cybersecurity)",
+    "category": "Security",
+    "thumbnail": "https://cdn-images-1.medium.com/max/1015/1*wfunpAExSipq621GMOSvXA.png"
+  },
+  {
+    "id": "https://medium.com/p/167a23536a92",
+    "title": "DNS Is a Reconnaissance Protocol: Everything It Reveals About Your Infrastructure",
+    "link": "https://meetcyber.net/dns-is-a-reconnaissance-protocol-everything-it-reveals-about-your-infrastructure-167a23536a92?source=rss------cybersecurity-5",
+    "content": "Every DNS record type was designed to answer a specific infrastructure question. None of them were designed to be secret. Together, they…\nContinue reading on MeetCyber »",
+    "pubDate": "Fri, 03 Jul 2026 08:57:22 GMT",
+    "source": "Medium (Cybersecurity)",
+    "category": "Security",
+    "thumbnail": "https://cdn-images-1.medium.com/max/1173/1*Sbmq0J8o2tTLA9pIQLkUdA.png"
+  },
+  {
+    "id": "https://medium.com/p/2f019c5c0536",
+    "title": "The 5 Companies Building the Future of AI — An Honest Look at Who Is Winning and Why",
+    "link": "https://medium.com/@fakharabas466/the-5-companies-building-the-future-of-ai-an-honest-look-at-who-is-winning-and-why-2f019c5c0536?source=rss------cloud_computing-5",
+    "content": "TOPICS: Artificial Intelligence, Technology, OpenAI, Google, Business Strategy\nContinue reading on Medium »",
+    "pubDate": "Fri, 03 Jul 2026 08:48:32 GMT",
+    "source": "Medium (Cloud)",
+    "category": "General",
+    "thumbnail": "https://cdn-images-1.medium.com/max/1672/1*YmuWxgThLXci_3je-ltI8A.png"
+  },
+  {
+    "id": "https://medium.com/p/f73462e8630b",
+    "title": "A Clean Repo Turned My AI Coding Agent Into Malware",
+    "link": "https://medium.com/@harshit10eja006/a-clean-repo-turned-my-ai-coding-agent-into-malware-f73462e8630b?source=rss------cybersecurity-5",
+    "content": "The repo was clean. No CVE, no obfuscated payload, no sketchy minified blob hiding in a vendor folder. I cloned it, pointed Claude Code at…\nContinue reading on Medium »",
+    "pubDate": "Fri, 03 Jul 2026 08:45:52 GMT",
+    "source": "Medium (Cybersecurity)",
+    "category": "Security",
+    "thumbnail": "https://cdn-images-1.medium.com/max/1536/0*kb8h3RzmMeQymQzd.png"
+  },
+  {
+    "id": "https://medium.com/p/e1e480896742",
+    "title": "Miks kaks viirusetõrjet korraga aeglustavad teie arvutit?",
+    "link": "https://medium.com/@maarit890/miks-kaks-viiruset%C3%B5rjet-korraga-aeglustavad-teie-arvutit-e1e480896742?source=rss------cybersecurity-5",
+    "content": "Kas teadsite, et kahe erineva reaalajas toimiva turvatarkvara samaaegne kasutamine ühes arvutis võib turvalisuse parandamise asemel…\nContinue reading on Medium »",
+    "pubDate": "Fri, 03 Jul 2026 08:38:30 GMT",
+    "source": "Medium (Cybersecurity)",
+    "category": "Security",
+    "thumbnail": null
+  },
+  {
+    "id": "https://medium.com/p/acf1dbf91018",
+    "title": "Why Cybersecurity Matters More Than Ever in Our Digital World",
+    "link": "https://medium.com/@princessadejoke30/why-cybersecurity-matters-more-than-ever-in-our-digital-world-acf1dbf91018?source=rss------cybersecurity-5",
+    "content": "Discover why cybersecurity is everyone's responsibility and learn five simple habits to stay safe online\nContinue reading on Medium »",
+    "pubDate": "Fri, 03 Jul 2026 08:36:00 GMT",
+    "source": "Medium (Cybersecurity)",
+    "category": "Security",
+    "thumbnail": null
+  },
+  {
+    "id": "https://it24hrs.com/?p=168443",
+    "title": "แมลงสาบไซบอร์กดำน้ำ ฮีโร่ที่อาจช่วยชีวิตคุณในอนาคต! ",
+    "link": "https://it24hrs.com/2026/cyborg-cockroaches/",
+    "content": "แมลงสาบไซบอร์กดำน้ำ การก้าวข้ามขีดจำกัดของเทคโนโลยีชีวภ […]\nThe post แมลงสาบไซบอร์กดำน้ำ ฮีโร่ที่อาจช่วยชีวิตคุณในอนาคต!  appeared first on iT24Hrs by ปานระพี.",
+    "pubDate": "Fri, 03 Jul 2026 08:34:46 +0000",
+    "source": "iT24Hrs",
+    "category": "Security",
+    "thumbnail": null
+  },
+  {
+    "id": "https://medium.com/p/8f3601bba089",
+    "title": "Recon to Bug Mapping: Kaunsa Recon Kaunsa Bug Dikhata Hai?",
+    "link": "https://medium.com/@harshitp1971/recon-to-bug-mapping-kaunsa-recon-kaunsa-bug-dikhata-hai-8f3601bba089?source=rss------cybersecurity-5",
+    "content": "Ek beginner ki sabse badi galti tools nahi, uska mindset hoti hai. Aaj hum wahi mindset theek karenge.\nContinue reading on Medium »",
+    "pubDate": "Fri, 03 Jul 2026 08:23:09 GMT",
+    "source": "Medium (Cybersecurity)",
+    "category": "Security",
+    "thumbnail": "https://cdn-images-1.medium.com/max/1500/1*K_i6WRSzkL58gtWA-5gBMQ.png"
+  },
+  {
+    "id": "https://medium.com/p/1f2082a7475c",
+    "title": "Why Cybersecurity?",
+    "link": "https://medium.com/@himaja2111/why-cybersecurity-1f2082a7475c?source=rss------cybersecurity-5",
+    "content": "Beyond the Buzzword: Why Cybersecurity Matters Now More Than Ever\nContinue reading on Medium »",
+    "pubDate": "Fri, 03 Jul 2026 08:19:34 GMT",
+    "source": "Medium (Cybersecurity)",
+    "category": "Security",
+    "thumbnail": "https://cdn-images-1.medium.com/max/1376/1*nRA1e5j6vqZlDmjEQqQzNg.png"
+  },
+  {
+    "id": "https://medium.com/p/299570aa6b7d",
+    "title": "LLMNR poisoning:The Initial step of internal pentesting.",
+    "link": "https://medium.com/@ishfaqmahi14/llmnr-poisoning-the-initial-step-of-internal-pentesting-299570aa6b7d?source=rss------cybersecurity-5",
+    "content": "LLMNR poisoning is a very famous attack in internal pentesting.\nLLMNR is basically a name resolution protocol.Its primary function is:\nContinue reading on Medium »",
+    "pubDate": "Fri, 03 Jul 2026 08:14:44 GMT",
+    "source": "Medium (Cybersecurity)",
+    "category": "Security",
+    "thumbnail": "https://cdn-images-1.medium.com/max/600/1*rx0596DYzLWQvv-GPWcXPg.png"
+  },
+  {
+    "id": "https://medium.com/p/360bdedc6c9d",
+    "title": "Digital Armageddon and the Algorithmic Horizon: Malware, Zero-Day Exploits, and the Geopolitics of…",
+    "link": "https://nimimikivuti.medium.com/digital-armageddon-and-the-algorithmic-horizon-malware-zero-day-exploits-and-the-geopolitics-of-360bdedc6c9d?source=rss------cybersecurity-5",
+    "content": "Published on: code.kaytouch.biz\nContinue reading on Medium »",
+    "pubDate": "Fri, 03 Jul 2026 08:06:05 GMT",
+    "source": "Medium (Cybersecurity)",
+    "category": "Security",
+    "thumbnail": "https://cdn-images-1.medium.com/max/1920/1*llXGTaqe_HjMFypuPqLEfA.jpeg"
   },
   {
     "id": "https://medium.com/p/e763f8769dc0",
@@ -28,56 +138,6 @@
     "source": "Medium (Cybersecurity)",
     "category": "Security",
     "thumbnail": null
-  },
-  {
-    "id": "https://medium.com/p/47ea6147e358",
-    "title": "Why Cybersecurity Awareness Should Be Taught in Every School",
-    "link": "https://medium.com/@nextgenverse/why-cybersecurity-awareness-should-be-taught-in-every-school-47ea6147e358?source=rss------cybersecurity-5",
-    "content": "Teach it in school. Make it the rule.\nContinue reading on Medium »",
-    "pubDate": "Fri, 03 Jul 2026 07:51:03 GMT",
-    "source": "Medium (Cybersecurity)",
-    "category": "Security",
-    "thumbnail": null
-  },
-  {
-    "id": "https://medium.com/p/cb3319e1b410",
-    "title": "The “Basic” Linux Command That Exposes Hackers Before They Attack",
-    "link": "https://medium.com/@xpert4cyber/the-basic-linux-command-that-exposes-hackers-before-they-attack-cb3319e1b410?source=rss------cybersecurity-5",
-    "content": "Most SOC analysts scroll right past this command in their logs. That’s a mistake.\nContinue reading on Medium »",
-    "pubDate": "Fri, 03 Jul 2026 07:50:19 GMT",
-    "source": "Medium (Cybersecurity)",
-    "category": "Security",
-    "thumbnail": "https://cdn-images-1.medium.com/max/2600/1*OCHEj8W90RM4fvdeMruVaA.png"
-  },
-  {
-    "id": "https://medium.com/p/4779ff776816",
-    "title": "Lab: Exploiting an API endpoint using documentation ( API testing ) #lab 1",
-    "link": "https://medium.com/@pritiranjanmohanta6371/lab-exploiting-an-api-endpoint-using-documentation-api-testing-lab-1-4779ff776816?source=rss------cybersecurity-5",
-    "content": "Solution:\nContinue reading on Medium »",
-    "pubDate": "Fri, 03 Jul 2026 07:48:52 GMT",
-    "source": "Medium (Cybersecurity)",
-    "category": "Security",
-    "thumbnail": "https://cdn-images-1.medium.com/max/890/1*Ysks2VEQoTixFuAORIa9vw.png"
-  },
-  {
-    "id": "https://medium.com/p/542089f348c9",
-    "title": "AI Memory Security Risks from Persistent Context",
-    "link": "https://medium.com/@tvmoffensobacklink/ai-memory-security-risks-from-persistent-context-542089f348c9?source=rss------cybersecurity-5",
-    "content": "Artificial Intelligence has shifted from answering isolated prompts to building long-term context across conversations.\nContinue reading on Medium »",
-    "pubDate": "Fri, 03 Jul 2026 07:43:33 GMT",
-    "source": "Medium (Cybersecurity)",
-    "category": "Security",
-    "thumbnail": "https://cdn-images-1.medium.com/max/1774/1*XlRRk6CZ_e3zwbfQ9i61Ew.png"
-  },
-  {
-    "id": "https://medium.com/p/85a1d3b24713",
-    "title": "Inside a Computer System: A Comprehensive TryHackMe OS Basics Walkthrough",
-    "link": "https://medium.com/@minahilkkhan_/inside-a-computer-system-a-comprehensive-tryhackme-os-basics-walkthrough-85a1d3b24713?source=rss------cybersecurity-5",
-    "content": "Introduction:\nContinue reading on Medium »",
-    "pubDate": "Fri, 03 Jul 2026 07:40:50 GMT",
-    "source": "Medium (Cybersecurity)",
-    "category": "Security",
-    "thumbnail": "https://cdn-images-1.medium.com/max/1366/1*jicc_dBBNIhKFohwZcCA6w.png"
   },
   {
     "id": "https://medium.com/p/85a1d3b24713",
@@ -110,44 +170,14 @@
     "thumbnail": "https://cdn-images-1.medium.com/max/620/1*dBnfY6EDpYq0UrdW_2RvDg.avif"
   },
   {
-    "id": "https://medium.com/p/2694fc9b0e42",
-    "title": "What Actually Happens When You Go to the Dark Web?",
-    "link": "https://medium.com/@mohiitlamba/what-actually-happens-when-you-go-to-the-dark-web-2694fc9b0e42?source=rss------cybersecurity-5",
-    "content": "Behind the iceberg graphics and YouTube horror stories lies a glitchy, slow-moving reality that pop culture completely got wrong.\nContinue reading on Medium »",
-    "pubDate": "Fri, 03 Jul 2026 07:32:53 GMT",
-    "source": "Medium (Cybersecurity)",
-    "category": "Security",
-    "thumbnail": "https://cdn-images-1.medium.com/max/2600/1*QHEn10T0lXZVcPEj55yZ2g.jpeg"
-  },
-  {
-    "id": "https://medium.com/p/748400ab6b95",
-    "title": "Research Proposal Series",
-    "link": "https://medium.com/ai-security-hub/research-proposal-series-748400ab6b95?source=rss------cybersecurity-5",
-    "content": "Volume 2: Building Resilient Cybersecurity for the Next Generation\nContinue reading on AISecHub »",
-    "pubDate": "Fri, 03 Jul 2026 07:29:27 GMT",
-    "source": "Medium (Cybersecurity)",
-    "category": "Security",
-    "thumbnail": null
-  },
-  {
-    "id": "https://medium.com/p/6bb87758482b",
-    "title": "Healthcare Network Monitoring: Protecting Patient Data and Ensuring Uptime in US Hospitals",
-    "link": "https://medium.com/@splitspoint/healthcare-network-monitoring-protecting-patient-data-and-ensuring-uptime-in-us-hospitals-6bb87758482b?source=rss------cybersecurity-5",
-    "content": "n today’s fast-paced healthcare environment, reliable IT infrastructure is no longer optional — it’s critical. Hospitals, clinics, and…\nContinue reading on Medium »",
-    "pubDate": "Fri, 03 Jul 2026 07:28:31 GMT",
-    "source": "Medium (Cybersecurity)",
-    "category": "Security",
-    "thumbnail": "https://cdn-images-1.medium.com/max/2600/1*-18urSwTxmTqhfS_e8eJcA.jpeg"
-  },
-  {
-    "id": "https://medium.com/p/76b3658f0fec",
-    "title": "What is WSO2 Identity Server? A Beginner’s Guide",
-    "link": "https://medium.com/@tharushilakshani482/what-is-wso2-identity-server-a-beginners-guide-76b3658f0fec?source=rss------cybersecurity-5",
-    "content": "When I first started learning about software engineering, one of the things that confused me most was how large-scale applications manage…\nContinue reading on Medium »",
-    "pubDate": "Fri, 03 Jul 2026 07:26:38 GMT",
-    "source": "Medium (Cybersecurity)",
-    "category": "Security",
-    "thumbnail": null
+    "id": "https://www.techtalkthai.com/?p=167440",
+    "title": "ActiveMedia ขอเชิญเข้าฟัง Webinar “Next-Generation Data Protection for Your Business”  23 ก.ค. เวลา 14:00 น.",
+    "link": "https://www.techtalkthai.com/activemedia-webinar-next-generation-data-protection-for-your-business-23-july-2026/",
+    "content": "องค์กรของคุณพร้อมรับมือกับความท้าทายด้านข้อมูลในยุคดิจิทัลแล้วหรือยัง? ขอเชิญร่วมงานสัมมนาออนไลน์สุดพิเศษจาก ActiveMedia! ค้นพบขีดสุดของเทคโนโลยีการปกป้องข้อมูลกับ “Next-Generation Data Protection for Your Business” โซลูชันที่จะช่วยอุดช่องโหว่ ลดความเสี่ยง และสร้างข้อได้เปรียบทางธุรกิจให้องค์กรของคุณก้าวไปได้ไกลกว่าเดิม 🚀รายละเอียด:หัวข้อ”Next-Generation Data Protection for Your Business” วันพฤหัสที่ 23 กรกฎาคม 2569 เวลา 14:00-15:00 น.วิทยากร: Pongint Chusuvan  Education Manager ActiveMedia สัมมนาออนไลน์ผ่าน Microsoft Teams🚀ไฮไลต์สำคัญที่คุณจะได้พบในงานสัมมนา:✅ ไขความลับ Next-generation information security ที่ช่วยขับเคลื่อนการเติบโตของธุรกิจ ✅ เจาะลึกการทำงานของโซลูชัน SearchInform (Data-Centric Audit & Protection, DLP และ Risk Monitor) ✅ ยกระดับการป้องกันขั้นสุดด้วยเทคโนโลยี AI อัจฉริยะ ✅ ชมการสาธิตการใช้งานจริง …",
+    "pubDate": "Fri, 03 Jul 2026 07:07:39 +0000",
+    "source": "TechTalk Thai",
+    "category": "Info",
+    "thumbnail": "https://www.techtalkthai.com/wp-content/uploads/2026/07/SearchInform-Webinar-640x338.png"
   },
   {
     "id": "https://medium.com/p/60aab8eddec4",
@@ -220,16 +250,6 @@
     "thumbnail": "https://cdn-images-1.medium.com/max/1400/1*OpbYi7qb1Bw07BXLcSjDHA.png"
   },
   {
-    "id": "https://medium.com/p/4d3c06721c98",
-    "title": "Episode 01 — Before Learning Docker, I Learned How the Internet Works",
-    "link": "https://medium.com/@yashrawat2362/episode-01-before-learning-docker-i-learned-how-the-internet-works-4d3c06721c98?source=rss------cloud_computing-5",
-    "content": "Everyone talks about Kubernetes, Docker, and Cloud.\nContinue reading on Medium »",
-    "pubDate": "Fri, 03 Jul 2026 06:20:18 GMT",
-    "source": "Medium (Cloud)",
-    "category": "General",
-    "thumbnail": "https://cdn-images-1.medium.com/max/1983/1*Bm81dXV4YB9JS8yabqn62w.png"
-  },
-  {
     "id": "151049 at https://www.blognone.com",
     "title": "Meta ออกแอปใหม่ Pocket โซเชียลสร้างเกมด้วย vibe-coding",
     "link": "https://www.blognone.com/node/151049",
@@ -238,6 +258,86 @@
     "source": "Blognone",
     "category": "General",
     "thumbnail": null
+  },
+  {
+    "id": "https://www.techtalkthai.com/?p=167436",
+    "title": "Lark เผยรายงาน The Paradox of Progress ชี้การที่องค์กรเดินหน้า AI เต็มรูปแบบ อาจถูกฉุดรั้งด้วยระบบการทำงานที่ไม่เป็นหนึ่งเดียวกัน",
+    "link": "https://www.techtalkthai.com/lark-report-paradox-of-progress-ai-employee-experience/",
+    "content": "รายงาน The Paradox of Progress จาก Lark ซึ่งสำรวจองค์กรใน 6 ประเทศเอเชียตะวันออกเฉียงใต้ รวมถึงประเทศไทย ชี้ให้เห็นว่า องค์กรต่าง ๆ มีการใช้เทคโนโลยีมากขึ้น แต่ในมุมการทำงานจริงกลับไม่มีการเชื่อมต่อ และขาดความต่อเนื่อง จนกลายเป็นต้นตอของการลดประสิทธิภาพของการทำงานแต่ละวัน และไม่สามารถใช้งาน AI ได้เต็ฒรูปแบบอย่างที่องค์กรต้องการ ผลสำรวจระบุชัดเจนว่า 9 ใน 10 ของนายจ้างตระหนักถึงความจำเป็นเร่งด่วนในการสร้างวัฒนธรรมองค์กรที่เปิดรับเทคโนโลยีใหม่ โดยมีองค์กรเพียง 12% เท่านั้นที่มีความพร้อมทางดิจิทัล ในขณะที่เกินกว่าครึ่งยังคงติดอยู่ในช่วงเริ่มต้นทดลองใช้งาน AI เท่านั้น เพราะแนวทางการทำ Digital Transformation ตลอดหลายปีที่ผ่านมาเน้นไปที่ระบบมากกว่าบุคลากร ถึงขั้นพนักงานอาจเจอภาวะหมดไฟเพราะถูกบังคับให้ใช้เทคโนโลยีที่ไม่เต็มประสิทธิภาพ Olivier Adam ผู้จัดการทั่วไปของ Lark ย้ำว่า องค์กรระดับเอนเตอร์ไพรส์ต้องกล้ามองข้าม Sunk Cost จากเครื่องมือเดิมที่เคยลงทุนไป แม้อาจเคยลงทุนไปหลายล้านดอลลาร์ในอดีต แต่คำถามสำคัญคือ องค์กรต้องทำอย่างไรในวันนี้ เพื่อให้องค์กรประสบความสำเร็จในช่วง 5 ถึง 10 ปีข้างหน้า ซึ่ง …",
+    "pubDate": "Fri, 03 Jul 2026 04:52:06 +0000",
+    "source": "TechTalk Thai",
+    "category": "Info",
+    "thumbnail": "https://www.techtalkthai.com/wp-content/uploads/2026/07/TTT-48.jpg"
+  },
+  {
+    "id": "https://www.techtalkthai.com/?p=167432",
+    "title": "Sam Altman เสนอสหรัฐนำฟอรัมนานาชาติ กำหนดมาตรฐาน AI โลก",
+    "link": "https://www.techtalkthai.com/sam-altman-calls-for-us-led-international-forum-to-set-global-ai-standards/",
+    "content": "Sam Altman ได้เรียกร้องให้มีการจัดตั้งฟอรัมระดับนานาชาติที่นำโดยสหรัฐอเมริกา เพื่อกำหนดมาตรฐานความปลอดภัยระดับโลกสำหรับปัญญาประดิษฐ์ โดยโต้แย้งว่าไม่ควรปล่อยให้ประเทศใดประเทศหนึ่งเข้ามาครอบครองเทคโนโลยีนี้แต่เพียงผู้เดียว ในบทความความคิดเห็นที่ตีพิมพ์เมื่อวันพุธในสำนักข่าว Financial Times ประธานเจ้าหน้าที่บริหารของ OpenAI Group ได้เสนอให้มี “ฟอรัมระดับนานาชาติที่นำโดยสหรัฐฯ เพื่อจัดทำมาตรฐานที่ได้รับการยอมรับ ให้การวิเคราะห์ขีดความสามารถและความเสี่ยงโดยผู้เชี่ยวชาญที่เป็นกลาง และเปิดเทคโนโลยีนี้ให้แก่ประเทศและบริษัทต่าง ๆ ที่เข้าร่วมและปฏิบัติตามกฎเกณฑ์” องค์กรดังกล่าวจะรวบรวมตัวแทนจากภาครัฐ ผู้เชี่ยวชาญทางเทคนิคที่เป็นอิสระ และภาคส่วนอื่น ๆ เข้าด้วยกัน Sam Altman เขียนระบุว่า มันสามารถ “ทำหน้าที่เป็นกลไกการกำกับดูแลเหนือห้องปฏิบัติการวิจัยต่าง ๆ และป้องกันแรงกดดันทางการค้าที่อาจนำไปสู่การแข่งขันที่ไม่ปลอดภัยได้” Sam Altman ได้ชี้ไปที่กฎความปลอดภัยการบินระดับโลก มาตรฐานทางการเงินระหว่างประเทศ และทบวงการพลังงานปรมาณูระหว่างประเทศ (IAEA) เพื่อเป็นแบบจำลอง โดย IAEA ถูกจัดตั้งขึ้นในปี 1957 เพื่อเข้ามาดูแลควบคุมพลังงานนิวเคลียร์ภาคพลเรือน และสามารถดำเนินงานได้แม้ในขณะที่สหรัฐ และสหภาพโซเวียตกำลังแข่งขันกันสร้างคลังอาวุธ ข้อโต้แย้งของ Sam Altman คือ ประเทศมหาอำนาจที่เป็นคู่แข่งกันต่างเคยหาแนวทางในการร่วมกันกำกับดูแลเทคโนโลยีที่อันตรายมาได้แล้วในอดีต เขาวางกรอบของแผนการนี้ไว้ส่วนหนึ่งเพื่อเป็นแนวทางในการกระจายผลประโยชน์ของ AI ให้ขยายวงกว้างออกไปมากกว่าเพียงแค่ในกลุ่มบริษัทจำนวนไม่กี่แห่ง “ทุกคนบนโลกควรได้รับประโยชน์จากเทคโนโลยีนี้ และตัดสินใจด้วยตนเองว่าแนวทางใดที่ดีที่สุดในการนำไปใช้งาน” เขาเขียนระบุ …",
+    "pubDate": "Fri, 03 Jul 2026 04:22:58 +0000",
+    "source": "TechTalk Thai",
+    "category": "Info",
+    "thumbnail": "https://www.techtalkthai.com/wp-content/uploads/2026/07/Sam-Altman.png"
+  },
+  {
+    "id": "https://www.techtalkthai.com/?p=167428",
+    "title": "Google ทลายเครือข่ายพร็อกซี NetNut ที่กระจายบนอุปกรณ์กว่า 2 ล้านเครื่อง",
+    "link": "https://www.techtalkthai.com/google-disrupts-netnut-residential-proxy-network-built-on-2-million-devices/",
+    "content": "Google ได้เข้าสกัดกั้นเครือข่าย NetNut ซึ่งเป็นหนึ่งในเครือข่ายพร็อกซีที่อยู่อาศัย (residential proxy network) ที่ใหญ่ที่สุดที่ยังเปิดให้บริการอยู่ ส่งผลให้บริการที่เคยเปลี่ยนอุปกรณ์ตามบ้านเรือนกว่า 2 ล้านเครื่องทั่วโลกให้กลายเป็นจุดส่งต่อทราฟฟิกอินเทอร์เน็ตของผู้อื่นต้องหยุดชะงักลง การดำเนินการในครั้งนี้เกิดขึ้นภายใต้ความร่วมมือกับสำนักงานสอบสวนกลางแห่งสหรัฐอเมริกา (FBI), Lumen Technologies และพันธมิตรรายอื่น ๆ โดยกลุ่มข่าวกรองภัยคุกคามของ Google ระบุว่า ความพยายามดังกล่าวช่วยลดจำนวนอุปกรณ์ในระบบของผู้ให้บริการพร็อกซีลงได้หลายล้านเครื่อง และสร้างความเสียหายอย่างรุนแรงต่อเครือข่ายรวมถึงการดำเนินธุรกิจของ NetNut นอกจากนี้ FBI ยังได้เข้ายึดโดเมนของ NetNut หลายรายการในปฏิบัติการครั้งนี้ด้วย NetNut หรือที่รู้จักในอีกชื่อว่า Popa ทำธุรกิจจำหน่ายสิทธิ์การเข้าถึงที่อยู่ทางอินเทอร์เน็ตตามบ้านเรือน ซึ่งช่วยให้ผู้ซื้อสามารถส่งต่อทราฟฟิกผ่านการเชื่อมต่ออินเทอร์เน็ตตามบ้านจริง ๆ ได้ ส่งผลให้กิจกรรมที่เป็นอันตรายต่าง ๆ ดูเหมือนเป็นการท่องเว็บตามปกติของบุคคลทั่วไป แทนที่จะเป็นทราฟฟิกที่มาจากศูนย์ข้อมูล ซึ่งเครื่องมือรักษาความปลอดภัยมักจะบล็อกไว้ โดย Google ประเมินว่าเครือข่ายนี้ครอบคลุมอุปกรณ์อย่างน้อย 2 ล้านเครื่อง ซึ่งส่วนใหญ่เป็นสมาร์ททีวีและกล่องสตรีมมิ่งที่ถูกติดตั้งโค้ดพร็อกซีมาให้ตั้งแต่โรงงาน หรือได้รับโค้ดดังกล่าวผ่านแอปพลิเคชันฟรีต่าง ๆ ที่ซ่อนตัวโปรแกรมเอาไว้ Google ได้ดำเนินการหลักใน 3 ขั้นตอน ได้แก่ การสั่งปิดบัญชี …",
+    "pubDate": "Fri, 03 Jul 2026 04:01:42 +0000",
+    "source": "TechTalk Thai",
+    "category": "Info",
+    "thumbnail": "https://www.techtalkthai.com/wp-content/uploads/2026/07/Google-logo.png"
+  },
+  {
+    "id": "https://www.techtalkthai.com/?p=167426",
+    "title": "OpenAI อาจมอบหุ้น 5% ให้รัฐบาลสหรัฐ",
+    "link": "https://www.techtalkthai.com/openai-could-reportedly-give-5-stake-to-us-government/",
+    "content": "มีรายงานว่า OpenAI Group ได้เสนอแนวคิดในการมอบหุ้นจำนวน 5% ของบริษัทให้แก่รัฐบาลสหรัฐอเมริกา สำนักข่าว Financial Times ได้อ้างอิงแหล่งข่าวว่า กลุ่มผู้บริหารของบริษัทผู้พัฒนา ChatGPT ได้ยื่นข้อเสนอดังกล่าวในระหว่างการเจรจาร่วมกับเจ้าหน้าที่ของรัฐบาลภายใต้การนำของประธานาธิบดี Donald Trump โดยรายงานระบุว่าการหารือในประเด็นนี้ยังคงอยู่ในระยะเริ่มต้นเท่านั้น ความเคลื่อนไหวดังกล่าวไม่ได้สร้างความประหลาดใจไปเสียทั้งหมด เนื่องจากเมื่อเดือนที่แล้วสำนักข่าว Bloomberg ได้รายงานว่า OpenAI เป็นฝ่ายเข้าทำความตกลงเสนอแนวคิดเรื่องการมอบหุ้นให้แก่ทำเนียบขาวเป็นครั้งแรกตั้งแต่เมื่อกว่าหนึ่งปีที่ผ่านมาแล้ว และในเดือนที่ผ่านมา ประธานาธิบดี Donald Trump ของสหรัฐ ก็ได้ออกมายืนยันถึงการเจรจาดังกล่าว โดยให้สัมภาษณ์กับผู้สื่อข่าวว่าข้อตกลงในลักษณะนี้ “อาจเป็นสิ่งที่ดีงามอย่างยิ่ง” ทั้งนี้ OpenAI ได้รับการประเมินมูลค่าบริษัทสูงถึง 8.52 แสนล้านดอลลาร์สหรัฐ หลังจากการระดมทุนรอบล่าสุดเมื่อเดือนมีนาคมที่ผ่านมา ซึ่งการมอบหุ้น 5% จะคิดเป็นมูลค่าสูงถึง 4.26 หมื่นล้านดอลลาร์สหรัฐ และมูลค่าของหุ้นดังกล่าวอาจจะเพิ่มสูงขึ้นอีกหลังจากการเสนอขายหุ้นต่อประชาชนทั่วไปเป็นครั้งแรก (IPO) ซึ่งมีรายงานว่าบริษัทตั้งเป้าหมายที่จะผลักดันมูลค่าประเมินให้พุ่งทะยานไปแตะระดับ 1 ล้านล้านดอลลาร์สหรัฐ การหารือของทำเนียบขาวร่วมกับ OpenAI ในครั้งนี้ ถูกระบุว่าเป็นส่วนหนึ่งของแผนการผลักดันนโยบายด้าน AI ในวงกว้าง โดยสำนักข่าว Financial Times …",
+    "pubDate": "Fri, 03 Jul 2026 03:39:29 +0000",
+    "source": "TechTalk Thai",
+    "category": "Info",
+    "thumbnail": "https://www.techtalkthai.com/wp-content/uploads/2025/11/OpenAI-logo-blossom.png"
+  },
+  {
+    "id": "https://www.techtalkthai.com/?p=167423",
+    "title": "Anthropic มีข่าวเจรจา Samsung ผลิตชิป AI คัสตอม",
+    "link": "https://www.techtalkthai.com/anthropic-reportedly-in-talks-with-samsung-to-manufacture-custom-ai-chip/",
+    "content": "มีรายงานว่า Anthropic กำลังอยู่ในช่วงเริ่มต้นของการเจรจากับ Samsung Electronics เพื่อผลิตชิปประมวลผลปัญญาประดิษฐ์แบบปรับแต่งเฉพาะ สำนักข่าว The Information ได้อ้างอิงแหล่งข่าวว่า การพูดคุยดังกล่าวยังอยู่ในระยะเริ่มต้นเท่านั้น โดยรายงานระบุว่า Anthropic ยังไม่ได้ข้อสรุปในรายละเอียดสำคัญ ๆ เช่น ตัวชิปประมวลผลจะถูกนำไปใช้รันภาระงานประเภทใด รวมถึงเรื่องระดับประสิทธิภาพการทำงานของตัวชิป ตัวเร่งความเร็ว AI บางรุ่น เช่น หน่วยประมวลผลกราฟิกรุ่นเรือธงตระกูล Rubin ของ Nvidia มีความสามารถรองรับได้ทั้งขั้นตอนการฝึกฝนโมเดลและการประมวลผลผลลัพธ์ ในขณะที่ชิปตัวอื่น ๆ อาจจะมุ่งเน้นไปที่งานเฉพาะด้านที่แคบกว่า ตัวอย่างเช่น Etched สตาร์ทอัพที่เพิ่งปิดรอบระดมทุน 800 ล้านดอลลาร์สหรัฐไปเมื่อสัปดาห์นี้ ก็ได้พัฒนาตัวเร่งความเร็วที่ออกแบบมาเพื่อมุ่งเน้นงานฝั่งประมวลผลผลลัพธ์เพียงอย่างเดียว นอกจากนี้ ตัวประมวลผล AI บางตัวยังได้รับการปรับแต่งประสิทธิภาพเพื่อรองรับภารกิจที่ละเอียดลงไปอีก โดยเมื่อช่วงต้นปีที่ผ่านมา Nvidia ได้เปิดตัวชิปที่ชื่อว่า LPU 30 ซึ่งถูกออกแบบมาเพื่อทำหน้าที่ประมวลผลชุดการคำนวณเฉพาะส่วนที่อยู่ในเวิร์กโฟลว์ของการประมวลผลผลลัพธ์ โดยชิปตัวดังกล่าวอ้างอิงการผลิตบนกระบวนการระดับ 4 นาโนเมตรของ Samsung รายงานครั้งนี้ไม่ได้มีการระบุเจาะจงว่า Anthropic จะเลือกใช้เทคโนโลยีการผลิตระดับใดในการสร้างตัวเร่งความเร็ว AI ของตนเอง …",
+    "pubDate": "Fri, 03 Jul 2026 03:28:43 +0000",
+    "source": "TechTalk Thai",
+    "category": "Info",
+    "thumbnail": "https://www.techtalkthai.com/wp-content/uploads/2025/01/Anthropic.png"
+  },
+  {
+    "id": "https://www.techtalkthai.com/?p=167407",
+    "title": "ClickHouse จับมือ INOX ในฐานะพันธมิตร HouseMates ในประเทศไทย เดินหน้าขยายการใช้งาน Real-Time Analytics ทั่วภูมิภาคเอเชียตะวันออกเฉียงใต้",
+    "link": "https://www.techtalkthai.com/clickhouse-partners-with-inox-as-a-housemates-partner-in-thailand/",
+    "content": "ความร่วมมือครั้งนี้จะช่วยให้องค์กรไทยเข้าถึงเทคโนโลยีฐานข้อมูลสำหรับการวิเคราะห์ข้อมูลแบบเรียลไทม์ของ ClickHouse ซึ่งโดดเด่นทั้งด้านความเร็วและความคุ้มค่า ผ่านความเชี่ยวชาญด้านโครงสร้างพื้นฐานไอทีของ INOX ที่สั่งสมประสบการณ์ในประเทศไทยมายาวนาน กรุงเทพฯ, เดือนมิถุนายน 2569 – ClickHouse ผู้พัฒนาเทคโนโลยีฐานข้อมูลสำหรับการวิเคราะห์ข้อมูลแบบเรียลไทม์ ประกาศแต่งตั้ง INOX ผู้ให้บริการด้านโครงสร้างพื้นฐานไอทีและเทคโนโลยีสำหรับองค์กรชั้นนำของประเทศไทย เข้าร่วมเป็นพันธมิตรในโครงการ House Mates อย่างเป็นทางการ ในฐานะพันธมิตร House Mates นั้น INOX จะนำเสนอโซลูชัน ClickHouse ให้แก่องค์กรในประเทศไทย โดยผสานประสิทธิภาพการวิเคราะห์ข้อมูลระดับแนวหน้าของ ClickHouse เข้ากับประสบการณ์กว่า 19 ปีของ INOX ในการออกแบบและพัฒนาโครงสร้างพื้นฐานด้านไอทีสำหรับองค์กรไทย INOX ก่อตั้งขึ้นในปี 2550 ได้รับความไว้วางใจในฐานะหนึ่งในผู้เชี่ยวชาญด้านการบูรณาการระบบเทคโนโลยีชั้นนำของประเทศไทย ให้บริการแก่องค์กรขนาดใหญ่ในหลากหลายอุตสาหกรรม ไม่ว่าจะเป็นสื่อ การศึกษา การเงิน และภาครัฐ โดยมีความเชี่ยวชาญครอบคลุมด้าน Cloud-Native Architecture, Private Cloud Infrastructure, Big Data, Enterprise Database, AI และ …",
+    "pubDate": "Fri, 03 Jul 2026 02:15:04 +0000",
+    "source": "TechTalk Thai",
+    "category": "Info",
+    "thumbnail": "https://www.techtalkthai.com/wp-content/uploads/2026/07/Clickhouse_Partnership_Artical_Final_0021-scaled.jpg"
+  },
+  {
+    "id": "https://www.techtalkthai.com/?p=167416",
+    "title": "Microsoft เปิดตัว Microsoft Frontier Company ธุรกิจใหม่ด้าน AI Engineering ลงทุน 2,500 ล้านดอลลาร์",
+    "link": "https://www.techtalkthai.com/microsoft-frontier-company-enterprise-ai-engineering/",
+    "content": "Microsoft ประกาศจัดตั้ง Microsoft Frontier Company หน่วยธุรกิจใหม่ที่มุ่งทำ Frontier Transformation ด้วย AI ให้กับลูกค้าองค์กรทั่วโลก พร้อมลงทุนกว่า 2,500 ล้านดอลลาร์ และทีมผู้เชี่ยวชาญ 6,000 คน ปัจจุบันการนำ AI มาใช้งานในองค์กรเดินหน้าอย่างรวดเร็ว โดยลูกค้าส่วนใหญ่ผ่านช่วงทดลองไปแล้ว และหันมาให้ความสำคัญกับผลลัพธ์ทางธุรกิจที่วัดผลได้และผลตอบแทนจากการลงทุนใน AI มากขึ้น Microsoft Frontier Company จึงถูกตั้งขึ้นเพื่อผสานความรู้เชิงลึกในอุตสาหกรรม ประสบการณ์ด้าน change management และความเชี่ยวชาญด้าน AI engineering ระดับองค์กรเข้าด้วยกัน ซึ่งขยายขอบเขตไปไกลกว่าแนวทาง Forward Deployed Engineering (FDE) เดิม โดยจะส่งผู้เชี่ยวชาญด้านอุตสาหกรรมและวิศวกรรม 6,000 คนเข้าไปทำงานร่วมกับลูกค้าเพื่อออกแบบ พัฒนา ติดตั้ง และปรับปรุงระบบ AI อย่างต่อเนื่องบนพื้นฐานของผลลัพธ์ทางธุรกิจที่วัดผลได้ แนวคิดหลักของ Microsoft Frontier Company ตั้งอยู่บนสององค์ประกอบสำคัญคือ Intelligence …",
+    "pubDate": "Thu, 02 Jul 2026 22:21:40 +0000",
+    "source": "TechTalk Thai",
+    "category": "Info",
+    "thumbnail": "https://www.techtalkthai.com/wp-content/uploads/2020/01/ttt_2020_microsoft_building_1-StockStudio_Aerials-600x313.jpg"
+  },
+  {
+    "id": "https://www.techtalkthai.com/?p=167415",
+    "title": "SoftBank เปิดตัวธุรกิจ Neocloud ในสหรัฐฯ ตั้งบริษัท SB Neo ให้เช่า GPU สำหรับเทรน AI",
+    "link": "https://www.techtalkthai.com/softbank-launches-sb-neo-gpu-neocloud-us-ai-training/",
+    "content": "SoftBank กลุ่มทุนเทคโนโลยีจากญี่ปุ่นประกาศเข้าสู่ธุรกิจ neocloud หรือบริการให้เช่า GPU ในสหรัฐอเมริกา โดยตั้งบริษัทใหม่ชื่อ SB Neo, Inc เพื่อให้บริการโครงสร้างพื้นฐานสำหรับการเทรน AI แก่ hyperscaler และลูกค้าองค์กรที่ต้องการแพลตฟอร์มด้านนี้ SoftBank ระบุว่าจะจัดตั้ง SB Neo, Inc ขึ้นมาดำเนินธุรกิจ neocloud ในสหรัฐฯ โดยคาดว่าจะเริ่มให้บริการในปีงบประมาณ 2027 (สิ้นสุดวันที่ 31 มีนาคม 2028) สำหรับโครงสร้างการถือหุ้นนั้นจะแบ่งเป็น SoftBank Corp ถือ 51% และ SoftBank Group Corp ถือ 49% ทำให้ SB Neo กลายเป็นบริษัทลูกในกลุ่ม SoftBank Corp ซึ่ง SoftBank Group Corp ก็ถือหุ้นอยู่ 40% อีกทอดหนึ่ง ผู้ให้บริการ neocloud …",
+    "pubDate": "Thu, 02 Jul 2026 22:19:33 +0000",
+    "source": "TechTalk Thai",
+    "category": "Info",
+    "thumbnail": "https://www.techtalkthai.com/wp-content/uploads/2024/01/techtalkthai_2022_data_center_01_shutterstock-640x400.jpg"
   },
   {
     "id": "151048 at https://www.blognone.com",
@@ -280,6 +380,16 @@
     "thumbnail": "https://storage.googleapis.com/techsauce-prod/ugc/uploads/2026/7/1782992695_scb-5-trends2.webp"
   },
   {
+    "id": "https://www.techtalkthai.com/?p=167398",
+    "title": "แคสเปอร์สกี้และสกมช. จับมือต่ออายุ MoU เสริมแกร่งความมั่นคงทางไซเบอร์ของไทย [PR]",
+    "link": "https://www.techtalkthai.com/kaspersky-x-ncsa-mou-in-cybersecurity-pr/",
+    "content": "แคสเปอร์สกี้ (Kaspersky) และสำนักงานคณะกรรมการการรักษาความมั่นคงปลอดภัยไซเบอร์แห่งชาติ (สกมช.) ได้ต่ออายุและขยายบันทึกความเข้าใจ (Memorandum of Understanding) เพื่อกระชับความร่วมมือเชิงกลยุทธ์ในการเสริมสร้างความเข้มแข็งด้านความมั่นคงทางไซเบอร์ของประเทศไทย ข้อตกลงนี้สร้างขึ้นบนพื้นฐานของภัยคุกคามที่ซับซ้อนและมีเป้าหมายการโจมตีมากขึ้นในประเทศไทย และมุ่งสร้างกรอบการทำงานที่ครอบคลุมสำหรับการแบ่งปันข้อมูลภัยคุกคาม การสร้างขีดความสามารถด้านเทคโนโลยีในประเทศ และการสนับสนุนการฝึกอบรมด้านความมั่นคงทางไซเบอร์ภายใต้แนวคิด Kaspersky Global Transparency Initiative การต่ออายุอย่างเป็นทางการนี้มีนายเอเดรียน เฮีย กรรมการผู้จัดการ ภูมิภาคเอเชียแปซิฟิก แคสเปอร์สกี้ และพลอากาศตรี อมร ชมเชย เลขาธิการคณะกรรมการการรักษาความมั่นคงปลอดภัยไซเบอร์แห่งชาติ ร่วมลงนาม ข้อตกลงนี้สร้างขึ้นโดยตรงจากประวัติความร่วมมือระหว่างบริษัทด้านความมั่นคงทางไซเบอร์และความเป็นส่วนตัวทางดิจิทัลระดับโลกกับหน่วยงานภาครัฐของประเทศไทย ภายใต้ข้อตกลงนี้แคสเปอร์สกี้และสกมช. จะผสานความเชี่ยวชาญทางเทคนิค ทัศนวิสัยระดับโลก และกลยุทธ์การป้องกันของประเทศใน 5 ด้านหลักต่อไปนี้ การเสริมสร้างศักยภาพ: เสริมสร้างศักยภาพด้านความมั่นคงปลอดภัยไซเบอร์ของสกมช. ด้วยคำแนะนำทางเทคนิคและแนวปฏิบัติที่ดีที่สุดในอุตสาหกรรม การแบ่งปันข้อมูลและข่าวกรองภัยคุกคาม: ยกระดับความมั่นคงปลอดภัยสารสนเทศของประเทศไทยผ่านการแลกเปลี่ยนข้อมูลภัยคุกคามและข้อมูลทางเทคนิค การสนับสนุนจากผู้เชี่ยวชาญและการแลกเปลี่ยนทางเทคนิค: ส่งเสริมแนวทางการทำงานร่วมกันด้านความมั่นคงปลอดภัยไซเบอร์ผ่านการแลกเปลี่ยนความเชี่ยวชาญและความรู้ทางเทคนิค การฝึกอบรมและการเสริมสร้างศักยภาพ: พัฒนาศักยภาพด้านไซเบอร์ผ่านโปรแกรมการฝึกอบรมเฉพาะด้านภายใต้แนวคิด Kaspersky Global Transparency Initiative โครงการร่วมและการสร้างความตระหนักรู้ด้านไซเบอร์: สนับสนุนความพยายามของสกมช. ในการสร้างสังคมที่มีความยืดหยุ่นต่อภัยคุกคามไซเบอร์มากขึ้นทั่วประเทศไทย รายงานประจำปีด้านความปลอดภัยทางไซเบอร์ของแคสเปอร์สกี้สำหรับประเทศไทยในปี 2568 แสดงข้อมูลว่า ผลิตภัณฑ์ของแคสเปอร์สกี้ตรวจจับและบล็อกภัยคุกคามทางเว็บได้จำนวน 10,449,120 …",
+    "pubDate": "Thu, 02 Jul 2026 10:52:24 +0000",
+    "source": "TechTalk Thai",
+    "category": "Info",
+    "thumbnail": "https://www.techtalkthai.com/wp-content/uploads/2026/07/kasperskyxncsa-640x335.png"
+  },
+  {
     "id": "151045 at https://www.blognone.com",
     "title": "เผย SpaceX นำเสนออุปกรณ์พกพาต้นแบบไว้เรียกใช้งาน AI ให้กับนักลงทุนบางราย - Elon Musk ปฏิเสธข่าว",
     "link": "https://www.blognone.com/node/151045",
@@ -310,6 +420,16 @@
     "thumbnail": null
   },
   {
+    "id": "https://www.techtalkthai.com/?p=167386",
+    "title": "AskMe ตอกย้ำมาตรฐานการให้บริการระดับสากล ด้วย ISO/IEC 27001 และ ISO/IEC 20000-1 พร้อมยกระดับการให้บริการด้วย Enterprise Service Platform เพื่อธุรกิจยุคดิจิทัล [PR]",
+    "link": "https://www.techtalkthai.com/askme-iso-iec-27001-iso-iec-20000-1-enterprise-service-platform-pr/",
+    "content": "ในยุคที่องค์กรกำลังเร่งขับเคลื่อน Digital Transformation ความต้องการด้านเทคโนโลยีไม่ได้จำกัดอยู่เพียงแค่ “ระบบที่ใช้งานได้” อีกต่อไป แต่ยังรวมถึงความมั่นคงปลอดภัยของข้อมูล ความน่าเชื่อถือของบริการ และความสามารถในการรองรับการดำเนินงานทางธุรกิจได้อย่างต่อเนื่อง   AskMe Solutions & Consultants Co., Ltd. ผู้ให้บริการด้าน Enterprise IT Solutions ได้รับการรับรองมาตรฐาน ISO/IEC 27001 ด้านการบริหารจัดการความมั่นคงปลอดภัยสารสนเทศ (Information Security Management System: ISMS) และ ISO/IEC 20000-1 ด้านการบริหารจัดการบริการเทคโนโลยีสารสนเทศ (IT Service Management System: ITSMS) จาก BSI (British Standards Institution) อย่างเป็นทางการ การรับรองดังกล่าวสะท้อนถึงความมุ่งมั่นของ AskMe ในการยกระดับคุณภาพการให้บริการด้านเทคโนโลยีสารสนเทศ พร้อมสร้างความเชื่อมั่นให้กับองค์กรลูกค้าในการบริหารจัดการข้อมูล กระบวนการ และบริการที่มีความสำคัญต่อธุรกิจ     ISO/IEC 27001 และ …",
+    "pubDate": "Thu, 02 Jul 2026 09:24:14 +0000",
+    "source": "TechTalk Thai",
+    "category": "Info",
+    "thumbnail": "https://www.techtalkthai.com/wp-content/uploads/2026/07/1200x628-640x335.png"
+  },
+  {
     "id": "https://techsauce.co/news/meta-compute-cloud-business-ai-infrastructure",
     "title": "Meta เตรียมเปิดธุรกิจคลาวด์ 'Meta Compute' เปิดขายพลังประมวลผล AI ท้าชน AWS, Google Cloud, Azure",
     "link": "https://techsauce.co/news/meta-compute-cloud-business-ai-infrastructure",
@@ -330,6 +450,46 @@
     "thumbnail": null
   },
   {
+    "id": "https://www.techtalkthai.com/?p=167263",
+    "title": "เตรียมพร้อม MFA กับ SendQuick เมื่อ Multi-factor Authentication กลายเป็นวาระเร่งด่วน!",
+    "link": "https://www.techtalkthai.com/mfa-are-being-forced-by-thai-law-soon-let-sendquick-help-you-comply/",
+    "content": "ต้นเหตุของ Data Breach กว่าครึ่งมาจากบัญชีผู้ใช้งานถูกขโมยหรือรั่วไหลออกไป สู่ข้อมูลหลายล้าน Record ที่ถูกปล่อยให้ดาวน์โหลดได้ผ่าน Dark Web อย่างไม่ยากเย็น ด้วยเหตุนี้เององค์กรใดๆจึงต้องมีมาตรการปกป้องตัวตนอีกชั้นหนึ่งที่เรียกว่า Multi-factor Authentication (MFA) ซึ่งได้รับการยอมรับว่าช่วยลดเหตุถูกขโมยบัญชีได้อย่างมีนัยสำคัญ ทำไม MFA จึงกลายเป็นวาระเร่งด่วนในหลายองค์กรไทยแล้ว? 1.) การบังคับใช้โดย สำนักงานคณะกรรมการการรักษาความมั่นคงปลอดภัยไซเบอร์แห่งชาติ (สมกช.) รู้หรือไม่ว่าในปี 2568 ที่ผ่านมาได้มีประกาศ ราชกิจจาฯ ด้านมาตรฐานการรักษาความมั่นคงปลอดภัยสำหรับเว็บไซต์ โดยกระทบใครก็ตามที่อยู่ในกลุ่ม “หน่วยงานของรัฐ หน่วยงานควบคุมหรือกำกับดูแล และหน่วยงานโครงสร้างพื้นฐานสำคัญทางสารสนเทศ” จะต้องปฏิบัติตาม ซึ่งมีการประกาศอย่างชัดเจนว่าเมื่อครบเวลา 1 ปีหลังประกาศ ราชกิจจาฯ จะมีผลบังคับเป็นต้นไป ภายในเนื้อหา ๖.๒.๔ ด้าน Access Control นั้นมีการกล่าวถึง MFA อย่างชัดแจ้งว่าหน่วยงานต้องพิจารณาใช้ MFA เพื่อพิสูจน์ตัวตนก่อนเข้าถึงทรัพยากรหรือระบบสำคัญ มากกว่าแค่รหัสผ่าน เช่น Token, ลายนิ้วมือ, ใบหน้า หรืออื่นๆ ซึ่ง ณ …",
+    "pubDate": "Thu, 02 Jul 2026 08:47:04 +0000",
+    "source": "TechTalk Thai",
+    "category": "Info",
+    "thumbnail": null
+  },
+  {
+    "id": "https://www.techtalkthai.com/?p=167377",
+    "title": "Together AI คว้าทุน 800 ล้านดอลลาร์ ขยายบริการคลาวด์สาธารณะสำหรับ AI",
+    "link": "https://www.techtalkthai.com/together-ai-raises-800m-to-grow-its-ai-optimized-public-cloud/",
+    "content": "Together AI ผู้ให้บริการแพลตฟอร์มคลาวด์ที่ปรับแต่งมาเพื่อรันโมเดลปัญญาประดิษฐ์แบบโอเพนซอร์สโดยเฉพาะ ประกาศว่าสามารถระดมทุนได้เป็นจำนวนเงิน 800 ล้านดอลลาร์สหรัฐ ดีล Series C ครั้งนี้ มี Aramco Ventures เป็นผู้นำ โดยมี Nvidia, Vista Equity Partners, General Catalyst และผู้สนับสนุนสถาบันรายอื่น ๆ เข้าร่วมลงขันด้วย ส่งผลให้ในปัจจุบัน Together AI มีมูลค่าประเมินของบริษัทอยู่ที่ 8.3 พันล้านดอลลาร์สหรัฐ แพลตฟอร์มของ Together AI ประกอบด้วยบริการประมวลผลผลลัพธ์แบบไร้เซิร์ฟเวอร์ที่นักพัฒนาสามารถนำมาใช้รันโมเดล AI โอเพนซอร์สได้ทันที โดยช่วยขจัดความจำเป็นในการเข้ามาตั้งค่าการ์ดจอและอุปกรณ์เครือข่ายด้วยตนเอง บริษัทอ้างว่าสภาพแวดล้อมแบบไร้เซิร์ฟเวอร์ของตนนั้นสามารถส่งมอบประสิทธิภาพการทำงานได้สูงกว่าทางเลือกอื่น ๆ ที่เร็วที่สุดในตลาดถึงประมาณสองเท่า นอกจากนี้ บริษัทยังจำหน่ายบริการประมวลผลผลลัพธ์รูปแบบอื่น ๆ อีกสามบริการ โดยสองบริการในนั้นจะใช้งานโครงสร้างพื้นฐานแบบเฉพาะเจาะจง ซึ่งให้การรับประกันความเสถียรของระบบและมีตัวเลือกในการปรับแต่งที่มากกว่าบริการแบบไร้เซิร์ฟเวอร์ ส่วนบริการที่สามคือ Batch Inference จะมุ่งเน้นไปที่ความคุ้มค่าด้านต้นทุนมากกว่าเรื่องของความเร็ว โดยจะมอบส่วนลดราคาสูงสุดถึง 50% สำหรับการรันโมเดลที่ไม่จำเป็นต้องตอบกลับคำสั่งของผู้ใช้ในทันที เบื้องหลังการทำงานของแพลตฟอร์ม Together …",
+    "pubDate": "Thu, 02 Jul 2026 08:27:29 +0000",
+    "source": "TechTalk Thai",
+    "category": "Info",
+    "thumbnail": "https://www.techtalkthai.com/wp-content/uploads/2026/07/Together-AI.png"
+  },
+  {
+    "id": "https://www.techtalkthai.com/?p=167372",
+    "title": "Venice ระดมทุน 65 ล้านดอลลาร์ที่มูลค่า 1 พันล้าน ดันบริการ AI ส่วนตัวแบบอันเซ็น",
+    "link": "https://www.techtalkthai.com/venice-raises-65m-at-1b-valuation-for-private-uncensored-ai/",
+    "content": "Venice.ai บริษัทปัญญาประดิษฐ์ที่มุ่งเน้นเรื่องความเป็นส่วนตัว ได้เปิดเผยว่าบริษัทสามารถระดมทุนรอบใหม่ได้เป็นจำนวนเงิน 65 ล้านดอลลาร์สหรัฐ ซึ่งส่งผลให้มูลค่าประเมินของบริษัทเพิ่มขึ้นเป็น 1 พันล้านดอลลาร์สหรัฐ Venice วางตำแหน่งของตนเองให้เป็นทางเลือกแบบเป็นส่วนตัวและปราศจากข้อจำกัด เมื่อเทียบกับแชตบอตกระแสหลักทั่วไปอย่าง ChatGPT บริษัทถูกก่อตั้งขึ้นในปี 2024 โดย Erik Voorhees ผู้ประกอบการด้านสกุลเงินดิจิทัลซึ่งอยู่เบื้องหลังกระดานเทรด ShapeShift และ Jesse Proudman ผู้ประกอบการที่เคยขายบริษัทคลาวด์ Blue Box Group ให้แก่ IBM มาก่อนหน้านี้ บริการของบริษัทจะทำหน้าที่ส่งต่อคำสั่งซื้อไปยังโมเดลโอเพนซอร์สและโมเดลที่มีกรรมสิทธิ์มากกว่า 200 โมเดล ซึ่งครอบคลุมทั้งรูปแบบข้อความ รูปภาพ วิดีโอ และเสียง ผ่านอินเทอร์เฟซและ API ชุดเดียวกัน Venice ระบุว่า สิ่งที่บริษัททำแตกต่างจากผู้ให้บริการส่วนใหญ่คือการไม่บันทึกประวัติคำสั่ง โดยจะจัดเก็บข้อมูลการสนทนาไว้บนอุปกรณ์ของผู้ใช้เองแทนการเก็บไว้บนเซิร์ฟเวอร์ของบริษัท และยังมีการถอดตัวกรองเนื้อหาออกไป ซึ่งตัวกรองเหล่านี้มักจะถูกติดตั้งไว้ในเครื่องมือของคู่แข่งรายอื่น แนวทางการออกแบบนี้เป็นความตั้งใจของบริษัท เนื่องจากเมื่อไม่มีการจัดเก็บคำสั่งและคำตอบไว้ที่ส่วนกลาง ก็จะไม่มีข้อมูลใด ๆ ที่จะถูกเจาะระบบ ถูกหมายศาลเรียกตรวจสอบ หรือถูกนำไปจำหน่ายได้ “ภารกิจของ Venice คือการปกป้องปัญญาประดิษฐ์จากการสอดแนมมวลชนและการเซ็นเซอร์เนื้อหา” …",
+    "pubDate": "Thu, 02 Jul 2026 08:10:59 +0000",
+    "source": "TechTalk Thai",
+    "category": "Info",
+    "thumbnail": "https://www.techtalkthai.com/wp-content/uploads/2026/07/Venice-AI-logo.png"
+  },
+  {
+    "id": "https://www.techtalkthai.com/?p=167362",
+    "title": "Meta เตรียมเปิดให้บริการโครงสร้างพื้นฐาน AI",
+    "link": "https://www.techtalkthai.com/meta-plans-to-offer-ai-infrastructure-services/",
+    "content": "มีรายงานจาก Bloomberg และ CNBC ว่า Meta Platforms มีแผนที่จะเปิดโครงสร้างพื้นฐานปัญญาประดิษฐ์ของตนเองให้บริษัทอื่น ๆ เช่าใช้บริการ ความเคลื่อนไหวในครั้งนี้อาจส่งผลให้มีกำลังการประมวลผลใหม่จำนวนมหาศาลหลั่งไหลเข้าสู่อุตสาหกรรม AI เนื่องจาก Meta คาดการณ์ว่าจะใช้จ่ายเงินทุนสูงถึง 1.45 แสนล้านดอลลาร์สหรัฐในงบประมาณปีปัจจุบัน ซึ่งเป็นงบรายจ่ายฝ่ายทุนที่ครอบคลุมในส่วนของการสร้างศูนย์ข้อมูล โดยเป็นตัวเลขที่เพิ่มเติมขึ้นมาจากเงินลงทุนจำนวน 7 หมื่นล้านดอลลาร์สหรัฐที่บริษัทได้ลงทุนไปก่อนหน้านี้แล้วในปี 2025 โครงการโครงสร้างพื้นฐานระดับเรือธงของ Meta คือ แคมปัสศูนย์ข้อมูลขนาดใหญ่ที่ชื่อว่า Hyperion ซึ่งกำลังอยู่ในระหว่างการก่อสร้างในรัฐลุยเซียนา โดยคาดว่าพื้นที่ดังกล่าวจะใช้พลังงานไฟฟ้าสูงถึง 5 กิกะวัตต์ ซึ่งเพียงพอต่อการจ่ายไฟให้กับบ้านเรือนมากกว่า 4 ล้านหลังคาเรือน และจะเป็นที่ตั้งของอาคารจำนวน 11 หลังที่ติดตั้งหน่วยประมวลผลกราฟิกหลายล้านตัว ตามปกติแล้ว ผู้ให้บริการโครงสร้างพื้นฐาน AI อย่าง CoreWeave จะให้บริการ GPU จากผู้ผลิตชิปหลายราย ซึ่งมีความเป็นไปได้ที่ Meta จะเลือกใช้แนวทางที่คล้ายกัน โดยเมื่อช่วงต้นปีที่ผ่านมา บริษัทได้ตกลงซื้อชิป AI จำนวนหลายล้านตัวจากทั้ง Nvidia, Advanced Micro …",
+    "pubDate": "Thu, 02 Jul 2026 07:51:23 +0000",
+    "source": "TechTalk Thai",
+    "category": "Info",
+    "thumbnail": "https://www.techtalkthai.com/wp-content/uploads/2026/07/Meta-data-center-Louisiana.png"
+  },
+  {
     "id": "https://techsauce.co/tech-and-biz/eric-tse-cttq-ai-medical-innovation",
     "title": "คุยกับ Eric Tse ผู้สืบทอดบริษัทยาเบอร์ต้นจีน เจาะสูตรบทเรียน 20 ปี SBP Group สู่ความสำเร็จในตลาดโลก",
     "link": "https://techsauce.co/tech-and-biz/eric-tse-cttq-ai-medical-innovation",
@@ -338,6 +498,16 @@
     "source": "Techsauce",
     "category": "General",
     "thumbnail": "https://storage.googleapis.com/techsauce-prod/ugc/uploads/2026/7/1782973108_Eric_Tse_1.webp"
+  },
+  {
+    "id": "https://www.techtalkthai.com/?p=167304",
+    "title": "เบื้องหลังความอร่อยระดับพันล้าน: เมื่อ KFC Thailand ใช้ Data + AI สร้าง “Brand Love” ผ่านขุมพลัง Snowflake",
+    "link": "https://www.techtalkthai.com/interview-with-kfc-thailand-using-data-and-ai-to-create-brand-love-through-the-power-of-snowflake/",
+    "content": "ลองจินตนาการถึงร้านอาหารที่มีสาขามากกว่า 1,200 แห่งทั่วประเทศไทย รองรับธุรกรรมหลายล้านรายการในแต่ละวัน ตั้งแต่การสั่งไก่ทอดกรอบ ๆ หน้าเคาน์เตอร์ การกดสั่งผ่านตู้คีออสอัตโนมัติ ไปจนถึงการคลิกสั่งผ่านแอปพลิเคชันเดลิเวอรีในชั่วโมงเร่งด่วน ข้อมูลมหาศาลเหล่านี้ไหลเวียนอยู่ตลอดเวลาประดุจสายเลือดใหญ่ขององค์กร แต่ความท้าทายที่แท้จริงของธุรกิจยุคนี้ไม่ใช่การขาดแคลนข้อมูล ทว่าคือการจะทำอย่างไรให้ข้อมูลเหล่านั้นแปรเปลี่ยนเป็น “อินไซต์” ที่จับต้องได้ทันท่วงที? บทความนี้ TechTalkThai และ ManuTalkThai จะพาไปเจาะลึกแนวคิดและวิสัยทัศน์ของ คุณเบส – ณัฐกรรณ์ เฉลิมชัยวัฒน์ ผู้จัดการฝ่ายกลยุทธ์ข้อมูล (Data Strategy Manager) จาก KFC Thailand ผู้บริหารที่เป็นแกนหลักในการเชื่อมโยงโลกของเทคโนโลยี (IT/Data) และโลกของธุรกิจ (Business) เข้าด้วยกันอย่างลงตัว พร้อมร่วมเดินทางไปกับ Success Story ในการทรานส์ฟอร์มองค์กรด้วยแพลตฟอร์มข้อมูลระดับโลกอย่าง Snowflake จาก Analyst สู่ Data Leader: สะพานเชื่อมระหว่าง ‘ข้อมูล’ และ ‘พาณิชย์’ เส้นทางการทำงานของคุณเบสในสาย Data เริ่มต้นขึ้นจากการเป็น BI Developer และ …",
+    "pubDate": "Thu, 02 Jul 2026 06:03:02 +0000",
+    "source": "TechTalk Thai",
+    "category": "Info",
+    "thumbnail": "https://www.techtalkthai.com/wp-content/uploads/2026/07/KFC-Interview-2026-2.png"
   },
   {
     "id": "https://it24hrs.com/?p=168420",
@@ -380,6 +550,36 @@
     "thumbnail": "https://storage.googleapis.com/techsauce-prod/ugc/uploads/2026/7/1782962922_Gemini_Spark__800.webp"
   },
   {
+    "id": "https://www.techtalkthai.com/?p=167346",
+    "title": "F5 เปิดตัว AI Security Platform ยกระดับการรักษาความมั่นคงปลอดภัยระบบ AI สำหรับองค์กร พร้อมเข้าซื้อกิจการ SurePath AI",
+    "link": "https://www.techtalkthai.com/f5-launches-ai-security-platform/",
+    "content": "F5 เปิดตัว F5 AI Security Platform โซลูชันใหม่ที่ออกแบบมาเพื่อให้ CISO และทีมรักษาความมั่นคงปลอดภัยมีการกำกับดูแล และการปกป้องการใช้งาน AI ภายในองค์กรอย่างครอบคลุม ทั้งในระดับแอปพลิเคชัน, โมเดล, Agent และ API อีกทั้ง F5 ยังได้เข้าซื้อกิจการ SurePath AI ผู้นำด้านการค้นหาและตรวจจับ Shadow AI ผ่านระบบเครือข่าย เพื่อนำมาเสริมความแข็งแกร่งให้แก่แพลตฟอร์มใหม่นี้ การทำงานของแพลตฟอร์มเน้นแนวทางแบบ Continuous, Adaptive Loop ในการกำกับดูแล ค้นหา ทดสอบ และปกป้องเวิร์กโหลด AI ขององค์กร โดยต่อยอดจากกลยุทธ์ Application Delivery and Security Platform (ADSP) เดิมของ F5 ให้ครอบคลุมไปถึง Enterprise AI โดยสมบูรณ์ เพื่อรับมือกับเหตุการณ์ปัจจุบันที่ AI มีสิทธิ์การเข้าถึง และเป็นอิสระในการตัดสินใจกว่าผู้ใช้งานทั่วไป ข้อมูลจากรายงาน …",
+    "pubDate": "Thu, 02 Jul 2026 02:12:32 +0000",
+    "source": "TechTalk Thai",
+    "category": "Info",
+    "thumbnail": "https://www.techtalkthai.com/wp-content/uploads/2026/07/TTT-47.jpg"
+  },
+  {
+    "id": "https://www.techtalkthai.com/?p=167317",
+    "title": "เมื่อ AI, Cloud และ Cyber Trust ต้องเดินไปพร้อมกัน ทำไมองค์กรยุคใหม่จึงต้องการ Strategy & Technology Consultancy มากกว่า Technology Vendor [Guest Post]",
+    "link": "https://www.techtalkthai.com/versotis-unveils-strategy-technology-consultancy-guest-post/",
+    "content": "เทคโนโลยีระดับองค์กรกำลังเข้าสู่ช่วงเปลี่ยนผ่านครั้งสำคัญของยุคดิจิทัล และการเปลี่ยนแปลงครั้งนี้ไม่ได้เกิดขึ้นกับเทคโนโลยีด้านใดด้านหนึ่งเท่านั้น แต่กำลังเกิดขึ้นพร้อมกันในหลายมิติ ทั้ง AI, Cloud, Data และ Cyber Trust ในด้าน AI องค์กรจำนวนมากเริ่มนำ Generative AI และ Chatbot มาใช้ในงานบางส่วน ขณะที่หลายหน่วยงานเริ่มทดลอง RAG, AI Agent และ Automation Use Case สำหรับงานเฉพาะด้าน แต่โครงการจำนวนไม่น้อยยังคงหยุดอยู่ที่ระดับ Proof of Concept และยังไม่สามารถขยายผลสู่ Production หรือการใช้งานจริงในระดับองค์กรได้อย่างมั่นใจ ขณะเดียวกัน เทคโนโลยี AI เองก็ยังพัฒนาอย่างต่อเนื่อง ทั้งในด้านความสามารถของโมเดล การเชื่อมต่อกับข้อมูล และการทำงานร่วมกับระบบองค์กร AI กำลังก้าวเข้าสู่ยุคของ Agentic AI ซึ่งไม่ได้ทำหน้าที่เพียงตอบคำถาม แต่สามารถเข้าใจบริบททางธุรกิจ วางแผนการทำงานเป็นขั้นตอน เข้าถึงข้อมูลองค์กร ประสานงานกับ Enterprise Applications และขับเคลื่อน Workflow ภายใต้กรอบ …",
+    "pubDate": "Thu, 02 Jul 2026 02:03:46 +0000",
+    "source": "TechTalk Thai",
+    "category": "Info",
+    "thumbnail": "https://www.techtalkthai.com/wp-content/uploads/2026/07/Versotis-logo.png"
+  },
+  {
+    "id": "https://www.techtalkthai.com/?p=167343",
+    "title": "AWS เปิดตัว Amazon EC2 C9g และ C9gd อย่างเป็นทางการ ขับเคลื่อนด้วยหน่วยประมวลผล Graviton5",
+    "link": "https://www.techtalkthai.com/aws-launches-amazon-ec2-c9g-c9gd-graviton5-instances/",
+    "content": "AWS ประกาศเปิดให้ใช้งาน Amazon EC2 ตระกูล C9g และ C9gd อย่างเป็นทางการ Compute-optimized Instance ที่ขับเคลื่อนด้วยหน่วยประมวลผล AWS Graviton5 รุ่นใหม่ล่าสุด Instance C9g ออกแบบมาสำหรับงานที่ใช้การประมวลผลหนัก เช่น real-time analytics, batch processing, video encoding, scientific modeling และงาน machine learning inference บน CPU โดยให้ประสิทธิภาพต่อ vCPU สูงขึ้นถึง 25% เมื่อเทียบกับ Instance รุ่นก่อนหน้าอย่าง C8g จุดเด่นสำคัญคือมาพร้อมหน่วยความจำที่เร็วที่สุดในบรรดา Instance บนคลาวด์ ด้วย DDR5 แบบ 8800MT/s, L3 cache ที่ใหญ่ขึ้น 5 เท่า และประสิทธิภาพการประมวลผล packet …",
+    "pubDate": "Wed, 01 Jul 2026 23:34:56 +0000",
+    "source": "TechTalk Thai",
+    "category": "Info",
+    "thumbnail": "https://www.techtalkthai.com/wp-content/uploads/2026/06/graviton5-angled-hero-amazonnews-ck6926-640x360.jpg"
+  },
+  {
     "id": "https://techsauce.co/saucy-thoughts/2-minute-rule-time-management",
     "title": "รู้จัก 'กฎ 2 นาที' เทคนิคบริหารเวลา จัดการงานค้าง ลดนิสัยผัดวันประกันพรุ่ง",
     "link": "https://techsauce.co/saucy-thoughts/2-minute-rule-time-management",
@@ -388,6 +588,16 @@
     "source": "Techsauce",
     "category": "General",
     "thumbnail": "https://storage.googleapis.com/techsauce-prod/ugc/uploads/2026/7/1782934619_%E0%B8%9B%E0%B8%81%E0%B8%82%E0%B9%88%E0%B8%B2%E0%B8%A71200x800_%E0%B8%A1%E0%B8%B5%E0%B8%99_%2846%29.webp"
+  },
+  {
+    "id": "https://www.techtalkthai.com/?p=167318",
+    "title": "ทำไม Hitachi JP1/AJS3 ถึงเป็นกุญแจสำคัญของระบบ Hybrid Cloud Automation ในองค์กรใหญ่ [Guest Post]",
+    "link": "https://www.techtalkthai.com/hitachi-jp1-ajs3-hybrid-cloud-automation/",
+    "content": "ในยุค Digital Transformation สภาพแวดล้อมไอทีแบบ Hybrid Cloud ได้กลายเป็นมาตรฐานใหม่ของอุตสาหกรรมการผลิต หลายองค์กรเลือกเก็บระบบหลักที่ต้องการความเสถียรสูงสุดอย่าง ERP เช่น SAP, MES หรือระบบจัดการคลังสินค้า (WMS) ไว้ที่หลังบ้าน (On-premises) ในขณะเดียวกันก็นำแอปพลิเคชันรุ่นใหม่หรือระบบ Data Analytics ขึ้นไปไว้บน Cloud มองดูผิวเผินนี่คือโครงสร้างไอทีที่สมบูรณ์แบบ… แต่สำหรับทีม IT Operations มันคือจุดเริ่มต้นของความท้าทายครั้งใหญ่ในการจัดการ Workload Automation ปัญหาคือ เมื่อต่างสภาพแวดล้อม ต่างก็มีเครื่องมือตั้งเวลาทำงาน (Job Scheduler) เป็นของตัวเอง สิ่งที่ตามมาคือความกระจัดกระจาย หรือ Siloed Automation ทีมงานต้องคอยเปิดหน้าจอ Monitor สลับไปมา และบ่อยครั้งที่ระบบสองฝั่งจัดการ Workload ข้ามระบบกันไม่ได้ จนเกิดปัญหาข้อมูลสต็อกไม่ซิงค์ แผนการผลิตล่าช้า และกลายเป็น Human Error ที่ส่งผลกระทบต่อไลน์การผลิตจริงในที่สุด ท่ามกลางเทคโนโลยี Automation เกิดใหม่มากมาย ทำไมซอฟต์แวร์อย่าง Hitachi …",
+    "pubDate": "Wed, 01 Jul 2026 13:20:44 +0000",
+    "source": "TechTalk Thai",
+    "category": "Info",
+    "thumbnail": "https://www.techtalkthai.com/wp-content/uploads/2026/07/Hitachi_JP1AJS3-FB-Banner.png"
   },
   {
     "id": "https://it24hrs.com/?p=168408",
@@ -418,16 +628,6 @@
     "source": "Techsauce",
     "category": "General",
     "thumbnail": "https://storage.googleapis.com/techsauce-prod/ugc/uploads/2026/7/1782902927_%E0%B8%9B%E0%B8%81%E0%B8%82%E0%B9%88%E0%B8%B2%E0%B8%A71200x800_%E0%B8%A1%E0%B8%B5%E0%B8%99_%2846%29.webp"
-  },
-  {
-    "id": "https://it24hrs.com/?p=168392",
-    "title": "Claude Fable 5 และ Mythos 5 เปิดให้ใช้งานทั่วโลกอีกครั้ง  หลังเคลียร์ปมความมั่นคงไซเบอร์",
-    "link": "https://it24hrs.com/2026/anthropic-redeploying-claude-fable-5/",
-    "content": "Claude Fable 5 และ Mythos 5 เปิดให้ใช้งานทั่วโลกอีกครั้ […]\nThe post Claude Fable 5 และ Mythos 5 เปิดให้ใช้งานทั่วโลกอีกครั้ง  หลังเคลียร์ปมความมั่นคงไซเบอร์ appeared first on iT24Hrs by ปานระพี.",
-    "pubDate": "Wed, 01 Jul 2026 10:27:52 +0000",
-    "source": "iT24Hrs",
-    "category": "Security",
-    "thumbnail": null
   },
   {
     "id": "https://techsauce.co/ai/cisco-ai-agents-security-network-infrastructure-thailand",
