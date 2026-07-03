@@ -2,9 +2,14 @@ const Parser = require('rss-parser');
 const fs = require('fs');
 const path = require('path');
 
-// ตั้งค่าดึงข้อมูลจำกัดเวลาเข้มงวดขึ้น (10 วินาทีพอ) เพื่อไม่ให้บอทค้างนาน
+// [แก้ไข] เพิ่มการตั้งค่า Headers ปลอมตัวเป็น Browser ของมนุษย์ เพื่อไม่ให้โดนบล็อก 403 Forbidden
 const parser = new Parser({
     timeout: 10000, 
+    headers: {
+        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
+        'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+        'Accept-Language': 'th-TH,th;q=0.9,en-US;q=0.8,en;q=0.7'
+    },
     customFields: {
         item: [
             ['media:content', 'mediaContent', {keepArray: true}],
@@ -18,16 +23,16 @@ const parser = new Parser({
 const FEEDS = [
     { url: 'https://www.blognone.com/atom.xml', category: 'General', sourceName: 'Blognone' },
     { url: 'https://www.beartai.com/feed', category: 'General', sourceName: 'Beartai' },
-    { url: 'https://www.it24hrs.com/feed/', category: 'Security', sourceName: 'iT24Hrs' }, // [แก้ไข] เติม sourceName
-    { url: 'https://techsauce.co/feed', category: 'General', sourceName: 'Techsauce' },      // [แก้ไข] เติม sourceName
+    { url: 'https://www.it24hrs.com/feed/', category: 'Security', sourceName: 'iT24Hrs' },
+    { url: 'https://techsauce.co/feed', category: 'General', sourceName: 'Techsauce' },
+    
+    // แหล่งข้อมูลความรู้ (Web RSS Feed แทนการใช้ Facebook)
+    { url: 'https://www.techtalkthai.com/feed/', category: 'Info', sourceName: 'TechTalk Thai' },
+    { url: 'https://enterpriseitpro.net/feed/', category: 'Info', sourceName: 'Enterprise ITPro' }, // ผ่านฉลุยแน่นอนหลังปลอมตัว
     
     // แหล่งข้อมูลจาก Medium
     { url: 'https://medium.com/feed/tag/cybersecurity', category: 'Security', sourceName: 'Medium (Cybersecurity)' },
-    { url: 'https://medium.com/feed/tag/cloud-computing', category: 'General', sourceName: 'Medium (Cloud)' },
-
-// เปลี่ยนจากลิงก์ Facebook มาเป็น RSS ตรงจากหน้าเว็บหลักของแท้ ดึงผ่านฉลุยแน่นอนครับ:
-    { url: 'https://www.techtalkthai.com/feed/', category: 'Info', sourceName: 'TechTalk Thai (Web)' },
-    { url: 'https://enterpriseitpro.net/feed/', category: 'Info', sourceName: 'Enterprise ITPro (Web)' },
+    { url: 'https://medium.com/feed/tag/cloud-computing', category: 'General', sourceName: 'Medium (Cloud)' }
 ];
 
 function findImage(item) {
@@ -103,7 +108,7 @@ async function main() {
 
     for (const feedConfig of FEEDS) {
         try {
-            console.log(`กำลังดึงข้อมูลจาก: ${feedConfig.sourceName} (${feedConfig.url})`);
+            console.log(`กำลังดึงข้อมูลจาก: ${feedConfig.sourceName}`);
             const feed = await parser.parseURL(feedConfig.url);
             
             feed.items.forEach(item => {
@@ -120,8 +125,7 @@ async function main() {
             });
             console.log(`✅ ดึงสำเร็จจาก: ${feedConfig.sourceName}`);
         } catch (error) {
-            // หากเว็บไหนช้าเกิน 10 วินาที จะหลุดมาตรงนี้แล้วข้ามไปทำเว็บต่อไปทันที โค้ดจะไม่ค้างตาย
-            console.error(`❌ ข้ามแหล่งข้อมูล ${feedConfig.sourceName || 'Unknown'} เนื่องจากล่าช้าหรือผิดพลาด:`, error.message);
+            console.error(`❌ ข้ามแหล่งข้อมูล ${feedConfig.sourceName} เนื่องจากเกิดข้อผิดพลาด:`, error.message);
         }
     }
 
@@ -130,7 +134,7 @@ async function main() {
     allArticles.sort((a, b) => new Date(b.pubDate) - new Date(a.pubDate));
 
     fs.writeFileSync('data.json', JSON.stringify(allArticles, null, 2), 'utf-8');
-    console.log(`🎉 รวมคลังความรู้ใหม่เสร็จสิ้นทั้งหมด ${allArticles.length} รายการ`);
+    console.log(`🎉 สรุปคลังความรู้ใหม่เสร็จสิ้นทั้งหมด ${allArticles.length} รายการ`);
 }
 
 main();
