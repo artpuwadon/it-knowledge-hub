@@ -2,13 +2,11 @@ const Parser = require('rss-parser');
 const fs = require('fs');
 const path = require('path');
 
-// [แก้ไข] เพิ่มการตั้งค่า Headers ปลอมตัวเป็น Browser ของมนุษย์ เพื่อไม่ให้โดนบล็อก 403 Forbidden
+// ปรับค่า Timeout ให้กระชับขึ้นเป็น 8 วินาที หากเว็บไหนไม่ตอบรับให้ตัดจบทันที บอทจะไม่ค้าง
 const parser = new Parser({
-    timeout: 10000, 
+    timeout: 8000, 
     headers: {
-        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
-        'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
-        'Accept-Language': 'th-TH,th;q=0.9,en-US;q=0.8,en;q=0.7'
+        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36'
     },
     customFields: {
         item: [
@@ -20,17 +18,15 @@ const parser = new Parser({
     }
 });
 
+// คัดเหลือเฉพาะแหล่งข่าวเสรีที่เปิดให้ดึงข้อมูลได้ 100% ไม่ติดบล็อก Firewall
 const FEEDS = [
     { url: 'https://www.blognone.com/atom.xml', category: 'General', sourceName: 'Blognone' },
     { url: 'https://www.beartai.com/feed', category: 'General', sourceName: 'Beartai' },
     { url: 'https://www.it24hrs.com/feed/', category: 'Security', sourceName: 'iT24Hrs' },
     { url: 'https://techsauce.co/feed', category: 'General', sourceName: 'Techsauce' },
-    
-    // แหล่งข้อมูลความรู้ (Web RSS Feed แทนการใช้ Facebook)
     { url: 'https://www.techtalkthai.com/feed/', category: 'Info', sourceName: 'TechTalk Thai' },
-    { url: 'https://enterpriseitpro.net/feed/', category: 'Info', sourceName: 'Enterprise ITPro' }, // ผ่านฉลุยแน่นอนหลังปลอมตัว
     
-    // แหล่งข้อมูลจาก Medium
+    // คลังความรู้ระดับสากลจาก Medium เข้าถึงได้เสถียรมาก
     { url: 'https://medium.com/feed/tag/cybersecurity', category: 'Security', sourceName: 'Medium (Cybersecurity)' },
     { url: 'https://medium.com/feed/tag/cloud-computing', category: 'General', sourceName: 'Medium (Cloud)' }
 ];
@@ -125,7 +121,7 @@ async function main() {
             });
             console.log(`✅ ดึงสำเร็จจาก: ${feedConfig.sourceName}`);
         } catch (error) {
-            console.error(`❌ ข้ามแหล่งข้อมูล ${feedConfig.sourceName} เนื่องจากเกิดข้อผิดพลาด:`, error.message);
+            console.error(`❌ ข้ามแหล่งข้อมูล ${feedConfig.sourceName} เนื่องจาก:`, error.message);
         }
     }
 
