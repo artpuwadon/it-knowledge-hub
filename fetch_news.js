@@ -24,7 +24,7 @@ const FEEDS = [
     { url: 'https://www.beartai.com/feed', category: 'General', sourceName: 'Beartai' },
     { url: 'https://www.it24hrs.com/feed/', category: 'Security', sourceName: 'iT24Hrs' },
     { url: 'https://techsauce.co/feed', category: 'General', sourceName: 'Techsauce' },
-    { url: 'https://www.techtalkthai.com/feed/', category: 'Info', sourceName: 'TechTalk Thai' },
+    { url: 'https://www.techtalkthai.com/feed/', category: 'General', sourceName: 'TechTalk Thai' },
     
     // คลังความรู้ระดับสากลจาก Medium เข้าถึงได้เสถียรมาก
     { url: 'https://medium.com/feed/tag/cybersecurity', category: 'Security', sourceName: 'Medium (Cybersecurity)' },
