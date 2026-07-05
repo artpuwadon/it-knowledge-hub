@@ -4,220 +4,340 @@
     "title": "แนวทางปฏิบัติการตั้งรหัสผ่านให้ปลอดภัยสำหรับบุคลากร",
     "link": "https://github.com/",
     "content": "1. รหัสผ่านต้องมีความยาวอย่างน้อย 8 ตัวอักษร\n2. ประกอบด้วยอักษรตัวพิมพ์ใหญ่ ตัวพิมพ์เล็ก ตัวเลข และสัญลักษณ์พิเศษ\n3. ห้ามใช้ข้อมูลส่วนตัว เช่น วันเกิด หรือเบอร์โทรศัพท์\n4. เปลี่ยนรหัสผ่านใหม่ทุกๆ 3-6 เดือนเพื่อความปลอดภัย",
-    "pubDate": "2026-07-03T10:25:25.535Z",
+    "pubDate": "2026-07-05T09:32:09.674Z",
     "source": "คู่มือภายในองค์กร",
     "category": "Internal",
     "thumbnail": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=500&auto=format&fit=crop&q=60"
   },
   {
-    "id": "https://medium.com/p/9895f26380cc",
-    "title": "Cybersecurity for 401(k) Plans in 2026: Implementing the Next Generation of Defenses",
-    "link": "https://medium.com/@ancyinfantia0805/cybersecurity-for-401-k-plans-in-2026-implementing-the-next-generation-of-defenses-9895f26380cc?source=rss------cybersecurity-5",
-    "content": "Recordkeepers are facing growing threats, stricter regulations, and outdated infrastructure that struggles to withstand modern…\nContinue reading on Medium »",
-    "pubDate": "Fri, 03 Jul 2026 10:18:18 GMT",
+    "id": "https://medium.com/p/4077b2175b49",
+    "title": "ExplainSec Phase 1: Building the Foundation of a Security Operations & Incident Governance Platform",
+    "link": "https://medium.com/@chinmaychauhanr/explainsec-phase-1-building-the-foundation-of-a-security-operations-incident-governance-platform-4077b2175b49?source=rss------cybersecurity-5",
+    "content": "From Detection to Decision-Making\nContinue reading on Medium »",
+    "pubDate": "Sun, 05 Jul 2026 08:47:10 GMT",
+    "source": "Medium (Cybersecurity)",
+    "category": "Security",
+    "thumbnail": "https://cdn-images-1.medium.com/max/1536/1*HCHFQLxWeD39Z6TE1EYOcQ.png"
+  },
+  {
+    "id": "https://medium.com/p/b7b666fadcfe",
+    "title": "Hacker, cybergang e propaganda: l’altra guerra tra Israele e Iran",
+    "link": "https://arturodicorinto.medium.com/hacker-cybergang-e-propaganda-laltra-guerra-tra-israele-e-iran-b7b666fadcfe?source=rss------cybersecurity-5",
+    "content": "Oltre al conflitto nel mondo fisico, è in corso un altro conflitto, che si svolge nello spazio digitale. E che ha regole e dinamiche molto…\nContinue reading on Medium »",
+    "pubDate": "Sun, 05 Jul 2026 08:44:44 GMT",
+    "source": "Medium (Cybersecurity)",
+    "category": "Security",
+    "thumbnail": "https://cdn-images-1.medium.com/max/1058/1*q6Mn_dq0phkcsH21palaeg.jpeg"
+  },
+  {
+    "id": "https://medium.com/p/a2bb510e30aa",
+    "title": "Fools Mate | TryHackMe",
+    "link": "https://medium.com/@umangmishra2327/fools-mate-tryhackme-a2bb510e30aa?source=rss------cybersecurity-5",
+    "content": "Introduction\nContinue reading on Medium »",
+    "pubDate": "Sun, 05 Jul 2026 08:10:57 GMT",
+    "source": "Medium (Cybersecurity)",
+    "category": "Security",
+    "thumbnail": "https://cdn-images-1.medium.com/max/1920/1*PupdFXDl5rplevDwIPODfQ.png"
+  },
+  {
+    "id": "https://medium.com/p/e6b18441b9df",
+    "title": "Ever Feel Like Your Shopping Cart is Stalking You? Here’s How to Ditch the Digital Shadows.",
+    "link": "https://medium.com/@tmmail/ever-feel-like-your-shopping-cart-is-stalking-you-heres-how-to-ditch-the-digital-shadows-e6b18441b9df?source=rss------cybersecurity-5",
+    "content": "Remember that time you bought something online? Maybe it was a new pair of running shoes, or a fancy coffee maker.\nContinue reading on Medium »",
+    "pubDate": "Sun, 05 Jul 2026 08:10:16 GMT",
+    "source": "Medium (Cybersecurity)",
+    "category": "Security",
+    "thumbnail": "https://cdn-images-1.medium.com/max/1376/1*n0PRpJl4fh8N_qvbQjtfrA.jpeg"
+  },
+  {
+    "id": "https://medium.com/p/ae0ff024290d",
+    "title": "What Is the Eligibility Criteria for a Cyber Security Diploma After 12th?",
+    "link": "https://medium.com/@cybersecuritycourse/what-is-the-eligibility-criteria-for-a-cyber-security-diploma-after-12th-ae0ff024290d?source=rss------cybersecurity-5",
+    "content": "Cybersecurity has become one of the most promising career options for students who want to work in the technology industry. With…\nContinue reading on Medium »",
+    "pubDate": "Sun, 05 Jul 2026 08:04:30 GMT",
+    "source": "Medium (Cybersecurity)",
+    "category": "Security",
+    "thumbnail": "https://cdn-images-1.medium.com/max/1774/1*7aZFdR2GdcOI1bxYAdxtHw.png"
+  },
+  {
+    "id": "https://medium.com/p/a669ff7ccd52",
+    "title": "How People Are Using AI to Trade Stocks — Joseph Sides",
+    "link": "https://medium.com/@josephsides94/how-people-are-using-ai-to-trade-stocks-joseph-sides-a669ff7ccd52?source=rss------cybersecurity-5",
+    "content": "Continue reading on Medium »",
+    "pubDate": "Sun, 05 Jul 2026 08:01:32 GMT",
     "source": "Medium (Cybersecurity)",
     "category": "Security",
     "thumbnail": null
   },
   {
-    "id": "https://medium.com/p/bd395dd18b8",
-    "title": "The Ghost Closest to Your CPU: Understanding the Deep Truth About Cache",
-    "link": "https://jinlow.medium.com/the-ghost-closest-to-your-cpu-understanding-the-deep-truth-about-cache-bd395dd18b8?source=rss------cloud_computing-5",
-    "content": "Caching\nContinue reading on Medium »",
-    "pubDate": "Fri, 03 Jul 2026 10:16:02 GMT",
-    "source": "Medium (Cloud)",
-    "category": "General",
-    "thumbnail": "https://cdn-images-1.medium.com/max/1408/1*TcZOznNWhXwXL1jeqD9ExA.png"
-  },
-  {
-    "id": "https://medium.com/p/a9a9076a9e7d",
-    "title": "The One Thing That Helped Me Most in the ISC2 CC Exam",
-    "link": "https://medium.com/@akhileshbadyal/the-one-thing-that-helped-me-most-in-the-isc2-cc-exam-a9a9076a9e7d?source=rss------cybersecurity-5",
-    "content": "The ISC2 1 Million Initiative empowered more than 1 million individuals to pursue and obtain cybersecurity certifications.\nContinue reading on Medium »",
-    "pubDate": "Fri, 03 Jul 2026 10:12:47 GMT",
-    "source": "Medium (Cybersecurity)",
-    "category": "Security",
-    "thumbnail": "https://cdn-images-1.medium.com/max/1024/1*oZFKI05l_mq_KqDV_tDyCQ.png"
-  },
-  {
-    "id": "https://medium.com/p/da7df2f31d42",
-    "title": "Securing Hybrid Active Directory: The Ultimate Identity Security Guide",
-    "link": "https://medium.com/@berlindm01/securing-hybrid-active-directory-miniorange-identity-security-da7df2f31d42?source=rss------cybersecurity-5",
-    "content": "Learn how miniOrange unifies MFA and SSO to protect hybrid Active Directory environments and stop credential attacks.\nContinue reading on Medium »",
-    "pubDate": "Fri, 03 Jul 2026 10:08:05 GMT",
-    "source": "Medium (Cybersecurity)",
-    "category": "Security",
-    "thumbnail": null
-  },
-  {
-    "id": "https://medium.com/p/0681e1e81af6",
-    "title": "How to Use Snort on Ubuntu Dedicated Servers to Detect SSH Brute-Force Attacks",
-    "link": "https://medium.com/@servers99-official/how-to-use-snort-on-ubuntu-dedicated-servers-to-detect-ssh-brute-force-attacks-0681e1e81af6?source=rss------cybersecurity-5",
-    "content": "A step-by-step guide to monitoring SSH activity and identifying threats in real-time.\nContinue reading on Medium »",
-    "pubDate": "Fri, 03 Jul 2026 10:07:22 GMT",
-    "source": "Medium (Cybersecurity)",
-    "category": "Security",
-    "thumbnail": "https://cdn-images-1.medium.com/max/1677/1*hpA9LicVjwYdcZqjUJbxFg.png"
-  },
-  {
-    "id": "https://medium.com/p/0adba023a07c",
-    "title": "Certified SOC Analyst CSA: A Guide for Cyber Professionals",
-    "link": "https://medium.com/@schoolhackerbanglore/certified-soc-analyst-csa-a-guide-for-cyber-professionals-0adba023a07c?source=rss------cybersecurity-5",
-    "content": "Ever wondered what’s actually keeping a massive corporate data breach from flattening your entire business? The secret lies within a…\nContinue reading on Medium »",
-    "pubDate": "Fri, 03 Jul 2026 10:05:39 GMT",
-    "source": "Medium (Cybersecurity)",
-    "category": "Security",
-    "thumbnail": "https://cdn-images-1.medium.com/max/1536/1*vIP_xnyGBHoWD9P7oeTQBg.png"
-  },
-  {
-    "id": "https://medium.com/p/b1b67cb8a7bf",
-    "title": "Software Licensing Audit: How to Bridge the Governance Gap & Secure Your IT",
-    "link": "https://medium.com/@kos.vityuk/software-licensing-audit-how-to-bridge-the-governance-gap-secure-your-it-b1b67cb8a7bf?source=rss------cybersecurity-5",
-    "content": "Don't let unauthorized keys compromise your network. Learn how to align procurement with security and eliminate IT audit risks today.\nContinue reading on Medium »",
-    "pubDate": "Fri, 03 Jul 2026 10:01:49 GMT",
-    "source": "Medium (Cybersecurity)",
-    "category": "Security",
-    "thumbnail": "https://cdn-images-1.medium.com/max/1376/1*x0A5Txf1H72IpDsgCTx72w.jpeg"
-  },
-  {
-    "id": "https://medium.com/p/9b4e691b11c5",
-    "title": "Why Your AI Assistant Needs a Chaperone",
-    "link": "https://medium.com/@franziska.fink.rpllc/why-your-ai-assistant-needs-a-chaperone-9b4e691b11c5?source=rss------cybersecurity-5",
-    "content": "There is a myth floating around that AI assistants are either useless autocomplete goblins or imminent silicon overlords. Both takes are…\nContinue reading on Medium »",
-    "pubDate": "Fri, 03 Jul 2026 10:01:03 GMT",
-    "source": "Medium (Cybersecurity)",
-    "category": "Security",
-    "thumbnail": "https://cdn-images-1.medium.com/max/1662/1*44zkVnZKc8cqzfpLMsqpDA.png"
-  },
-  {
-    "id": "https://medium.com/p/b073c9aeb78d",
-    "title": "The Memory Leak That Survived Six Code Reviews",
-    "link": "https://medium.com/@mohsho10/the-memory-leak-that-survived-six-code-reviews-b073c9aeb78d?source=rss------cloud_computing-5",
-    "content": "“The code was clean. The tests passed. Six experienced engineers approved it. Yet one tiny oversight slowly consumed gigabytes of memory…\nContinue reading on Medium »",
-    "pubDate": "Fri, 03 Jul 2026 10:01:03 GMT",
+    "id": "https://medium.com/p/e1b4e44a8cbf",
+    "title": "Building a Secure Jumpbox for a Private AKS Cluster: A Complete Walkthrough",
+    "link": "https://medium.com/@tobioderinde48/building-a-secure-jumpbox-for-a-private-aks-cluster-a-complete-walkthrough-e1b4e44a8cbf?source=rss------cloud_computing-5",
+    "content": "Why private clusters change everything about “just run kubectl”\nContinue reading on Medium »",
+    "pubDate": "Sun, 05 Jul 2026 07:57:42 GMT",
     "source": "Medium (Cloud)",
     "category": "General",
     "thumbnail": null
   },
   {
-    "id": "https://medium.com/p/0f6cf5e63aef",
-    "title": "The One Thing Cybersecurity Taught Me: Convenience Comes at a Cost",
-    "link": "https://medium.com/@career.qnayds/the-one-thing-cybersecurity-taught-me-convenience-comes-at-a-cost-0f6cf5e63aef?source=rss------cybersecurity-5",
-    "content": "A few years ago, I never thought much about cybersecurity.\nContinue reading on Medium »",
-    "pubDate": "Fri, 03 Jul 2026 10:00:32 GMT",
+    "id": "https://medium.com/p/c809b57a652c",
+    "title": "Know Before You Provision: GCP Spot VM Availability",
+    "link": "https://chimbu.medium.com/know-before-you-provision-gcp-spot-vm-availability-c809b57a652c?source=rss------cloud_computing-5",
+    "content": "Originally featured on the DoiT technical blog: https://www.doit.com/blog/know-before-you-provision-gcp-spot-vm-availability-signals\nContinue reading on Medium »",
+    "pubDate": "Sun, 05 Jul 2026 07:49:04 GMT",
+    "source": "Medium (Cloud)",
+    "category": "General",
+    "thumbnail": "https://cdn-images-1.medium.com/max/2600/1*rAMmvzBI72zplC3mTVQpTw.png"
+  },
+  {
+    "id": "https://medium.com/p/be3d5134931d",
+    "title": "5 Critical Privacy Settings Social Networks Hide From You",
+    "link": "https://medium.com/@shoaibk729/5-critical-privacy-settings-social-networks-hide-from-you-be3d5134931d?source=rss------cybersecurity-5",
+    "content": "5 Critical Social Media Privacy Settings Platforms Hide From You\nContinue reading on Medium »",
+    "pubDate": "Sun, 05 Jul 2026 07:47:10 GMT",
     "source": "Medium (Cybersecurity)",
     "category": "Security",
-    "thumbnail": "https://cdn-images-1.medium.com/max/1536/1*_KQkmefCe2VkXIRv20kokg.png"
+    "thumbnail": "https://cdn-images-1.medium.com/max/650/1*5anFlNxP3jEdF6Qnb-vBVg.jpeg"
   },
   {
-    "id": "https://medium.com/p/a2ea12ce1843",
-    "title": "Small Price to Pay, to keep the ledgers clean",
-    "link": "https://medium.com/@knightobjektv.info/small-price-to-pay-to-keep-the-ledgers-clean-a2ea12ce1843?source=rss------cybersecurity-5",
-    "content": "Individual autonomy, that *is* a small price to pay, when you think about how little of the bill must be getting paid to humans. It's the…\nContinue reading on Medium »",
-    "pubDate": "Fri, 03 Jul 2026 09:59:22 GMT",
+    "id": "https://medium.com/p/d71b17e75a2d",
+    "title": "The End of Seed Phrases: How BCI and HelixKey Make Web3 Seamless",
+    "link": "https://helixkey.medium.com/the-end-of-seed-phrases-how-bci-and-helixkey-make-web3-seamless-d71b17e75a2d?source=rss------cybersecurity-5",
+    "content": "Imagine a world where you never have to write down 12 random words on a piece of paper.\nContinue reading on Medium »",
+    "pubDate": "Sun, 05 Jul 2026 07:46:12 GMT",
     "source": "Medium (Cybersecurity)",
     "category": "Security",
-    "thumbnail": null
+    "thumbnail": "https://cdn-images-1.medium.com/max/1536/1*mcSWB3-rApZJPPl7A9NrRg.png"
   },
   {
-    "id": "https://medium.com/p/29f1d08d8fa4",
-    "title": "Traditional Servers vs. Serverless: A Beginner’s Guide to Modern Backend Architecture",
-    "link": "https://medium.com/@RashSenavi/traditional-servers-vs-serverless-a-beginners-guide-to-modern-backend-architecture-29f1d08d8fa4?source=rss------cloud_computing-5",
-    "content": "When you build a backend for an app, you eventually run into a fundamental question: where and how does my code actually run? For most of…\nContinue reading on Medium »",
-    "pubDate": "Fri, 03 Jul 2026 09:55:53 GMT",
-    "source": "Medium (Cloud)",
-    "category": "General",
-    "thumbnail": "https://cdn-images-1.medium.com/max/1353/1*0OY7kULrOJLKXPXxKAMN3Q.jpeg"
+    "id": "https://medium.com/p/80816ed1d787",
+    "title": "Why Every Security Professional Should Learn strace",
+    "link": "https://systemweakness.com/why-every-security-professional-should-learn-strace-80816ed1d787?source=rss------cybersecurity-5",
+    "content": "Watching Software Think in Real Time\nContinue reading on System Weakness »",
+    "pubDate": "Sun, 05 Jul 2026 07:46:06 GMT",
+    "source": "Medium (Cybersecurity)",
+    "category": "Security",
+    "thumbnail": "https://cdn-images-1.medium.com/max/2600/0*-WFKKQq6JgDrtvZ8"
   },
   {
-    "id": "https://medium.com/p/dd96fd17387f",
-    "title": "How I Cut Cloud Compute Costs 90% Using Rust and WebAssembly on the Edge",
-    "link": "https://javascript.plainenglish.io/how-i-cut-cloud-compute-costs-90-using-rust-and-webassembly-on-the-edge-dd96fd17387f?source=rss------cloud_computing-5",
-    "content": "Stop paying for idle EC2 instances and heavy Docker containers. Here is how edge-native Wasm changes backend economics.\nContinue reading on JavaScript in Plain English »",
-    "pubDate": "Fri, 03 Jul 2026 09:39:26 GMT",
-    "source": "Medium (Cloud)",
-    "category": "General",
-    "thumbnail": "https://cdn-images-1.medium.com/max/2600/1*bjlxFwc4b18LxQyC5Yxw4w.png"
-  },
-  {
-    "id": "https://medium.com/p/3995c187c92e",
-    "title": "Nobody Tells You Community Feels Like This",
-    "link": "https://medium.com/@malhargupte66/nobody-tells-you-community-feels-like-this-3995c187c92e?source=rss------cloud_computing-5",
-    "content": "What a single text message taught me about belonging in tech\nContinue reading on Medium »",
-    "pubDate": "Fri, 03 Jul 2026 09:38:42 GMT",
-    "source": "Medium (Cloud)",
-    "category": "General",
-    "thumbnail": "https://cdn-images-1.medium.com/max/1920/1*wMDVWZuuQ0PHaP9-eAcDdw.jpeg"
-  },
-  {
-    "id": "https://medium.com/p/77ab0278a213",
-    "title": "V-Ray GPU on 8x RTX 4090: I Timed a Real 4K Animation and Did the Cost Math",
-    "link": "https://medium.com/@irenderofficial/v-ray-gpu-on-8x-rtx-4090-i-timed-a-real-4k-animation-and-did-the-cost-math-77ab0278a213?source=rss------cloud_computing-5",
-    "content": "Benchmarks with vague “up to 10x faster” claims never tell you what a job actually costs. So here’s a real one: a 187-frame 4K V-Ray…\nContinue reading on Medium »",
-    "pubDate": "Fri, 03 Jul 2026 09:24:40 GMT",
-    "source": "Medium (Cloud)",
-    "category": "General",
-    "thumbnail": "https://cdn-images-1.medium.com/max/1000/1*OeT39LiUV_WGsnvHqot_Tw.jpeg"
-  },
-  {
-    "id": "151052 at https://www.blognone.com",
-    "title": "ดราม่า Subnautita 2 ได้ข้อยุติ Krafton ยอมจ่ายโบนัสให้พนักงานตามสัญญา",
-    "link": "https://www.blognone.com/node/151052",
-    "content": "ดราม่า Subnautita 2 ได้ข้อยุติ Krafton ยอมจ่ายโบนัสให้พนักงานตามสัญญา\n\n  \nBody\nอภิมหาดราม่าของวงการเกมในรอบปีที่ผ่านมา หนีไม่พ้น เกม Subnautica 2 ที่ทีมผู้บริหารสตูดิโอ Unknown Worlds ทะเลาะกับบริษัทแม่ Krafton จนลาออกยกทีม และเกิดคดีฟ้องร้องระหว่างกัน\nล่าสุดดูเหมือนทั้งสองฝ่ายตกลงกันได้แล้ว โดย Krafton ยอมจ่ายโบนัส 250 ล้านดอลลาร์ให้ทีมนักพัฒนาใน Unknown Worlds ตามที่เคยตกลงกันไว้ตอนซื้อกิจการ แลกกับ Ted Gill ซีอีโอของ Unknown Worlds ลาออกไปอย่างถาวร (ก่อนหน้านี้กลับมาตามคำสั่งศาล)\nส่วนสถานะของเกม Subnautica 2 วางขายแบบ Early Access ตั้งแต่วันที่ 14 พฤษภาคม 2026 และขายได้แล้ว 4 ล้านชุด ดูจากยอดขายแล้วก็น่าจะวินวินกันทั้งสองฝ่าย\nที่มา - GamesBeat, IGN\n\nmk\nFri, 03/07/2026 - 16:23",
-    "pubDate": "Fri, 03 Jul 2026 09:23:45 +0000",
+    "id": "151068 at https://www.blognone.com",
+    "title": "อดีตบอส PlayStation บอกโซนี่เลิกขายเกมแผ่น น่าจะตัดสินใจจากข้อมูลบนสเปรดชีท",
+    "link": "https://www.blognone.com/node/151068",
+    "content": "อดีตบอส PlayStation บอกโซนี่เลิกขายเกมแผ่น น่าจะตัดสินใจจากข้อมูลบนสเปรดชีท\n\n  \nBody\nข่าว Sony เลิกขายเกม PlayStation แบบแผ่น มีผลในปี 2028 สร้างแรงสั่นสะเทือนอย่างมากต่อวงการเกมคอนโซล\nคนที่ให้ความเห็นเรื่องนี้ได้ดีที่สุดคงหนีไม่พ้น Shawn Layden อดีตประธาน PlayStation Studios และซีอีโอของ SIE America ซึ่งเขาให้สัมภาษณ์กับ Eurogamer ในประเด็นนี้\nLayden บอกว่าเขาลาออกมานานแล้ว (ตั้งแต่ปี 2019) จึงไม่มีข้อมูลวงในใดๆ ในเรื่องนี้ ทุกอย่างคือการคาดเดาของเขาล้วนๆ โดยเขามองว่า ผู้บริหารโซนี่ยุคปัจจุบันน่าจะตัดสินใจโดยอิงจากข้อมูลสถิติบนสเปรดชีท (largely it's a straight spreadsheet decision)\nLayden บอกว่าเขาอยู่กับโซนี่มาตั้งแต่สมัยยอดขายดิจิทัลเป็น 0% แล้วค่อยๆ เติบโตมาเรื่อยๆ จนมาโตก้าวกระโดดในยุค COVID ที่ทำให้เกมเมอร์คุ้นเคยกับการซื้อเกมแบบดิจิทัล แทนการไปซื้อแผ่นที่ร้าน เขาบอกว่าถูกถามเรื่องนี้มาตลอด 20 ปีหลังว่า เมื่อไรโซนี่จะเลิกขายเกมแบบแผ่น ซึ่งคำตอบของเขาก็คือ จนกว่าเขาจะมั่นใจว่าเกมเมอร์ส่วนใหญ่ทั่วโลกเข้าถึงบรอดแบนด์ที่เร็วพอในการดาวน์โหลดเกม\nคำถามสำคัญที่ตามมาคือ \"ส่วนใหญ่\" คือตัวเลขเท่าไรกันแน่ หากมีเกมเพียง 5% ที่ยังขายผ่านแผ่น มันก็ไม่เมคเซนส์แล้วที่จะยังทำเกมแบบแผ่นขายต่อไป แต่ Layden ก็ยกกรณีที่เกมเมอร์อาจเข้าไม่ถึงอินเทอร์เน็ต เช่น ทหารในฐานทัพที่ต้องเล่น PS4 แบบไม่ต่อเน็ตด้วยเหตุผลด้านความมั่นคง ซึ่งเขาไม่อยากทอดทิ้งคนกลุ่มนี้\nLayden บอกว่าเหตุผลที่ชาวเน็ตถกกันว่า โซนี่ไม่อยากให้มีเกมมีอสอง กลับไม่ใช่เรื่องใหญ่ในสายตาของเขา เขาบอกว่าต่อสู้กับเกมเถื่อนมายาวนาน ในอดีตอาจเป็นปัญหาใหญ่ แต่ภายหลังตลาดเกมเปลี่ยนไปมาก เกมแบบดิจิทัลทำให้ตลาดเกมมือสองแคบลง จนอยู่ในระดับที่ฝ่ายธุรกิจไม่กังวลแล้ว\nเขายังบอกว่าการตัดสินใจของโซนี่ ในฐานะผู้นำตลาดคอนโซล ย่อมส่งผลต่อผู้เล่นรายอื่นๆ ในวงการ ซึ่งก็หมายถึงนินเทนโดและไมโครซอฟท์นั่นเอง\nที่มา - Eurogamer\nmk\nSun, 05/07/2026 - 14:45",
+    "pubDate": "Sun, 05 Jul 2026 07:45:13 +0000",
     "source": "Blognone",
     "category": "General",
     "thumbnail": null
   },
   {
-    "id": "151051 at https://www.blognone.com",
-    "title": "Google Sheets รองรับการแสดงผลชาร์ท 3 มิติ จากไฟล์ Excel แล้ว",
-    "link": "https://www.blognone.com/node/151051",
-    "content": "Google Sheets รองรับการแสดงผลชาร์ท 3 มิติ จากไฟล์ Excel แล้ว\n\n  \nBody\nGoogle Sheets รองรับการแปลง \"ชาร์ท 3 มิติ\" (3D bar chart) จาก Microsoft Excel เข้ามาเป็นไฟล์ Google Sheets แล้ว\nก่อนหน้านี้ การนำไฟล์ Excel ที่มีชาร์ท 3 มิติเข้ามาใน Google Sheets จะถูกแปลงเป็นชาร์ท 2 มิติ แต่ตอนนี้สามารถเห็นชาร์ทแบบดั้งเดิมใน Google Sheets แล้ว\nที่มา - Google Workspace\nmk\nFri, 03/07/2026 - 16:19",
-    "pubDate": "Fri, 03 Jul 2026 09:19:23 +0000",
+    "id": "https://medium.com/p/7e88eaa50538",
+    "title": "Serverless Computing on AWS: Understanding the Fundamentals",
+    "link": "https://medium.com/@NimashaGamage/serverless-computing-on-aws-understanding-the-fundamentals-7e88eaa50538?source=rss------cloud_computing-5",
+    "content": "Cloud computing has significantly transformed the way modern applications are built, deployed, and maintained. Traditionally, developers…\nContinue reading on Medium »",
+    "pubDate": "Sun, 05 Jul 2026 07:35:44 GMT",
+    "source": "Medium (Cloud)",
+    "category": "General",
+    "thumbnail": "https://cdn-images-1.medium.com/max/1774/1*tRUnbyxmz_DuHTvp2KoseQ.png"
+  },
+  {
+    "id": "151067 at https://www.blognone.com",
+    "title": "Bending Spoons บริษัทจากอิตาลีที่เติบโตด้วยการซื้อกิจการบริษัทต่าง ๆ ไอพีโอเข้าตลาดหุ้นสหรัฐแล้ว",
+    "link": "https://www.blognone.com/node/151067",
+    "content": "Bending Spoons บริษัทจากอิตาลีที่เติบโตด้วยการซื้อกิจการบริษัทต่าง ๆ ไอพีโอเข้าตลาดหุ้นสหรัฐแล้ว\n\n  \nBody\nสัปดาห์ที่ผ่านมามีบริษัทไอพีโอเข้าตลาดหุ้นแนสแดคของสหรัฐรายหนึ่งที่น่าสนใจ ผู้อ่านอาจคุ้นชื่อบ้างนั่นคือ Bending Spoons สตาร์ทอัปจากอิตาลี โดยนำบริษัทเข้าตลาดหุ้นด้วยมูลค่ากิจการ 1.8 หมื่นล้านดอลลาร์ ด้วยตัวย่อในการซื้อขาย BSP\nBending Spoons เริ่มต้นบริษัทด้วยการทำแอปจดบันทึกชีวิตประจำวัน Evertale แต่ไม่ประสบความสำเร็จ ในเวลาต่อมาบริษัทปรับกลยุทธ์มาเป็นบริษัทเงินทุนที่เติบโตด้วยการซื้อกิจการบริษัทต่าง ๆ มาอยู่ในพอร์ทโฟลิโอ เน้นไปที่แบรนด์ธุรกิจที่มีฐานผู้ใช้งานและตลาดชัดเจน แล้วนำมาปรับโครงสร้างองค์กรให้สามารถเติบโตได้ยั่งยืนมากขึ้น ซึ่งรูปแบบหนึ่งที่นิยมทำคือปลดพนักงานเดิมออกเกือบทั้งหมด แล้วนำผลิตภัณฑ์มาพัฒนาต่อด้วยทีมงานของ Bending Spoons เอง ส่วนที่มาของชื่อบริษัทช้อนบิดนี้ มาจากฉากที่ผู้ก่อตั้งชื่นชอบในภาพยนตร์ The Matrix\nดีลซื้อกิจการของ Bending Spoons มีตั้งแต่ Splice แอปตัดต่อวิดีโอที่ซื้อจาก GoPro, แอปแต่งรูปภาพ Remini, แอปวิดีโอ FiLMiC, แอปจดบันทึก Evernote, แพลตฟอร์มเผยแพร่สื่อ Issuu, แอปดูวิดีโอ Vimeo, แพลตฟอร์มอีเวนต์ Eventbrite และดีลเด่นมากคือการซื้อ AOL จาก Yahoo เมื่อปีที่แล้ว\nLuca Ferrari ซีอีโอและผู้ร่วมก่อตั้ง Bending Spoons บอกว่าตอนนี้มีมากกว่า 1,000 บริษัท ที่มองว่าน่าสนใจจะซื้อกิจการเข้ามาในอนาคต แต่ไม่สามารถเปิดเผยรายละเอียดใดได้ตอนนี้\nที่มา: Reuters และ TechCrunch\narjin\nSun, 05/07/2026 - 14:34",
+    "pubDate": "Sun, 05 Jul 2026 07:34:27 +0000",
     "source": "Blognone",
     "category": "General",
     "thumbnail": null
   },
   {
-    "id": "https://medium.com/p/0bbe94601910",
-    "title": "How to Hire Dedicated Game Developers for High-Concurrency Multiplayer Systems",
-    "link": "https://medium.com/@charleswade1776/how-to-hire-dedicated-game-developers-for-high-concurrency-multiplayer-systems-0bbe94601910?source=rss------cloud_computing-5",
-    "content": "A deep dive into server-side multiplayer architecture, netcode optimization, and managing high concurrent user spikes\nContinue reading on Medium »",
-    "pubDate": "Fri, 03 Jul 2026 09:02:44 GMT",
+    "id": "https://medium.com/p/0804455d1a54",
+    "title": "Your Company Is Building 50 AI Agents. None of Them Share Infrastructure.",
+    "link": "https://levelup.gitconnected.com/your-company-is-building-50-ai-agents-none-of-them-share-infrastructure-0804455d1a54?source=rss------cloud_computing-5",
+    "content": "The infrastructure duplication behind your AI agents is a consolidation project waiting to happen.\nContinue reading on Level Up Coding »",
+    "pubDate": "Sun, 05 Jul 2026 07:29:25 GMT",
     "source": "Medium (Cloud)",
     "category": "General",
-    "thumbnail": "https://cdn-images-1.medium.com/max/2600/1*AnQcIR0vehSbENOfQkhjcw.jpeg"
+    "thumbnail": "https://cdn-images-1.medium.com/max/1376/0*4HjUCigygvLT84ky"
   },
   {
-    "id": "https://medium.com/p/2f019c5c0536",
-    "title": "The 5 Companies Building the Future of AI — An Honest Look at Who Is Winning and Why",
-    "link": "https://medium.com/@fakharabas466/the-5-companies-building-the-future-of-ai-an-honest-look-at-who-is-winning-and-why-2f019c5c0536?source=rss------cloud_computing-5",
-    "content": "TOPICS: Artificial Intelligence, Technology, OpenAI, Google, Business Strategy\nContinue reading on Medium »",
-    "pubDate": "Fri, 03 Jul 2026 08:48:32 GMT",
+    "id": "https://medium.com/p/fbc29e327a54",
+    "title": "How we removed leaked infrastructure headers from AKS + Istio + KEDA",
+    "link": "https://medium.com/@tobioderinde48/how-we-removed-leaked-infrastructure-headers-from-aks-istio-keda-fbc29e327a54?source=rss------cloud_computing-5",
+    "content": "Two HTTP response headers were quietly telling attackers exactly what our platform runs. Here’s what they reveal, why they’re dangerous…\nContinue reading on Medium »",
+    "pubDate": "Sun, 05 Jul 2026 07:22:13 GMT",
     "source": "Medium (Cloud)",
     "category": "General",
-    "thumbnail": "https://cdn-images-1.medium.com/max/1672/1*YmuWxgThLXci_3je-ltI8A.png"
+    "thumbnail": null
   },
   {
-    "id": "https://medium.com/p/e763f8769dc0",
-    "title": "Cloud Deployment Models: A Comparative Analysis of Public, Private, Hybrid, and Multi-Cloud…",
-    "link": "https://medium.com/@shivanivemula17/cloud-deployment-models-a-comparative-analysis-of-public-private-hybrid-and-multi-cloud-e763f8769dc0?source=rss------cloud_computing-5",
-    "content": "An architectural perspective on how cloud deployment models have evolved to address scalability, security, operational resilience, and…\nContinue reading on Medium »",
-    "pubDate": "Fri, 03 Jul 2026 07:53:47 GMT",
+    "id": "https://medium.com/p/d07c8e1298df",
+    "title": "Navigating the Traffic: A Deep Dive Into AWS ALB vs. NLB",
+    "link": "https://kuldeep-modh.medium.com/navigating-the-traffic-a-deep-dive-into-aws-alb-vs-nlb-d07c8e1298df?source=rss------cloud_computing-5",
+    "content": "TL;DR\nContinue reading on Medium »",
+    "pubDate": "Sun, 05 Jul 2026 07:11:00 GMT",
     "source": "Medium (Cloud)",
     "category": "General",
-    "thumbnail": "https://cdn-images-1.medium.com/max/1536/1*OeOOotR8F7ebIuXAdoK_4w.png"
+    "thumbnail": "https://cdn-images-1.medium.com/max/2600/1*_yVUZw2V1tkXDe2PVAJa8A.png"
   },
   {
-    "id": "https://medium.com/p/85a1d3b24713",
-    "title": "Inside a Computer System: A Comprehensive TryHackMe OS Basics Walkthrough",
-    "link": "https://medium.com/@minahilkkhan_/inside-a-computer-system-a-comprehensive-tryhackme-os-basics-walkthrough-85a1d3b24713?source=rss------cloud_computing-5",
-    "content": "Introduction:\nContinue reading on Medium »",
-    "pubDate": "Fri, 03 Jul 2026 07:40:50 GMT",
+    "id": "https://medium.com/p/d86fe2510351",
+    "title": "The Agentic Shift: Why 2026 May Force AI to Move From the Cloud to the Edge",
+    "link": "https://medium.com/@ditzalcon/the-agentic-shift-why-2026-may-force-ai-to-move-from-the-cloud-to-the-edge-d86fe2510351?source=rss------cloud_computing-5",
+    "content": "The Agentic Shift: Why AI’s future may depend on moving intelligence from the cloud to the edge.\nContinue reading on Medium »",
+    "pubDate": "Sun, 05 Jul 2026 06:31:33 GMT",
     "source": "Medium (Cloud)",
     "category": "General",
-    "thumbnail": "https://cdn-images-1.medium.com/max/1366/1*jicc_dBBNIhKFohwZcCA6w.png"
+    "thumbnail": "https://cdn-images-1.medium.com/max/1024/1*XmS2W8X5p5s3qLimaQeUHg.png"
+  },
+  {
+    "id": "https://medium.com/p/669f2bdde452",
+    "title": "Chapter 2 : How the Internet Actually Works",
+    "link": "https://medium.com/@tejas-vijay/chapter-2-how-the-internet-actually-works-669f2bdde452?source=rss------cloud_computing-5",
+    "content": "Let’s answer a simple question.\nContinue reading on Medium »",
+    "pubDate": "Sun, 05 Jul 2026 06:27:12 GMT",
+    "source": "Medium (Cloud)",
+    "category": "General",
+    "thumbnail": "https://cdn-images-1.medium.com/max/1448/1*pKPRJOBU7ZSnJSG_SDWWRw.png"
+  },
+  {
+    "id": "151066 at https://www.blognone.com",
+    "title": "AWS ประกาศหยุดรับลูกค้าใหม่บริการ Mechanical Turk",
+    "link": "https://www.blognone.com/node/151066",
+    "content": "AWS ประกาศหยุดรับลูกค้าใหม่บริการ Mechanical Turk\n\n  \nBody\nAWS ประกาศว่าบริการ Amazon Mechanical Turk ที่เป็นแพลตฟอร์ม crowdsourcing จ้างงานเล็ก ๆ ให้คนอื่นทำผ่านอินเทอร์เน็ต จะปิดรับลูกค้าใหม่ มีผลตั้งแต่ 30 กรกฎาคม 2026 เป็นต้นไป ซึ่งรวมทั้งส่วนขยายที่เชื่อมต่อกับ SageMaker AI ด้วย ส่วนลูกค้าปัจจุบันไม่ได้รับผลกระทบจากการเปลี่ยนแปลงนี้ โดยสถานะปัจจุบันของบริการอยู่ใน Maintenance แล้ว\nAmazon ไม่ได้ให้เหตุผลที่ปิดบริการ Mechanical Turk นี้อย่างเป็นทางการ แต่ปัจจุบันบริษัทมีบริการอื่นที่คล้ายกันมาให้ใช้งานแล้วเช่น SageMaker GroundTruth ที่เชื่อมต่อกับบริการ crowdsourcing ภายนอกได้\nMechanical Turk เปิดตัวมาตั้งแต่ปี 2005 แต่ในช่วงหลังความนิยมลดลงไปมาก จนนำมาสู่การปิดรับลูกค้าใหม่ในที่สุด\nที่มา: The Register\narjin\nSun, 05/07/2026 - 11:12",
+    "pubDate": "Sun, 05 Jul 2026 04:12:55 +0000",
+    "source": "Blognone",
+    "category": "General",
+    "thumbnail": null
+  },
+  {
+    "id": "https://it24hrs.com/?p=168471",
+    "title": "X เปิดตัว Live Studio เครื่องมือไลฟ์สดสุดล้ำ พร้อมทุ่มงบ 1 ล้านดอลลาร์! เอาใจสายไลฟ์สด",
+    "link": "https://it24hrs.com/2026/x-live-studio-in-x-creator-studio/",
+    "content": "X เปิดตัว Live Studio เครื่องมือไลฟ์สดสุดล้ำ รุกตลาดไลฟ […]\nThe post X เปิดตัว Live Studio เครื่องมือไลฟ์สดสุดล้ำ พร้อมทุ่มงบ 1 ล้านดอลลาร์! เอาใจสายไลฟ์สด appeared first on iT24Hrs by ปานระพี.",
+    "pubDate": "Sun, 05 Jul 2026 01:52:00 +0000",
+    "source": "iT24Hrs",
+    "category": "Security",
+    "thumbnail": null
+  },
+  {
+    "id": "151063 at https://www.blognone.com",
+    "title": "[ไม่ยืนยัน] Apple ขอให้รัฐบาลสหรัฐอนุมัติซื้อแรมจากบริษัทจีน เพื่อใช้กับ iPhone ที่ขายในจีน หวังช่วยลดปัญหาแรมขาดตลาด",
+    "link": "https://www.blognone.com/node/151063",
+    "content": "[ไม่ยืนยัน] Apple ขอให้รัฐบาลสหรัฐอนุมัติซื้อแรมจากบริษัทจีน เพื่อใช้กับ iPhone ที่ขายในจีน หวังช่วยลดปัญหาแรมขาดตลาด\n\n  \nBody\nข่าวแรมแพงประจำวันนี้ มีรายงานว่าแอปเปิลกำลังเจรจากับรัฐบาลสหรัฐ เพื่อขอการอนุมัติให้สามารถซื้อแรมจากบริษัทผู้ผลิตจีนสองรายใหญ่คือ ChangXin Memory Technologies (CXMT) และ Yangtze Memory Technologies (YMTC) เนื่องจากทั้งสองบริษัทอยู่ในรายชื่อบริษัทจีนที่อเมริกาแบน\nอย่างไรก็ตามแรมจากสองบริษัทจีนนี้ แอปเปิลระบุว่าจะนำมาใส่กับอุปกรณ์อย่าง iPhone ที่ผลิตและขายในประเทศจีนเท่านั้น ไม่มีการนำมาขายในพื้นที่อื่น โดยแอปเปิลให้เหตุผลว่าหากรัฐบาลอนุญาตจะช่วยลดปัญหาแรมขาดตลาดที่กระทบกับสินค้าอิเล็กทรอนิกส์ในตอนนี้ ซึ่งแอปเปิลก็เพิ่งประกาศราคาสินค้าหลายรายการไป\nที่มา: The Information\narjin\nSat, 04/07/2026 - 14:43",
+    "pubDate": "Sat, 04 Jul 2026 07:43:55 +0000",
+    "source": "Blognone",
+    "category": "General",
+    "thumbnail": null
+  },
+  {
+    "id": "151065 at https://www.blognone.com",
+    "title": "Cloudflare เพิ่มมาตรการป้องกันบอตดูดเนื้อหาเทรน AI - ถ้าเป็นบอตทำงานหลายอย่างก็จะถูกบล็อกเช่นกัน",
+    "link": "https://www.blognone.com/node/151065",
+    "content": "Cloudflare เพิ่มมาตรการป้องกันบอตดูดเนื้อหาเทรน AI - ถ้าเป็นบอตทำงานหลายอย่างก็จะถูกบล็อกเช่นกัน\n\n  \nBody\nCloudflare ประกาศแนวทางต่อสู้กับบอต AI ที่เข้ามาดูดเนื้อหาของเว็บไซต์จนกระทบกับทราฟิกของเว็บไซต์ เพิ่มเติมจากรูปแบบที่ประกาศไว้เมื่อปีที่แล้ว โดยบอกว่าปัจจุบันผู้พัฒนาบอตดูดเนื้อหาหลายรายกำหนดคุณลักษณะของบอตแบบทำงานได้หลายอย่าง ทำให้ไม่สามารถแยกบอตแบบเดิม ที่เก็บข้อมูลไปทำ Index ซึ่งเว็บไซต์ยังได้ทราฟิกต่อไป กับบอตยุค AI ที่นำข้อมูลไปฝึกฝนและไม่เกิดทราฟิกกับเว็บไซต์อีก ซึ่ง Cloudflare ยังคงนำเสนอแนวทางที่ผู้พัฒนาต้องจ่ายเงินให้เว็บไซต์ที่อนุญาตให้บอตมาดูดเนื้อหาไปฝึก AI ได้\nนโยบายใหม่ซึ่งจะมีผลตั้งแต่ 15 กันยายน 2026 เป็นต้นไป Cloudflare จะกำหนดค่าเริ่มต้นในการแยกพฤติกรรมบอตเป็น 3 ประเภทคือ Search (บอตจัด index เว็บยังได้ทราฟิก), Agent (บอตที่ทำงานแทนคน) และ Training (บอตเก็บข้อมูลไปฝึกฝนโมเดล) โดยบอตแบบ Agent และ Training จะถูกบล็อกเป็นค่าเริ่มต้นในหน้าเว็บที่มีโฆษณา (ซึ่งต้องการทราฟิก) แต่บอต Search ยังเข้ามาได้\nCloudflare บอกว่าแนวทางนี้ ทำเพื่อกดดันให้บอตจากบริษัทเทคโนโลยีใหญ่หลายรายที่ยังทำงานหลายแบบ เช่น Googlebot, BingBot หรือ Applebot ซึ่งมีทั้ง Search และ Training ต้องระบุฟังก์ชันของบอตให้ชัดเจน หากเว็บไซต์นั้นเลือกบล็อก Training ไว้ แล้วบอตทำงานหลายอย่าง ก็จะถูกบล็อกเช่น แต่ฝั่งเจ้าของเว็บไซต์ก็สามารถเลือกได้ว่าจะป้องกันหรือไม่\nที่มา: Cloudflare\narjin\nSat, 04/07/2026 - 13:50",
+    "pubDate": "Sat, 04 Jul 2026 06:50:12 +0000",
+    "source": "Blognone",
+    "category": "General",
+    "thumbnail": null
+  },
+  {
+    "id": "151064 at https://www.blognone.com",
+    "title": "[ลือ] Anthropic พูดคุยกับ Samsung เรื่องการผลิตชิปสำหรับประมวลผล AI",
+    "link": "https://www.blognone.com/node/151064",
+    "content": "[ลือ] Anthropic พูดคุยกับ Samsung เรื่องการผลิตชิปสำหรับประมวลผล AI\n\n  \nBody\nมีรายงานว่า Anthropic ได้หารือกับซัมซุงเรื่องการให้ผลิตชิปสำหรับใช้ในงาน AI อย่างไรก็ตามยังไม่มีรายละเอียดว่าชิปที่ Anthropic สนใจนั้นจะนำมารองรับงานกลุ่มใด และ Anthropic มีแผนติดตั้งอย่างไร\nตัวแทนของ Anthropic ชี้แจงข่าวนี้ว่าบริษัทมีการกระจายการใช้งานทรัพยากรประมวลผล AI จากผู้ให้บริการต่าง ๆ ที่มีสแต็กฮาร์ดแวร์ต่างกันอยู่แล้วทั้ง กูเกิล, Amazon, NVIDIA และยังคงแนวทางกระจายสแต็กฮาร์ดแวร์นี้ต่อไป ส่วนข่าวการหารือกับซัมซุงนั้นบริษัทบอกว่าไม่มีรายละเอียดที่จะพูดถึงตอนนี้\nที่ผ่านมาบริษัทเทคโนโลยีรายใหญ่ต่างหันมาพัฒนาชิปประมวลผล AI เพื่อรองรับการทำงานกับโมเดลของตนด้วยต้นทุนที่ต่ำลง โดย OpenAI ก็เพิ่งเปิดตัวชิป Jalapeño ที่พัฒนาร่วมกับ Broadcom ไปในสัปดาห์ที่แล้ว\nที่มา: TechCrunch\narjin\nSat, 04/07/2026 - 13:23",
+    "pubDate": "Sat, 04 Jul 2026 06:23:23 +0000",
+    "source": "Blognone",
+    "category": "General",
+    "thumbnail": null
+  },
+  {
+    "id": "151062 at https://www.blognone.com",
+    "title": "Shuhei Yoshida บอกประสิทธิภาพ Steam Machine เหมือนย้อนกลับไปยุค PS4",
+    "link": "https://www.blognone.com/node/151062",
+    "content": "Shuhei Yoshida บอกประสิทธิภาพ Steam Machine เหมือนย้อนกลับไปยุค PS4\n\n  \nBody\nShuhei Yoshida อดีตหัวหน้า PlayStation Studios ที่ลาออกเมื่อปี 2024 โพสต์เล่าว่าเขามีโอกาสลองเล่น Steam Machine แล้ว ซึ่งน่าผิดหวังเพราะประสิทธิภาพต่อราคาไม่ได้ดีอย่างที่ควรจะเป็น\nYoshida วิจารณ์ประสิทธิภาพการรันเกม 3D ว่าค่อนข้างธรรมดา และการกำหนดความละเอียดเริ่มต้นที่ 1080p ก็เหมือนย้อนยุคกลับไปสมัย PS4 ภาพรวมคือการได้เล่นเกม Steam บนทีวีจอใหญ่เป็นเรื่องดี แต่ด้วยราคาแบบนี้ก็ไปแนะนำคนอื่นซื้อได้ยาก เว้นแต่ซื้อมาใช้ทดสอบเท่านั้น\nอย่างไรก็ตาม เขาชม UI ว่าใช้งานง่าย, การบูตเครื่องโดยกดปุ่มบนจอย Steam Controller เป็นฟีเจอร์เด่น แม้ตัวก้านโยกของ Steam Controller \"หลวม\" ไปนิดในความรู้สึกของเขา และทัชแพดบนจอยก็ใช้งานยาก\nThoughts after a few hours of playing with Steam Machine.- 3D performance is just…meh.- The system recommends to default to 1080p - am I going back to PS4 days?- Some games take a looooooong time to boot, what is it doing?- System UI is easy to use.- Being able to boot up… pic.twitter.com/qQL93AALpZ\n— Shuhei Yoshida (@yosp) July 2, 2026\n\n\n          \nmk\nSat, 04/07/2026 - 11:08",
+    "pubDate": "Sat, 04 Jul 2026 04:08:23 +0000",
+    "source": "Blognone",
+    "category": "General",
+    "thumbnail": null
+  },
+  {
+    "id": "https://it24hrs.com/?p=168451",
+    "title": "COMMART ULTRAFORCE  จัดโปรแรงสู้วิกฤต RAM และ SSD ขาดตลาด",
+    "link": "https://it24hrs.com/2026/commart-ultra-force-at-bitec-now/",
+    "content": "COMMART ULTRAFORCE จัดโปรแรงสู้วิกฤตสินค้าไอทีราคาแพง โ […]\nThe post COMMART ULTRAFORCE  จัดโปรแรงสู้วิกฤต RAM และ SSD ขาดตลาด appeared first on iT24Hrs by ปานระพี.",
+    "pubDate": "Sat, 04 Jul 2026 02:21:14 +0000",
+    "source": "iT24Hrs",
+    "category": "Security",
+    "thumbnail": null
+  },
+  {
+    "id": "https://www.techtalkthai.com/?p=167464",
+    "title": "[Video]  WatchGuard Webinar : Zero Trust Made Simple",
+    "link": "https://www.techtalkthai.com/rerun-watchguard-webinar-zero-trust-made-simple/",
+    "content": "ในอดีต การวางระบบ Zero Trust Architecture มักถูกมองว่าเป็น ‘ยาขม’ ของฝ่ายไอทีและองค์กรจำนวนมาก เพราะแนวคิดที่ต้อง ‘ไม่เชื่อใจใคร และต้องตรวจสอบเสมอ’ นั้น มักตามมาด้วยความซับซ้อนยุ่งเหยิงในการบริหารจัดการ ในงาน WatchGuard Webinar ครั้งนี้ท่านจะได้รับชมกับแนวทางที่ทำให้ Zero Trust นั้นเป็นไปได้ง่ายขึ้น ซึ่งเราได้นำวีดีโอย้อนหลังมาให้ท่านที่พลาดงานได้ติดตามกันอีกครั้งครับ องค์กรจำเป็นต้องผสมผสานซอฟต์แวร์จากหลากหลายผู้ผลิต (Multi-vendor) ตั้งแต่ระบบยืนยันตัวตน (MFA) การควบคุมอุปกรณ์ปลายทาง (Endpoint) ไปจนถึงการคัดกรองเครือข่าย (ZTNA) ซึ่งนอกจากจะทำให้งบประมาณบานปลายและควบคุมได้ยากแล้ว ความยุ่งยากเหล่านี้ยังส่งผลกระทบต่อประสบการณ์ใช้งานของพนักงาน จนกลายเป็นอุปสรรคต่อความคล่องตัวในการทำงานขององค์กร WatchGuard เปลี่ยนเกมการรักษาความปลอดภัยด้วยการทำให้ Zero Trust เป็นเรื่องง่ายและเข้าถึงได้จริงภายใต้ WatchGuard Cloud แพลตฟอร์มเดียวจบ ไม่ต้องปวดหัวกับการเชื่อมต่อระบบจากหลากหลายค่าย ด้วยเทคโนโลยีอัจฉริยะ Zero-Trust Application Service ที่ตรวจสอบและคัดกรองทุกแอปพลิเคชันอย่างเข้มงวด ผสานการยืนยันตัวตนที่แม่นยำ (MFA) และการปกป้องเครือข่ายที่ครอบคลุม ช่วยให้องค์กรสามารถบังคับใช้นโยบายความปลอดภัยได้อย่างรวดเร็วและมีประสิทธิภาพสูงสุด มาร่วมสัมผัสประสบการณ์การรักษาความปลอดภัยยุคใหม่ที่ทรงพลังแต่เรียบง่ายกับหัวข้อ Webinar ในครั้งนี้ โดยท่านจะได้เรียนรู้กับ Best Practice ของการทำ Zero Trust ความท้าทายของการ Implement Zero Trust ในทางปฏิบัติ โซลูชัน …",
+    "pubDate": "Fri, 03 Jul 2026 15:08:35 +0000",
+    "source": "TechTalk Thai",
+    "category": "General",
+    "thumbnail": null
+  },
+  {
+    "id": "https://techsauce.co/news/muang-thai-life-hospital-awards-2025",
+    "title": "เมืองไทยประกันชีวิต จัดพิธีมอบรางวัลเกียรติยศ   “Muang Thai Life Assurance Hospital Awards 2025” แก่โรงพยาบาลคู่สัญญา  มุ่งยกระดับมาตรฐานบริการที่เป็นเลิศในทุกมิติเพื่อลูกค้าคนสำคัญ",
+    "link": "https://techsauce.co/news/muang-thai-life-hospital-awards-2025",
+    "content": "บริษัท เมืองไทยประกันชีวิต จำกัด (มหาชน) จัดพิธีมอบรางวัลเกียรติยศ “Muang Thai Life Assurance Hospital Awards 2025” เพื่อเชิดชูเกียรติและยกย่องโรงพยาบาลคู่สัญญาที่มีมาตรฐานการให้บริการที่เป็นเลิศ มีความมุ่งมั่นในการพัฒนาประสิทธิภาพการทำงานในทุกด้าน",
+    "pubDate": "Fri, 03 Jul 2026 19:32:56 +0700",
+    "source": "Techsauce",
+    "category": "General",
+    "thumbnail": "https://storage.googleapis.com/techsauce-prod/ugc/uploads/2026/7/1783081892_mtl-3.webp"
+  },
+  {
+    "id": "https://techsauce.co/healthtech/healthspan-ai-body-mind-challenges",
+    "title": "AI ร่างกาย จิตใจ: ถอดสมการความท้าทายใหม่ในยุค Healthtech",
+    "link": "https://techsauce.co/healthtech/healthspan-ai-body-mind-challenges",
+    "content": "ถอดสมการความท้าทายยุค Healthtech! จาก Longevity สู่ Healthspan และ Joyspan เมื่อ AI กำลังเข้ามาเปลี่ยนเกมการดูแลสุขภาพกายและใจให้ดียิ่งขึ้น มาร่วมหาคำตอบว่า AI เป็น Jarvis ให้สุขภาพกายได้ แต่จะเป็น GPS นำทางให้สุขภาพจิตได้จริงหรือไม่?",
+    "pubDate": "Fri, 03 Jul 2026 17:19:32 +0700",
+    "source": "Techsauce",
+    "category": "General",
+    "thumbnail": "https://storage.googleapis.com/techsauce-prod/ugc/uploads/2026/7/1783073922_Healthspan_P.2.webp"
+  },
+  {
+    "id": "https://techsauce.co/news/meta-pocket-vibe-coded-gaming-app",
+    "title": "Meta ซุ่มเปิดตัว Pocket แอปเกมสาย Vibe Coding พิมพ์คำสั่ง AI ก็สร้างมินิเกมเองได้ทันที!",
+    "link": "https://techsauce.co/news/meta-pocket-vibe-coded-gaming-app",
+    "content": "Meta เปิดตัว Pocket แอปเกมสาย Vibe Coding แบบเงียบๆ ให้ผู้ใช้สร้างมินิเกมและแอปอินเทอร์แอคทีฟด้วยการพิมพ์คำสั่ง AI พร้อมฟีดแชร์ผลงาน ผลพวงจากดีลดึงทีม Gizmo อดีตวิศวกร Snapchat เข้าหน่วย Superintelligence Labs เมื่อต้นปี",
+    "pubDate": "Fri, 03 Jul 2026 15:47:55 +0700",
+    "source": "Techsauce",
+    "category": "General",
+    "thumbnail": "https://storage.googleapis.com/techsauce-prod/ugc/uploads/2026/7/1783067688_meta_Pocket_800.webp"
+  },
+  {
+    "id": "https://it24hrs.com/?p=168443",
+    "title": "แมลงสาบไซบอร์กดำน้ำ ฮีโร่ที่อาจช่วยชีวิตคุณในอนาคต! ",
+    "link": "https://it24hrs.com/2026/cyborg-cockroaches/",
+    "content": "แมลงสาบไซบอร์กดำน้ำ การก้าวข้ามขีดจำกัดของเทคโนโลยีชีวภ […]\nThe post แมลงสาบไซบอร์กดำน้ำ ฮีโร่ที่อาจช่วยชีวิตคุณในอนาคต!  appeared first on iT24Hrs by ปานระพี.",
+    "pubDate": "Fri, 03 Jul 2026 08:34:46 +0000",
+    "source": "iT24Hrs",
+    "category": "Security",
+    "thumbnail": null
+  },
+  {
+    "id": "https://techsauce.co/healthtech/healthtech-spearh-precision-medicine",
+    "title": "จากการแพทย์ที่ 'รอให้ป่วยก่อน' สู่การแพทย์ที่ทำนายล่วงหน้า รวม 3 สตาร์ตอัปไทยที่ผลักดันเรื่องการรักษาแบบแม่นยำ",
+    "link": "https://techsauce.co/healthtech/healthtech-spearh-precision-medicine",
+    "content": "โมเดลการแพทย์ที่เราคุ้นเคยมาตลอดคือ ป่วยก่อน แล้วค่อยรักษา รอจนมีอาการ ไปหาหมอ ตรวจ แล้วจึงเริ่มรักษา ปัญหาคือกับโรคหลายชนิด โดยเฉพาะมะเร็ง เมื่อแสดงอาการชัดเจน มักหมายถึงโรคเดินทางมาไกลแล้ว และทางเลือกในการรักษาก็แคบลง",
+    "pubDate": "Fri, 03 Jul 2026 14:51:05 +0700",
+    "source": "Techsauce",
+    "category": "General",
+    "thumbnail": "https://storage.googleapis.com/techsauce-prod/ugc/uploads/2026/7/1782898129_spear-h-article-3800.webp"
+  },
+  {
+    "id": "https://techsauce.co/news/true-alpha-internship-2026-innovation-sandbox",
+    "title": "ซีพี-ทรู ปั้นผู้นำรุ่นใหม่ผ่าน True Alpha Internship 2026  เปลี่ยนการฝึกงานสู่สนามทดลองนวัตกรรมด้วยโจทย์ธุรกิจจริง",
+    "link": "https://techsauce.co/news/true-alpha-internship-2026-innovation-sandbox",
+    "content": "ซีพี-ทรู เดินหน้าโครงการ True Alpha Internship 2026 เปลี่ยนการฝึกงานสู่ Innovation Sandbox คัด 26 นิสิตนักศึกษาจากผู้สมัครกว่า 600 คน แก้โจทย์ธุรกิจจริงด้าน AI Optimization และ Physical AI ตลอด 8 สัปดาห์ พร้อมโอกาสต่อยอดสู่ True Next Gen",
+    "pubDate": "Fri, 03 Jul 2026 14:39:14 +0700",
+    "source": "Techsauce",
+    "category": "General",
+    "thumbnail": "https://storage.googleapis.com/techsauce-prod/ugc/uploads/2026/7/1783064100_True_Alpha_Internship_2026_800.webp"
   },
   {
     "id": "https://www.techtalkthai.com/?p=167440",
@@ -230,24 +350,44 @@
     "thumbnail": "https://www.techtalkthai.com/wp-content/uploads/2026/07/SearchInform-Webinar-640x338.png"
   },
   {
-    "id": "151050 at https://www.blognone.com",
-    "title": "Microsoft Teams เพิ่มระบบตรวจสอบ \"บ็อท AI จดโน้ต\" ก่อนอนุญาตให้เข้าห้องประชุม",
-    "link": "https://www.blognone.com/node/151050",
-    "content": "Microsoft Teams เพิ่มระบบตรวจสอบ \"บ็อท AI จดโน้ต\" ก่อนอนุญาตให้เข้าห้องประชุม\n\n  \nBody\nในยุคที่ \"บ็อท AI ช่วยจดโน้ตการประชุม\" กำลังได้รับความนิยมมากขึ้นเรื่อยๆ ก็สร้างปัญหาใหม่ตามมา คือ ความกังวลในแง่ข้อมูลรั่วไหล\nMicrosoft Teams จึงเพิ่มฟีเจอร์ให้ทันบ็อท AI เหล่านี้ โดยเพิ่มระบบตรวจจับบ็อทที่แม่นยำขึ้น ใช้ข้อมูลจากหลายๆ ส่วนประกอบกัน แทนการทดสอบด้วย CAPTHCHA เพียงอย่างเดียวเหมือนในอดีต และไมโครซอฟท์ยังเปิดช่อง Teams Bot Identification Program ให้บริษัทผู้สร้างบ็อทเหล่านี้มาขึ้นทะเบียนบ็อทให้ไมโครซอฟท์รู้จัก เพื่อให้แยกแยะได้ว่าเป็นบ็อทสายขาว หรือบ็อทสายดำที่มาแอบสืบความลับในห้องประชุม\nฝั่งแอดมินองค์กร ก็สามารถตั้งค่าได้ว่าจะอนุญาตให้บ็อทเข้าห้องประชุมได้อย่างไร และเห็นข้อมูล \"บ็อทที่เสี่ยง\" เป็นอันตราย ก่อนตัดสินใจว่าจะให้เข้าห้องด้วยหรือไม่\nที่มา - Microsoft\nmk\nFri, 03/07/2026 - 13:38",
-    "pubDate": "Fri, 03 Jul 2026 06:38:21 +0000",
-    "source": "Blognone",
-    "category": "General",
+    "id": "https://it24hrs.com/?p=168431",
+    "title": "Humanoid ASEAN+ เริ่มต้นอย่างเป็นทางการ ผนึก 9 ประเทศ ลงนาม MOU ประวัติศาสตร์ ขับเคลื่อนระบบนิเวศ Humanoid & Embodied AI ของอาเซียน",
+    "link": "https://it24hrs.com/2026/site2026-humanoid-asean-mou/",
+    "content": "เมื่อวันที่ 25 มิถุนายน 2569 ภายในงาน SITE2026 (Global  […]\nThe post Humanoid ASEAN+ เริ่มต้นอย่างเป็นทางการ ผนึก 9 ประเทศ ลงนาม MOU ประวัติศาสตร์ ขับเคลื่อนระบบนิเวศ Humanoid & Embodied AI ของอาเซียน appeared first on iT24Hrs by ปานระพี.",
+    "pubDate": "Fri, 03 Jul 2026 06:38:37 +0000",
+    "source": "iT24Hrs",
+    "category": "Security",
     "thumbnail": null
   },
   {
-    "id": "151049 at https://www.blognone.com",
-    "title": "Meta ออกแอปใหม่ Pocket โซเชียลสร้างเกมด้วย vibe-coding",
-    "link": "https://www.blognone.com/node/151049",
-    "content": "Meta ออกแอปใหม่ Pocket โซเชียลสร้างเกมด้วย vibe-coding\n\n  \nBody\nMeta ออกแอปใหม่โดยไม่ได้มีการประกาศอย่างเป็นทางการ ชื่อแอปคือ Pocket ที่ผู้ใช้งานสามารถสร้างแอปหรือเกมขนาดเล็กไว้โต้ตอบด้วยการป้อนคำสั่ง AI ซึ่งแอปนี้พัฒนามาจาก Gizmo ที่ Meta ซื้อกิจการเมื่อต้นปี\nGizmo เป็นแอปที่มีการทำงานคล้ายกับ Pocket นั่นคือผู้ใช้งานสามารถสร้างมินิเกมภายในแอปแล้วแชร์ให้ผู้ติดตามได้ในหน้าฟีด\nในตอนนี้ Pocket มีให้ดาวน์โหลดผ่าน Google Play ของ Android เท่านั้น ยังไม่มีใน App Store ของ iOS\nที่มา: TechCrunch\narjin\nFri, 03/07/2026 - 12:38",
-    "pubDate": "Fri, 03 Jul 2026 05:38:48 +0000",
-    "source": "Blognone",
+    "id": "https://techsauce.co/news/boi-ev-investment-thailand-137-billion",
+    "title": "บีโอไอเผยยอดลงทุน EV ทะลุ 1.37 แสนล้าน ดันไทยฐานผลิตยานยนต์ไฟฟ้าภูมิภาค",
+    "link": "https://techsauce.co/news/boi-ev-investment-thailand-137-billion",
+    "content": "บีโอไอเผยยอดอนุมัติส่งเสริมการลงทุนในอุตสาหกรรมยานยนต์ไฟฟ้าไทยล่าสุด ณ เดือนพฤษภาคม 2569 อยู่ที่ 198 โครงการ มูลค่าเงินลงทุนรวมกว่า 137,000 ล้านบาท ครอบคลุมตั้งแต่การผลิตรถยนต์ไฟฟ้าทุกประเภท แบตเตอรี่ ชิ้นส่วนสำคัญ สถานีชาร์จไฟฟ้า ไปจนถึงบริการสับเปล",
+    "pubDate": "Fri, 03 Jul 2026 13:28:48 +0700",
+    "source": "Techsauce",
     "category": "General",
-    "thumbnail": null
+    "thumbnail": "https://storage.googleapis.com/techsauce-prod/ugc/uploads/2026/7/1783060021_boi-ev.webp"
+  },
+  {
+    "id": "https://techsauce.co/news/oic-insurtech-award-2026",
+    "title": "คปภ. เปิดโครงการ OIC InsurTech Award 2026 ผนึก 6 พันธมิตร  ปั้นคนรุ่นใหม่สร้างนวัตกรรมประกันภัยรับมือความเสี่ยงแห่งอนาคต",
+    "link": "https://techsauce.co/news/oic-insurtech-award-2026",
+    "content": "คปภ. เปิดโครงการ OIC InsurTech Award 2026 ผนึก 6 พันธมิตรภาครัฐ เอกชน สถาบันการศึกษา ปั้น Tech Talent พัฒนานวัตกรรมประกันภัยรับมือ 4 ความเสี่ยงแห่งอนาคต ทั้งสังคมสูงวัย ภัยพิบัติ และภัยไซเบอร์ สมัครได้ถึง 31 ก.ค. 2569",
+    "pubDate": "Fri, 03 Jul 2026 13:14:01 +0700",
+    "source": "Techsauce",
+    "category": "General",
+    "thumbnail": "https://storage.googleapis.com/techsauce-prod/ugc/uploads/2026/7/1783059094_OIC_InsurTech_Award_2026_800.webp"
+  },
+  {
+    "id": "https://techsauce.co/ai/microsoft-frontier-company-ai-engineering",
+    "title": "Microsoft เปิดตัวองค์กร Microsoft Frontier Company ส่งวิศวกรบุกถึงออฟฟิศลูกค้า ช่วยองค์กร AI Transformation ได้ง่ายขึ้น",
+    "link": "https://techsauce.co/ai/microsoft-frontier-company-ai-engineering",
+    "content": "Microsoft ทุ่ม 2.5 พันล้านดอลลาร์ ตั้ง Microsoft Frontier Company ส่งวิศวกรและผู้เชี่ยวชาญ 6,000 คนฝังตัวในองค์กรลูกค้าทั่วโลก พา AI จากการทดลองสู่ผลลัพธ์ธุรกิจที่วัดได้จริง พร้อมสัญญาปกป้องข้อมูลและ IP ของลูกค้า ท้าชน Amazon, OpenAI และ Anthropic",
+    "pubDate": "Fri, 03 Jul 2026 12:45:31 +0700",
+    "source": "Techsauce",
+    "category": "General",
+    "thumbnail": "https://storage.googleapis.com/techsauce-prod/ugc/uploads/2026/7/1783057245_Microsoft_Frontier_Company_800.webp"
   },
   {
     "id": "https://www.techtalkthai.com/?p=167436",
@@ -310,6 +450,16 @@
     "thumbnail": "https://www.techtalkthai.com/wp-content/uploads/2026/07/Clickhouse_Partnership_Artical_Final_0021-scaled.jpg"
   },
   {
+    "id": "https://techsauce.co/news/thailand-ai-readiness-index-tari",
+    "title": "ครั้งแรกของไทย! สอวช. จับมือ AIS Academy และ IRIS เปิดตัว ‘TARI’ ดัชนีวัดความพร้อม AI ไทย หนุนธุรกิจแข่งขันในเศรษฐกิจโลก",
+    "link": "https://techsauce.co/news/thailand-ai-readiness-index-tari",
+    "content": "กระทรวงการอุดมศึกษา วิทยาศาสตร์ วิจัยและนวัตกรรม (อว.) โดย สอวช. ร่วมกับ AIS Academy และ IRIS Consulting จึงพัฒนา Thailand AI Readiness Index หรือ 'TARI' ดัชนีประเมินความพร้อมด้าน AI สำหรับองค์กรไทยครั้งแรกของประเทศ",
+    "pubDate": "Fri, 03 Jul 2026 08:26:04 +0700",
+    "source": "Techsauce",
+    "category": "General",
+    "thumbnail": "https://storage.googleapis.com/techsauce-prod/ugc/uploads/2026/7/1783052827_1200X800_%283%29.webp"
+  },
+  {
     "id": "https://www.techtalkthai.com/?p=167416",
     "title": "Microsoft เปิดตัว Microsoft Frontier Company ธุรกิจใหม่ด้าน AI Engineering ลงทุน 2,500 ล้านดอลลาร์",
     "link": "https://www.techtalkthai.com/microsoft-frontier-company-enterprise-ai-engineering/",
@@ -330,36 +480,6 @@
     "thumbnail": "https://www.techtalkthai.com/wp-content/uploads/2024/01/techtalkthai_2022_data_center_01_shutterstock-640x400.jpg"
   },
   {
-    "id": "151048 at https://www.blognone.com",
-    "title": "VoidZero ปล่อย Vite+ คำสั่งรวมชุดสำหรับพัฒนาเว็บด้วย Vite เวอร์ชันเบต้า ",
-    "link": "https://www.blognone.com/node/151048",
-    "content": "VoidZero ปล่อย Vite+ คำสั่งรวมชุดสำหรับพัฒนาเว็บด้วย Vite เวอร์ชันเบต้า \n\n  \nBody\nVoidZero ผู้สร้าง Vite ที่เพิ่งถูก Cloudflare ซื้อบริษัทไป ปล่อยคำสั่ง Vite+ (vp) ในระดับเบต้า รวมคำสั่งพัฒนาเว็บด้วยเครื่องมือในชุดของ VoidZero ได้แก่\nvp dev คำสั่งรันเว็บเซิร์ฟเวอร์แบบ hot reload ด้วย Vite 8\nvp check เช็กฟอร์แมตโค้ดด้วย Oxfmt และ Oxlint\nvp test รันทดสอบเว็บด้วย Vitest\nvp build บิลด์โค้ดเว็บด้วย Vite 8\nvp pack แพ็กไลบรารีต่างๆ เข้าด้วยกันผ่าน tsdown\nvp run รันสคริปต์โดยตรง\nการรวมคำสั่งที่เคยแยกกันทำให้ทีมพัฒนาทำงานเป็นมาตรฐานเดียวกันได้ดีขึ้น คอนฟิกต่างๆ อยู่รวมกัน รวมถึงการจัดการระดับองค์กร เช่น ต้องการติดตั้ง CA ขององค์กรเองก็ทำได้ในคำสั่งเดียว\nทาง VoidZero ปล่อย Vite+ เมื่อต้นปีที่ผ่านมาและยอดดาวน์โหลดต่อเดือนก็สูงถึง 2.7 ล้านครั้งแล้ว หลังจากนี้จะเพิ่มฟีเจอร์ส่วนที่ขาดเพื่อให้กลายเป็นเวอร์ชันเสถียรต่อไป\nที่มา - [VoidZero](https://voidzero.dev/posts/announcing-vite-plus-beta\nlew\nThu, 02/07/2026 - 23:42",
-    "pubDate": "Thu, 02 Jul 2026 16:42:08 +0000",
-    "source": "Blognone",
-    "category": "General",
-    "thumbnail": null
-  },
-  {
-    "id": "151047 at https://www.blognone.com",
-    "title": "AWS เปิดบริการ AgentCore ในไทย",
-    "link": "https://www.blognone.com/node/151047",
-    "content": "AWS เปิดบริการ AgentCore ในไทย\n\n  \nBody\nAWS เพิ่มภูมิภาคที่รองรับบริการ Amazon Bedrock AgentCore แพลตฟอร์มสำหรับพัฒนา AI agent ในอีก 4 ภูมิภาค ได้แก่ กรุงเทพฯ, มาเลเซีย, มิลาน, และสเปน\nตัวบริการ AgentCore เป็นบริการโฮสต์ agent แบบจ่ายตามจริง เช่น บริการ serverless สำหรับรันโค้ด, บริการเบราว์เซอร์เพื่อให้ AI เข้าเว็บ, บริการค้นเว็บ, หรือบริการเก็บข้อมูล\nทาง AWS ระบุว่าการเปิดบริการในภูมิภาคเพิ่มขึ้นทำให้สามารถสร้างแอปพลิเคชันที่อยู่ใกล้ผู้ใช้ และลดเวลาหน่วง อย่างไรก็ดี โมเดลจำนวนมากใน Amazon Bedrock ยังเรียกใช้งานแบบระบุภูมิภาคไม่ได้\nที่มา - AWS\nlew\nThu, 02/07/2026 - 23:09",
-    "pubDate": "Thu, 02 Jul 2026 16:09:31 +0000",
-    "source": "Blognone",
-    "category": "General",
-    "thumbnail": null
-  },
-  {
-    "id": "151046 at https://www.blognone.com",
-    "title": "[ไม่ยืนยัน] OpenAI เสนอมอบหุ้น 5% ของบริษัท ให้รัฐบาลสหรัฐ",
-    "link": "https://www.blognone.com/node/151046",
-    "content": "[ไม่ยืนยัน] OpenAI เสนอมอบหุ้น 5% ของบริษัท ให้รัฐบาลสหรัฐ\n\n  \nBody\nมีรายงานจาก Financial Times บอกว่า OpenAI ได้เสนอมอบหุ้น 5% ของบริษัทให้กับรัฐบาลสหรัฐ ซึ่งปัจจัยหลักน่าจะมาจากต้องการลดแรงกดดันการควบคุม AI จากรัฐบาล ซึ่งถ้า OpenAI มอบหุ้นนี้ให้จริง มูลค่าจะอยู่ที่ประมาณ 4.26 หมื่นล้านดอลลาร์ ตามมูลค่ากิจการล่าสุด 8.52 แสนล้านดอลลาร์\nซีอีโอ Sam Altman ซึ่งนำเสนอไอเดียนี้กับรัฐบาลสหรัฐให้เหตุผลหนึ่งว่า การยกผลประโยชน์ส่วนหนึ่งของบริษัทต่อสาธารณะ ซึ่งประชาชนได้ประโยชน์ร่วมน่าจะเป็นแนวทางดีที่สุด ไอเดียนี้ยังถูกส่งต่อไปยังบริษัทผู้พัฒนา AI รายอื่นด้วย แต่ยังไม่มีข้อมูลว่าบริษัทอื่นมีมุมมองอย่างไร\nในช่วงที่ผ่านมารัฐบาลสหรัฐได้แสดงออกถึงความกังวลโดยเฉพาะความปลอดภัยของโมเดลปัญญาประดิษฐ์ที่พัฒนาออกมา กรณีล่าสุดคือการสั่งระงับ Mythos 5 และ Fable 5 ของ Anthropic ชั่วคราว ซึ่งตอนนี้อนุญาตให้เผยแพร่ต่ออีกครั้งแล้ว เรื่องนี้จึงทำให้บริษัท AI ต้องทำงานใกล้ชิดกับหน่วยงานกำกับดูแลมากขึ้น\nปัจจุบันรัฐบาลสหรัฐถือหุ้นในบริษัทเทคโนโลยีหลายแห่ง เช่น อินเทล ที่มีหุ้น 10% หรือมีการร่วมลงทุนในบริษัทด้านเทคโนโลยีควอนตัมหลายแห่งรวมถึง Anderon ของไอบีเอ็ม\nที่มา: CNBC\narjin\nThu, 02/07/2026 - 19:05",
-    "pubDate": "Thu, 02 Jul 2026 12:05:19 +0000",
-    "source": "Blognone",
-    "category": "General",
-    "thumbnail": null
-  },
-  {
     "id": "https://techsauce.co/news/scb10x-redefine-tomorrow-2026-digital-assets-web3",
     "title": "SCB 10X เผย 5 เทรนด์จาก REDeFiNE TOMORROW 2026 เมื่อ Stablecoins และ Tokenization เริ่มถูกใช้งานจริง",
     "link": "https://techsauce.co/news/scb10x-redefine-tomorrow-2026-digital-assets-web3",
@@ -367,7 +487,7 @@
     "pubDate": "Thu, 02 Jul 2026 18:47:02 +0700",
     "source": "Techsauce",
     "category": "General",
-    "thumbnail": "https://storage.googleapis.com/techsauce-prod/ugc/uploads/2026/7/1782992695_scb-5-trends2.webp"
+    "thumbnail": "https://storage.googleapis.com/techsauce-prod/ugc/uploads/2026/7/1783143045_scx-123.webp"
   },
   {
     "id": "https://www.techtalkthai.com/?p=167398",
@@ -380,26 +500,6 @@
     "thumbnail": "https://www.techtalkthai.com/wp-content/uploads/2026/07/kasperskyxncsa-640x335.png"
   },
   {
-    "id": "https://techsauce.co/healthtech/healthtech-the-next-big-wave",
-    "title": "ส่องโลก ‘เทคโนโลยีสุขภาพ’ คลื่นลูกใหม่ ที่จะใหญ่กว่า AI และพลิกชีวิตเราไปตลอดกาล",
-    "link": "https://techsauce.co/healthtech/healthtech-the-next-big-wave",
-    "content": "เจาะลึก 6 แกนหลัก HealthTech คลื่นลูกใหม่ที่ใหญ่กว่า AI พลิกโฉมหน้าสาธารณสุขและอนาคตมนุษยชาติ ถอดรหัสโอกาสและขุมทรัพย์ระดับ Trillion-Dollar ไปกับ Techsauce",
-    "pubDate": "Thu, 02 Jul 2026 17:17:19 +0700",
-    "source": "Techsauce",
-    "category": "General",
-    "thumbnail": "https://storage.googleapis.com/techsauce-prod/ugc/uploads/2026/7/1782987334_Healthspan_%E0%B8%9B%E0%B8%81_6.webp"
-  },
-  {
-    "id": "https://techsauce.co/video/exec-insight-wef-japan-2026",
-    "title": "ญี่ปุ่นสร้าง Startup Ecosystem อย่างไร? บทเรียนจาก Sushi Tech Tokyo l Exec Insight EP. 98",
-    "link": "https://techsauce.co/video/exec-insight-wef-japan-2026",
-    "content": "Techsauce บินตรงสู่โตเกียว คุยกับ คุณ Bing Chomprasob — Chief Representative Officer ของ World Economic Forum ประจำญี่ปุ่น เพื่อหาคำตอบว่าเบื้องหลัง “สูตรลับ” ของญี่ปุ่นคืออะไร",
-    "pubDate": "Thu, 02 Jul 2026 17:00:00 +0700",
-    "source": "Techsauce",
-    "category": "General",
-    "thumbnail": null
-  },
-  {
     "id": "https://www.techtalkthai.com/?p=167386",
     "title": "AskMe ตอกย้ำมาตรฐานการให้บริการระดับสากล ด้วย ISO/IEC 27001 และ ISO/IEC 20000-1 พร้อมยกระดับการให้บริการด้วย Enterprise Service Platform เพื่อธุรกิจยุคดิจิทัล [PR]",
     "link": "https://www.techtalkthai.com/askme-iso-iec-27001-iso-iec-20000-1-enterprise-service-platform-pr/",
@@ -410,14 +510,14 @@
     "thumbnail": "https://www.techtalkthai.com/wp-content/uploads/2026/07/1200x628-640x335.png"
   },
   {
-    "id": "https://techsauce.co/news/meta-compute-cloud-business-ai-infrastructure",
-    "title": "Meta เตรียมเปิดธุรกิจคลาวด์ 'Meta Compute' เปิดขายพลังประมวลผล AI ท้าชน AWS, Google Cloud, Azure",
-    "link": "https://techsauce.co/news/meta-compute-cloud-business-ai-infrastructure",
-    "content": "Meta วางแผนเปิดธุรกิจคลาวด์ 'Meta Compute' ขายพลังประมวลผล AI และสิทธิ์เข้าถึงโมเดล Muse Spark ท้าชน AWS, Google Cloud และ Azure หวังสร้างรายได้จากเงินลงทุนโครงสร้างพื้นฐาน AI กว่า 182,900 ล้านดอลลาร์ ตามรอยดีลขายพลังประมวลผลของ SpaceX",
-    "pubDate": "Thu, 02 Jul 2026 16:22:33 +0700",
-    "source": "Techsauce",
-    "category": "General",
-    "thumbnail": "https://storage.googleapis.com/techsauce-prod/ugc/uploads/2026/7/1782983938_Meta_Compute_800.webp"
+    "id": "https://it24hrs.com/?p=168426",
+    "title": "PlayStation ประกาศเลิกผลิตแผ่นเกม มุ่งสู่ดิจิทัลเต็มตัว เริ่มปี 2028  ร้านขายแผ่นเกมและผู้สร้างเกมแห่คัดค้าน",
+    "link": "https://it24hrs.com/2026/sony-stop-making-playstation-psysical-discs-2028/",
+    "content": "ถือเป็นข่าวใหญ่ที่สร้างความสั่นสะเทือนไปทั่ววงการเกม เม […]\nThe post PlayStation ประกาศเลิกผลิตแผ่นเกม มุ่งสู่ดิจิทัลเต็มตัว เริ่มปี 2028  ร้านขายแผ่นเกมและผู้สร้างเกมแห่คัดค้าน appeared first on iT24Hrs by ปานระพี.",
+    "pubDate": "Thu, 02 Jul 2026 09:02:37 +0000",
+    "source": "iT24Hrs",
+    "category": "Security",
+    "thumbnail": null
   },
   {
     "id": "https://www.techtalkthai.com/?p=167263",
@@ -460,16 +560,6 @@
     "thumbnail": "https://www.techtalkthai.com/wp-content/uploads/2026/07/Meta-data-center-Louisiana.png"
   },
   {
-    "id": "https://techsauce.co/tech-and-biz/eric-tse-cttq-ai-medical-innovation",
-    "title": "คุยกับ Eric Tse ผู้สืบทอดบริษัทยาเบอร์ต้นจีน เจาะสูตรบทเรียน 20 ปี SBP Group สู่ความสำเร็จในตลาดโลก",
-    "link": "https://techsauce.co/tech-and-biz/eric-tse-cttq-ai-medical-innovation",
-    "content": "Techsauce พาคุยกับ Eric Tse กิ่งก้าน CP ฝั่งจีน ผู้สร้างบริษัทยาเบอร์ต้นของจีน พร้อมเผยยุทธศาสตร์ Mutual Recognition ทางลัดที่จะปลดล็อกให้สตาร์ทอัพและบริษัทยาไทย สเกลสู่ตลาดจีนแสนล้าน",
-    "pubDate": "Thu, 02 Jul 2026 13:22:58 +0700",
-    "source": "Techsauce",
-    "category": "General",
-    "thumbnail": "https://storage.googleapis.com/techsauce-prod/ugc/uploads/2026/7/1782973108_Eric_Tse_1.webp"
-  },
-  {
     "id": "https://www.techtalkthai.com/?p=167304",
     "title": "เบื้องหลังความอร่อยระดับพันล้าน: เมื่อ KFC Thailand ใช้ Data + AI สร้าง “Brand Love” ผ่านขุมพลัง Snowflake",
     "link": "https://www.techtalkthai.com/interview-with-kfc-thailand-using-data-and-ai-to-create-brand-love-through-the-power-of-snowflake/",
@@ -480,24 +570,14 @@
     "thumbnail": "https://www.techtalkthai.com/wp-content/uploads/2026/07/KFC-Interview-2026-2.png"
   },
   {
-    "id": "https://techsauce.co/news/google-nano-banana-2-lite-gemini-omni-flash",
-    "title": "Google เปิดตัว Nano Banana 2 Lite สร้างภาพใน 4 วินาที พร้อม Gemini Omni Flash โมเดลวิดีโอที่สั่งแก้ได้ด้วยการพิมพ์คุย",
-    "link": "https://techsauce.co/news/google-nano-banana-2-lite-gemini-omni-flash",
-    "content": "Google เปิดตัว Nano Banana 2 Lite โมเดลสร้างภาพ AI ที่เร็วและถูกที่สุดในตระกูล สร้างภาพใน 4 วินาที พร้อม Gemini Omni Flash โมเดลวิดีโอที่แก้ไขได้ผ่านบทสนทนา ราคาเท่า Veo 3.1 Fast เปิดให้นักพัฒนาใช้ผ่าน Gemini API และ Google AI Studio แล้ววันนี้",
-    "pubDate": "Thu, 02 Jul 2026 11:44:57 +0700",
-    "source": "Techsauce",
-    "category": "General",
-    "thumbnail": "https://storage.googleapis.com/techsauce-prod/ugc/uploads/2026/7/1782967401_Nano_Banana_2_Lite_800.webp"
-  },
-  {
-    "id": "https://techsauce.co/ai/gemini-spark-google-agentic-assistant-macos-launch",
-    "title": "Gemini Spark มาลง MacOS แล้ว สั่งงานจากมือถือให้เอเจนต์ทำงาน จัดไฟล์ ทำสเปรดชีตต่าง ๆ อัตโนมัติ",
-    "link": "https://techsauce.co/ai/gemini-spark-google-agentic-assistant-macos-launch",
-    "content": "Google เปิดตัว Gemini Spark บน macOS แล้ว เอเจนต์ AI ที่จัดการไฟล์ในเครื่อง สร้างสเปรดชีตจากเอกสาร เชื่อมต่อ Google Keep, Tasks, Canva, Dropbox พร้อมติดตามหุ้นและข่าวด่วนแบบเรียลไทม์ รองรับ MCP เปิดให้สมาชิก Google AI Ultra ในสหรัฐฯ ใช้ก่อน",
-    "pubDate": "Thu, 02 Jul 2026 10:31:26 +0700",
-    "source": "Techsauce",
-    "category": "General",
-    "thumbnail": "https://storage.googleapis.com/techsauce-prod/ugc/uploads/2026/7/1782962922_Gemini_Spark__800.webp"
+    "id": "https://it24hrs.com/?p=168420",
+    "title": "อันตรายของสกุชชี่คืออะไร อันตรายที่พ่อแม่ควรรู้ก่อนซื้อ",
+    "link": "https://it24hrs.com/2026/danger-of-squishy-toys-parents-should-know/",
+    "content": "อันตรายของสกุชชี่คืออะไร ถ้าพูดถึงของเล่นยอดฮิตในใจเด็ก […]\nThe post อันตรายของสกุชชี่คืออะไร อันตรายที่พ่อแม่ควรรู้ก่อนซื้อ appeared first on iT24Hrs by ปานระพี.",
+    "pubDate": "Thu, 02 Jul 2026 05:06:52 +0000",
+    "source": "iT24Hrs",
+    "category": "Security",
+    "thumbnail": null
   },
   {
     "id": "https://www.techtalkthai.com/?p=167346",
@@ -528,46 +608,6 @@
     "source": "TechTalk Thai",
     "category": "General",
     "thumbnail": "https://www.techtalkthai.com/wp-content/uploads/2026/06/graviton5-angled-hero-amazonnews-ck6926-640x360.jpg"
-  },
-  {
-    "id": "https://techsauce.co/saucy-thoughts/2-minute-rule-time-management",
-    "title": "รู้จัก 'กฎ 2 นาที' เทคนิคบริหารเวลา จัดการงานค้าง ลดนิสัยผัดวันประกันพรุ่ง",
-    "link": "https://techsauce.co/saucy-thoughts/2-minute-rule-time-management",
-    "content": "‘กฎ 2 นาที’ คือเทคนิคบริหารเวลาสำหรับคนที่ชอบดองงาน ผัดวันประกันพรุ่ง",
-    "pubDate": "Thu, 02 Jul 2026 02:35:53 +0700",
-    "source": "Techsauce",
-    "category": "General",
-    "thumbnail": "https://storage.googleapis.com/techsauce-prod/ugc/uploads/2026/7/1782934619_%E0%B8%9B%E0%B8%81%E0%B8%82%E0%B9%88%E0%B8%B2%E0%B8%A71200x800_%E0%B8%A1%E0%B8%B5%E0%B8%99_%2846%29.webp"
-  },
-  {
-    "id": "https://www.techtalkthai.com/?p=167318",
-    "title": "ทำไม Hitachi JP1/AJS3 ถึงเป็นกุญแจสำคัญของระบบ Hybrid Cloud Automation ในองค์กรใหญ่ [Guest Post]",
-    "link": "https://www.techtalkthai.com/hitachi-jp1-ajs3-hybrid-cloud-automation/",
-    "content": "ในยุค Digital Transformation สภาพแวดล้อมไอทีแบบ Hybrid Cloud ได้กลายเป็นมาตรฐานใหม่ของอุตสาหกรรมการผลิต หลายองค์กรเลือกเก็บระบบหลักที่ต้องการความเสถียรสูงสุดอย่าง ERP เช่น SAP, MES หรือระบบจัดการคลังสินค้า (WMS) ไว้ที่หลังบ้าน (On-premises) ในขณะเดียวกันก็นำแอปพลิเคชันรุ่นใหม่หรือระบบ Data Analytics ขึ้นไปไว้บน Cloud มองดูผิวเผินนี่คือโครงสร้างไอทีที่สมบูรณ์แบบ… แต่สำหรับทีม IT Operations มันคือจุดเริ่มต้นของความท้าทายครั้งใหญ่ในการจัดการ Workload Automation ปัญหาคือ เมื่อต่างสภาพแวดล้อม ต่างก็มีเครื่องมือตั้งเวลาทำงาน (Job Scheduler) เป็นของตัวเอง สิ่งที่ตามมาคือความกระจัดกระจาย หรือ Siloed Automation ทีมงานต้องคอยเปิดหน้าจอ Monitor สลับไปมา และบ่อยครั้งที่ระบบสองฝั่งจัดการ Workload ข้ามระบบกันไม่ได้ จนเกิดปัญหาข้อมูลสต็อกไม่ซิงค์ แผนการผลิตล่าช้า และกลายเป็น Human Error ที่ส่งผลกระทบต่อไลน์การผลิตจริงในที่สุด ท่ามกลางเทคโนโลยี Automation เกิดใหม่มากมาย ทำไมซอฟต์แวร์อย่าง Hitachi …",
-    "pubDate": "Wed, 01 Jul 2026 13:20:44 +0000",
-    "source": "TechTalk Thai",
-    "category": "General",
-    "thumbnail": "https://www.techtalkthai.com/wp-content/uploads/2026/07/Hitachi_JP1AJS3-FB-Banner.png"
-  },
-  {
-    "id": "https://techsauce.co/news/brown-university-ai-cheating-scandal",
-    "title": "Brown University พบนักศึกษาใช้ AI โกงข้อสอบ หลังได้คะแนนเต็มเกือบครึ่งห้อง",
-    "link": "https://techsauce.co/news/brown-university-ai-cheating-scandal",
-    "content": "ตอนนี้มีนักศึกษาจำนวนไม่น้อยใช้ AI ช่วยเรียน ช่วยทำการบ้าน แต่เรื่องจะเปลี่ยนไปทันทีถ้ามีการแอบใช้ AI ในระหว่างการสอบ ซึ่งเรื่องนี้ได้เกิดขึ้นจริงแล้วในหลายมหาวิทยาลัย",
-    "pubDate": "Wed, 01 Jul 2026 17:54:55 +0700",
-    "source": "Techsauce",
-    "category": "General",
-    "thumbnail": "https://storage.googleapis.com/techsauce-prod/ugc/uploads/2026/7/1782902927_%E0%B8%9B%E0%B8%81%E0%B8%82%E0%B9%88%E0%B8%B2%E0%B8%A71200x800_%E0%B8%A1%E0%B8%B5%E0%B8%99_%2846%29.webp"
-  },
-  {
-    "id": "https://techsauce.co/ai/cisco-ai-agents-security-network-infrastructure-thailand",
-    "title": "\"98% ขององค์กรไทยอยากใช้ AI Agents แต่มีแค่ 21% ที่พร้อมจริง\" คุยกับ Cisco เรื่อง Infrastructure และ Security ยุค AI",
-    "link": "https://techsauce.co/ai/cisco-ai-agents-security-network-infrastructure-thailand",
-    "content": "องค์กรไทยกำลังเร่งใช้ AI Agents แต่โครงสร้างพื้นฐานพร้อมแค่ไหน? คุยกับ Cisco ถึงโจทย์ใหญ่ของยุค AI ที่องค์กรต้องเร่งปรับ Infrastructure",
-    "pubDate": "Wed, 01 Jul 2026 16:16:22 +0700",
-    "source": "Techsauce",
-    "category": "General",
-    "thumbnail": "https://storage.googleapis.com/techsauce-prod/ugc/uploads/2026/7/1782897349_Website_%E0%B8%9B%E0%B8%81%E0%B8%82%E0%B9%88%E0%B8%B2%E0%B8%A71200x800_%287%29.webp"
   },
   {
     "id": "150944 at https://www.blognone.com",
