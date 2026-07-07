@@ -4,90 +4,80 @@
     "title": "แนวทางปฏิบัติการตั้งรหัสผ่านให้ปลอดภัยสำหรับบุคลากร",
     "link": "https://github.com/",
     "content": "1. รหัสผ่านต้องมีความยาวอย่างน้อย 8 ตัวอักษร\n2. ประกอบด้วยอักษรตัวพิมพ์ใหญ่ ตัวพิมพ์เล็ก ตัวเลข และสัญลักษณ์พิเศษ\n3. ห้ามใช้ข้อมูลส่วนตัว เช่น วันเกิด หรือเบอร์โทรศัพท์\n4. เปลี่ยนรหัสผ่านใหม่ทุกๆ 3-6 เดือนเพื่อความปลอดภัย",
-    "pubDate": "2026-07-06T13:03:21.598Z",
+    "pubDate": "2026-07-07T03:49:08.232Z",
     "source": "คู่มือภายในองค์กร",
     "category": "Internal",
     "thumbnail": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=500&auto=format&fit=crop&q=60"
   },
   {
-    "id": "https://medium.com/p/99e56ce396e1",
-    "title": "I Ran Sherlock Against My Own Username. Here’s What Happened.",
-    "link": "https://medium.com/@girlsjustwannahavecode/i-ran-sherlock-against-my-own-username-heres-what-happened-99e56ce396e1?source=rss------cybersecurity-5",
-    "content": "Many articles make it sound easy. My experience was different.\nContinue reading on Medium »",
-    "pubDate": "Mon, 06 Jul 2026 13:01:03 GMT",
-    "source": "Medium (Cybersecurity)",
-    "category": "Security",
-    "thumbnail": "https://cdn-images-1.medium.com/max/1920/1*XrRTLRTCwM3_kJzP0g3yxQ.png"
+    "id": "https://www.techtalkthai.com/?p=167516",
+    "title": "Anthropic เซ็นสัญญา TeraWulf เช่าศูนย์ข้อมูล AI มูลค่า 1.9 หมื่นล้านดอลลาร์",
+    "link": "https://www.techtalkthai.com/anthropic-inks-19b-ai-data-center-lease-with-terawulf/",
+    "content": "Anthropic จะจ่ายเงินจำนวน 1.9 หมื่นล้านดอลลาร์เพื่อเช่าศูนย์ข้อมูลของ TeraWulf ผู้พัฒนาโครงสร้างพื้นฐานสำหรับปัญญาประดิษฐ์ซึ่งจดทะเบียนในตลาดหลักทรัพย์ Nasdaq เป็นระยะเวลา 20 ปี ศูนย์ข้อมูลที่ Anthropic ตกลงทำสัญญาเช่านั้น กำลังอยู่ในระหว่างการก่อสร้างบนพื้นที่เดิมของโรงงานถลุงอะลูมิเนียมในเมืองฮอว์สวิลล์ รัฐเคนทักกี โดยพื้นที่ขนาด 790 เอเคอร์แห่งนี้มีโครงสร้างพื้นฐานด้านระบบส่งกำลังและสายเคเบิลใยแก้วนำแสงอยู่เดิมแล้ว ซึ่งจะช่วยเร่งระยะเวลาในการก่อสร้างได้ เนื่องจากในบางกรณีการสร้างสายส่งไฟฟ้าแรงสูงใหม่นั้นอาจต้องใช้เวลาหลายปี TeraWulf คาดว่าจะสามารถเปิดใช้งาน “กำลังการผลิตเริ่มต้น” ได้ในปริมาณหนึ่งในช่วงครึ่งหลังของปี 2027 และศูนย์ข้อมูลดังกล่าวจะเปิดดำเนินการเต็มรูปแบบในปีถัดมาด้วยกำลังการประมวลผล 401 เมกะวัตต์ ผู้ให้บริการโครงสร้างพื้นฐาน AI รายนี้จะใช้ระบบทำความเย็นแบบปิดเพื่อระบายความร้อนจากกราฟิกการ์ดภายในศูนย์ข้อมูล โดยบริษัทระบุว่าระบบดังกล่าวไม่ได้ดึงน้ำมาจากอ่างเก็บน้ำในท้องถิ่น แต่จะใช้วิธีหมุนเวียนของเหลวหล่อเย็นเดิมซ้ำ ซึ่งสารหล่อเย็นดังกล่าวเป็นส่วนผสมของน้ำและสารที่เรียกว่าโพรพิลีนไกลคอล ซึ่งเป็นสารที่ใช้เป็นวัตถุเจือปนอาหารด้วยเช่นกัน ของเหลวจะถูกหมุนเวียนผ่านโครงสร้างลักษณะคล้ายตู้ที่อยู่ด้านหลังตู้แร็คเซิร์ฟเวอร์เพื่อดูดซับความร้อนจากกราฟิกการ์ด จากนั้นปั๊มจะทำหน้าที่เคลื่อนย้ายสารหล่อเย็นออกไปภายนอกศูนย์ข้อมูล ซึ่งจะมีพัดลมช่วยระบายความร้อนออกสู่ชั้นบรรยากาศ ก่อนที่สารหล่อเย็นจะไหลกลับเข้าสู่ตู้แร็คเซิร์ฟเวอร์เพื่อเริ่มกระบวนการใหม่อีกครั้ง TeraWulf กำลังจะได้รับผลตอบแทนจากการลงทุนที่สำคัญจากข้อตกลงกับ Anthropic โดยเอกสารนำเสนอของบริษัทระบุว่า มีแผนจะลงทุนในศูนย์ข้อมูลแห่งนี้ระหว่าง 3 พันล้านถึง 4 พันล้านดอลลาร์ หรือคิดเป็นมูลค่าน้อยกว่าหนึ่งในห้าของมูลค่าสัญญาเช่า โดยในไตรมาสที่ผ่านมาบริษัทมีรายได้อยู่ที่ 34 ล้านดอลลาร์ ยังไม่มีความชัดเจนว่า Anthropic จะติดตั้งชิปประมวลผลประเภทใดในสถานที่แห่งนี้ …",
+    "pubDate": "Tue, 07 Jul 2026 03:43:24 +0000",
+    "source": "TechTalk Thai",
+    "category": "General",
+    "thumbnail": "https://www.techtalkthai.com/wp-content/uploads/2026/07/TeraWulf-Hawesville-datacenter.png"
   },
   {
-    "id": "https://medium.com/p/4829edbff382",
-    "title": "Financial Crime Intelligence: Why Data Sharing Is Becoming the New Competitive Advantage",
-    "link": "https://ahscapital.medium.com/financial-crime-intelligence-why-data-sharing-is-becoming-the-new-competitive-advantage-4829edbff382?source=rss------cybersecurity-5",
-    "content": "Introduction\nContinue reading on Medium »",
-    "pubDate": "Mon, 06 Jul 2026 13:01:02 GMT",
-    "source": "Medium (Cybersecurity)",
-    "category": "Security",
-    "thumbnail": "https://cdn-images-1.medium.com/max/600/1*DyONDdF9xe7-Cxjy7DS82w.jpeg"
-  },
-  {
-    "id": "https://medium.com/p/d796d296f91e",
-    "title": "Alex Karp Isn’t Wrong. He’s Also Pitching You Something.",
-    "link": "https://medium.com/@mmilanov76/alex-karp-isnt-wrong-he-s-also-pitching-you-something-d796d296f91e?source=rss------cybersecurity-5",
-    "content": "A technical-sales read on the “frontier labs are stealing your alpha” panic — and what actually protects you.\nContinue reading on Medium »",
-    "pubDate": "Mon, 06 Jul 2026 12:58:30 GMT",
-    "source": "Medium (Cybersecurity)",
-    "category": "Security",
+    "id": "151080 at https://www.blognone.com",
+    "title": "Xbox ปรับโครงสร้างสตูดิโอเกม แยก 5 สตูดิโอเดิมเป็นอิสระ",
+    "link": "https://www.blognone.com/node/151080",
+    "content": "Xbox ปรับโครงสร้างสตูดิโอเกม แยก 5 สตูดิโอเดิมเป็นอิสระ\n\n  \nBody\nนอกจาก ประกาศว่า Xbox จะปลดพนักงาน 3,200 ตำแหน่ง ไมโครซอฟท์ยังประกาศเปลี่ยนแปลงโครงสร้างสตูดิโอเกม 5 แห่ง ตรงตามที่เคยมีข่าวลือมาก่อนหน้านี้\nCompulsion Games ผู้สร้างเกม South of Midnight ขายหุ้นคืนให้ทีมบริหารเดิม กลับเป็นสตูดิโออิสระ คืนสิทธิความเป็นเจ้าของเกมเดิมให้\nDouble Fine Productions ผู้สร้างเกม Psychonauts, Keeper, Klin ขายหุ้นคืนให้ทีมบริหารเดิม กลับเป็นสตูดิโออิสระ คืนสิทธิความเป็นเจ้าของเกมเดิมให้\nNinja Theory ผู้สร้างเกม Senua กำลังเจรจาหาเจ้าของใหม่ เติมทุน และพัฒนาเกม Senua ให้เสร็จ\nUndead Labs  ผู้สร้างเกม State of Decay 3 กำลังเจรจาหาเจ้าของใหม่ เติมทุน และพัฒนาเกม State of Decay 3 ให้เสร็จ\nArkane Lyon กำลังเริ่มกระบวนการหาทางเลือกว่าจะทำอย่างไรต่อกับอนาคตของสตูดิโอ\nส่วนสตูดิโอที่ยังเหลือรอดอยู่ ก็โดนปรับลดคน และบางสตูดิโอจะถูกปรับแผนการลงทุนไปยังโครงการที่สำคัญกว่า แต่จะไม่มีการยกเลิกเกมที่ถูกประกาศไปแล้ว\nสตูดิโอที่พิเศษหน่อย 2 รายคือ Mojang ผู้สร้าง Minecraft และ King เจ้าพ่อเกมมือถือ (เดิมทีเป็นส่วนหนึ่งของ Activision Blizzard) จะถูกปรับโครงสร้างการบริหาร ให้ขึ้นตรงกับซีอีโอ Asha Sharma แทน ไม่ต้องไปขึ้นกับ Matt Booty หัวหน้าฝ่ายสตูดิโอเกมแล้ว ด้วยเหตุผลว่าสตูดิโอ 2 แห่งนี้ไม่ได้สร้างเกม แต่เป็นการสร้างแพลตฟอร์มสำคัญที่มีผู้เล่นเยอะที่สุด\nที่มา - Xbox\nmk\nTue, 07/07/2026 - 09:52",
+    "pubDate": "Tue, 07 Jul 2026 02:52:30 +0000",
+    "source": "Blognone",
+    "category": "General",
     "thumbnail": null
   },
   {
-    "id": "https://medium.com/p/6e22c71991cc",
-    "title": "ENIGMA CTF 2026",
-    "link": "https://medium.com/@rafasidhik/enigma-ctf-2026-6e22c71991cc?source=rss------cybersecurity-5",
-    "content": "Introduction\nContinue reading on Medium »",
-    "pubDate": "Mon, 06 Jul 2026 12:56:29 GMT",
-    "source": "Medium (Cybersecurity)",
-    "category": "Security",
-    "thumbnail": "https://cdn-images-1.medium.com/max/1918/1*2-5aZRVlYdqlNYPNVKtskg.png"
+    "id": "https://www.techtalkthai.com/?p=167512",
+    "title": "Samsung เดินหน้า Floating Data Center คาดเปิดใช้งานจริงปี 2028 หวังแก้ปัญหาพลังงาน และสถานที่ไม่เพียงพอ",
+    "link": "https://www.techtalkthai.com/samsung-floating-data-center-2028-launch/",
+    "content": "ปัญหาเรื่องข้อจำกัดด้านพื้นที่ พลังงาน และความร้อนสะสม กำลังเป็นความท้าทายใหญ่ของ Data Center โดยเฉพาะในยุคที่ AI กำลังผลักดันให้เกิดการประมวลผลมหาศาล ล่าสุด Samsung ได้ออกมาประกาศความชัดเจนในการพัฒนา Floating Data Center (FDC) หรือศูนย์ข้อมูลลอยน้ำ โดยตั้งเป้าเปิดใช้งานจริงภายในช่วงไตรมาสที่ 2 ของปี 2028 เพื่อสลัดข้อจำกัดเดิมทิ้งและสร้างโครงสร้างพื้นฐานรูปแบบใหม่ Samsung Heavy Industries (SHI) ธุรกิจต่อเรือและวิศวกรรมนอกชายฝั่งของกลุ่ม Samsung ได้เซ็น MoU กับ Capital Clean Energy Carriers และ Lloyd’s Register เมื่อเดือนที่ผ่านมา โดย SHI จะรับหน้าที่รับผิดชอบด้านการพัฒนาเทคโนโลยีและการก่อสร้างโครงสร้างพื้นฐาน ในขณะที่ Capital ดูแลเรื่องการจัดหาโครงการและการลงทุน ส่วน Lloyd’s Register จะเข้ามาจัดการด้านการรับรองและกฎระเบียบต่าง ๆ แนวทางของ Samsung มีความน่าสนใจตรงที่พวกเขาเลือกที่จะสร้างใหม่จากศูนย์ โดยประยุกต์ใช้กระบวนการต่อเรือที่องค์กรมีความเชี่ยวชาญระดับโลก แตกต่างจากคู่แข่งฝั่งญี่ปุ่นอย่างกลุ่ม …",
+    "pubDate": "Tue, 07 Jul 2026 02:32:57 +0000",
+    "source": "TechTalk Thai",
+    "category": "General",
+    "thumbnail": "https://www.techtalkthai.com/wp-content/uploads/2026/07/TTT-51.jpg"
   },
   {
-    "id": "https://medium.com/p/0134e5b5ba4e",
-    "title": "Brooklyn Nine Nine | From Anonymous FTP to Root Access | TryHackMe",
-    "link": "https://medium.com/@gokupa/brooklyn-nine-nine-from-anonymous-ftp-to-root-access-tryhackme-0134e5b5ba4e?source=rss------cybersecurity-5",
-    "content": "“The smallest clue can lead to the biggest breakthrough. In penetration testing, careful enumeration is often more valuable than complex…\nContinue reading on Medium »",
-    "pubDate": "Mon, 06 Jul 2026 12:51:16 GMT",
-    "source": "Medium (Cybersecurity)",
-    "category": "Security",
-    "thumbnail": "https://cdn-images-1.medium.com/max/1909/1*_N3DviSeROndg5DnkFgUTA.png"
+    "id": "https://www.techtalkthai.com/?p=167509",
+    "title": "Tencent เปิดตัว Hy3 โมเดล AI Open Source ขนาด 295B ภายใต้ Apache 2.0 ท้าชน GLM-5.2",
+    "link": "https://www.techtalkthai.com/tencent-hy3-apache-open-source-model-challenges-glm-5-2/",
+    "content": "Tencent เปิดตัว Hy3 เวอร์ชันเต็ม โมเดล Mixture-of-Experts (MoE) ขนาด 295B parameters (active 21B) ภายใต้ license Apache 2.0 ที่เปิดกว้าง ปลดข้อจำกัดด้านภูมิภาคที่เคยกีดกันองค์กรในยุโรป สหราชอาณาจักร และเกาหลีใต้ออกจากการใช้งาน ตลอดหนึ่งปีที่ผ่านมา จุดอ่อนของโมเดล open-weight จากจีนหลายตัวคือเงื่อนไข license ที่ยกเว้น EU, UK และเกาหลีใต้ ทำให้ทีมกฎหมายขององค์กรจำนวนมากต้องระงับการใช้งานตั้งแต่ก่อนทีมวิศวกรจะประเมินเสร็จ ไม่เฉพาะองค์กรที่ตั้งอยู่ในภูมิภาคเหล่านั้น แต่รวมถึงทุกองค์กรที่ให้บริการ traffic เข้าไปยังพื้นที่ดังกล่าว ทีม Hunyuan ของ Tencent ปลดข้อจำกัดนี้ด้วยการปล่อย Hy3 เวอร์ชันเต็มภายใต้ Apache 2.0 ซึ่งต่างจากเวอร์ชัน preview เมื่อเดือนเมษายนที่ยังมีข้อจำกัดด้านภูมิภาค โดยชุมชน open-model มองว่าการเปลี่ยน license คือประเด็นสำคัญที่แท้จริงของการเปิดตัวครั้งนี้ นอกจากนี้ Tencent ยังเปิดให้ใช้งานฟรีบน OpenRouter …",
+    "pubDate": "Tue, 07 Jul 2026 01:09:19 +0000",
+    "source": "TechTalk Thai",
+    "category": "General",
+    "thumbnail": "https://www.techtalkthai.com/wp-content/uploads/2026/07/tencent-hy3-model-banner-640x383.png"
   },
   {
-    "id": "https://medium.com/p/700bfdadb6fa",
-    "title": "Talking to Your TV — Part 2: The 6-Digit Code Isn’t a Password",
-    "link": "https://medium.com/@gtxtreme/talking-to-your-tv-part-2-the-6-digit-code-isnt-a-password-700bfdadb6fa?source=rss------cybersecurity-5",
-    "content": "The most elegant security decision I’ve seen — and it’s hiding in a TV remote.\nContinue reading on Medium »",
-    "pubDate": "Mon, 06 Jul 2026 12:45:57 GMT",
-    "source": "Medium (Cybersecurity)",
-    "category": "Security",
-    "thumbnail": "https://cdn-images-1.medium.com/max/2600/1*b9HxFCiLqQOzu3yLt3ohmA.png"
-  },
-  {
-    "id": "https://medium.com/p/dafe27c4de4d",
-    "title": "AI Governance Metrics Every CIO and CISO Should Track in 2026",
-    "link": "https://medium.com/@digitaldefense/ai-governance-metrics-every-cio-and-ciso-should-track-in-2026-dafe27c4de4d?source=rss------cybersecurity-5",
-    "content": "Artificial Intelligence is becoming a core part of enterprise operations, but simply deploying AI is no longer enough. CIOs and CISOs are…\nContinue reading on Medium »",
-    "pubDate": "Mon, 06 Jul 2026 12:45:53 GMT",
-    "source": "Medium (Cybersecurity)",
-    "category": "Security",
+    "id": "151079 at https://www.blognone.com",
+    "title": "XBOX ประกาศปลดพนักงานปีนี้ 3,200 คน มีผลวันนี้ 1,600 คน ซีอีโอระบุต้องยกเครื่องธุรกิจใหม่",
+    "link": "https://www.blognone.com/node/151079",
+    "content": "XBOX ประกาศปลดพนักงานปีนี้ 3,200 คน มีผลวันนี้ 1,600 คน ซีอีโอระบุต้องยกเครื่องธุรกิจใหม่\n\n  \nBody\nAsha Sharma ซีอีโอ XBOX ส่งอีเมลถึงพนักงานของ XBOX ทั้งหมดว่าตัดสินใจปลดพนักงานในปีนี้ 3,200 คนโดยมีผลทันที 1,600 คนเนื่องจากธุรกิจไม่ดีนักและแข่งขันกับคู่แข่งได้ลำบาก เนื่องจากเครื่อง XBOX มีต้นทุนสูง และการลงทุน Game Pass ไม่ประสบความสำเร็จเท่าที่หวัง พร้อมกับประกาศยกเครื่องสามด้าน\nยกเครื่องพอร์ตโฟลิโอ จากเดิมเน้นซื้อสตูดิโอเข้ามาอยู่ใน XBOX โดยตรงแล้วพบว่าผลลงทุนขาดทุนอย่างหนัก จากนี้จะเน้นอำนวยความสะดวกให้นักพัฒนาภายนอก\nยกเครื่องทีมแพลตฟอร์ม โดยปัญหาตอนนี้คือบางทีมมีโครงสร้างลึกถึง 14 ชั้น จากนี้จะลดไม่ให้เกิน 5 ชั้น พร้อมกับลดค่าใช้จ่ายซื้อสินค้าและบริการจากภายนอกลง 50%\nยกเครื่องการดำเนินการ ตั้ง Helen Chiang เป็น COO แทน Dave McCarthy ที่ประกาศเกษียณอายุวันนี้\nยอดขาย XBOX นั้นตามหลัง PS5 อย่างต่อเนื่องตั้งแต่ช่วงเปิดตัว โดยเฉพาะในปี 2025 ยอดขายลดลงเหลือประมาณสองล้านเครื่อง ขณะที่ PS5 ยังคงยอดขายได้ราวๆ 14 ล้านเครื่อง สาเหตุสำคัญคือการขึ้นราคามาแล้วหลายครั้ง และปีนี้เองก็กำลังจะขึ้นราคาอีกครั้งในเดือนสิงหาคมนี้\nที่มา - @asha_shar\nlew\nTue, 07/07/2026 - 00:24",
+    "pubDate": "Mon, 06 Jul 2026 17:24:26 +0000",
+    "source": "Blognone",
+    "category": "General",
     "thumbnail": null
   },
   {
-    "id": "https://medium.com/p/3ae48b05680b",
-    "title": "“From First-Generation to Second-Generation SOC”,",
-    "link": "https://medium.com/@na78019/from-first-generation-to-second-generation-soc-3ae48b05680b?source=rss------cybersecurity-5",
-    "content": "Why Most Security Operations Centers Never Level Up?\nContinue reading on Medium »",
-    "pubDate": "Mon, 06 Jul 2026 12:43:19 GMT",
-    "source": "Medium (Cybersecurity)",
-    "category": "Security",
-    "thumbnail": "https://cdn-images-1.medium.com/max/1280/1*VdktiG08lN82yJE99hvUjQ.png"
+    "id": "151078 at https://www.blognone.com",
+    "title": "Tencent เปิดตัว Hy3 โมเดล AI คุ้มราคาแต่ความสามารถเกาะกลุ่ม DeekSeek, GLM",
+    "link": "https://www.blognone.com/node/151078",
+    "content": "Tencent เปิดตัว Hy3 โมเดล AI คุ้มราคาแต่ความสามารถเกาะกลุ่ม DeekSeek, GLM\n\n  \nBody\nทีมวิจัย Tencent Hunyuan เปิดตัวโมเดลปัญญาประดิษฐ์ Tencent Hy3 ตัวจริง หลังจากก่อนหน้านี้ออกรุ่นพรีวิวมาแล้วหลายเดือน และได้รับความนิยมอย่างสูงเนื่องจากผู้ให้บริการนำโมเดลไปให้บริการที่ราคาเพียง 0.06/0.21 ดอลลาร์ต่อล้านโทเค็นเท่านั้น สำหรับตัวจริงความสามารถเพิ่มขึ้นจากรุ่นพรีวิวหลายด้านจนใกล้เคียงกับโมเดลขนาดใหญ่ เช่น DeepSeek V4 Pro, GLM-5.2\nในรุ่นตัวจริงนี้ ทีมงานยังระบุว่าความเสถียรดีขึ้นเมื่อดูการเรียกใช้เครื่องมือใน CodeBuddy ของ Tencent เอง หรือ Cline, KiloCode ล้วนมีอัตราความผิดพลาดต่ำที่ 4% สำหรับการตอบคำถามทั่วไปมีอัตราการหลอนลดลงจาก 12.5% เหลือ 5.4%\nตัวโมเดลเปิดให้ดาวน์โหลดใน HuggingFace โดยมีขนาด 295B-A21B พารามิเตอร์เป็นแบบ BF16 ราคาค่า API ในจีนอยู่ที่ 1/4 หยวนต่อล้านโทเค็น ประมาณสองเท่าที่ผู้ให้บริการภายนอกให้บริการ Hy3 Preview อยู่ตอนนี้ ต้องรอดูว่าหลังจากนี้ผู้ให้บริการภายนอกจะนำโมเดลมาให้บริการในราคาเดิมหรือไม่ แต่ราคานี้ค่าอินพุตถูกกว่าคู่แข่งอย่าง DeepSeek ถึงสามเท่าตัว สำหรับผู้ใช้ OpenRouter ตอนนี้ Hy3 ให้บริการฟรีผ่าน NovitaAI เป็นเวลาสองสัปดาห์ ส่วนบริการแบบเสียเงินทาง AtlasCloud ก็ให้บริการในราคาพอๆ กันกับที่ Tencent ประกาศออกมา\nที่มา - Tencent\nlew\nMon, 06/07/2026 - 23:57",
+    "pubDate": "Mon, 06 Jul 2026 16:57:25 +0000",
+    "source": "Blognone",
+    "category": "General",
+    "thumbnail": null
+  },
+  {
+    "id": "151077 at https://www.blognone.com",
+    "title": "Qualcomm ปรับการพัฒนาลินุกซ์สำหรับ IoT หันมาพัฒนาแบบเปิด",
+    "link": "https://www.blognone.com/node/151077",
+    "content": "Qualcomm ปรับการพัฒนาลินุกซ์สำหรับ IoT หันมาพัฒนาแบบเปิด\n\n  \nBody\nQualcomm เปิดตัว Qualcomm Linux 2.0 ลินุกซ์สำหรับชิป IoT ในตระกูล Qualcomm Dragonwing ที่เดิมเปิดตัวมาตั้งแต่ปี 2024 แต่รอบนี้นอกจากการปรับแพ็กเกจต่างๆ ให้ทันสมัยขึ้นแล้ว ยังปรับกระบวนการพัฒนาเป็นแบบเปิดมากขึ้น\nQualcomm Linux เดิมพัฒนาต่อจาก Yocto Project 5.0 ส่วนเวอร์ชันนี้ปรับฐานมาเป็น Yocto Project 6.0 ที่สำคัญคือกระบวนการพัฒนาที่เดิมพัฒนาอยู่ภายใน Qualcomm เองหันมาพัฒนาบน GitHub แบบเปิดทั้งหมด และตั้งเป้าว่าจะออกเวอร์ชันย่อยตามระยะเวลา จากเดิมที่ไม่มีรอบการออกเวอร์ชันใหม่ชัดเจน\nโครงการที่ใช้ Qualcomm Dragonwing ที่เด่นๆ เช่น Arduino UNO Q (แต่เป็นชิป QRB รุ่นเริ่มต้นที่ Qualcomm Linux ไม่ซัพพอร์ต) และบอร์ดกลุ่มที่คล้าย Raspberry Pi อีกหลายตัว แต่ที่ผ่านมา Raspberry Pi มีจุดแข็งที่ลินุกซ์ Raspbian มีการซัพพอร์ตต่อเนื่องยาวนาน การที่ Qualcomm หันมาพัฒนาลินุกซ์แบบเปิดกว้างขึ้นก็อาจจะทำให้ส่วนซอฟต์แวร์ทัดเทียมกันมากขึ้น\nที่มา - Qualcomm\nlew\nMon, 06/07/2026 - 20:28",
+    "pubDate": "Mon, 06 Jul 2026 13:28:18 +0000",
+    "source": "Blognone",
+    "category": "General",
+    "thumbnail": null
   },
   {
     "id": "151076 at https://www.blognone.com",
@@ -96,106 +86,6 @@
     "content": "Anthropic ทำข้อตกลงเช่าศูนย์ข้อมูล 401 เมกะวัตต์ มูลค่า 1.9 หมื่นล้านดอลลาร์ ระยะเวลา 20 ปี\n\n  \nBody\nTeraWulf บริษัทเหมืองคริปโตที่ปัจจุบันเปลี่ยนมาให้บริการศูนย์ข้อมูล AI ตามแนวโน้มปัจจุบัน ประกาศว่าบริษัทได้ทำข้อตกลงเป็นระยะเวลา 20 ปี กับ Anthropic เพื่อให้เช่าใช้งานศูนย์ข้อมูล AI ที่เมือง Hawesville ในรัฐเคนตักกี้\nกำลังประมวลผลของศูนย์ข้อมูลนี้อยู่ที่ 401 เมกะวัตต์ คาดเริ่มส่งมอบให้ใช้งานได้ในครึ่งหลังของปี 2027 และกำลังประมวลผลจะเต็มตามข้อตกลง 401 เมกะวัตต์ ภายในต้นปี 2028\nTeraWulf บอกว่าข้อตกลงนี้จะสร้างรายได้ให้บริษัท 1.9 หมื่นล้านดอลลาร์\nที่มา: CNBC\narjin\nMon, 06/07/2026 - 19:33",
     "pubDate": "Mon, 06 Jul 2026 12:33:31 +0000",
     "source": "Blognone",
-    "category": "General",
-    "thumbnail": null
-  },
-  {
-    "id": "https://medium.com/p/f3d37f0d603d",
-    "title": "Tesla Put a $200 Cap on AI Spending.",
-    "link": "https://medium.com/@raghuece455/tesla-put-a-200-cap-on-ai-spending-f3d37f0d603d?source=rss------cloud_computing-5",
-    "content": "Four companies gamified AI adoption. All four are now slamming on the brakes.\nContinue reading on Medium »",
-    "pubDate": "Mon, 06 Jul 2026 12:32:29 GMT",
-    "source": "Medium (Cloud)",
-    "category": "General",
-    "thumbnail": "https://cdn-images-1.medium.com/max/1520/1*rixXuSy2DZPoOVtW4P8oIA.png"
-  },
-  {
-    "id": "https://medium.com/p/a74bd55134c8",
-    "title": "AI Job Apocalypse? The Story just changed",
-    "link": "https://medium.com/@nealdavis/ai-job-apocalypse-the-story-just-changed-a74bd55134c8?source=rss------cloud_computing-5",
-    "content": "For the last few years, we’ve been told that AI is about to eliminate millions of jobs.\nContinue reading on Medium »",
-    "pubDate": "Mon, 06 Jul 2026 12:31:02 GMT",
-    "source": "Medium (Cloud)",
-    "category": "General",
-    "thumbnail": "https://cdn-images-1.medium.com/max/1060/1*s_J6ifOA7Z2sobcTZkee6w.png"
-  },
-  {
-    "id": "https://medium.com/p/148e973c114a",
-    "title": "Designing Highly Available AWS Architectures: Beyond Multi-AZ",
-    "link": "https://medium.com/kotaicode/designing-highly-available-aws-architectures-beyond-multi-az-148e973c114a?source=rss------cloud_computing-5",
-    "content": "Multi-AZ is the first thing engineers reach for when someone mentions high availability. Deploy your RDS in two zones, put your EC2…\nContinue reading on kotaicode »",
-    "pubDate": "Mon, 06 Jul 2026 12:11:23 GMT",
-    "source": "Medium (Cloud)",
-    "category": "General",
-    "thumbnail": "https://cdn-images-1.medium.com/max/1536/1*zXKG7K42OwZHfELyr1afBw.png"
-  },
-  {
-    "id": "https://medium.com/p/266eb7592e05",
-    "title": "What Is a Data Center? The Hidden Backbone of the Cloud",
-    "link": "https://medium.com/@bundelasuhani03/what-is-a-data-center-the-hidden-backbone-of-the-cloud-266eb7592e05?source=rss------cloud_computing-5",
-    "content": "“Every time you send a message, watch a movie, or use an AI tool, there’s a good chance a data center is working behind the scenes.”\nContinue reading on Medium »",
-    "pubDate": "Mon, 06 Jul 2026 12:11:08 GMT",
-    "source": "Medium (Cloud)",
-    "category": "General",
-    "thumbnail": "https://cdn-images-1.medium.com/max/1536/1*GVWSzEnUHEeF8v099nVLsw.png"
-  },
-  {
-    "id": "https://medium.com/p/cca354b8d51f",
-    "title": "How Does the Internet Reach a Cloud Server? A Journey Behind Every Click",
-    "link": "https://medium.com/@bundelasuhani03/how-does-the-internet-reach-a-cloud-server-a-journey-behind-every-click-cca354b8d51f?source=rss------cloud_computing-5",
-    "content": "“Every time you open an app, search on Google, or watch a video, your request goes on an incredible journey all in just a few…\nContinue reading on Medium »",
-    "pubDate": "Mon, 06 Jul 2026 12:05:27 GMT",
-    "source": "Medium (Cloud)",
-    "category": "General",
-    "thumbnail": "https://cdn-images-1.medium.com/max/1536/1*wrltcQH2kF-H0s1yzsLjag.png"
-  },
-  {
-    "id": "https://medium.com/p/c0b890b2d0a9",
-    "title": "E-Invoicing Solutions In Dubai, UAE",
-    "link": "https://medium.com/@pankoerp.seo/e-invoicing-solutions-in-dubai-uae-c0b890b2d0a9?source=rss------cloud_computing-5",
-    "content": "E-Invoicing Solutions delivers safe, effective and GST compliant e-invoicing solutions to enterprises. Our services include automating the…\nContinue reading on Medium »",
-    "pubDate": "Mon, 06 Jul 2026 11:44:13 GMT",
-    "source": "Medium (Cloud)",
-    "category": "General",
-    "thumbnail": null
-  },
-  {
-    "id": "https://medium.com/p/cc1e26bfd1fd",
-    "title": "Remote Accounting Made Easy with Tally and Busy Cloud Solutions",
-    "link": "https://medium.com/@dhscloudservices/remote-accounting-made-easy-with-tally-and-busy-cloud-solutions-cc1e26bfd1fd?source=rss------cloud_computing-5",
-    "content": "Want to manage your business accounts from anywhere without compromising security?\nContinue reading on Medium »",
-    "pubDate": "Mon, 06 Jul 2026 11:40:44 GMT",
-    "source": "Medium (Cloud)",
-    "category": "General",
-    "thumbnail": "https://cdn-images-1.medium.com/max/1647/1*qN8MO2JVFbcWEjKHmTN4wA.png"
-  },
-  {
-    "id": "https://medium.com/p/4e9dc0c61db2",
-    "title": "Cloud Hosting Services | Fully Managed Enterprise Cloud",
-    "link": "https://medium.com/@hostzop12/cloud-hosting-services-fully-managed-enterprise-cloud-4e9dc0c61db2?source=rss------cloud_computing-5",
-    "content": "Experience hassle-free deployment with secure Cloud Hosting. Features zero-trust security architecture, managed migrations, and global…\nContinue reading on Medium »",
-    "pubDate": "Mon, 06 Jul 2026 11:36:34 GMT",
-    "source": "Medium (Cloud)",
-    "category": "General",
-    "thumbnail": "https://cdn-images-1.medium.com/max/1080/1*Y7T0s4fluXchIsNouwSMJQ.png"
-  },
-  {
-    "id": "https://medium.com/p/521c36eb8fd7",
-    "title": "Project ECHO-9",
-    "link": "https://medium.com/codetodeploy/project-echo-9-521c36eb8fd7?source=rss------cloud_computing-5",
-    "content": "The Day Humanity Stopped Uploading Photos… and Started Uploading Itself\nContinue reading on CodeToDeploy »",
-    "pubDate": "Mon, 06 Jul 2026 11:34:59 GMT",
-    "source": "Medium (Cloud)",
-    "category": "General",
-    "thumbnail": "https://cdn-images-1.medium.com/max/1257/1*Rmis2RIGK9AQoS47uQ_51w@2x.jpeg"
-  },
-  {
-    "id": "https://medium.com/p/9892ebfa3fa6",
-    "title": "Unifying storage is not the same thing as unifying resource utilization, and the second problem is…",
-    "link": "https://medium.com/@itay.waisman_45619/unifying-storage-is-not-the-same-thing-as-unifying-resource-utilization-and-the-second-problem-is-9892ebfa3fa6?source=rss------cloud_computing-5",
-    "content": "The reaction to LTAP has mostly been about correctness: what happens to a transaction that commits in Postgres but hasn’t finished…\nContinue reading on Medium »",
-    "pubDate": "Mon, 06 Jul 2026 11:29:15 GMT",
-    "source": "Medium (Cloud)",
     "category": "General",
     "thumbnail": null
   },
@@ -210,6 +100,26 @@
     "thumbnail": null
   },
   {
+    "id": "https://techsauce.co/ai/loop-engineering-andrew-ng-ai-workflow",
+    "title": "Andrew Ng แบ่งปัน Loop Design ทั้ง 3 วงจร ลดเวลาจากหลักเดือนเหลือหลักวัน",
+    "link": "https://techsauce.co/ai/loop-engineering-andrew-ng-ai-workflow",
+    "content": "สรุปแนวคิด Loop Engineering จาก Andrew Ng ผ่าเวิร์กโฟลว์ 3 วงลูปที่ช่วยให้ AI Agent เขียนโค้ดและสร้างซอฟต์แวร์เสร็จไวขึ้น 10 เท่า",
+    "pubDate": "Mon, 06 Jul 2026 16:47:00 +0700",
+    "source": "Techsauce",
+    "category": "General",
+    "thumbnail": "https://storage.googleapis.com/techsauce-prod/ugc/uploads/2026/7/1783331074_Loop_Engineer_3.webp"
+  },
+  {
+    "id": "https://techsauce.co/ai/ai-school-silicon-valley",
+    "title": "คนรวยยอมจ่ายค่าเทอมหลักล้าน ส่งลูกเรียนกับ AI แทนโรงเรียน เทรนด์ใหม่ของพ่อแม่ Silicon Valley",
+    "link": "https://techsauce.co/ai/ai-school-silicon-valley",
+    "content": "ในขณะที่คนส่วนใหญ่ยังไม่ค่อยไว้ใจ AI แต่มหาเศรษฐีอเมริกันบางกลุ่ม โดยเฉพาะใน Silicon Valley กลับมองว่า AI อาจเป็นอนาคตของระบบการศึกษา พวกเขาจึงได้ยอมจ่ายค่าเรียนปีละหลายล้านบาท เพื่อส่งลูกเข้าเรียนในโรงเรียนที่ใช้ AI แทนการเรียนแบบเดิม ๆ",
+    "pubDate": "Mon, 06 Jul 2026 16:07:11 +0700",
+    "source": "Techsauce",
+    "category": "General",
+    "thumbnail": "https://storage.googleapis.com/techsauce-prod/ugc/uploads/2026/7/1783328172_%E0%B8%9B%E0%B8%81%E0%B8%82%E0%B9%88%E0%B8%B2%E0%B8%A71200x800_%E0%B8%A1%E0%B8%B5%E0%B8%99_%2854%29.webp"
+  },
+  {
     "id": "https://it24hrs.com/?p=168496",
     "title": "Microsoft Edge อัปเดตใหม่ ล็อกอินด้วยบัญชี Google ได้แล้วเหมือน Chrome",
     "link": "https://it24hrs.com/2026/microsoft-edge-login-google-accounts/",
@@ -221,7 +131,7 @@
   },
   {
     "id": "https://www.techtalkthai.com/?p=167494",
-    "title": "พบกับ Dell Pro เจนเนอเรชันใหม่ สร้างมาเพื่อ AI โดยเฉพาะ",
+    "title": "ห้ามพลาด! ขอเชิญร่วมงานสัมมนาเปิดตัวและสัมผัสความล้ำหน้าของ Dell Pro เจนเนอเรชันใหม่ สร้างมาเพื่อ AI โดยเฉพาะ [10 ก.ค. | 9:00]",
     "link": "https://www.techtalkthai.com/introducing-the-new-generation-of-dell-pro-built-specifically-for-ai/",
     "content": "ร่วมสัมผัส Dell Pro เจนเนอเรชันใหม่ สร้างมาเพื่อ AI ในงานเปิดตัว Dell Pro Experience รูปแบบการทํางานกําลังเปลี่ยนแปลง ทั้งขับเคลื่อนด้วย AI ทั้งข้อมูลที่มีมหาศาลและความต้องการโซลูชันที่ต้องทั้งชาญฉลาด ปลอดภัย และยืดหยุ่นยิ่งขึ้น เชิญคุณร่วมสัมผัสประสบการณ์เทคโนโลยีที่ผสานพลังของ AI เข้ากับประสิทธิภาพระดับมืออาชีพ พร้อมค้นพบว่าอุปกรณ์ที่ใช่ จะช่วยยกระดับการทํางานของคุณได้อย่างไร ทั้งในด้านความเร็ว ความปลอดภัย และความคล่องตัว Dell Technologies ร่วมกับพันธมิตรชั้นนำด้านเทคโนโลยี AMD Intel Microsoft และ NVIDIA ขอเชิญคุณร่วมงานครั้งนี้เพื่อสัมผัสนวัตกรรมและเปิดประสบการณ์ Dell Pro เจนเนอเรชันใหม่ ล่าสุดก่อนใคร พร้อมรับฟังจาก IDC นักวิเคราะห์ชั้นนําของอุตสาหกรรมถึงแนวทางที่องค์กรสามารถยกระดับสถานที่ทํางานแบบครบวงจรและก้าวสู่อนาคตอย่างมั่นใจ ลงทะเบียนเข้าร่วมงาน ขอเชิญคุณร่วมเป็นส่วนหนึ่งของงานเปิดตัวโน้ตบุ๊กรุ่นใหม่ล่าสุดจาก Dell Pro ที่ถูกออกแบบมาเพื่อตอบโจทย์การทำงานแห่งอนาคตอย่างแท้จริงไฮไลท์ของงาน: Dell Pro Showcase: สัมผัสประสบการณ์จริงกับ Dell Pro เจนเนอเรชันใหม่ก่อนใคร พร้อมสัมผัสประสบการณ์การทำงานร่วมกันของพอร์ตโฟลิโอ Dell Pro ที่ช่วยสร้างสถานที่ทำงานที่พร้อมสำหรับ AI …",
     "pubDate": "Mon, 06 Jul 2026 07:53:09 +0000",
@@ -270,6 +180,16 @@
     "thumbnail": "https://www.techtalkthai.com/wp-content/uploads/2026/07/Crusoe-logo.png"
   },
   {
+    "id": "https://techsauce.co/sustainable-focus/aircela-turn-air-into-gasoline-deep-tech",
+    "title": "เปลี่ยนอากาศ > น้ำมันเบนซิน ด้วยต้นทุน 14 บาทต่อลิตร นวัตกรรมจาก Aircela สตาร์ทอัป ที่กำลังพยายามเอาชนะพลังงาน",
+    "link": "https://techsauce.co/sustainable-focus/aircela-turn-air-into-gasoline-deep-tech",
+    "content": "พาส่อง Aircela สตาร์ทอัปสุดล้ำจากนิวยอร์ก ผู้คิดค้นนวัตกรรมเสกน้ำมันเบนซินจากอากาศเปล่า ช่วยลดคาร์บอน แถมต้นทุนต่ำแค่ลิตรละ 14 บาท",
+    "pubDate": "Mon, 06 Jul 2026 10:54:05 +0700",
+    "source": "Techsauce",
+    "category": "General",
+    "thumbnail": "https://storage.googleapis.com/techsauce-prod/ugc/uploads/2026/7/1783309496_Aircela_2.webp"
+  },
+  {
     "id": "https://www.techtalkthai.com/?p=167477",
     "title": "Amazon เตรียมปลดระวาง Mechanical Turk ไม่รับผู้ใช้งานเพิ่มแล้ว",
     "link": "https://www.techtalkthai.com/amazons-mechanical-turk-service-now-on-life-support-as-it-stops-accepting-new-users/",
@@ -305,46 +225,6 @@
     "link": "https://www.blognone.com/node/151074",
     "content": "Robotaxi ของ Tesla เริ่มให้บริการในเมือง Miami แล้ว\n\n  \nBody\nTesla ประกาศเริ่มให้บริการรถแท็กซี่อัตโนมัติ Robotaxi ในพื้นที่จำกัดบริเวณในฝั่งตะวันตกของเมืองไมแอมี รัฐฟลอริดา เป็นเมืองล่าสุดต่อจากสามเมืองก่อนหน้านี้ ออสติน ดับลัส และฮูสตัน ซึ่งทั้งหมดอยู่ในรัฐเท็กซัส ส่วนแผนขยายบริการต่อไปคือเมืองออร์แลนโดและแทมปา ในรัฐฟลอริดาเช่นกัน\nRobotaxi ของ Tesla ที่ให้บริการในไมแอมีเป็นรถไร้คนขับเต็มรูปแบบ ไม่มีเจ้าหน้าที่ควบคุมความปลอดภัยหลังพวงมาลัย ซึ่งเหมือนกับเมืองก่อนหน้านี้ที่ให้บริการ\nปัจจุบันไมแอมีมีรถแท็กซี่อัตโนมัติให้บริการจากหลายค่ายทั้ง Waymo และ Zoox ส่วนแผนขยายบริการ Robotaxi ของ Tesla นั้น นอกจากในรัฐฟลอริดาแล้ว ยังมีแผนให้บริการที่เมืองฟินิกซ์และลาสเวกัส ที่มีผู้ให้บริการแท็กซี่อัตโนมัติหลายรายเช่นกัน\nที่มา: Engadget\narjin\nMon, 06/07/2026 - 08:01",
     "pubDate": "Mon, 06 Jul 2026 01:01:27 +0000",
-    "source": "Blognone",
-    "category": "General",
-    "thumbnail": null
-  },
-  {
-    "id": "151073 at https://www.blognone.com",
-    "title": "[ลือ] Apple มี iPhone หน้าจอพับขายช่วงเปิดตัวประมาณ 1 ล้านเครื่องเท่านั้น อาจต้องรอของนาน 2 เดือน",
-    "link": "https://www.blognone.com/node/151073",
-    "content": "[ลือ] Apple มี iPhone หน้าจอพับขายช่วงเปิดตัวประมาณ 1 ล้านเครื่องเท่านั้น อาจต้องรอของนาน 2 เดือน\n\n  \nBody\nข่าวลือวนซ้ำไปมาหลายครั้งเรื่อง iPhone รุ่นใหม่ที่จะออกมาปีนี้จะมีรุ่นหน้าจอพับได้ อาจใช้ชื่อว่า iPhone Ultra ราคาเริ่มต้นอาจไปถึง 7 หมื่นบาท ล่าสุดเป็นข้อมูลจากนักวิเคราะห์สายซัพพลายเชน Ming-Chi Kuo คนเดิม เขาบอกว่า iPhone Ultra นี้ จะมีสินค้าจำกัดมากในช่วงเปิดตัว คำสั่งซื้ออาจรอระดับ 1-2 เดือน คล้ายกับตอนเปิดตัว iPhone X\nKuo อ้างข้อมูลจากคำสั่งผลิตที่ทราบมา ว่าในปีนี้แอปเปิลสั่งผลิต iPhone Ultra ประมาณ 7-8 ล้านเครื่อง เฉพาะช่วงเปิดตัวเดือนกันยายนจะมีเครื่องส่งมอบประมาณ 0.5-1 ล้านเครื่องเท่านั้น ขณะที่แอปเปิลสั่งผลิต iPhone 18 Pro และ Pro Max ไว้ขายเดือนกันยายนราว 20-22 ล้านเครื่อง ด้วยตัวเลขนี้เขาคาดว่าคำสั่งซื้อช่วงแรกจึงต้องรอเฉลี่ย 1-2 เดือน หรือกรณีที่สินค้ามีความต้องการสูง อาจไปในระดับ 3 เดือนเลย\nราคาขายของ iPhone Ultra ที่ Kuo คาดไว้อยู่ที่ 2,300-2,500 ดอลลาร์ หรือราว 8 หมื่นบาท\nที่มา: Ming-Chi Kuo\narjin\nMon, 06/07/2026 - 07:50",
-    "pubDate": "Mon, 06 Jul 2026 00:50:38 +0000",
-    "source": "Blognone",
-    "category": "General",
-    "thumbnail": null
-  },
-  {
-    "id": "151072 at https://www.blognone.com",
-    "title": "แบงค์ชาติสิงคโปร์ออกแนวทางการใช้ AI Agent กับบริการการเงิน ",
-    "link": "https://www.blognone.com/node/151072",
-    "content": "แบงค์ชาติสิงคโปร์ออกแนวทางการใช้ AI Agent กับบริการการเงิน \n\n  \nBody\nMonetary Authority of Singapore (MAS) เผยแพร่ whitepaper แนวทางความปลอดภัยในการใช้ AI agent ในบริการทางการเงิน ชื่อเอกสาร Safeguards for Agentic Finance at Runtime (SAFR) กำหนดกรอบการพัฒนา AI agent ที่ทำงานแทนคนให้มี \"จุดตรวจ\" ขั้นต่ำ 4 จุดก่อนใช้ AI ทำงานแทนคน ได้แก่\nAgent Identity: การทำงานทุกครั้งต้องตรวจสอบได้ว่ามาจาก agent ตัวใด และควรเป็น agent ที่ได้รับการตรวจสอบและลงทะเบียนล่วงหน้า\nControl Repository: คอนฟิกกลางขององค์กรให้การทำงานเป็นไปตามนโยบายขององค์กร หรือกฎการเข้าถึงบริการต่างๆ\nDeposition Engine: เอนจินที่ตรวจสอบการกระทำของ agent ว่าทำตามกฎใน Control Repository หรือไม่ โดยอาจจะพิจารณาเช่น อนุญาตให้ทำได้ทันที, ปฏิเสธไม่ให้ทำงาน, ส่งคำขอให้มนุษย์ยืนยันการทำงาน, หรือทำงานไปก่อนแต่ log แจ้งเตือนเหตุน่าสงสัย\nAudit Log: มีการเก็บข้อมูลการทำงานโดยต้องป้องกันการแก้ไข\nแนวทางเหล่านี้ไม่ได้คิดขึ้นใหม่เสียทีเดียว แต่จัดหมวดหมู่กระบวนการความปลอดภัยที่องค์กรขนาดใหญ่ทำอยู่แล้ว ในเอกสารเองได้ยกแนวทางการพัฒนาของ Ant, Mastercard, Visa, หรือ Circle ที่ล้วนมีแนวทางการควบคุมบริการ agent ของตัวเองครบองค์ประกอบอยู่ก่อนแล้ว\nที่มา - MAS\nlew\nSun, 05/07/2026 - 23:41",
-    "pubDate": "Sun, 05 Jul 2026 16:41:21 +0000",
-    "source": "Blognone",
-    "category": "General",
-    "thumbnail": null
-  },
-  {
-    "id": "151070 at https://www.blognone.com",
-    "title": "Sony แจ้งผู้พัฒนาเกม ย้ำว่าเกมที่ออกมาก่อนมกราคม 2028 สั่งผลิตเวอร์ชันแผ่นได้ต่อไปเรื่อย ๆ",
-    "link": "https://www.blognone.com/node/151070",
-    "content": "Sony แจ้งผู้พัฒนาเกม ย้ำว่าเกมที่ออกมาก่อนมกราคม 2028 สั่งผลิตเวอร์ชันแผ่นได้ต่อไปเรื่อย ๆ\n\n  \nBody\nมีประเด็นเพิ่มเติมจากเรื่องใหญ่วงการเกมสัปดาห์ที่ผ่านมาที่ Sony ประกาศเลิกขายเกม PlayStation แบบแผ่น ตั้งแต่ปี 2028 โดย VGC อ้างข้อมูลที่ทาง Sony สื่อสารเพิ่มเติมไปยังบริษัทผู้พัฒนาเกมถึงแผนการเปลี่ยนผ่านนี้ บางอย่างก็ซ้ำกับที่ Sony ประกาศในฝั่งผู้เล่นเกม แต่เป็นการยืนยันรายละเอียดได้แก่\nผู้พัฒนาเกมยังสามารถสั่งผลิตเกมแบบแผ่นได้ต่อไป หากเกมออกขายก่อนมกราคม 2028\nเกมที่ออกแบบแผ่นมาแล้วก่อนมกราคม 2028 ยังสามารถสั่งผลิตเพิ่มได้แม้ผ่านมกราคม 2028 ไปแล้ว\nผู้พัฒนาเกมสามารถเลือกสั่งผลิตเกมกล่อง ที่มีเฉพาะโค้ดดาวน์โหลดได้ ซึ่งวิธีการนี้เหมือนกับ GTA 6\nทั้งนี้มีรายงานข่าวในสัปดาห์ที่ผ่านมาว่า DADC บริษัทที่ผลิตสื่อบันทึกแบบแผ่นซีดี-ดีวีดี-บลูเรย์ของ Sony ได้แจ้งแผนปรับโครงสร้างองค์กรใหม่ เพื่อรองรับการเปลี่ยนแปลงของ PlayStation นี้แล้วด้วย\nที่มา: VGC\narjin\nSun, 05/07/2026 - 21:39",
-    "pubDate": "Sun, 05 Jul 2026 14:39:00 +0000",
-    "source": "Blognone",
-    "category": "General",
-    "thumbnail": null
-  },
-  {
-    "id": "151071 at https://www.blognone.com",
-    "title": "ผู้ถือหุ้น Square Enix ชื่นชม The Adventures of Elliot, ถามถึง Final Fantasy แบบดั้งเดิม",
-    "link": "https://www.blognone.com/node/151071",
-    "content": "ผู้ถือหุ้น Square Enix ชื่นชม The Adventures of Elliot, ถามถึง Final Fantasy แบบดั้งเดิม\n\n  \nBody\nในที่ประชุมใหญ่ประจำปีของผู้ถือหุ้น Square Enix เมื่อวันที่ 24 มิถุนายนที่ผ่านมา มีผู้ถือหุ้นรายหนึ่งแสดงความชื่นชมเกม The Adventures of Elliot: The Millennium Tales ซึ่งเป็นเกม JRPG สไตล์ภาพแบบ HD-2D โดยขอให้ผู้บริหารสื่อสารไปยังทีมพัฒนาด้วยว่า เขาและลูกของเขาสนุกกับเกมนี้มาก ซึ่งผู้บริหารของ Square Enix ก็ยืนยันว่าจะส่งข้อความนี้ไปยังทีมพัฒนาให้\nนอกจากนี้ยังมีผู้ถือหุ้นอีกรายถามเรื่องทิศทางของเกม Final Fantasy ที่ช่วงหลังหันมาเน้นกราฟิกความละเอียดสูง เกมเพลย์แนวแอคชั่น ว่าจะมีโอกาสกลับมาทำเกมที่ใช้สไตล์ภาพ-เกมเพลย์แบบดั้งเดิมหรือไม่ คำตอบจากฝ่ายบริหารคือ กำลังลองหารูปแบบที่เหมาะสมกับเกมเมอร์กลุ่มต่างๆ และหาสมดุลกับความคาดหวังของแฟนๆ ที่ชอบเกมแบบดั้งเดิม (หมายเหตุ: Square Enix เพิ่งเปิดตัว Final Fantasy Resonance)\nคำถามอื่นในที่ประชุมผู้ถือหุ้น เป็นเรื่องช่วงเวลาที่ยาวนานระหว่างวันประกาศข่าวเกม Final Fantasy และ Dragon Quest ภาคหลัก กับวันที่วางขายจริง ซึ่ง Square Enix ยอมรับปัญหานี้ และเริ่มเปลี่ยนวิธีการทำตลาดใหม่ เริ่มจาก Dragon Quest Monster 4 ที่ประกาศแล้วรอไม่นานก็ได้เล่นกันเลย\nอีกคำถามเป็นเรื่องการอนุรักษ์เกมเก่า ที่ไม่สามารถเล่นบนฮาร์ดแวร์ยุคปัจจุบันได้แล้ว รวมถึงเกมมือถือ-เกมออนไลน์ที่หยุดให้บริการไปแล้ว (ผู้ถามยกตัวอย่างเกมมือถือ Nier Reincarnation) คำตอบคือแนวทางของบริษัทขึ้นกับธรรมชาติของแต่ละเกม โดยบางกรณี บริษัทเลือกเก็บเฉพาะคัตซีนของเกมนั้นให้ดูกันบนแพลตฟอร์มวิดีโอออนไลน์แทน\nที่มา - Square Enix, Wccftech\nmk\nSun, 05/07/2026 - 20:09",
-    "pubDate": "Sun, 05 Jul 2026 13:09:01 +0000",
     "source": "Blognone",
     "category": "General",
     "thumbnail": null
@@ -427,7 +307,7 @@
     "pubDate": "Fri, 03 Jul 2026 14:51:05 +0700",
     "source": "Techsauce",
     "category": "General",
-    "thumbnail": "https://storage.googleapis.com/techsauce-prod/ugc/uploads/2026/7/1782898129_spear-h-article-3800.webp"
+    "thumbnail": "https://storage.googleapis.com/techsauce-prod/ugc/uploads/2026/7/1782897836_athena-ai-6.webp"
   },
   {
     "id": "https://techsauce.co/news/true-alpha-internship-2026-innovation-sandbox",
@@ -468,16 +348,6 @@
     "source": "Techsauce",
     "category": "General",
     "thumbnail": "https://storage.googleapis.com/techsauce-prod/ugc/uploads/2026/7/1783059094_OIC_InsurTech_Award_2026_800.webp"
-  },
-  {
-    "id": "https://techsauce.co/ai/microsoft-frontier-company-ai-engineering",
-    "title": "Microsoft เปิดตัวองค์กร Microsoft Frontier Company ส่งวิศวกรบุกถึงออฟฟิศลูกค้า ช่วยองค์กร AI Transformation ได้ง่ายขึ้น",
-    "link": "https://techsauce.co/ai/microsoft-frontier-company-ai-engineering",
-    "content": "Microsoft ทุ่ม 2.5 พันล้านดอลลาร์ ตั้ง Microsoft Frontier Company ส่งวิศวกรและผู้เชี่ยวชาญ 6,000 คนฝังตัวในองค์กรลูกค้าทั่วโลก พา AI จากการทดลองสู่ผลลัพธ์ธุรกิจที่วัดได้จริง พร้อมสัญญาปกป้องข้อมูลและ IP ของลูกค้า ท้าชน Amazon, OpenAI และ Anthropic",
-    "pubDate": "Fri, 03 Jul 2026 12:45:31 +0700",
-    "source": "Techsauce",
-    "category": "General",
-    "thumbnail": "https://storage.googleapis.com/techsauce-prod/ugc/uploads/2026/7/1783057245_Microsoft_Frontier_Company_800.webp"
   },
   {
     "id": "https://www.techtalkthai.com/?p=167436",
@@ -540,16 +410,6 @@
     "thumbnail": "https://www.techtalkthai.com/wp-content/uploads/2026/07/Clickhouse_Partnership_Artical_Final_0021-scaled.jpg"
   },
   {
-    "id": "https://techsauce.co/news/thailand-ai-readiness-index-tari",
-    "title": "ครั้งแรกของไทย! สอวช. จับมือ AIS Academy และ IRIS เปิดตัว ‘TARI’ ดัชนีวัดความพร้อม AI ไทย หนุนธุรกิจแข่งขันในเศรษฐกิจโลก",
-    "link": "https://techsauce.co/news/thailand-ai-readiness-index-tari",
-    "content": "กระทรวงการอุดมศึกษา วิทยาศาสตร์ วิจัยและนวัตกรรม (อว.) โดย สอวช. ร่วมกับ AIS Academy และ IRIS Consulting จึงพัฒนา Thailand AI Readiness Index หรือ 'TARI' ดัชนีประเมินความพร้อมด้าน AI สำหรับองค์กรไทยครั้งแรกของประเทศ",
-    "pubDate": "Fri, 03 Jul 2026 08:26:04 +0700",
-    "source": "Techsauce",
-    "category": "General",
-    "thumbnail": "https://storage.googleapis.com/techsauce-prod/ugc/uploads/2026/7/1783052827_1200X800_%283%29.webp"
-  },
-  {
     "id": "https://www.techtalkthai.com/?p=167416",
     "title": "Microsoft เปิดตัว Microsoft Frontier Company ธุรกิจใหม่ด้าน AI Engineering ลงทุน 2,500 ล้านดอลลาร์",
     "link": "https://www.techtalkthai.com/microsoft-frontier-company-enterprise-ai-engineering/",
@@ -570,16 +430,6 @@
     "thumbnail": "https://www.techtalkthai.com/wp-content/uploads/2024/01/techtalkthai_2022_data_center_01_shutterstock-640x400.jpg"
   },
   {
-    "id": "https://techsauce.co/news/scb10x-redefine-tomorrow-2026-digital-assets-web3",
-    "title": "SCB 10X เผย 5 เทรนด์จาก REDeFiNE TOMORROW 2026 เมื่อ Stablecoins และ Tokenization เริ่มถูกใช้งานจริง",
-    "link": "https://techsauce.co/news/scb10x-redefine-tomorrow-2026-digital-assets-web3",
-    "content": "Digital Assets และ Web3 กำลังเข้าสู่ช่วงที่ถูกวัดด้วยการใช้งานจริงมากขึ้น หลังจากหลายปีที่ตลาดถูกขับเคลื่อนด้วยกระแสการลงทุนและการทดลองเทคโนโลยีเป็นหลัก ภาพนี้สะท้อนชัดจากงาน REDeFiNE TOMORROW 2026 งานสัมมนาออนไลน์ประจำปีด้าน Digital Assets และ Web3",
-    "pubDate": "Thu, 02 Jul 2026 18:47:02 +0700",
-    "source": "Techsauce",
-    "category": "General",
-    "thumbnail": "https://storage.googleapis.com/techsauce-prod/ugc/uploads/2026/7/1783143045_scx-123.webp"
-  },
-  {
     "id": "https://www.techtalkthai.com/?p=167398",
     "title": "แคสเปอร์สกี้และสกมช. จับมือต่ออายุ MoU เสริมแกร่งความมั่นคงทางไซเบอร์ของไทย [PR]",
     "link": "https://www.techtalkthai.com/kaspersky-x-ncsa-mou-in-cybersecurity-pr/",
@@ -588,36 +438,6 @@
     "source": "TechTalk Thai",
     "category": "General",
     "thumbnail": "https://www.techtalkthai.com/wp-content/uploads/2026/07/kasperskyxncsa-640x335.png"
-  },
-  {
-    "id": "https://www.techtalkthai.com/?p=167386",
-    "title": "AskMe ตอกย้ำมาตรฐานการให้บริการระดับสากล ด้วย ISO/IEC 27001 และ ISO/IEC 20000-1 พร้อมยกระดับการให้บริการด้วย Enterprise Service Platform เพื่อธุรกิจยุคดิจิทัล [PR]",
-    "link": "https://www.techtalkthai.com/askme-iso-iec-27001-iso-iec-20000-1-enterprise-service-platform-pr/",
-    "content": "ในยุคที่องค์กรกำลังเร่งขับเคลื่อน Digital Transformation ความต้องการด้านเทคโนโลยีไม่ได้จำกัดอยู่เพียงแค่ “ระบบที่ใช้งานได้” อีกต่อไป แต่ยังรวมถึงความมั่นคงปลอดภัยของข้อมูล ความน่าเชื่อถือของบริการ และความสามารถในการรองรับการดำเนินงานทางธุรกิจได้อย่างต่อเนื่อง   AskMe Solutions & Consultants Co., Ltd. ผู้ให้บริการด้าน Enterprise IT Solutions ได้รับการรับรองมาตรฐาน ISO/IEC 27001 ด้านการบริหารจัดการความมั่นคงปลอดภัยสารสนเทศ (Information Security Management System: ISMS) และ ISO/IEC 20000-1 ด้านการบริหารจัดการบริการเทคโนโลยีสารสนเทศ (IT Service Management System: ITSMS) จาก BSI (British Standards Institution) อย่างเป็นทางการ การรับรองดังกล่าวสะท้อนถึงความมุ่งมั่นของ AskMe ในการยกระดับคุณภาพการให้บริการด้านเทคโนโลยีสารสนเทศ พร้อมสร้างความเชื่อมั่นให้กับองค์กรลูกค้าในการบริหารจัดการข้อมูล กระบวนการ และบริการที่มีความสำคัญต่อธุรกิจ     ISO/IEC 27001 และ …",
-    "pubDate": "Thu, 02 Jul 2026 09:24:14 +0000",
-    "source": "TechTalk Thai",
-    "category": "General",
-    "thumbnail": "https://www.techtalkthai.com/wp-content/uploads/2026/07/1200x628-640x335.png"
-  },
-  {
-    "id": "https://www.techtalkthai.com/?p=167263",
-    "title": "เตรียมพร้อม MFA กับ SendQuick เมื่อ Multi-factor Authentication กลายเป็นวาระเร่งด่วน!",
-    "link": "https://www.techtalkthai.com/mfa-are-being-forced-by-thai-law-soon-let-sendquick-help-you-comply/",
-    "content": "ต้นเหตุของ Data Breach กว่าครึ่งมาจากบัญชีผู้ใช้งานถูกขโมยหรือรั่วไหลออกไป สู่ข้อมูลหลายล้าน Record ที่ถูกปล่อยให้ดาวน์โหลดได้ผ่าน Dark Web อย่างไม่ยากเย็น ด้วยเหตุนี้เององค์กรใดๆจึงต้องมีมาตรการปกป้องตัวตนอีกชั้นหนึ่งที่เรียกว่า Multi-factor Authentication (MFA) ซึ่งได้รับการยอมรับว่าช่วยลดเหตุถูกขโมยบัญชีได้อย่างมีนัยสำคัญ ทำไม MFA จึงกลายเป็นวาระเร่งด่วนในหลายองค์กรไทยแล้ว? 1.) การบังคับใช้โดย สำนักงานคณะกรรมการการรักษาความมั่นคงปลอดภัยไซเบอร์แห่งชาติ (สมกช.) รู้หรือไม่ว่าในปี 2568 ที่ผ่านมาได้มีประกาศ ราชกิจจาฯ ด้านมาตรฐานการรักษาความมั่นคงปลอดภัยสำหรับเว็บไซต์ โดยกระทบใครก็ตามที่อยู่ในกลุ่ม “หน่วยงานของรัฐ หน่วยงานควบคุมหรือกำกับดูแล และหน่วยงานโครงสร้างพื้นฐานสำคัญทางสารสนเทศ” จะต้องปฏิบัติตาม ซึ่งมีการประกาศอย่างชัดเจนว่าเมื่อครบเวลา 1 ปีหลังประกาศ ราชกิจจาฯ จะมีผลบังคับเป็นต้นไป ภายในเนื้อหา ๖.๒.๔ ด้าน Access Control นั้นมีการกล่าวถึง MFA อย่างชัดแจ้งว่าหน่วยงานต้องพิจารณาใช้ MFA เพื่อพิสูจน์ตัวตนก่อนเข้าถึงทรัพยากรหรือระบบสำคัญ มากกว่าแค่รหัสผ่าน เช่น Token, ลายนิ้วมือ, ใบหน้า หรืออื่นๆ ซึ่ง ณ …",
-    "pubDate": "Thu, 02 Jul 2026 08:47:04 +0000",
-    "source": "TechTalk Thai",
-    "category": "General",
-    "thumbnail": null
-  },
-  {
-    "id": "https://www.techtalkthai.com/?p=167377",
-    "title": "Together AI คว้าทุน 800 ล้านดอลลาร์ ขยายบริการคลาวด์สาธารณะสำหรับ AI",
-    "link": "https://www.techtalkthai.com/together-ai-raises-800m-to-grow-its-ai-optimized-public-cloud/",
-    "content": "Together AI ผู้ให้บริการแพลตฟอร์มคลาวด์ที่ปรับแต่งมาเพื่อรันโมเดลปัญญาประดิษฐ์แบบโอเพนซอร์สโดยเฉพาะ ประกาศว่าสามารถระดมทุนได้เป็นจำนวนเงิน 800 ล้านดอลลาร์สหรัฐ ดีล Series C ครั้งนี้ มี Aramco Ventures เป็นผู้นำ โดยมี Nvidia, Vista Equity Partners, General Catalyst และผู้สนับสนุนสถาบันรายอื่น ๆ เข้าร่วมลงขันด้วย ส่งผลให้ในปัจจุบัน Together AI มีมูลค่าประเมินของบริษัทอยู่ที่ 8.3 พันล้านดอลลาร์สหรัฐ แพลตฟอร์มของ Together AI ประกอบด้วยบริการประมวลผลผลลัพธ์แบบไร้เซิร์ฟเวอร์ที่นักพัฒนาสามารถนำมาใช้รันโมเดล AI โอเพนซอร์สได้ทันที โดยช่วยขจัดความจำเป็นในการเข้ามาตั้งค่าการ์ดจอและอุปกรณ์เครือข่ายด้วยตนเอง บริษัทอ้างว่าสภาพแวดล้อมแบบไร้เซิร์ฟเวอร์ของตนนั้นสามารถส่งมอบประสิทธิภาพการทำงานได้สูงกว่าทางเลือกอื่น ๆ ที่เร็วที่สุดในตลาดถึงประมาณสองเท่า นอกจากนี้ บริษัทยังจำหน่ายบริการประมวลผลผลลัพธ์รูปแบบอื่น ๆ อีกสามบริการ โดยสองบริการในนั้นจะใช้งานโครงสร้างพื้นฐานแบบเฉพาะเจาะจง ซึ่งให้การรับประกันความเสถียรของระบบและมีตัวเลือกในการปรับแต่งที่มากกว่าบริการแบบไร้เซิร์ฟเวอร์ ส่วนบริการที่สามคือ Batch Inference จะมุ่งเน้นไปที่ความคุ้มค่าด้านต้นทุนมากกว่าเรื่องของความเร็ว โดยจะมอบส่วนลดราคาสูงสุดถึง 50% สำหรับการรันโมเดลที่ไม่จำเป็นต้องตอบกลับคำสั่งของผู้ใช้ในทันที เบื้องหลังการทำงานของแพลตฟอร์ม Together …",
-    "pubDate": "Thu, 02 Jul 2026 08:27:29 +0000",
-    "source": "TechTalk Thai",
-    "category": "General",
-    "thumbnail": "https://www.techtalkthai.com/wp-content/uploads/2026/07/Together-AI.png"
   },
   {
     "id": "150944 at https://www.blognone.com",
