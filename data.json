@@ -4,10 +4,40 @@
     "title": "แนวทางปฏิบัติการตั้งรหัสผ่านให้ปลอดภัยสำหรับบุคลากร",
     "link": "https://github.com/",
     "content": "1. รหัสผ่านต้องมีความยาวอย่างน้อย 8 ตัวอักษร\n2. ประกอบด้วยอักษรตัวพิมพ์ใหญ่ ตัวพิมพ์เล็ก ตัวเลข และสัญลักษณ์พิเศษ\n3. ห้ามใช้ข้อมูลส่วนตัว เช่น วันเกิด หรือเบอร์โทรศัพท์\n4. เปลี่ยนรหัสผ่านใหม่ทุกๆ 3-6 เดือนเพื่อความปลอดภัย",
-    "pubDate": "2026-07-11T23:57:43.018Z",
+    "pubDate": "2026-07-12T23:57:37.226Z",
     "source": "คู่มือภายในองค์กร",
     "category": "Internal",
     "thumbnail": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=500&auto=format&fit=crop&q=60"
+  },
+  {
+    "id": "151132 at https://www.blognone.com",
+    "title": "Assassin's Creed Black Flag Resynced มียอดขาย 2 ล้านชุดในวันแรกที่ขาย",
+    "link": "https://www.blognone.com/node/151132",
+    "content": "Assassin's Creed Black Flag Resynced มียอดขาย 2 ล้านชุดในวันแรกที่ขาย\n\n  \nBody\nUbisoft ประกาศความสำเร็จของ เกม Assassin's Creed Black Flag Resynced ภาครีเมคของเกม  Assassin's Creed IV: Black Flag ที่ออกในปี 2013 ว่าสามารถทำยอดขาย 2 ล้านชุดได้ในวันแรกที่วางขาย\nเกมต้นฉบับ Assassin's Creed IV: Black Flag ถือเป็นเกมในแฟรนไชส์ Assassin's Creed ที่มียอดขายสูงสุดด้วย ตัวเลขเท่าที่เปิดเผยคือยอดขายรวม 15 ล้านชุด การรีเมคภาคนี้อีกครั้งก็ย่อมมีฐานแฟนๆ เดิมจำนวนมากที่พร้อมอุดหนุนเกมเวอร์ชันใหม่\nเกมภาค Resynced ได้คะแนนรีวิวออกมาดี ค่าเฉลี่ยอยู่ที่ 84/100\nDash my Buttons... Assassin's Creed Black Flag Resynced has already passed 2 million copies sold! 🏴‍☠️Whether you're sailing with us again, or stepping aboard the Jackdaw for the first time: THANK YOU from the bottom of ARR hearts. pic.twitter.com/3badNwSqVp\n— Assassin's Creed (@assassinscreed) July 10, 2026\n\n\n          \nmk\nSun, 12/07/2026 - 20:19",
+    "pubDate": "Sun, 12 Jul 2026 13:19:38 +0000",
+    "source": "Blognone",
+    "category": "General",
+    "thumbnail": null
+  },
+  {
+    "id": "https://it24hrs.com/?p=168618",
+    "title": "DuckDuckGo เบราว์เซอร์ บล็อกโฆษณา YouTube ได้แล้ว ใช้ฟรี",
+    "link": "https://it24hrs.com/2026/duckduckgo-browser-update-block-video-ads/",
+    "content": "DuckDuckGo เบราว์เซอร์ บล็อกโฆษณา YouTube หรือข้ามโฆษณา […]\nThe post DuckDuckGo เบราว์เซอร์ บล็อกโฆษณา YouTube ได้แล้ว ใช้ฟรี appeared first on iT24Hrs by ปานระพี.",
+    "pubDate": "Sun, 12 Jul 2026 05:56:55 +0000",
+    "source": "iT24Hrs",
+    "category": "Security",
+    "thumbnail": null
+  },
+  {
+    "id": "151130 at https://www.blognone.com",
+    "title": "Bun พอร์ตโค้ดจาก Zig เป็น Rust สำเร็จแล้ว ใช้เวลา 11 วัน ด้วยพลัง Fable 5",
+    "link": "https://www.blognone.com/node/151130",
+    "content": "Bun พอร์ตโค้ดจาก Zig เป็น Rust สำเร็จแล้ว ใช้เวลา 11 วัน ด้วยพลัง Fable 5\n\n  \nBody\nJarred Sumner รายงานความก้าวหน้าของการพอร์ตโค้ดของ Bun รันไทม์จาวาสคริปต์ยอดนิยมจากภาษา Zig ไปเป็นภาษา Rust ตามที่ประกาศก่อนหน้านี้ ว่าเสร็จสมบูรณ์แล้ว โดย Bun เวอร์ชัน 1.3.14 จะเป็นเวอร์ชันสุดท้ายที่เขียนด้วย Zig และในเวอร์ชัน 1.4 จะเป็นเวอร์ชันแรกที่ใช้ภาษา Rust\nSumner เปิดเผยรายละเอียดการพอร์ตโค้ดอย่างละเอียดในบล็อกของเขา โดยนำ Claude Fable 5 เวอร์ชันที่ไม่ได้เผยแพร่ต่อสาธารณะมาช่วยในการดำเนินงาน ซึ่งสามารถทำได้เพราะปัจจุบัน Bun มี Anthropic เป็นเจ้าของ กระบวนการทั้งหมดเสร็จในเวลา 11 วันเท่านั้น โดยสร้าง Agent ย่อยมาทำงานต่าง ๆ ทั้งการย้ายโค้ด แก้ไขโค้ด รีวิวโค้ด ปรับปรุงโค้ด เป็นต้น ส่วนสิ่งที่หลายคนอยากรู้เมื่อเล่ามาขนาดนี้คือค่าใช้จ่าย API คิดเป็นเงินประมาณ 165,000 ดอลลาร์ (ประมาณ 5.5 ล้านบาท) ซึ่ง Sumner ก็มองว่าคุ้มค่าเพราะหากใช้คนทำงานก็น่าจะกินเวลาระดับปี และใช้วิศวกรช่วยทำงานหลายคน\nBun 1.4.0 ระบุว่าทำงานได้เร็วขึ้น 10% บน Linux ซึ่ง Sumner บอกว่าเป็นเพราะโครงสร้างของ Rust มีการจัดการหน่วยความจำที่ดีกว่า ขนาดของไฟล์ไบนารีก็เล็กลง 4-9% ขึ้นอยู่กับระบบปฏิบัติการ\nอย่างไรก็ตาม Andrew Kelley ผู้สร้างภาษา Zig ก็โพสต์บล็อกแสดงความเห็นในอีกด้าน โดยมองว่าการย้ายโค้ดไป Rust ของ Bun แล้วบอกว่าเพราะ Zig มีปัญหาหลายอย่าง เกิดจากการเขียนโค้ดที่ไม่ดีเอง ซึ่งชุมชนได้แสดงความเห็นไปหลายครั้งแล้ว แต่ไม่ได้รับการแก้ไขอย่างถูกต้อง นอกจากนี้เขามองว่ากระบวนการพอร์ตโค้ดนี้น่าจะเป็นการพยายามโฆษณาความสามารถของ Claude จาก Anthropic ด้วย ไม่ใช่ประเด็นทางเทคนิคทั้งหมด\nที่มา: Bun และ Andrew Kelley\narjin\nSun, 12/07/2026 - 11:54",
+    "pubDate": "Sun, 12 Jul 2026 04:54:35 +0000",
+    "source": "Blognone",
+    "category": "General",
+    "thumbnail": null
   },
   {
     "id": "151127 at https://www.blognone.com",
@@ -70,16 +100,6 @@
     "thumbnail": null
   },
   {
-    "id": "151122 at https://www.blognone.com",
-    "title": "Instagram ยอมถอยแล้ว ยกเลิกฟีเจอร์สร้างคอนเทนต์ AI จากบัญชีพับลิก หลังกระแสตอบรับเป็นทางลบ",
-    "link": "https://www.blognone.com/node/151122",
-    "content": "Instagram ยอมถอยแล้ว ยกเลิกฟีเจอร์สร้างคอนเทนต์ AI จากบัญชีพับลิก หลังกระแสตอบรับเป็นทางลบ\n\n  \nBody\nMeta ออกแถลงการณ์หลังจากฟีเจอร์ใหม่ใน Instagram ที่สามารถสร้างคอนเทนต์ด้วย Meta AI ได้จากโพสต์ที่เป็นสาธารณะของใครก็ได้ มีกระแสตอบรับในทางลบ โดยบอกว่าฟีเจอร์นี้ Meta ตั้งใจให้ผู้ใช้งาน Meta AI มีเครื่องมือสร้างสรรค์เนื้อหารูปแบบใหม่ ผ่านเนื้อหาที่เป็นสาธารณะ ที่ควบคุมจัดการได้ อย่างไรก็ตามกระแสตอบรับที่ออกมาทำให้เห็นว่ามีมุมที่ผิดพลาด ฟีเจอร์นี้จึงไม่มีให้ใช้งานอีกต่อไป\nMeta เปิดตัวฟีเจอร์สร้างเนื้อหาบน Instagram ด้วยโมเดลใหม่ Muse Image เมื่อวันก่อน โดยชูจุดขายสามารถพิมพ์ @ เพื่ออ้างอิงโพสต์จากบัญชีสาธารณะใดก็ได้ใน Instagram ในการสร้างเนื้อหาต่อด้วย AI ซึ่งฟีเจอร์นี้ผู้ใช้งานที่มีบัญชีสาธารณะสามารถปิดไม่ให้เข้าถึงได้แต่ต้องดำเนินการเอง (opt-out) ทำให้กระแสตอบรับในโซเชียลออกมาในทางลบ มีโพสต์สอนปิดไม่ให้ Meta AI เข้าถึงจำนวนมาก\nหลายองค์กรด้านงานสร้างสรรค์และนักแสดงในสหรัฐได้ออกมาโจมตีฟีเจอร์นี้ของ Meta ด้วย โดยมองว่าแพลตฟอร์มพยายามผลักดันฟีเจอร์จนมองข้ามการละเมิดเนื้อหาและสิทธิต่าง ๆ\nที่มา: Variety\narjin\nSat, 11/07/2026 - 11:33",
-    "pubDate": "Sat, 11 Jul 2026 04:33:33 +0000",
-    "source": "Blognone",
-    "category": "General",
-    "thumbnail": null
-  },
-  {
     "id": "https://www.techtalkthai.com/?p=167719",
     "title": "MiniMax ผู้พัฒนาโมเดล AI โอเพนซอร์ส ระดมทุน 2 พันล้านดอลลาร์",
     "link": "https://www.techtalkthai.com/open-source-ai-model-developer-minimax-raises-2b-in-funding/",
@@ -106,16 +126,6 @@
     "content": "สรุป Summer Davos\r\nTechsauce สรุปประเด็นร้อนที่ส่งตรงจาก Congress Hall ใน Dalian กับ 3 จุดเปลี่ยนที่ธุรกิจไทยต้องรีบปรับตัว",
     "pubDate": "Sat, 11 Jul 2026 10:00:00 +0700",
     "source": "Techsauce",
-    "category": "General",
-    "thumbnail": null
-  },
-  {
-    "id": "151121 at https://www.blognone.com",
-    "title": "ปีหน้าหนักกว่านี้ ซีอีโอ SK hynix บอกปัญหาแรมขาดแคลนจะรุนแรงที่สุดในปี 2027",
-    "link": "https://www.blognone.com/node/151121",
-    "content": "ปีหน้าหนักกว่านี้ ซีอีโอ SK hynix บอกปัญหาแรมขาดแคลนจะรุนแรงที่สุดในปี 2027\n\n  \nBody\nKwak Noh-jung ซีอีโอของ SK hynix ให้สัมภาษณ์กับ Reuters ถึงสถานการณ์หน่วยความจำขาดแคลนว่า ปัญหาจะหนักที่สุดในปี 2027 โดยหลังจากนั้นถึงแม้สถานการณ์จะเริ่มดีขึ้นบ้าง แต่อุปสงค์จะยังมากกว่าอุปทานไปอีกนาน คือเลยปี 2030 ก็ยังจะมีปัญหาอยู่\nKwak  บอกว่า SK hynix จะพยายามแก้ปัญหานี้อย่างเต็มที่ และกำลังมองหาสถานที่ตั้งโรงงานแห่งใหม่อยู่ ซึ่งก็เลือกอยู่ระหว่างสหรัฐอเมริกา ญี่ปุ่น และเอเชียตะวันออกเฉียงใต้ โดยพิจารณาจากปัจจัยหลายอย่างประกอบกัน เช่น ที่ดิน น้ำ ไฟฟ้า และแรงงานที่มีทักษะ\nที่มา - Reuters\nmk\nSat, 11/07/2026 - 08:41",
-    "pubDate": "Sat, 11 Jul 2026 01:41:33 +0000",
-    "source": "Blognone",
     "category": "General",
     "thumbnail": null
   },
@@ -348,16 +358,6 @@
     "source": "Techsauce",
     "category": "General",
     "thumbnail": "https://storage.googleapis.com/techsauce-prod/ugc/uploads/2026/7/1783588049_SK_Hynix_3.webp"
-  },
-  {
-    "id": "https://it24hrs.com/?p=168551",
-    "title": "วิธีใช้ GPT-Live-1 โหมดเสียงใหม่จาก ChatGPT  คุยลื่นไหล พูดแทรกได้ สั่งให้พูดช้าลงได้ด้วย!",
-    "link": "https://it24hrs.com/2026/how-to-use-chatgpt-gpt-live-1-voice-mode/",
-    "content": "วิธีใช้ GPT-Live-1 โหมดเสียงใหม่จาก ChatGPT โดย OpenAI  […]\nThe post วิธีใช้ GPT-Live-1 โหมดเสียงใหม่จาก ChatGPT  คุยลื่นไหล พูดแทรกได้ สั่งให้พูดช้าลงได้ด้วย! appeared first on iT24Hrs by ปานระพี.",
-    "pubDate": "Thu, 09 Jul 2026 08:43:26 +0000",
-    "source": "iT24Hrs",
-    "category": "Security",
-    "thumbnail": null
   },
   {
     "id": "https://www.techtalkthai.com/?p=167628",
