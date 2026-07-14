@@ -4,20 +4,210 @@
     "title": "แนวทางปฏิบัติการตั้งรหัสผ่านให้ปลอดภัยสำหรับบุคลากร",
     "link": "https://github.com/",
     "content": "1. รหัสผ่านต้องมีความยาวอย่างน้อย 8 ตัวอักษร\n2. ประกอบด้วยอักษรตัวพิมพ์ใหญ่ ตัวพิมพ์เล็ก ตัวเลข และสัญลักษณ์พิเศษ\n3. ห้ามใช้ข้อมูลส่วนตัว เช่น วันเกิด หรือเบอร์โทรศัพท์\n4. เปลี่ยนรหัสผ่านใหม่ทุกๆ 3-6 เดือนเพื่อความปลอดภัย",
-    "pubDate": "2026-07-12T23:57:37.226Z",
+    "pubDate": "2026-07-13T23:55:49.882Z",
     "source": "คู่มือภายในองค์กร",
     "category": "Internal",
     "thumbnail": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=500&auto=format&fit=crop&q=60"
   },
   {
-    "id": "151132 at https://www.blognone.com",
-    "title": "Assassin's Creed Black Flag Resynced มียอดขาย 2 ล้านชุดในวันแรกที่ขาย",
-    "link": "https://www.blognone.com/node/151132",
-    "content": "Assassin's Creed Black Flag Resynced มียอดขาย 2 ล้านชุดในวันแรกที่ขาย\n\n  \nBody\nUbisoft ประกาศความสำเร็จของ เกม Assassin's Creed Black Flag Resynced ภาครีเมคของเกม  Assassin's Creed IV: Black Flag ที่ออกในปี 2013 ว่าสามารถทำยอดขาย 2 ล้านชุดได้ในวันแรกที่วางขาย\nเกมต้นฉบับ Assassin's Creed IV: Black Flag ถือเป็นเกมในแฟรนไชส์ Assassin's Creed ที่มียอดขายสูงสุดด้วย ตัวเลขเท่าที่เปิดเผยคือยอดขายรวม 15 ล้านชุด การรีเมคภาคนี้อีกครั้งก็ย่อมมีฐานแฟนๆ เดิมจำนวนมากที่พร้อมอุดหนุนเกมเวอร์ชันใหม่\nเกมภาค Resynced ได้คะแนนรีวิวออกมาดี ค่าเฉลี่ยอยู่ที่ 84/100\nDash my Buttons... Assassin's Creed Black Flag Resynced has already passed 2 million copies sold! 🏴‍☠️Whether you're sailing with us again, or stepping aboard the Jackdaw for the first time: THANK YOU from the bottom of ARR hearts. pic.twitter.com/3badNwSqVp\n— Assassin's Creed (@assassinscreed) July 10, 2026\n\n\n          \nmk\nSun, 12/07/2026 - 20:19",
-    "pubDate": "Sun, 12 Jul 2026 13:19:38 +0000",
+    "id": "151140 at https://www.blognone.com",
+    "title": "Cloudflare เปิดบริการ Precursor บันทึกพฤติกรรมการใช้เว็บตลอดเวลา เพื่อแยกว่าเป็นบอตหรือไม่",
+    "link": "https://www.blognone.com/node/151140",
+    "content": "Cloudflare เปิดบริการ Precursor บันทึกพฤติกรรมการใช้เว็บตลอดเวลา เพื่อแยกว่าเป็นบอตหรือไม่\n\n  \nBody\nCloudflare เปิดบริการตรวจจับบอตในระดับลึกที่เบราว์เซอร์โดยตรง เรียกว่า Precursor ที่เป็นการฝังจาวาสคริปต์เข้ามาในเว็บเพื่อให้บันทึกค่าการใช้งานตลอดเวลาเพื่อแยกระหว่างคนกับบอต นับเป็นมาตรการระดับลึกที่สุดที่บริษัทเคยเสนอมาหลังจากก่อนหน้านี้บริษัทใช้บริการ Turnstile เป็นมาตรการหลักในการตรวจจับบอต\nPrecursor อาศัยความต่างของบอตกับมนุษย์ โดยมนุษย์มักไม่สามารถเคลื่อนเมาส์เป็นเส้นตรงพอดี, การคลิกต่างๆ ต้องอาศัยการอ่านระยะเวลาหนึ่ง, และการขยับต่างๆ มีความสั่นไหวอยู่บ้าง ขณะที่บอตมักอ่านหน้าจอด้วยความเร็วสูง และคลิกจุดต่างๆ อย่างแม่นยำ การที่ Cloudflare สามารถฝังสคริปต์เข้ามาและบันทึกค่าการใช้งานต่างๆ ได้ ทำให้สามารถตรวจแยกบอตได้อย่างละเอียดขึ้น ค่าที่ Precursor บันทึก ได้แก่ การเคลื่อนไหวเมาส์, การกดคีย์บอร์ด, การย้ายจุดโฟกัสบนเว็บ, การเลื่อนหน้าเว็บ สคริปต์ที่ Cloudflare ฝังเข้ามาจะบันทึกพฤติกรรมเป็นชุดๆ แล้วบีบอัดแล้วส่งไปยังเซิร์ฟเวอร์เพื่อตรวจสอบว่าเป็นบอตหรือไม่ จุดเด่นของ Precursor เหนือ Turnstile คือมันตรวจสอบตลอดการใช้งานเว็บ ไม่ใช่หน้าจอขวางเป็นรอบๆ แบบ Turnstile ระดับความน่าสงสัยจะปรับขึ้นลงตามพฤติกรรมการใช้งาน\nแม้ Precursor จะเก็บข้อมูลจำนวนมาก แต่ Cloudflare ก็ยืนยันว่าออกแบบเพื่อให้เคารพความเป็นส่วนตัวผู้ใช้ เช่น การเก็บพฤติกรรมคีย์บอร์ดจะเก็บเฉพาะห้วงเวลาระหว่างตัวอักษรไม่เก็บข้อความที่พิมพ์ และข้อมูลอื่นๆ ก็จะไม่ผูกเข้ากับชื่อผู้ใช้แต่อย่างใด\nตอนนี้ Precursor ให้บริการฟรีระหว่างช่วงทดสอบ สามารถเปิดใช้งานได้โดยไม่ต้องแก้ไขเว็บใดๆ คาดว่าจะเข้าสถานะ GA ภายในปีนี้\nที่มา - Cloudflare\nlew\nTue, 14/07/2026 - 00:03",
+    "pubDate": "Mon, 13 Jul 2026 17:03:46 +0000",
     "source": "Blognone",
     "category": "General",
     "thumbnail": null
+  },
+  {
+    "id": "https://techsauce.co/news/tsp-scale-x-landing-program-thailand-science-park",
+    "title": "อวท. ดันสตาร์ทอัพไทยไปตลาดโลก เปิดตัว ‘TSP Scale X Landing Program’ เปิดทางสตาร์ทอัพไทยโตข้ามพรมแดน พร้อมปูทางสตาร์ทอัพต่างชาติเข้าสู่ไทยและอาเซียน",
+    "link": "https://techsauce.co/news/tsp-scale-x-landing-program-thailand-science-park",
+    "content": "อวท. โดย สวทช. เปิดตัว TSP Scale X Landing Program เชื่อมสตาร์ทอัพไทยสู่ตลาดโลก พร้อมสนับสนุนสตาร์ทอัพต่างชาติเข้าสู่ตลาดไทยและอาเซียน ผ่านเครือข่ายงานวิจัย ภาคอุตสาหกรรม นักลงทุน และพันธมิตรระดับนานาชาติ",
+    "pubDate": "Mon, 13 Jul 2026 20:48:42 +0700",
+    "source": "Techsauce",
+    "category": "General",
+    "thumbnail": "https://storage.googleapis.com/techsauce-prod/ugc/uploads/2026/7/1783950509_Website_%E0%B8%9B%E0%B8%81%E0%B8%82%E0%B9%88%E0%B8%B2%E0%B8%A71200x800.webp"
+  },
+  {
+    "id": "151139 at https://www.blognone.com",
+    "title": "[ลือ] ชิป M7 Ultra ของ Apple จะใส่แรมได้สูงสุด 1.5TB, Apple Pencil ใหม่ จะเปลี่ยนแบตง่ายขึ้น",
+    "link": "https://www.blognone.com/node/151139",
+    "content": "[ลือ] ชิป M7 Ultra ของ Apple จะใส่แรมได้สูงสุด 1.5TB, Apple Pencil ใหม่ จะเปลี่ยนแบตง่ายขึ้น\n\n  \nBody\nข่าวลือสินค้าแอปเปิลประจำสัปดาห์นี้โดย Mark Gurman แห่ง Bloomberg คนเดิม สัปดาห์นี้ว่าด้วยแรมที่มาคู่กับชิป M7 Ultra และ Apple Pencil\nเริ่มที่ชิป M7 Ultra ตัวบนสุด ซึ่งจะออกมาในอนาคต Gurman บอกว่าแอปเปิลจะมีตัวเลือกเพิ่มแรมในชิปรุ่นนี้ได้สูงสุดถึง 1.5TB ตัวเลขนี้มีความสำคัญเพราะนับตั้งแต่แอปเปิลเปลี่ยนมาใช้ชิป Apple Silicon ซึ่งผู้ใช้งานไม่สามารถเพิ่มแรมแยกได้เอง แรมสูงสุดที่เลือกได้ไม่เคยสูงถึงระดับนี้ ขณะที่ Mac Pro ซีพียูอินเทลรุ่นสุดท้าย สามารถใส่แรมได้ถึง 1.5TB ตัวเลขนี้ Gurman บอกว่าจะมากกว่า M5 Ultra (ที่ยังไม่ออกมา) ประมาณเท่าตัวด้วย\nอย่างไรก็ตาม แรมสูงสุดที่เลือกได้นั้นจะเป็นเท่าใดเมื่อออกมา Gurman ก็ปิดท้ายไว้ว่าขึ้นอยู่กับสถานการณ์แรมเวลานั้นด้วย อย่างปัจจุบัน Mac Studio ชิป M3 Ultra ก็ลดตัวเลือกแรมจากสูงสุด 512GB เหลือ 96GB เท่านั้น ส่วน M5 Ultra ที่น่าจะออกมาปีนี้ ตัวเลือกแรมสูงสุดคาดไว้ที่ 768GB\nGurman ยังมีข้อมูลของอุปกรณ์เสริม iPad อย่าง Apple Pencil ด้วย ว่าแอปเปิลจะออกรุ่นใหม่ต้นปีหน้าพร้อมกับ iPad Pro ใหม่ สิ่งที่เปลี่ยนไปคือสามารถเปลี่ยนแบตเตอรี่ได้เอง เพื่อให้เป็นไปตามกฎระเบียบของสหภาพยุโรป\nที่มา: Bloomberg\narjin\nMon, 13/07/2026 - 19:39",
+    "pubDate": "Mon, 13 Jul 2026 12:39:17 +0000",
+    "source": "Blognone",
+    "category": "General",
+    "thumbnail": null
+  },
+  {
+    "id": "https://techsauce.co/news/boi-investment-strategy-2026",
+    "title": "บอร์ดบีโอไอ ปรับทิศทางส่งเสริมการลงทุนยุคใหม่ ชูเทคโนโลยี คน และซัพพลายเชนไทย",
+    "link": "https://techsauce.co/news/boi-investment-strategy-2026",
+    "content": "บอร์ดบีโอไอ หรือคณะกรรมการส่งเสริมการลงทุน ปรับทิศทางและบทบาทการส่งเสริมการลงทุนของประเทศไทยครั้งใหญ่ โดยวางเป้าหมายใหม่ให้เม็ดเงินลงทุนที่ดึงเข้ามาต้องสร้างมูลค่าเพิ่มจริงและกระจายประโยชน์ถึงคนไทยได้ชัดเจนกว่าเดิม",
+    "pubDate": "Mon, 13 Jul 2026 18:46:05 +0700",
+    "source": "Techsauce",
+    "category": "General",
+    "thumbnail": "https://storage.googleapis.com/techsauce-prod/ugc/uploads/2026/7/1783942569_boi-4.webp"
+  },
+  {
+    "id": "151138 at https://www.blognone.com",
+    "title": "TSMC มีรายได้ในไตรมาส 2/2026 เพิ่มขึ้น 36% จากปีก่อน เป็นสถิติใหม่อีกไตรมาส",
+    "link": "https://www.blognone.com/node/151138",
+    "content": "TSMC มีรายได้ในไตรมาส 2/2026 เพิ่มขึ้น 36% จากปีก่อน เป็นสถิติใหม่อีกไตรมาส\n\n  \nBody\nTSMC รายงานตัวเลขรายได้ของไตรมาสที่ 2 ปี 2026 เพิ่มขึ้น 36% จากไตรมาสเดียวกันในปีก่อนเป็น 1.27 ล้านล้านดอลลาร์ไต้หวัน เฉพาะเดือนมิถุนายนมีรายได้ 4.43 แสนล้านดอลลาร์ไต้หวัน เพิ่มขึ้น 67.9% จากปีก่อน และเพิ่มขึ้น 6.2% ถ้าเทียบกับรายได้เดือนพฤษภาคม\nTSMC กำหนดวันรายงานผลประกอบการซึ่งมีข้อมูลกำไร และรายได้ตามส่วนธุรกิจ รวมถึงตัวเลขคาดการณ์รายได้ไตรมาสปัจจุบัน ในวันพฤหัสบดีนี้\nปัจจุบัน TSMC มีมูลค่ากิจการตามราคาเกือบถึง 2 ล้านล้านดอลลาร์สหรัฐ ซึ่งเป็นผลจากความต้องการชิปสำหรับงาน AI ที่เพิ่มขึ้นต่อเนื่อง\nที่มา: Reuters\narjin\nMon, 13/07/2026 - 17:44",
+    "pubDate": "Mon, 13 Jul 2026 10:44:53 +0000",
+    "source": "Blognone",
+    "category": "General",
+    "thumbnail": null
+  },
+  {
+    "id": "https://it24hrs.com/?p=168651",
+    "title": "บุกศูนย์ AIR Design House ที่เซินเจิ้น! ชำแหละเบื้องหลังหุ่นยนต์ฮิวแมนนอยด์",
+    "link": "https://it24hrs.com/2026/air-design-house-humanoid-robot/",
+    "content": "บุกศูนย์ AIR Design House เมืองเซินเจิ้น ประเทศจีน ดูเบ […]\nThe post บุกศูนย์ AIR Design House ที่เซินเจิ้น! ชำแหละเบื้องหลังหุ่นยนต์ฮิวแมนนอยด์ appeared first on iT24Hrs by ปานระพี.",
+    "pubDate": "Mon, 13 Jul 2026 10:43:25 +0000",
+    "source": "iT24Hrs",
+    "category": "Security",
+    "thumbnail": null
+  },
+  {
+    "id": "https://it24hrs.com/?p=168645",
+    "title": "ผู้บริหารระดับสูงอันดับ 2 ของ OpenAI  ประกาศลงจากตำแหน่ง",
+    "link": "https://it24hrs.com/2026/openai-executive-fidji-simo-steps-down/",
+    "content": "เกิดการเปลี่ยนแปลงครั้งสำคัญในบอร์ดบริหารของ OpenAI อีก […]\nThe post ผู้บริหารระดับสูงอันดับ 2 ของ OpenAI  ประกาศลงจากตำแหน่ง appeared first on iT24Hrs by ปานระพี.",
+    "pubDate": "Mon, 13 Jul 2026 09:31:40 +0000",
+    "source": "iT24Hrs",
+    "category": "Security",
+    "thumbnail": null
+  },
+  {
+    "id": "https://techsauce.co/saucy-thoughts/michelle-obama-3-leadership-lessons-obama-presidential-center",
+    "title": "ผู้นำที่เก่งที่สุดไม่ได้เริ่มจากกลยุทธ์ แต่เริ่มจากสิ่งที่ Michelle Obama  เรียกว่า 'ความดีที่มีอยู่แล้ว' ในทีม",
+    "link": "https://techsauce.co/saucy-thoughts/michelle-obama-3-leadership-lessons-obama-presidential-center",
+    "content": "Michelle Obama กล่าวสุนทรพจน์ในพิธีเปิด Obama Presidential Center ที่คอลัมนิสต์ Inc. ยกให้เป็นบทเรียนผู้นำแห่งปี ชวนผู้นำมองเห็นความดีของคนก่อนผลประโยชน์ พร้อม 4 ขั้นตอนนำทีมด้วยความเชื่อในคน ผ่านเรื่องจริงจากโค้ช NBA, Chobani และ Harlem Children's Z",
+    "pubDate": "Mon, 13 Jul 2026 14:24:54 +0700",
+    "source": "Techsauce",
+    "category": "General",
+    "thumbnail": "https://storage.googleapis.com/techsauce-prod/ugc/uploads/2026/7/1783926921_Michelle_Obama__800.webp"
+  },
+  {
+    "id": "https://it24hrs.com/?p=168637",
+    "title": "Meta ประกาศระงับฟีเจอร์ Muse Image บน Instagram หลังโดนทัวร์ลงเรื่องความเป็นส่วนตัว",
+    "link": "https://it24hrs.com/2026/meta-withdraws-muse-ai-feature-instagram-content/",
+    "content": "Meta ประกาศระงับฟีเจอร์ Muse Image ซึ่งเป็นฟีเจอร์ AI ต […]\nThe post Meta ประกาศระงับฟีเจอร์ Muse Image บน Instagram หลังโดนทัวร์ลงเรื่องความเป็นส่วนตัว appeared first on iT24Hrs by ปานระพี.",
+    "pubDate": "Mon, 13 Jul 2026 06:01:42 +0000",
+    "source": "iT24Hrs",
+    "category": "Security",
+    "thumbnail": null
+  },
+  {
+    "id": "https://techsauce.co/news/why-chinese-change-ev-every-1-8-years",
+    "title": "EV ฝั่งจีนขึ้นแท่นรถที่คนใช้งานสั้นกว่าโทรศัพท์ คนจีนใช้รถเฉลี่ยแค่ 1.8 ปีก็เปลี่ยน",
+    "link": "https://techsauce.co/news/why-chinese-change-ev-every-1-8-years",
+    "content": "คนจีนถึงเปลี่ยนรถ EV ไวกว่าสมาร์ตโฟน ด้วยอายุเฉลี่ยบนท้องถนนเพียง 1.8 ปี เจาะลึก 3 เหตุผลหลัก ทั้งเทคโนโลยีที่ไปไว ราคาขายต่อที่ตกแรง และพฤติกรรมผู้บริโภคยุคใหม่ที่เน้นความอัจฉริยะ",
+    "pubDate": "Mon, 13 Jul 2026 12:10:06 +0700",
+    "source": "Techsauce",
+    "category": "General",
+    "thumbnail": "https://storage.googleapis.com/techsauce-prod/ugc/uploads/2026/7/1783919372_EV_%E0%B8%88%E0%B8%B5%E0%B8%99_2.webp"
+  },
+  {
+    "id": "https://techsauce.co/news/hibertec-underground-hydraulic-house-wildfire-tornado",
+    "title": "กดปุ่มเดียว บ้านหายทั้งหลัง! HiberTec บ้านไฮดรอลิก มุดลงห้องนิรภัยใต้ดินใน 15 นาที หนีไฟป่าและทอร์นาโดได้ทันที",
+    "link": "https://techsauce.co/news/hibertec-underground-hydraulic-house-wildfire-tornado",
+    "content": "รู้จัก HiberTec Homes บ้านไฮดรอลิกจากสหรัฐฯ ที่มุดลงห้องนิรภัยใต้ดินได้ทั้งหลังใน 15 นาที สั่งงานผ่านแอป ตัดไฟ น้ำ แก๊ส อัตโนมัติ ทนความร้อนถึง 1,090 องศาเซลเซียส ทางเลือกใหม่ของบ้านในพื้นที่เสี่ยงไฟป่าและทอร์นาโด",
+    "pubDate": "Mon, 13 Jul 2026 12:05:33 +0700",
+    "source": "Techsauce",
+    "category": "General",
+    "thumbnail": "https://storage.googleapis.com/techsauce-prod/ugc/uploads/2026/7/1783918955_HiberTec_800.webp"
+  },
+  {
+    "id": "151137 at https://www.blognone.com",
+    "title": "ผลทดสอบ Surface Laptop 8 แบตเตอรี่อยู่นานขึ้นมาก นานกว่า MacBook Air M5",
+    "link": "https://www.blognone.com/node/151137",
+    "content": "ผลทดสอบ Surface Laptop 8 แบตเตอรี่อยู่นานขึ้นมาก นานกว่า MacBook Air M5\n\n  \nBody\nเว็บไซต์ Notebookcheck รีวิว Surface Laptop 8 รุ่นหน้าจอ 13.8 นิ้วที่เพิ่งเปิดตัว ใช้ชิป Snapdragon X2\nแม้ใช้บอดี้ตัวเดิมของ Surface Laptop 7 ที่ออกในปี 2024 แต่การอัพเกรดชิปจาก Snapdragon X1 เป็น X2 ก็เห็นความต่างที่ชัดเจนด้านประสิทธิภาพจีพียู ที่อัพเกรดจาก Adreno X1-45 มาเป็น Adreno X2-45 ส่วนประสิทธิภาพซีพียูก็เพิ่มขึ้นแต่ไม่ได้เยอะเท่ากับฝั่งจีพียู\nอีกจุดที่น่าสนใจคือ แบตเตอรี่ที่ใช้ได้ยาวนานขึ้นมาก จากเดิมใน Surface Laptop 7 รุ่น Snapdragon X1 รันชุดทดสอบของ Notebookcheck ได้ 14.2 ชั่วโมง พอมาเป็น Surface Laptop 8 ได้นานถึง 18.9 ชั่วโมง (เพิ่มขึ้นเกือบ 5 ชั่วโมง) และตัวเลขนี้สามารถเอาชนะ MacBook Air M5 ที่ทำได้ 16.2 ชั่วโมงด้วยซ้ำ\n\nอย่างไรก็ตาม Notebookcheck วิจารณ์ข้อเสียของ Surface Laptop 8 ว่ามันแพง (รุ่นสเปกล่างสุดคือ Snapdragon X2 Plus, Ram 16GB, SSD 512GB) ราคา 1,599 ดอลลาร์ เทียบกับ MacBook Air M5 สเปกใกล้เคียงกัน ราคาเริ่มต้น 1,299 ดอลลาร์\nนอกจากนี้ ไมโครซอฟท์ยังกั๊กรุ่น ซีพียู Intel Core Ultra 3 ที่ประสิทธิภาพแรงกว่า ไว้ขายเฉพาะลูกค้าธุรกิจ ทำให้ฝั่งคอนซูเมอร์มีตัวเลือกเฉพาะ Snapdragon X2 เท่านั้น\nที่มา - Notebookcheck\nmk\nMon, 13/07/2026 - 12:02",
+    "pubDate": "Mon, 13 Jul 2026 05:02:39 +0000",
+    "source": "Blognone",
+    "category": "General",
+    "thumbnail": "https://www.blognone.com/sites/default/files/files-2026/2026-07/surface-macbookair.png"
+  },
+  {
+    "id": "https://www.techtalkthai.com/?p=167752",
+    "title": "SYMPHONY CYBER SHIELD  ปกป้องทุกมิติของธุรกิจคุณด้วย Cybersecurity อย่างครบวงจร [Guest Post]",
+    "link": "https://www.techtalkthai.com/symphony-cyber-shield-comprehensive-cybersecurity-guest-post/",
+    "content": "ในยุคที่ภัยคุกคามทางไซเบอร์มีความซับซ้อนและขยายตัวอย่างต่อเนื่อง องค์กรไม่ได้เผชิญความเสี่ยงเฉพาะในระบบ IT ภายในอีกต่อไป แต่ครอบคลุมไปถึง Cloud, Hybrid Workplace และระบบการผลิตในภาคอุตสาหกรรม (OT/Industrial) ส่งผลให้การบริหารจัดการความปลอดภัยต้องมีความครอบคลุมและเชื่อมโยงกันมากยิ่งขึ้น   บริษัท ซิมโฟนี่ คอมมูนิเคชั่น จำกัด (มหาชน) หรือ SYMPHONY จึงนำเสนอบริการด้าน Cybersecurity Services ภายใต้ “SYMPHONY CYBER SHIELD” เพื่อตอบโจทย์องค์กรที่ต้องการโซลูชัน Cybersecurity แบบครบวงจรในรูปแบบบริการ (Service-based) ที่สามารถดูแลได้อย่างต่อเนื่อง   ครอบคลุมการป้องกันทุกมิติขององค์กร โซลูชันภายใต้ SYMPHONY CYBER SHIELD ครอบคลุมทั้งการป้องกัน (Prevention) การตรวจจับ (Detection) และการตอบสนอง (Response) เพื่อปกป้องทุก Layer ขององค์กร ตั้งแต่ Network, Application, Identity จนถึง Data โดยโครงสร้างของบริการแบ่งออกเป็น 3 กลุ่มหลัก …",
+    "pubDate": "Mon, 13 Jul 2026 04:44:39 +0000",
+    "source": "TechTalk Thai",
+    "category": "General",
+    "thumbnail": "https://www.techtalkthai.com/wp-content/uploads/2026/07/Cover-TTT-2-640x335.png"
+  },
+  {
+    "id": "151136 at https://www.blognone.com",
+    "title": "Firefox เซ็นสัญญาเป็นสปอนเซอร์บนเสื้อทีมสโมสร Wrexham AFC",
+    "link": "https://www.blognone.com/node/151136",
+    "content": "Firefox เซ็นสัญญาเป็นสปอนเซอร์บนเสื้อทีมสโมสร Wrexham AFC\n\n  \nBody\nMozilla ประกาศเซ็นสัญญาเป็นสปอนเซอร์ให้กับสโมสรฟุตบอล Wrexham AFC โดยจะเป็นโลโก้หลักบนเสื้อทีมในฤดูกาล 2026/2027 เป็นต้นไป\nสโมสร Wrexham AFC โด่งดังขึ้นมาหลังนักแสดงชื่อดัง Ryan Reynolds และ Rob McElhenney เข้ามาถือหุ้น และผลิตสารคดี Welcome to Wrexham เล่าเรื่องการต่อสู้เพื่อเลื่อนชั้น ออกฉายทางโทรทัศน์ ทำให้สโมสรเป็นที่รู้จักในวงกว้าง ปัจจุบันสโมสรเตะอยู่ในลีก EFL Championship ของอังกฤษ\nMozilla อธิบายเหตุผลที่เข้าไปเป็นสปอนเซอร์ ว่าเป็นเพราะ Wrexham AFC เอาตัวรอดจากการใกล้ล้มละลายมาตลอด เพราะมีความใกล้ชิดกับชุมชน ซึ่งใกล้เคียงกับภารกิจของ Mozilla ที่ยึดโยงกับชุมชนผู้ใช้ ในขณะที่ฝั่ง Wrexham AFC เปรียบเทียบว่าทั้งสององค์กรมีความเป็น \"ทีมรองบ่อน\" (underdog) เหมือนกัน\nที่มา - Wrexham, Mozilla\n\nThose finer details 🪡🔴⚪ #WxmAFC pic.twitter.com/364HectJTc\n— Wrexham AFC (@Wrexham_AFC) July 11, 2026\n\n\n          \nmk\nMon, 13/07/2026 - 11:27",
+    "pubDate": "Mon, 13 Jul 2026 04:27:05 +0000",
+    "source": "Blognone",
+    "category": "General",
+    "thumbnail": null
+  },
+  {
+    "id": "https://www.techtalkthai.com/?p=167739",
+    "title": "[Epicor Webinar] จาก Automation สู่ Intelligence: ขับเคลื่อนโรงงานอัจฉริยะสู่อนาคตด้วย AI และ Cognitive ERP จาก Epicor – 5 ส.ค. | 14:00 น.",
+    "link": "https://www.techtalkthai.com/epicor-webinar-from-automation-to-intelligence-driven-smart-factory-with-ai-and-cognitive-erp/",
+    "content": "Epicor ขอเชิญ CIO, CTO, IT Director, IT Manager, Enterprise IT & ERP Managers รวมไปถึง Plant Managers & Supply Chain Leaders หรือบุคลากรสาย IT ระดับองค์กรและสายโรงงานอุตสาหกรรมที่มองหาทิศทางของเทคโนโลยีเพื่อนำไปวางกลยุทธ์ เข้าร่วมงานสัมมนาออนไลน์ของ Epicor Webinar เรื่อง “จาก Automation สู่ Intelligence: ขับเคลื่อนโรงงานอัจฉริยะสู่อนาคตด้วย AI และ Cognitive ERP จาก Epicor” เมื่อแค่ระบบ Automation ไม่เพียงพอต่อการแข่งขันในยุคดิจิทัล ถึงเวลาอัปเกรดกระบวนการผลิตด้วยความชาญฉลาดที่จับต้องได้ วันที่ 5 สิงหาคม 2026 เริ่ม 14:00 น. ผ่านทาง Zoom Webinar รายละเอียดและกำหนดการ: 📅 วันที่: …",
+    "pubDate": "Mon, 13 Jul 2026 03:33:59 +0000",
+    "source": "TechTalk Thai",
+    "category": "General",
+    "thumbnail": "https://www.techtalkthai.com/wp-content/uploads/2026/07/Epicor-Webinar-WB.png"
+  },
+  {
+    "id": "151135 at https://www.blognone.com",
+    "title": "อดีตซีอีโอ GitHub เปิดตัวบริษัทใหม่ Entire สร้างระบบ Git กระจายศูนย์สำหรับยุค AI",
+    "link": "https://www.blognone.com/node/151135",
+    "content": "อดีตซีอีโอ GitHub เปิดตัวบริษัทใหม่ Entire สร้างระบบ Git กระจายศูนย์สำหรับยุค AI\n\n  \nBody\nThomas Dohmke ซีอีโอ GitHub ระหว่างปี 2021-2025 ลาออกไปเปิดบริษัทใหม่ชื่อ Entire ระบุว่าเป็น development platform สำหรับยุค AI Agent\nล่าสุด Entire เปิดตัวบริการแรกที่นิยามว่าเป็น Distributed Git Hosting แบบกระจายศูนย์ เพื่อแก้ปัญหาของ ระบบ Git แบบรวมศูนย์อย่าง GitHub ที่รองรับโหลดในยุค AI ไม่ไหว\nEntire บอกว่าเดิมที Git ออกแบบมาให้เป็นระบบกระจายศูนย์ตั้งแต่แรก เพราะเป็นการทำสำเนาของทั้ง repository เพื่อให้ย้ายไปมาได้ แต่ในทางปฏิบัติจริง วงการซอฟต์แวร์หันมาเก็บโค้ดหลักไว้ที่ Git ส่วนกลาง ทำสำเนามาเพื่อแก้ไขเป็นระยะเวลาสั้นๆ ไม่กี่ชั่วโมง แล้ว push กลับไปยังส่วนกลางเสมอ โมเดลนี้เคยเวิร์คจนกระทั่งมี Agent เข้ามาถล่ม push รัวๆ\n42 is the answer to everything. This is @EntireHQ’s answer to Git in the era of agents: fast, independent, distributed. Mirror your GitHub repos, let your agents clone and pull from the region(s) of your choice, and…we're open sourcing it. 🤖 pic.twitter.com/rXWWjVKl0W\n— Thomas Dohmke (@ashtom) July 8, 2026\n\nระบบจัดการโค้ดของ Entire เป็นระบบที่เขียนขึ้นมาใหม่ แต่เข้ากันได้กับ Git เดิม (เป็น Git-compatible network) แนวคิดของมันคือการโคลน repository แยกออกมาดูดซับทราฟฟิกของ agent ก่อนส่งกลับเข้า repository หลัก ซึ่งรองรับทั้ง GitHub และระบบของ Entire เอง ซึ่งทำงานได้เร็วกว่ามาก\nในตลาดมีซอฟต์แวร์ version control ลักษณะนี้อยู่หลายตัว ซึ่ง Entire เลือกเปรียบเทียบตัวเองกับ Cursor Origin ของ Cursor (ปัจจุบันอยู่ในเครือ SpaceXAI) ซึ่ง Entire ทำงานได้เร็วกว่ามาก ด้วยเทคนิคการปรับแต่งประสิทธิภาพหลายอย่าง\nตอนนี้โฮสต์ของ Entire เปิดให้บริการแล้วกับลูกค้าเก่าในบางภูมิภาค สามารถนำ repository บน GitHub ไปฝากไว้แบบ mirror ได้เลย ส่วนลูกค้าใหม่ต้องรอ waitlist อีกสักระยะหนึ่ง\nเป้าหมายต่อไปของ Entire คือหลังจากทำระบบ version control เสร็จแล้วจะไปทำระบบ Semantic Reasoning Layer เพื่อให้ Agent ทำงานสะดวกขึ้นต่อ เพื่อไปถึงเป้าหมายระยะยาวคือ AI-Native Software Development Lifecycle\nที่มา - Entire\nmk\nMon, 13/07/2026 - 10:09",
+    "pubDate": "Mon, 13 Jul 2026 03:09:32 +0000",
+    "source": "Blognone",
+    "category": "General",
+    "thumbnail": null
+  },
+  {
+    "id": "151134 at https://www.blognone.com",
+    "title": "Vint Cerf หนึ่งในผู้สร้างอินเทอร์เน็ต ประกาศเกษียณอายุด้วยวัย 83 ปี",
+    "link": "https://www.blognone.com/node/151134",
+    "content": "Vint Cerf หนึ่งในผู้สร้างอินเทอร์เน็ต ประกาศเกษียณอายุด้วยวัย 83 ปี\n\n  \nBody\nVint Cerf รองประธานและ Chief Internet Evangelist ของกูเกิลประกาศเกษียณอายุหลังจากทำงานกับกูเกิลมานานถึง 20 ปี โดยตอนนี้เขามีอายุ 83 ปีแล้ว\nCerf เป็นที่รู้จักในฐานะผู้ร่วมพัฒนาโปรโตคอล TCP/IP ในช่วงที่เขาทำงานเป็นผู้ช่วยศาสตราจารย์ที่มหาวิทยาลัยสแตนฟอร์ด เขาเป็นผู้ตัดสินใจว่า IPv4 ใช้หมายเลขเพียง 32 บิตก็เพียงพอสำหรับ \"การทดลอง\" และคิดว่าจะออกแบบใหม่ภายหลัง\nข่าวการเกษียณอายุครั้งนี้เปิดเผยโดย David Patterson ผู้ออกแบบสถาปัตยกรรม RISC ในงาน Open Frontier ที่ Patterson ขอให้ผู้อยู่ในงานปรบมือให้กับ Cerf\nที่มา - TechCrunch\nlew\nMon, 13/07/2026 - 09:30",
+    "pubDate": "Mon, 13 Jul 2026 02:30:15 +0000",
+    "source": "Blognone",
+    "category": "General",
+    "thumbnail": null
+  },
+  {
+    "id": "https://www.techtalkthai.com/?p=167734",
+    "title": "OpenAI เผย ผู้ประกอบการกว่า 4 ล้านรายใช้ ChatGPT ขับเคลื่อนธุรกิจ ชี้ AI ก้าวขึ้นเป็นเป็นพนักงานคนแรกของ SME",
+    "link": "https://www.techtalkthai.com/openai-report-chatgpt-entrepreneurship/",
+    "content": "OpenAI เปิดเผยรายงาน Main Street Entrepreneurship ที่ระบุว่าในเดือนมีนาคม 2026 มีคนอเมริกันกว่า 4 ล้านคนใช้งาน ChatGPT เพื่อวางแผน เดินหน้า และบริหารธุรกิจ ชี้ให้เห็นถึงบทบาทของ AI ที่ไม่ได้จำกัดอยู่แค่กลุ่มบริษัทเทคโนโลยี แต่กำลังกลายเป็นฟันเฟืองสำคัญสำหรับธุรกิจขนาดกลางและขนาดย่อม หรือ SME ในหลากหลายอุตสาหกรรม ราวกับว่าตอนนี้ AI กลายเป็นพนักงานคนแรกของธุรกิจแล้ว OpenAI ระบุว่าสัดส่วนของผู้ประกอบการที่ใช้งาน ChatGPT ไม่ได้กระจุกตัวอยู่ในกลุ่ม Tech Startup ที่มีสัดส่วนเพียง 20% แต่กลับได้รับความนิยมสูงในกลุ่มค้าปลีกอีคอมเมิร์ซที่มีสัดส่วน 21% ธุรกิจบริการต่าง ๆ ที่มีสัดส่วน 22% และบริการรับเหมาซ่อมบำรุงที่มีสัดส่วน 18% แสดงให้เห็นว่า AI มีบทบาทเสมือนพนักงานคนแรกของธุรกิจ เพราะช่วยอุดช่องโหว่ด้านทรัพยากรณ์บุคคล ผ่านการทำงานได้ทั้งการตลาด ปฏิบัติการ ไปจนถึงบัญชี ในมุมรูปแบบการใช้งาน จะพบว่าผู้ประกอบการประยุกต์ใช้ ChatGPT ในหลากหลายมิติ โดยเน้นที่การตลาดและกฎหมายเป็นหลักดังนี้ Marketing & Copywriting: …",
+    "pubDate": "Mon, 13 Jul 2026 02:27:30 +0000",
+    "source": "TechTalk Thai",
+    "category": "General",
+    "thumbnail": "https://www.techtalkthai.com/wp-content/uploads/2026/07/TTT-55.jpg"
+  },
+  {
+    "id": "https://www.techtalkthai.com/?p=167732",
+    "title": "GWS CLOUD จับมือ สสว. หนุน SME ไทยเข้าถึงสิทธิประโยชน์ด้าน Cloud ในโครงการ SME Privilege [Guest Post]",
+    "link": "https://www.techtalkthai.com/gws-cloud-partners-osmep-sme-privilege-guest-post/",
+    "content": "บริษัท จีดับเบิ้ลยูเอส คลาวด์ จำกัด (GWS CLOUD) ผู้ให้บริการคลาวด์มาตรฐานสากลจากไต้หวัน ร่วมลงนามบันทึกข้อตกลงความร่วมมือกับสำนักงานส่งเสริมวิสาหกิจขนาดกลางและขนาดย่อม (สสว.) ภายใต้โครงการ SME Privilege เติมเต็ม แต้มต่อ เติบโต เพื่อสนับสนุนผู้ประกอบการ SME ไทยให้สามารถเข้าถึงบริการ Cloud และคำปรึกษาด้าน Digital Transformation ได้ง่ายขึ้น พร้อมช่วยลดต้นทุนด้านโครงสร้างพื้นฐานไอที และเพิ่มขีดความสามารถในการแข่งขันในยุคดิจิทัล เมื่อวันที่ 8 มิถุนายน 2569 ที่ผ่านมา ผู้แทนผู้บริหาร GWS CLOUD เข้าร่วมพิธีลงนามบันทึกข้อตกลงความร่วมมือกับ สสว. โดยมี ดร.อภิรดี ขาวเธียร รองผู้อำนวยการสำนักงาน สสว. เป็นผู้แทนร่วมลงนามในพิธีดังกล่าว ซึ่งนับตั้งแต่ก่อตั้ง GWS CLOUD ได้ให้บริการลูกค้ากลุ่มธุรกิจขนาดกลางและขนาดย่อม (SME) ในประเทศไทยมาอย่างต่อเนื่อง และพบว่าหนึ่งในความท้าทายสำคัญที่หลายองค์กรต้องเผชิญในช่วงเริ่มต้นของการเติบโต คือแรงกดดันด้านต้นทุนการลงทุนระยะแรก โดยเฉพาะในส่วนของโครงสร้างพื้นฐานด้าน IT หลายธุรกิจในช่วงเริ่มต้นหรือช่วงขยายกิจการ จำเป็นต้องจัดสรรเงินทุนจำนวนมากไปยังส่วนสำคัญของธุรกิจ เช่น การพัฒนาผลิตภัณฑ์ …",
+    "pubDate": "Mon, 13 Jul 2026 02:26:32 +0000",
+    "source": "TechTalk Thai",
+    "category": "General",
+    "thumbnail": "https://www.techtalkthai.com/wp-content/uploads/2026/07/Cover-TTT-640x335.png"
+  },
+  {
+    "id": "https://www.techtalkthai.com/?p=167726",
+    "title": "จาก Pilot สู่ Production! วางรากฐาน Enterprise AI Platform ให้ปลอดภัยและขยายตัวได้จริงกับ eCloudvalley",
+    "link": "https://www.techtalkthai.com/from-pilot-to-production-lay-the-foundation-for-a-secure-and-scalable-enterprise-ai-platform-with-ecloudvalley/",
+    "content": "องค์กรจำนวนมากเริ่มต้นโครงการ AI ได้อย่างรวดเร็ว แต่ส่วนใหญ่กลับติดหล่มอยู่ในช่วง Pilot และไม่สามารถยกระดับไปสู่การใช้ระดับ Production ได้ โดยข้อมูลจาก Gartner ระบุว่าเม็ดเงินลงทุนด้าน AI ในเอเชียตะวันออกเฉียงใต้พุ่งสูงถึง 29,000 ล้านดอลลาร์ แต่องค์กรที่มี Use Case และสามารถนำ AI ขึ้นไปใช้งานจริงได้นั้นกลับมีน้อยกว่า 10% ช่องว่างตรงนี้ถูกเรียกว่า Execution Gap ซึ่ง คุณฐปนรรฆ์ ชาติสิทธิสิทธิ์ Technical Lead จาก eCloudvalley ได้มาเจาะลึกถึงสาเหตุและแนวทางแก้ไขดังนี้ สาเหตุหลักที่ทำให้โครงการ AI ไปไม่ถึง Production ไม่ได้เกิดจากความสามารถของตัวโมเดล แต่เป็นความท้าทายจากปัจจัย 4 ประการที่มักถูกมองข้าม เริ่มต้นด้วยแรกคือเรื่อง Data Privacy ที่องค์กรไม่สามารถตอบได้ชัดเจนว่าข้อมูลลูกค้าถูกส่งไปประมวลผลที่ใด ต่อมาคือ Scalability ระบบที่ทำงานได้เร็วในห้องทดลองมักมีปัญหาเมื่อเจอกับปริมาณผู้ใช้งานจริงระดับหลักหมื่น นอกจากนี้ยังมีความเสี่ยงด้าน Quality & Trust หาก AI ตอบคำถามผิดพลาดจนกระทบต่อความน่าเชื่อถือขององค์กร …",
+    "pubDate": "Mon, 13 Jul 2026 02:13:56 +0000",
+    "source": "TechTalk Thai",
+    "category": "General",
+    "thumbnail": "https://www.techtalkthai.com/wp-content/uploads/2026/07/eCloudvalley-Article-2026.png"
   },
   {
     "id": "https://it24hrs.com/?p=168618",
@@ -27,66 +217,6 @@
     "pubDate": "Sun, 12 Jul 2026 05:56:55 +0000",
     "source": "iT24Hrs",
     "category": "Security",
-    "thumbnail": null
-  },
-  {
-    "id": "151130 at https://www.blognone.com",
-    "title": "Bun พอร์ตโค้ดจาก Zig เป็น Rust สำเร็จแล้ว ใช้เวลา 11 วัน ด้วยพลัง Fable 5",
-    "link": "https://www.blognone.com/node/151130",
-    "content": "Bun พอร์ตโค้ดจาก Zig เป็น Rust สำเร็จแล้ว ใช้เวลา 11 วัน ด้วยพลัง Fable 5\n\n  \nBody\nJarred Sumner รายงานความก้าวหน้าของการพอร์ตโค้ดของ Bun รันไทม์จาวาสคริปต์ยอดนิยมจากภาษา Zig ไปเป็นภาษา Rust ตามที่ประกาศก่อนหน้านี้ ว่าเสร็จสมบูรณ์แล้ว โดย Bun เวอร์ชัน 1.3.14 จะเป็นเวอร์ชันสุดท้ายที่เขียนด้วย Zig และในเวอร์ชัน 1.4 จะเป็นเวอร์ชันแรกที่ใช้ภาษา Rust\nSumner เปิดเผยรายละเอียดการพอร์ตโค้ดอย่างละเอียดในบล็อกของเขา โดยนำ Claude Fable 5 เวอร์ชันที่ไม่ได้เผยแพร่ต่อสาธารณะมาช่วยในการดำเนินงาน ซึ่งสามารถทำได้เพราะปัจจุบัน Bun มี Anthropic เป็นเจ้าของ กระบวนการทั้งหมดเสร็จในเวลา 11 วันเท่านั้น โดยสร้าง Agent ย่อยมาทำงานต่าง ๆ ทั้งการย้ายโค้ด แก้ไขโค้ด รีวิวโค้ด ปรับปรุงโค้ด เป็นต้น ส่วนสิ่งที่หลายคนอยากรู้เมื่อเล่ามาขนาดนี้คือค่าใช้จ่าย API คิดเป็นเงินประมาณ 165,000 ดอลลาร์ (ประมาณ 5.5 ล้านบาท) ซึ่ง Sumner ก็มองว่าคุ้มค่าเพราะหากใช้คนทำงานก็น่าจะกินเวลาระดับปี และใช้วิศวกรช่วยทำงานหลายคน\nBun 1.4.0 ระบุว่าทำงานได้เร็วขึ้น 10% บน Linux ซึ่ง Sumner บอกว่าเป็นเพราะโครงสร้างของ Rust มีการจัดการหน่วยความจำที่ดีกว่า ขนาดของไฟล์ไบนารีก็เล็กลง 4-9% ขึ้นอยู่กับระบบปฏิบัติการ\nอย่างไรก็ตาม Andrew Kelley ผู้สร้างภาษา Zig ก็โพสต์บล็อกแสดงความเห็นในอีกด้าน โดยมองว่าการย้ายโค้ดไป Rust ของ Bun แล้วบอกว่าเพราะ Zig มีปัญหาหลายอย่าง เกิดจากการเขียนโค้ดที่ไม่ดีเอง ซึ่งชุมชนได้แสดงความเห็นไปหลายครั้งแล้ว แต่ไม่ได้รับการแก้ไขอย่างถูกต้อง นอกจากนี้เขามองว่ากระบวนการพอร์ตโค้ดนี้น่าจะเป็นการพยายามโฆษณาความสามารถของ Claude จาก Anthropic ด้วย ไม่ใช่ประเด็นทางเทคนิคทั้งหมด\nที่มา: Bun และ Andrew Kelley\narjin\nSun, 12/07/2026 - 11:54",
-    "pubDate": "Sun, 12 Jul 2026 04:54:35 +0000",
-    "source": "Blognone",
-    "category": "General",
-    "thumbnail": null
-  },
-  {
-    "id": "151127 at https://www.blognone.com",
-    "title": "Pokémon GO มีอายุครบ 10 ปีแล้ว - ทีมพัฒนามองสมาร์ทโฟนเชื่อมต่อดาวเทียม คือโอกาสให้ผู้เล่นได้สำรวจโลกที่กว้างกว่าเดิม",
-    "link": "https://www.blognone.com/node/151127",
-    "content": "Pokémon GO มีอายุครบ 10 ปีแล้ว - ทีมพัฒนามองสมาร์ทโฟนเชื่อมต่อดาวเทียม คือโอกาสให้ผู้เล่นได้สำรวจโลกที่กว้างกว่าเดิม\n\n  \nBody\nสัปดาห์นี้อาจเป็นสัปดาห์ที่กิจกรรมเยอะหน่อยสำหรับเหล่าเทรนเนอร์ Pokémon GO เพราะเกมโลกเสมือน AR ในสมาร์ทโฟนนี้มีอายุครบ 10 ปีแล้ว จากเกมที่จุดเริ่มต้นของมุก April Fools ที่กูเกิลเล่นเองในปี 2014 มาสู่เกมที่ให้คนได้ออกไปจับโปเกม่อนตามสถานที่ต่าง ๆ ในปี 2016 ซึ่ง Fast Company ได้สัมภาษณ์ Ed Wu หนึ่งในทีมงานของ Pokémon GO ตั้งแต่วันแรกที่ Niantic Labs โดยตอนนี้เขาเป็นประธานฝ่ายเกมของ Scopely บริษัทที่ซื้อธุรกิจเกมของ Niantic เมื่อปีที่แล้ว\nWu บอกว่าเกมนี้เริ่มต้นจากมุกตลก April Fools ของกูเกิลว่าเกิดเหตุการณ์โปเกม่อนหลุดออกมาสู่โลกภายนอก จึงต้องการให้ทุกคนออกไปช่วยตามจับในสถานที่ต่าง ๆ ในชีวิตจริง ซึ่งทีมงาน Niantic Labs ที่ตอนนั้นยังเป็นบริษัทย่อยของกูเกิลได้เห็นและชอบมาก มองว่าเกมนี้สามารถพัฒนาต่อได้จาก Ingress ที่บริษัทก็เป็นผู้พัฒนา ซึ่งเป็นการผสมผสานระหว่าง AR โลกเสมือน กับระบบเกมที่อิงตามพิกัดของผู้เล่น\nคลิป April Fools ของกูเกิลในปี 2014\n\nPokémon GO ประสบความสำเร็จอย่างสูงตั้งแต่เปิดตัว จำนวนดาวน์โหลดมากกว่า 500 ล้านครั้งภายในสองเดือนแรก ทำเงินหลายร้อยล้านดอลลาร์ และปัจจุบันยังมีผู้เล่นมากระดับหลายสิบล้านคนต่อเดือน สำหรับ Wu เอง เขาบอกว่าเกมนี้มีคุณค่าต่อชีวิตมาก เพราะเกมนี้ทำให้พ่อของเขาได้ออกไปเดินทุกวัน จนทำให้ควบคุมระดับน้ำตาลจากโรคเบาหวานได้ดีมาก และเชื่อว่าเรื่องราวนี้ก็เกิดขึ้นกับผู้เล่นมากมายทั่วโลก\nอย่างไรก็ตาม Niantic ก็พบอุปสรรคใหญ่จากการพยายามต่อยอดความสำเร็จจาก Pokémon GO ด้วยการพัฒนาเกมอื่นบนเทคโนโลยีเดียวกัน โดยเฉพาะกรณีของ Harry Potter: Wizards Unite แม้ได้แฟรนไชส์ใหญ่มา แต่ก็ต้องปิดตัวลงภายในเวลาสองปีกว่าเท่านั้น นอกจากนี้ยังมีกรณีไม่ประสบความสำเร็จอีกหลายเกมเช่น NBA All-World หรือ Marvel's Avengers ที่โครงการยกเลิกไปตั้งแต่เกมยังไม่ออกมา ซึ่ง Wu มองย้อนกลับไปว่าเพราะการแค่ทำ \"Pokémon GO อีกเวอร์ชัน\" นั้นไม่เพียงพอ แต่เกมต้องมีสิ่งที่ดึงดูดมากพอให้คนอยากเดินออกไปสำรวจโลก ต้องสร้างเรื่องราวให้คนสามารถจินตนาการและเข้าถึงได้\n\nปัจจุบัน Scopely มีเกม AR อีกสองเกมที่ซื้อกิจการมาด้วยคือ Monster Hunter Now และ Pikmin Bloom ซึ่งสำหรับ Pikmin Bloom นั้น Wu มองว่ายังมีโอกาสเติบโตเป็นเกมยอดนิยมที่ยิ่งใหญ่ได้ เพราะผู้เล่นยังคงเติบโต คนที่ได้ลองเล่นก็ไม่เลิกเล่นง่าย ๆ มีฐานที่แข็งแกร่ง\nเมื่อถามว่า Wu มอง Pokémon GO ในอนาคตจะไปในทิศทางใด เขาบอกว่าสิ่งที่น่าสนใจจากนี้คือเทคโนโลยีสมาร์ทโฟนเชื่อมต่อดาวเทียม เพราะจะทำให้พื้นที่ซึ่งไม่มีสัญญาณมือถือครอบคลุมมากอย่างภูเขา ป่า อุทยานแห่งชาติ สามารถเล่น Pokémon GO ได้ เป็นการผลักดันให้คนออกไปสำรวจสิ่งใหม่ และมีสิ่งตอบแทนคือธรรมชาติที่มากกว่าในเกมด้วย\nที่มา: Fast Company\narjin\nSat, 11/07/2026 - 21:42",
-    "pubDate": "Sat, 11 Jul 2026 14:42:00 +0000",
-    "source": "Blognone",
-    "category": "General",
-    "thumbnail": "https://www.blognone.com/sites/default/files/files-2026/2026-07/fmiqocw.jpg"
-  },
-  {
-    "id": "151126 at https://www.blognone.com",
-    "title": "Notion ออกแอปแยก Notion Agents บน iOS ไว้เรียกใช้ผู้ช่วย AI โดยเฉพาะ",
-    "link": "https://www.blognone.com/node/151126",
-    "content": "Notion ออกแอปแยก Notion Agents บน iOS ไว้เรียกใช้ผู้ช่วย AI โดยเฉพาะ\n\n  \nBody\nNotion เปิดตัวแอปใหม่ Notion Agents ตอนนี้มีเฉพาะใน iOS โดยบอกว่าเป็นผู้ช่วย AI ที่สามารถจัดการสิ่งต่าง ๆ ได้ตลอดเวลาที่ต้องการ\nNotion Agents สามารถตอบคำถามจากเอกสาร ฐานข้อมูล โครงการต่าง ๆ ที่มีใน Notion ของผู้ใช้งาน สามารถส่งคำสั่งได้ทั้งการป้อนข้อความ, คำสั่งเสียง หรืออัปโหลดรูปภาพ เพื่อให้ Agent จัดการงานต่าง ๆ ให้\nผู้ใช้งานสามารถกำหนดได้ว่าต้องการใช้โมเดล AI ค่ายใดควบคุมการทำงานซึ่งตัวเลือกมีทั้ง GPT, Claude และ Gemini\nที่มา: Notion\narjin\nSat, 11/07/2026 - 20:49",
-    "pubDate": "Sat, 11 Jul 2026 13:49:00 +0000",
-    "source": "Blognone",
-    "category": "General",
-    "thumbnail": null
-  },
-  {
-    "id": "151124 at https://www.blognone.com",
-    "title": "คณะกรรมาธิการยุโรปรายงานผลสอบสวนบอก Instagram, Facebook ออกแบบแอปให้ผู้ใช้งานเสพติด",
-    "link": "https://www.blognone.com/node/151124",
-    "content": "คณะกรรมาธิการยุโรปรายงานผลสอบสวนบอก Instagram, Facebook ออกแบบแอปให้ผู้ใช้งานเสพติด\n\n  \nBody\nคณะกรรมาธิการยุโรป (European Commission - EC) ออกรายงานผลการสอบสวนเบื้องต้นระบุว่า Meta บริษัทแม่ของ Facebook และ Instagram ได้ละเมิดกฎหมายดิจิทัล DSA ของสหภาพยุโรป จากการออกแบบฟังก์ชันในแอปให้ผู้ใช้งานเสพติด เช่น หน้าฟีดที่ไถได้ไม่สิ้นสุด, ระบบเล่นวิดีโออัตโนมัติ และรูปแบบการแจ้งเตือนแบบพุช ซึ่ง EC มองว่าฟังก์ชันเหล่านี้ทำให้สุขภาพกายและใจของผู้ใช้งานแย่ลง โดยเฉพาะกลุ่มเยาวชนและผู้ใหญ่ที่เปราะบาง\nทั้งนี้ EC ได้เริ่มการสอบสวน Meta ในประเด็นดังกล่าวมาตั้งแต่ปี 2024\nรายงานผลการสอบสวนยังบอกว่า Meta ไม่ได้ให้ข้อมูลเรื่องระยะเวลาที่ผู้ใช้งานเยาวชนใช้บน Instagram และ Facebook ตอนกลางคืนตามที่ร้องขอ โดยมองว่า Reels และ Story มีการกระตุ้นให้ผู้ใช้งานนานเกินควร\nในขั้นตอนนี้ EC ยังไม่ได้ระบุว่า Meta มีความผิด แต่เสนอให้ Meta แก้ไขการทำงานในแอปทั้ง Instagram และ Facebook ด้วยการปิดการทำงานฟีเจอร์ที่ทำให้ผู้ใช้งานเสพติดตามที่ระบุเป็นค่าเริ่มต้น รวมทั้งเพิ่มระบบพักการใช้งานเมื่อใช้งานตามกำหนดเวลาให้มีประสิทธิภาพมากกว่านี้ แต่หาก Meta ถูกชี้ว่ามีความผิดจริง โทษสูงสุดคือปรับไม่เกิน 6% ของรายได้ต่อปีทั่วโลก\nตัวแทนของ Meta ออกแถลงการณ์หลังรายงานของ EC เผยแพร่ว่าบริษัทไม่เห็นด้วยกับรายงานนี้ บริษัทมีการออกแบบเครื่องมือเพื่อป้องกันผู้ใช้งานเยาวชนไว้แล้ว แต่รายงานนี้ไม่ได้ลงรายละเอียดไปในทุกขั้นตอนแบบที่เป็นอยู่ ซึ่งมีการป้องกันทั้งระดับผู้ปกครองควบคุมได้, จำกัดเวลาใช้งานตอนกลางคืน และอื่น ๆ\nที่มา: European Commission ภาพ Pixabay และ CNBC\narjin\nSat, 11/07/2026 - 19:53",
-    "pubDate": "Sat, 11 Jul 2026 12:53:00 +0000",
-    "source": "Blognone",
-    "category": "General",
-    "thumbnail": null
-  },
-  {
-    "id": "151125 at https://www.blognone.com",
-    "title": "ผลการศึกษาพบ LinkedIn มีโพสต์ที่สร้างด้วย AI มากที่สุด แม้แต่คอมเมนต์ยังคิดเป็น 1 ใน 4",
-    "link": "https://www.blognone.com/node/151125",
-    "content": "ผลการศึกษาพบ LinkedIn มีโพสต์ที่สร้างด้วย AI มากที่สุด แม้แต่คอมเมนต์ยังคิดเป็น 1 ใน 4\n\n  \nBody\nPangram บริษัทผู้พัฒนาเครื่องมือตรวจจับเนื้อหาที่สร้างจาก AI เผยแพร่รายงานข้อมูลหลังจากบริษัทออกส่วนขยายบน Chrome เมื่อสองเดือนที่แล้ว ที่สามารถตรวจสอบเนื้อหาบนเว็บไซต์ที่เข้าชมว่าสร้างจาก AI หรือไม่ โดยพบว่าเนื้อหาที่สร้างด้วย AI ตอนนี้พบได้ทุกที่ทุกหนแห่ง ชนิดที่คนท่องเว็บยากที่จะหลบเลี่ยงแล้วโดยเฉพาะในโซเชียลมีเดีย\nทั้งนี้ข้อมูลที่ Pangram นำมาวิเคราะห์ระบุว่าเกิดจากการที่คนใช้ส่วนขยายบน Chrome ได้กดยินยอมแล้ว โดยใช้โพสต์จำนวนประมาณ 1 ล้านโพสต์ จากโซเชียลมีเดียต่าง ๆ ได้แก่ LinkedIn, Medium, Substack, X และ Reddit และนับเฉพาะโพสต์ที่ยาวกว่า 50 คำเท่านั้น เพราะมองว่าโพสต์ที่สั้นกว่านั้นไม่จะสร้างด้วย AI\nหลายคนอาจประเมินด้วยตนเองว่าเนื้อหานี้เป็น AI แน่นอน โดยดูจากความยาวไว้ก่อน ซึ่งก็เป็นเช่นนั้นโดย Pangram พบว่าอัตราการเจอคอนเทนต์ AI ในโซเชียลมีเดีย สำหรับโพสต์ยาว (มากกว่า 250 คำ) อยู่ที่ 25.7% ส่วนโพสต์สั้น (50-250 คำ) ก็มีโอกาสเจอเนื้อหา AI เช่นกัน แต่ในอัตราที่น้อยกว่า ยกเว้นสองแพลตฟอร์มที่จะยาวหรือสั้นก็มีโอกาสเจอเนื้อหา AI ใกล้เคียงกันคือ Medium กับ LinkedIn\n\nบน X เฉพาะโพสต์ยาว โอกาสเจอเนื้อหา AI อยู่ที่ 24.1% อย่างไรก็ตามถ้ารวมเนื้อหาแบบผสมผสาน (ใช้คนแก้ไขบางส่วน) อัตราส่วนนี้จะเพิ่มเป็น 47.3% ซึ่งสูงกว่าทุกแพลตฟอร์ม\n\nหากดูในภาพรวมว่าโซเชียลใดที่รวมโพสต์ AI มากที่สุด ข้อมูลของ Pangram บอกว่าคือ LinkedIn ซึ่งเจอระดับ 2 ใน 3 นอกจากนี้คอมเมนต์ประมาณ 1 ใน 4 ก็เป็น AI ด้วย (เทียบกับ Reddit คอมเมนต์ที่เป็น AI มีเพียง 1.7%) เหตุผลหลักน่าจะมาจาก LinkedIn มีเครื่องมือช่วยสร้างเนื้อหาด้วย AI ภายในแอปด้วยนั่นเอง\nPangram มองว่าสถานการณ์ตอนนี้อินเทอร์เน็ตคงหลีกเลี่ยงเนื้อหาจาก AI ไม่ได้แล้ว ที่บริษัทเรียกร้องคือการเพิ่มความโปร่งใสให้มากขึ้น เพราะจะเป็นสิ่งที่น่าจะยุติธรรมกับผู้ใช้งานที่สุด\nที่มา: Pangram\narjin\nSat, 11/07/2026 - 18:44",
-    "pubDate": "Sat, 11 Jul 2026 11:44:59 +0000",
-    "source": "Blognone",
-    "category": "General",
-    "thumbnail": "https://www.blognone.com/sites/default/files/files-2026/2026-07/1_image.jpg"
-  },
-  {
-    "id": "151123 at https://www.blognone.com",
-    "title": "Bluesky ได้ซีอีโอคนใหม่แล้วคือ Toni Schneider ที่เป็นซีอีโอรักษาการก่อนหน้านี้",
-    "link": "https://www.blognone.com/node/151123",
-    "content": "Bluesky ได้ซีอีโอคนใหม่แล้วคือ Toni Schneider ที่เป็นซีอีโอรักษาการก่อนหน้านี้\n\n  \nBody\nBluesky แพลตฟอร์มโซเชียลไมโครบล็อก ประกาศแต่งตั้ง Toni Schneider ที่เดิมเป็นซีอีโอรักษาการให้ขึ้นมาเป็นซีอีโอคนใหม่ของบริษัทอย่างเป็นทางการ หลังจาก Jay Graber ซีอีโอคนก่อนหน้านี้ลงจากตำแหน่งเมื่อเดือนมีนาคมที่ผ่านมา\nSchneider บอกว่าหลังจากเขามีคำห้อยท้ายว่ารักษาการมานาน 4 เดือน ตอนนี้คำดังกล่าวก็หายไปแล้ว ทั้งนี้ Schneider มีอีกสถานะคือนักลงทุนของ Bluesky ผ่านกองทุนสองแห่งที่เขาเป็นพาร์ตเนอร์\nเขาบอกว่าภารกิจแรกหลังเป็นซีอีโอทางการคือการทำให้ Bluesky มีพื้นที่ขนาดเล็กลงและชุมชนขนาดเล็กสำหรับผู้ใช้งานแต่ละคน ซึ่งมองว่าจะสร้างโอกาสสำคัญในการเติบโตและนำมาสู่นวัตกรรมใหม่ ๆ\nBluesky ในยุคของ Graber เติบโตจนมีผู้ใช้งานมากกว่า 43 ล้านบัญชี ส่วนหนึ่งเป็นผลจากกระแสย้ายออกจาก X ในช่วงหนึ่ง และ Bluesky ก็วางตำแหน่งเป็นแพลตฟอร์มที่ทำงานบนเครือข่ายกระจายศูนย์ AT Protocol ที่รองรับการเชื่อมต่อกับแพลตฟอร์มอื่นด้วย\nที่มา: Bluesky\narjin\nSat, 11/07/2026 - 16:27",
-    "pubDate": "Sat, 11 Jul 2026 09:27:41 +0000",
-    "source": "Blognone",
-    "category": "General",
     "thumbnail": null
   },
   {
@@ -140,26 +270,6 @@
     "thumbnail": null
   },
   {
-    "id": "https://it24hrs.com/?p=168579",
-    "title": "ต้องทำเดี๋ยวนี้! วิธีปิดไม่ให้ Meta นำรูป Instagram เราไปเทรน AI ถ้าไม่ปิดเท่ากับยินยอม",
-    "link": "https://it24hrs.com/2026/how-to-opt-out-meta-ai-instagram/",
-    "content": "ต้องทำเดี๋ยวนี้ เรื่องนี้รอไม่ได้และต้องทำทันที  หลังล่ […]\nThe post ต้องทำเดี๋ยวนี้! วิธีปิดไม่ให้ Meta นำรูป Instagram เราไปเทรน AI ถ้าไม่ปิดเท่ากับยินยอม appeared first on iT24Hrs by ปานระพี.",
-    "pubDate": "Fri, 10 Jul 2026 12:00:16 +0000",
-    "source": "iT24Hrs",
-    "category": "Security",
-    "thumbnail": null
-  },
-  {
-    "id": "https://it24hrs.com/?p=168565",
-    "title": "DGA เปิดตัวภาพยนตร์โฆษณาชุดใหม่ มาทำอะไรป่านนี้? สื่อสารฟังก์ชันบริการภาครัฐผ่านซูเปอร์แอปทางรัฐ",
-    "link": "https://it24hrs.com/2026/dga-tangrath-government-super-app-ads-2026/",
-    "content": "สำนักงานพัฒนารัฐบาลดิจิทัล (องค์การมหาชน) หรือ DGA เดิน […]\nThe post DGA เปิดตัวภาพยนตร์โฆษณาชุดใหม่ มาทำอะไรป่านนี้? สื่อสารฟังก์ชันบริการภาครัฐผ่านซูเปอร์แอปทางรัฐ appeared first on iT24Hrs by ปานระพี.",
-    "pubDate": "Fri, 10 Jul 2026 10:00:45 +0000",
-    "source": "iT24Hrs",
-    "category": "Security",
-    "thumbnail": null
-  },
-  {
     "id": "https://techsauce.co/saucy-thoughts/apec-trust-ai-trade-abac3-eduardo-pedrosa",
     "title": "คุยกับ Eduardo Pedrosa เลขาธิการ APEC เมื่อ Trust กลายเป็นสกุลเงินใหม่ของเอเชียแปซิฟิก ในวันที่ AI และการค้าเปลี่ยนกติกา",
     "link": "https://techsauce.co/saucy-thoughts/apec-trust-ai-trade-abac3-eduardo-pedrosa",
@@ -178,16 +288,6 @@
     "source": "Techsauce",
     "category": "General",
     "thumbnail": "https://storage.googleapis.com/techsauce-prod/ugc/uploads/2026/7/1783665368_ChatGPT_Work_2.webp"
-  },
-  {
-    "id": "https://it24hrs.com/?p=168560",
-    "title": "GPT-5.6  และ ChatGPT Work คืออะไร? ฟีเจอร์ใหม่จาก OpenAI ที่คนทำงานต้องรู้!",
-    "link": "https://it24hrs.com/2026/chatgpt-work-gpt-5-6-launch/",
-    "content": "GPT-5.6 และ ChatGPT Work เปิดตัวแล้วโดย OpenAI ประกาศปล […]\nThe post GPT-5.6  และ ChatGPT Work คืออะไร? ฟีเจอร์ใหม่จาก OpenAI ที่คนทำงานต้องรู้! appeared first on iT24Hrs by ปานระพี.",
-    "pubDate": "Fri, 10 Jul 2026 05:43:17 +0000",
-    "source": "iT24Hrs",
-    "category": "Security",
-    "thumbnail": null
   },
   {
     "id": "https://techsauce.co/ai/claude-reflect-anthropic-ai-wrapped",
@@ -300,26 +400,6 @@
     "thumbnail": "https://storage.googleapis.com/techsauce-prod/ugc/uploads/2026/7/1783612799_Cecilia_Shen_%E0%B8%84%E0%B8%B7%E0%B8%AD%E0%B9%83%E0%B8%84%E0%B8%A3.webp"
   },
   {
-    "id": "https://techsauce.co/saucy-thoughts/roost-slow-cial-app-slow-living-research",
-    "title": "เบื้องหลังเทรนด์ Slow Living เมื่อโลกยิ่งเร็ว คนยิ่งอยากช้า",
-    "link": "https://techsauce.co/saucy-thoughts/roost-slow-cial-app-slow-living-research",
-    "content": "Roost แอปโซเชียลจังหวะช้าที่ส่งข้อความด้วยความเร็วนกจริง มีผู้ใช้เกือบ 300,000 คนใน 5 สัปดาห์ สะท้อนเทรนด์ Slow Living ที่งานวิจัยชี้ว่าสมาธิมนุษย์เหลือ 47 วินาที และการพักจากโซเชียลแค่ 7 วันช่วยให้สุขภาพจิตดีขึ้นวัดผลได้",
-    "pubDate": "Thu, 09 Jul 2026 23:00:59 +0700",
-    "source": "Techsauce",
-    "category": "General",
-    "thumbnail": "https://storage.googleapis.com/techsauce-prod/ugc/uploads/2026/7/1783613350_2_Slow_Living_800.webp"
-  },
-  {
-    "id": "https://techsauce.co/saucy-thoughts/mirek-dusek-wef-amnc26-trust-ai-risk",
-    "title": "คุยกับ Mirek Dušek ผู้อยู่เบื้องหลังเวที Summer Davos เผยสูตรสร้างความไว้วางใจในโลกที่แตกแยก แสดงตัว มีส่วนร่วม ทำสม่ำเสมอ",
-    "link": "https://techsauce.co/saucy-thoughts/mirek-dusek-wef-amnc26-trust-ai-risk",
-    "content": "มันคือจุดตัดระหว่างโอกาสกับความเสี่ยง จะลงทุนให้ถูกจังหวะได้อย่างไร ในเวลาเดียวกันก็ต้องบริหารความเสี่ยงที่สินทรัพย์บางอย่างอาจสูญค่าไปในอนาคตด้วย\r\n\r\nนี่คือคำตอบของ Mirek Dušek เมื่อ Techsauce ถามว่าผู้นำธุรกิจทั่วโลกกังวลอะไรมากที่สุดในตอนนี้",
-    "pubDate": "Thu, 09 Jul 2026 19:22:37 +0700",
-    "source": "Techsauce",
-    "category": "General",
-    "thumbnail": "https://storage.googleapis.com/techsauce-prod/ugc/uploads/2026/7/1783599681_wef-mirek.webp"
-  },
-  {
     "id": "https://www.techtalkthai.com/?p=167637",
     "title": "ไมโครซอฟท์ เปิดตัวกลุ่มธุรกิจใหม่ “Microsoft Frontier Company” หนุนองค์กรธุรกิจทั่วโลกสร้างผลลัพธ์จริงจาก AI [PR]",
     "link": "https://www.techtalkthai.com/microsoft-frontier-company-pr/",
@@ -340,26 +420,6 @@
     "thumbnail": "https://www.techtalkthai.com/wp-content/uploads/2026/07/amdbylineai-640x335.png"
   },
   {
-    "id": "https://techsauce.co/video/ai-microsoft-sme-thailand",
-    "title": "SME ไทยจะชนะบริษัทใหญ่ได้ไหม ในวันที่ทุกคนมี AI? คุยกับ Ralph Haupter ผู้บริหารระดับโลกของ Microsoft",
-    "link": "https://techsauce.co/video/ai-microsoft-sme-thailand",
-    "content": "Techsauce คุยกับ Ralph Haupter ผู้บริหาร Microsoft ระดับโลก ผู้ดูแลธุรกิจ SME และเครือข่ายพาร์ตเนอร์ทั่วโลก ถึงจุดเปลี่ยนสำคัญของ SME ไทยในยุค AI",
-    "pubDate": "Thu, 09 Jul 2026 17:00:00 +0700",
-    "source": "Techsauce",
-    "category": "General",
-    "thumbnail": null
-  },
-  {
-    "id": "https://techsauce.co/basedon/sk-hynix-hbm-chip-king-ai-boom-nasdaq-ipo",
-    "title": "จุดกำเนิด SK Hynix บริษัทที่ผ่านมา 3 แชโบล",
-    "link": "https://techsauce.co/basedon/sk-hynix-hbm-chip-king-ai-boom-nasdaq-ipo",
-    "content": "ถอดบทเรียน SK Hynix จากบริษัทที่เกือบล้มละลาย 2 รอบ สู่ราชาชิป HBM ที่เบอร์หนึ่งอย่าง Nvidia ต้องง้อ ทำกำไรพุ่ง 415% จนโค่น Samsung และกำลังจะสร้างประวัติศาสตร์ IPO ครั้งใหญ่ที่สุดบนกระดาน Nasdaq",
-    "pubDate": "Thu, 09 Jul 2026 16:08:50 +0700",
-    "source": "Techsauce",
-    "category": "General",
-    "thumbnail": "https://storage.googleapis.com/techsauce-prod/ugc/uploads/2026/7/1783588049_SK_Hynix_3.webp"
-  },
-  {
     "id": "https://www.techtalkthai.com/?p=167628",
     "title": "Bertram เปิดตัวโครงการ ART ERA ยกระดับองค์กรทั้งระบบ ด้วย SAP Cloud ERP ผ่าน SAP S/4HANA Cloud, Public Edition [PR]",
     "link": "https://www.techtalkthai.com/bertram-art-era-project-kickoff-pr/",
@@ -378,66 +438,6 @@
     "source": "TechTalk Thai",
     "category": "General",
     "thumbnail": "https://www.techtalkthai.com/wp-content/uploads/2026/07/dacethumbnai-640x335.png"
-  },
-  {
-    "id": "https://techsauce.co/startup/entire-distributed-git-network-ai-coding-agents",
-    "title": "อดีตซีอีโอ GitHub เปิดตัวสตาร์ทอัพ ‘Entire’ เครือข่าย Git กระจายศูนย์ Mirror โค้ดข้ามภูมิภาค ไม่ง้อเซิร์ฟเวอร์กลาง",
-    "link": "https://techsauce.co/startup/entire-distributed-git-network-ai-coding-agents",
-    "content": "Entire สตาร์ทอัพของ Thomas Dohmke อดีตซีอีโอ GitHub เปิดตัวเครือข่าย Git แบบกระจายศูนย์สำหรับยุค AI Agent ให้เอเจนต์โคลนโค้ดจากสำเนาประจำภูมิภาคแทนเซิร์ฟเวอร์กลาง รองรับ 570,000 โคลนต่อชั่วโมง พร้อมแผนเปิดซอร์สระบบหลังบ้านให้ตรวจสอบได้",
-    "pubDate": "Thu, 09 Jul 2026 14:02:00 +0700",
-    "source": "Techsauce",
-    "category": "General",
-    "thumbnail": "https://storage.googleapis.com/techsauce-prod/ugc/uploads/2026/7/1783580417_entire_800.webp"
-  },
-  {
-    "id": "https://www.techtalkthai.com/?p=167615",
-    "title": "SYMPHONY ยกระดับโครงข่ายเคเบิลใต้น้ำ “MCT Submarine Cable System” รองรับยุค AI-Driven Economy [PR]",
-    "link": "https://www.techtalkthai.com/symphony-mct-submarine-cable-system-upgrade-for-ai-driven-economy-pr/",
-    "content": "บริษัท ซิมโฟนี่ คอมมูนิเคชั่น จำกัด (มหาชน) หรือ SYMPHONY COMMUNICATION ผู้นำด้านโครงสร้างพื้นฐานดิจิทัลและโครงข่ายสื่อสารสำหรับองค์กร ได้ลงทุนอัปเกรดโครงข่ายเคเบิลใต้น้ำ MCT Submarine Cable System เพื่อยกระดับศักยภาพ International Connectivity เชื่อมต่อประเทศไทยสู่โครงข่ายสื่อสารระดับโลก  SYMPHONY เป็นเอกชนไทยรายแรกที่ได้รับอนุญาตให้ลงทุนและติดตั้งระบบเคเบิลใต้น้ำระหว่างประเทศ (Submarine Cable System) และเป็นผู้ให้บริการรายเดียวที่มีสถานีเคเบิลใต้น้ำ (Subsea Cable Landing Station) ในจังหวัดระยอง ซึ่งเป็นพื้นที่ยุทธศาสตร์สำคัญของโครงการพัฒนาระเบียงเศรษฐกิจภาคตะวันออก (EEC) สนับสนุนการลงทุนด้าน Data Center การเชื่อมต่อระหว่างประเทศ และการเติบโตของเศรษฐกิจดิจิทัลของไทย ในการอัปเกรดครั้งนี้ SYMPHONY ได้เลือกใช้เทคโนโลยี PSE-6 Coherent Optics จาก Nokia เพื่อเพิ่มประสิทธิภาพ ความจุ และความยืดหยุ่นของโครงข่ายเคเบิลใต้น้ำ โดยสามารถรองรับการรับส่งข้อมูลได้มากกว่า 30 เทราบิตต่อวินาที (Tbps) ต่อคู่เส้นใยนำแสง (Fiber Pair) รองรับปริมาณ …",
-    "pubDate": "Thu, 09 Jul 2026 06:39:48 +0000",
-    "source": "TechTalk Thai",
-    "category": "General",
-    "thumbnail": "https://www.techtalkthai.com/wp-content/uploads/2026/07/smphonynokia-640x335.png"
-  },
-  {
-    "id": "https://www.techtalkthai.com/?p=167612",
-    "title": "Rust ขึ้น Top 10 ภาษาโปรแกรมยอดนิยมบน Tiobe Index เพราะจุดแข็งด้าน Memory Safety",
-    "link": "https://www.techtalkthai.com/rust-enters-top-10-tiobe-index/",
-    "content": "เป็นครั้งแรกในประวัติศาสตร์ที่ภาษา Rust สามารถเจาะเข้าสู่ 10 อันดับแรกของการจัดอันดับภาษาโปรแกรมยอดนิยม Tiobe Programming Community Index ประจำเดือนกรกฎาคม 2026 ด้วยเรตติ้ง 1.34% สอดรับกับแนวโน้มของอุตสาหกรรมซอฟต์แวร์ที่ต้องการยกระดับความมั่นคงปลอดภัยของระบบตั้งแต่พื้นฐาน Paul Jansen ประธานเจ้าหน้าที่บริหาร Tiobe ระบุว่า ปัจจัยหลักที่ผลักดันให้ Rust ได้รับความนิยมเพิ่มขึ้นอย่างก้าวกระโดด มาจากการออกแบบที่มุ่งเน้นเรื่องความปลอดภัยของหน่วยความจำอย่างเข้มงวด โดยยังคงความสามารถในการประมวลผลโค้ดที่รวดเร็วและมีประสิทธิภาพสูง ปัจจุบันแวดวงนักพัฒนามองว่า Rust เป็นคู่แข่งโดยตรงกับภาษา C และ C++ ซึ่งทั้งสองภาษาต่างเจอความยากลำบากในการทำ Explicit Memory Management และถูกประเมินว่ามีความปลอดภัยน้อยกว่าเมื่อเปรียบเทียบกัน ชุมชนนักพัฒนา C และ C++ กำลังเร่งพัฒนาและปรับปรุงภาษาของตนให้มีความปลอดภัยมากขึ้น ซึ่งต้องติดตามกันต่อไปว่าความพยายามเหล่านี้จะสัมฤทธิ์ผลทันเวลาหรือไม่ สำหรับการประกาศผลในเดือนนี้ตรงกับการครบรอบ 25 ปีของการจัดทำ Tiobe Index โดยเกณฑ์การประเมินความนิยมจะคำนวณจากจำนวนวิศวกรซอฟต์แวร์ที่มีทักษะ หลักสูตรการเรียนการสอน และเวนเดอร์ที่เกี่ยวข้องกับภาษานั้น ๆ ผ่านแพลตฟอร์มและเว็บไซต์ยอดนิยม เช่น Google, Bing, Amazon …",
-    "pubDate": "Thu, 09 Jul 2026 05:14:27 +0000",
-    "source": "TechTalk Thai",
-    "category": "General",
-    "thumbnail": "https://www.techtalkthai.com/wp-content/uploads/2026/07/TTT-53.jpg"
-  },
-  {
-    "id": "https://www.techtalkthai.com/?p=167605",
-    "title": "Prime Intellect ระดมทุน 130 ล้านดอลลาร์ ที่มูลค่า 1 พันล้านดอลลาร์ ดันแพลตฟอร์มฝึก AI",
-    "link": "https://www.techtalkthai.com/prime-intellect-raises-130m-at-1b-valuation-for-its-ai-training-platform/",
-    "content": "Prime Intellect สตาร์ทอัพด้านการฝึกฝนปัญญาประดิษฐ์ได้ระดมทุนจำนวน 130 ล้านดอลลาร์จากกลุ่มนักลงทุนชั้นนำ กลุ่มนักลงทุนดังกล่าวประกอบไปด้วย NVentures จาก Nvidia, Intel Capital และ Dell Technologies Capital รวมถึงกลุ่มนักลงทุนอื่น ๆ อีกกว่าสิบราย เช่น Matthew Prince ประธานเจ้าหน้าที่บริหารของ Cloudflare โดย Prime Intellect ระบุในการประกาศการระดมทุนเมื่อวันอังคารที่ผ่านมาว่าการระดมทุนรอบนี้ทำให้บริษัทมีมูลค่าสูงถึง 1 พันล้านดอลลาร์ โดยทั่วไปแล้วนักพัฒนาไม่ได้ฝึกฝนโมเดล AI ตั้งแต่เริ่มต้น แต่จะใช้วิธีปรับแต่งอัลกอริทึมโอเพนซอร์สที่มีอยู่เดิมมากกว่า Prime Intellect จึงดำเนินงานแพลตฟอร์มคลาวด์ที่ได้รับการปรับแต่งมาโดยเฉพาะสำหรับงานดังกล่าว แพลตฟอร์มนี้จะทำการปรับแต่งโมเดล AI โดยใช้ชุดเครื่องมือโอเพนซอร์ส 2 รายการ ได้แก่ Verifiers และ Prime-RL ซึ่งบริษัทได้เปิดตัวไปเมื่อปีที่แล้ว นักพัฒนาจะฝึกฝนโมเดล AI ในสภาพแวดล้อมเสมือนจริงที่จำลองงานที่คาดว่าโมเดลจะต้องทำโดยอัตโนมัติให้กับผู้ใช้งานปลายทาง ตัวอย่างเช่น เอเจนต์ AI สำหรับการค้นคว้าข้อมูลออนไลน์อาจถูกนำไปวางไว้ในแซนด์บ็อกซ์ที่มีเบราว์เซอร์รวมอยู่ด้วย นอกจากนี้ สภาพแวดล้อมสำหรับการฝึกฝน …",
-    "pubDate": "Thu, 09 Jul 2026 04:04:25 +0000",
-    "source": "TechTalk Thai",
-    "category": "General",
-    "thumbnail": "https://www.techtalkthai.com/wp-content/uploads/2026/07/PRIME-Intellect-logo.png"
-  },
-  {
-    "id": "https://www.techtalkthai.com/?p=167598",
-    "title": "Protected: Thales ชู Identity Solution ระดับโลก ตอกย้ำเบอร์หนึ่งด้าน Biometrics และ e-Passport ยกระดับหนังสือเดินทางไทยสู่อนาคต",
-    "link": "https://www.techtalkthai.com/thales-epassport-biometrics-cybersecurity/",
-    "content": "There is no excerpt because this is a protected post.",
-    "pubDate": "Thu, 09 Jul 2026 03:54:57 +0000",
-    "source": "TechTalk Thai",
-    "category": "General",
-    "thumbnail": null
-  },
-  {
-    "id": "https://www.techtalkthai.com/?p=167596",
-    "title": "Apple เซ็นดีล 3 หมื่นล้านดอลลาร์ ซื้อชิปผลิตสหรัฐจาก Broadcom ",
-    "link": "https://www.techtalkthai.com/apple-promises-to-buy-30b-worth-of-us-made-chips-from-broadcom/",
-    "content": "Apple ประกาศว่าบริษัทได้ทำข้อตกลงระยะยาวฉบับใหม่กับ Broadcom ซึ่งคาดว่าจะมีมูลค่ามากกว่า 3 หมื่นล้านดอลลาร์ โดยถือเป็นการลงทุนในภาคการผลิตของสหรัฐครั้งใหญ่ที่สุดเท่าที่เคยมีมาของผู้ผลิต iPhone ข้อตกลงดังกล่าวจะส่งผลให้มีการผลิตชิปมากกว่า 1.5 หมื่นล้านชิ้นบนแผ่นดินสหรัฐ และยังช่วยสนับสนุนเงินทุนในการขยายโรงงานผลิตชิปของ Broadcom ในเมืองฟอร์ตคอลลินส์ รัฐโคโลราโด ด้วยมูลค่า 1.5 พันล้านดอลลาร์ ทั้งนี้ ทั้งสองบริษัทยังไม่ได้ระบุไทม์ไลน์ว่ากำลังการผลิตใหม่นี้จะเริ่มดำเนินการได้เมื่อใด Broadcom เป็นพันธมิตรของ Apple มานานหลายปี แต่จนถึงขณะนี้ได้จัดหาเพียงชิ้นส่วนการเชื่อมต่อสำหรับ iPhone และอุปกรณ์อื่น ๆ ของ Apple เท่านั้น ข้อตกลงใหม่นี้เป็นการขยายความร่วมมือโดย Broadcom จะจัดหาส่วนประกอบไร้สายที่จะช่วยให้อุปกรณ์ของ Apple สามารถเชื่อมต่อกับเครือข่าย Wi-Fi, เครือข่ายโทรศัพท์เคลื่อนที่ และ Bluetooth ได้ รายละเอียดบางส่วนของความร่วมมือที่ขยายตัวออกไปนี้ถูกเปิดเผยครั้งแรกเมื่อวันจันทร์โดย Broadcom ในเอกสารที่ยื่นต่อสำนักงานคณะกรรมการกำกับหลักทรัพย์และตลาดหลักทรัพย์ โดยผู้ผลิตชิปรายนี้เปิดเผยว่าได้ทำข้อตกลงระยะยาวฉบับใหม่กับ Apple เพื่อพัฒนาและผลิต “ผลิตภัณฑ์ซิลิคอน ASIC แบบกำหนดเอง” ซึ่งจะถูกนำไปใช้ในอุปกรณ์ของบริษัทจนถึงปี 2031 สำหรับ ASIC คือวงจรรวมเฉพาะงานที่สามารถปรับแต่งเพื่อให้ทำงานเฉพาะด้านได้อย่างมีประสิทธิภาพมากขึ้น …",
-    "pubDate": "Thu, 09 Jul 2026 03:48:41 +0000",
-    "source": "TechTalk Thai",
-    "category": "General",
-    "thumbnail": "https://www.techtalkthai.com/wp-content/uploads/2026/07/Apple-Broadcom.png"
   },
   {
     "id": "150944 at https://www.blognone.com",
