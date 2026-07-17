@@ -6,6 +6,10 @@ on:
     - cron: '0 23 * * *'
   workflow_dispatch: # เปิดปุ่มให้เราสามารถกดสั่งรันเองเพื่อทดสอบได้ทันที
 
+# 🔑 เพิ่มสิทธิ์ตรงนี้เพื่อให้บอทสามารถ Push ไฟล์ data.json กลับเข้าคลังได้
+permissions:
+  contents: write
+
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -27,7 +31,10 @@ jobs:
 
     - name: Commit and Push changes
       run: |
-        git config --local user.email "action@github.com"
-        git config --local user.name "GitHub Action Bot"
+        # ปรับโปรไฟล์บอทให้เป็นตัวระบบของ GitHub อย่างเป็นทางการ
+        git config --local user.email "github-actions[bot]@users.noreply.github.com"
+        git config --local user.name "github-actions[bot]"
         git add data.json
-        git diff --quiet && git diff --staged --quiet || (git commit -m "🤖 อัปเดตข่าวไอทีประจำวัน [Automated]" && git push)
+        
+        # ใส่ [skip ci] ไว้ท้าย Commit เพื่อไม่ให้บอทรันวนลูปซ้ำซ้อนเวลาดันไฟล์ขึ้นมาเอง
+        git diff --quiet && git diff --staged --quiet || (git commit -m "🤖 อัปเดตข่าวไอทีประจำวัน [Automated] [skip ci]" && git push)
