@@ -74,7 +74,8 @@ function readLocalKnowledge() {
                 yamlLines.forEach(line => {
                     const [key, ...val] = line.split(':');
                     if (key && val) {
-                        const value = val.join(':').trim();
+                        const value = val.join(':').replace(/\r/g, '').trim();
+                        
                         if (key.trim() === 'title') title = value;
                         if (key.trim() === 'category') category = value;
                         if (key.trim() === 'source') source = value;
