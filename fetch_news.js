@@ -54,48 +54,57 @@ function readLocalKnowledge() {
 
     if (!fs.existsSync(knowledgeDir)) return localArticles;
 
-    const files = fs.readdirSync(knowledgeDir);
-    files.forEach(file => {
-        if (path.extname(file) === '.md') {
-            const filePath = path.join(knowledgeDir, file);
-            const content = fs.readFileSync(filePath, 'utf-8');
-            const match = content.match(/^---\r?\n([\s\S]*?)\r?\n---\r?\n([\s\S]*)$/);
+const files = fs.readdirSync(knowledgeDir);
+files.forEach(file => {
+    if (path.extname(file) === '.md') {
+        const filePath = path.join(knowledgeDir, file);
+        
+        // 1. อ่านไฟล์และกำจัดอักขระล่องหน (BOM) ที่มักแฝงมากับไฟล์ Text 
+        const contentRaw = fs.readFileSync(filePath, 'utf-8');
+        const content = contentRaw.replace(/^\uFEFF/, '').trim(); 
+        
+        // 2. ใช้ Regex ที่ยืดหยุ่นขึ้น (เอา ^ ออก เพื่อไม่บังคับว่าต้องติดบรรทัดแรกสุดเผื่อมีเคาะว่าง)
+        const match = content.match(/---\r?\n([\s\S]*?)\r?\n---\r?\n([\s\S]*)/);
+        
+        // ค่าเริ่มต้น (หากไฟล์ไหนไม่มีหัวไฟล์ จะถูกจัดลงหมวดนี้)
+        let title = file.replace('.md', '');
+        let category = 'Internal'; 
+        let source = 'คู่มือภายใน';
+        let thumbnail = null;
+        let actualContent = content;
+
+        if (match) {
+            // 3. ใช้การสับบรรทัดแบบรองรับทั้ง Windows (\r\n) และ Mac/Linux (\n)
+            const yamlLines = match[1].split(/\r?\n/);
+            actualContent = match[2].trim();
             
-            let title = file.replace('.md', '');
-            let category = 'Internal';
-            let source = 'คู่มือภายใน';
-            let thumbnail = null;
-            let actualContent = content;
-
-            if (match) {
-                const yamlLines = match[1].split('\n');
-                actualContent = match[2].trim();
-                
-                yamlLines.forEach(line => {
-                    const [key, ...val] = line.split(':');
-                    if (key && val) {
-                        const value = val.join(':').replace(/\r/g, '').trim();
-                        
-                        if (key.trim() === 'title') title = value;
-                        if (key.trim() === 'category') category = value;
-                        if (key.trim() === 'source') source = value;
-                        if (key.trim() === 'thumbnail') thumbnail = value;
-                    }
-                });
-            }
-
-            localArticles.push({
-                id: `local-${file}`,
-                title: title,
-                link: `https://github.com/`,
-                content: actualContent,
-                pubDate: new Date().toISOString(),
-                source: source,
-                category: category,
-                thumbnail: thumbnail
+            yamlLines.forEach(line => {
+                // 4. แยก Key และ Value แบบปลอดภัย (ใช้ indexOf ป้องกันปัญหาเครื่องหมาย : ซ้อนใน URL รูปภาพ)
+                const splitIndex = line.indexOf(':');
+                if (splitIndex > -1) {
+                    const key = line.slice(0, splitIndex).trim().toLowerCase(); // แปลงคีย์เป็นพิมพ์เล็กเสมอ
+                    const value = line.slice(splitIndex + 1).trim(); // ตัดช่องว่างหัวท้ายของค่า
+                    
+                    if (key === 'title') title = value;
+                    if (key === 'category') category = value; // จะดึงคำว่า "Law" มาได้แน่นอน
+                    if (key === 'source') source = value;
+                    if (key === 'thumbnail') thumbnail = value;
+                }
             });
         }
-    });
+
+        localArticles.push({
+            id: `local-${file}`,
+            title: title,
+            link: `https://github.com/`, 
+            content: actualContent,
+            pubDate: new Date().toISOString(),
+            source: source,
+            category: category,
+            thumbnail: thumbnail
+        });
+    }
+});
 
     return localArticles;
 }
