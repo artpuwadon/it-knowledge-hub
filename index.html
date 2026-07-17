@@ -4,8 +4,26 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>IT Knowledge Hub</title>
+    <!-- เรียกใช้เครื่องมือแต่งหน้าเว็บ + ค้นหา + ตัวแปลงคู่มือ Markdown -->
     <script src="https://cdn.jsdelivr.net/npm/@tailwindcss/browser@4"></script>
     <script src="https://cdn.jsdelivr.net/npm/fuse.js@7.0.0/dist/fuse.basic.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+
+    <!-- 🎨 [เพิ่มใหม่] จัดสไตล์ให้เนื้อหาคู่มือด้านในมีสีสันและกดคลิกได้ชัดเจนขึ้น -->
+    <style>
+        #modalBody h1 { font-size: 1.5rem; font-weight: 700; margin-top: 1rem; margin-bottom: 0.5rem; color: #0f172a; }
+        #modalBody h2 { font-size: 1.25rem; font-weight: 700; margin-top: 1rem; margin-bottom: 0.5rem; color: #1e293b; }
+        #modalBody p { margin-bottom: 0.75rem; color: #334155; }
+        /* ตกแต่งลิงก์ด้านในคู่มือให้เป็นสีน้ำเงิน ขีดเส้นใต้ และเปลี่ยนรูปเมาส์ */
+        #modalBody a { color: #2563eb; text-decoration: underline; font-weight: 500; transition: color 0.2s; }
+        #modalBody a:hover { color: #1d4ed8; }
+        #modalBody ul { list-style-type: disc; padding-left: 1.5rem; margin-bottom: 0.75rem; }
+        #modalBody ol { list-style-type: decimal; padding-left: 1.5rem; margin-bottom: 0.75rem; }
+        #modalBody li { margin-bottom: 0.25rem; }
+        #modalBody code { background-color: #f1f5f9; padding: 0.2rem 0.4rem; border-radius: 0.25rem; font-family: monospace; font-size: 0.875rem; color: #0f172a; }
+        #modalBody pre { background-color: #f1f5f9; padding: 1rem; border-radius: 0.5rem; overflow-x: auto; margin-bottom: 0.75rem; }
+        #modalBody pre code { background-color: transparent; padding: 0; }
+    </style>
 </head>
 <body class="bg-slate-50 text-slate-800 min-h-screen font-sans">
 
@@ -74,7 +92,7 @@
 
     </main>
 
-    <!-- ✨ [เพิ่มใหม่] โครงสร้างหน้าต่างป๊อปอัป (Modal) ตกแต่งด้วย Tailwind v4 -->
+    <!-- โครงสร้างหน้าต่างป๊อปอัป (Modal) -->
     <div id="articleModal" class="fixed inset-0 bg-slate-900/60 backdrop-blur-xs hidden items-center justify-center p-4 z-50 transition-all duration-200">
         <div class="bg-white rounded-2xl max-w-3xl w-full max-h-[85vh] flex flex-col shadow-2xl border border-slate-100 overflow-hidden transform scale-100 transition-transform">
             <!-- ส่วนหัว Modal -->
@@ -86,9 +104,9 @@
                 </div>
                 <button onclick="closeModal()" class="text-slate-400 hover:text-slate-600 hover:bg-slate-200/60 p-2.5 rounded-xl transition cursor-pointer text-2xl font-bold leading-none select-none">&times;</button>
             </div>
-            <!-- ส่วนเนื้อหาตัวเต็ม (ใช้ whitespace-pre-wrap เพื่อรักษารูปแบบบรรทัดของคู่มือ .md) -->
-            <div id="modalBody" class="p-6 overflow-y-auto flex-1 text-slate-700 leading-relaxed text-base whitespace-pre-wrap break-words">
-                <!-- ข้อมูลเนื้อหาคู่มือจะถูกหย่อนลงตรงนี้ผ่าน JS -->
+            <!-- ส่วนเนื้อหาตัวเต็ม (เอา whitespace-pre-wrap ออกเพื่อให้ตัวแปลง HTML ทำงานได้สมบูรณ์) -->
+            <div id="modalBody" class="p-6 overflow-y-auto flex-1 text-slate-700 leading-relaxed text-base break-words">
+                <!-- ข้อมูลจะถูกหย่อนลงตรงนี้ผ่าน JS -->
             </div>
             <!-- ส่วนท้าย Modal -->
             <div class="p-4 border-t border-slate-100 bg-slate-50 flex justify-end">
@@ -172,10 +190,8 @@
                     imageUrl = fallbackImages[index];
                 }
 
-                // 🛠️ [จุดแก้ไขสำคัญ] ตรวจสอบเงื่อนไขว่าเป็นเอกสารภายในหน่วยงานหรือไม่
                 const isInternal = item.id && String(item.id).startsWith('local-');
                 
-                // แยกโครงสร้างของแท็กลิงก์หัวข้อข่าวตามแหล่งที่มา
                 const titleLinkHtml = isInternal
                     ? `<a href="javascript:void(0)" onclick="openArticle('${item.id}')" class="hover:underline flex items-baseline gap-2 group-hover:text-blue-600">
                         <span>${item.title}</span>
@@ -189,12 +205,10 @@
                 return `
                     <article class="group bg-white p-5 rounded-2xl border border-slate-200/70 hover:border-blue-400 hover:shadow-md transition duration-200 flex flex-col sm:flex-row gap-5">
                         
-                        <!-- พื้นที่รูปภาพตัวอย่าง (Thumbnail) -->
                         <div class="sm:w-40 sm:h-28 w-full h-40 flex-shrink-0 bg-slate-100 rounded-xl overflow-hidden border border-slate-100">
                             <img src="${imageUrl}" class="w-full h-full object-cover" alt="thumbnail" loading="lazy" onerror="this.src='https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=500&auto=format&fit=crop&q=60'">
                         </div>
 
-                        <!-- พื้นที่ข้อมูลบทความ -->
                         <div class="flex flex-col justify-between flex-1">
                             <div>
                                 <div class="flex items-center gap-2 mb-1.5 text-xs">
@@ -213,7 +227,7 @@
             }).join('');
         }
 
-        // 📝 [ฟังก์ชันเพิ่มใหม่] เปิดอ่านข้อมูลในหน้าต่างป๊อปอัป Modal
+        // 🛠️ [จุดแก้ไขหลัก] เปลี่ยนจากการหยอดข้อความดิบ มาใช้ marked.parse แปลง Markdown เป็น HTML
         function openArticle(articleId) {
             const article = allData.find(item => item.id === articleId);
             if (article) {
@@ -223,30 +237,31 @@
                 document.getElementById('modalTitle').innerText = article.title;
                 document.getElementById('modalMeta').innerText = `📍 แหล่งที่มา: ${article.source} | อัปเดตเมื่อ: ${dateStr}`;
                 
-                // นำเนื้อหาตัวเต็มใส่ลงใน Modal (ความกว้างเว้นวรรคแบบคงเดิมตามเนื้อผ้าคู่มือ)
-                document.getElementById('modalBody').innerText = article.content;
+                // 🚀 แปลง Markdown ในไฟล์ .md เป็นโครงสร้างเว็บที่สมบูรณ์
+                document.getElementById('modalBody').innerHTML = marked.parse(article.content);
                 
-                // เปลี่ยนสถานะการแสดงผล Modal จากซ่อน (hidden) เป็นตารางแบบยืดหยุ่น (flex)
+                // 🔗 บังคับเพิ่มคุณสมบัติให้ทุกลิงก์ที่อยู่ในเนื้อหาป๊อปอัปให้เปิดหน้าใหม่ (New Tab) เสมอ
+                const innerLinks = document.querySelectorAll('#modalBody a');
+                innerLinks.forEach(link => {
+                    link.setAttribute('target', '_blank');
+                    link.setAttribute('rel', 'noopener noreferrer');
+                });
+                
                 const modal = document.getElementById('articleModal');
                 modal.classList.remove('hidden');
                 modal.classList.add('flex');
                 
-                // ล็อกไม่ให้หน้าจอหลักขยับเลื่อนตามขณะเลื่อนอ่านในป๊อปอัป
                 document.body.style.overflow = 'hidden';
             }
         }
 
-        // 🔒 [ฟังก์ชันเพิ่มใหม่] สั่งปิดหน้าต่างป๊อปอัป Modal
         function closeModal() {
             const modal = document.getElementById('articleModal');
             modal.classList.remove('flex');
             modal.classList.add('hidden');
-            
-            // คืนค่าระบบสกอร์บาร์ของหน้าหลักให้กลับมาทำงานปกติ
             document.body.style.overflow = '';
         }
 
-        // เสริมความสะดวก: เมื่อกดคลิกพื้นที่ว่างภายนอกหน้าต่างป๊อปอัป ให้สั่งปิดการทำงานอัตโนมัติ
         window.onclick = function(event) {
             const modal = document.getElementById('articleModal');
             if (event.target === modal) {
