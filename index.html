@@ -74,12 +74,36 @@
 
     </main>
 
+    <!-- ✨ [เพิ่มใหม่] โครงสร้างหน้าต่างป๊อปอัป (Modal) ตกแต่งด้วย Tailwind v4 -->
+    <div id="articleModal" class="fixed inset-0 bg-slate-900/60 backdrop-blur-xs hidden items-center justify-center p-4 z-50 transition-all duration-200">
+        <div class="bg-white rounded-2xl max-w-3xl w-full max-h-[85vh] flex flex-col shadow-2xl border border-slate-100 overflow-hidden transform scale-100 transition-transform">
+            <!-- ส่วนหัว Modal -->
+            <div class="p-6 border-b border-slate-100 flex justify-between items-start bg-slate-50/70">
+                <div>
+                    <span id="modalCategory" class="bg-blue-100 text-blue-700 text-xs font-semibold px-2.5 py-1 rounded-md mb-2 inline-block"></span>
+                    <h2 id="modalTitle" class="text-xl md:text-2xl font-bold text-slate-900 leading-snug"></h2>
+                    <p id="modalMeta" class="text-xs text-slate-400 mt-1.5"></p>
+                </div>
+                <button onclick="closeModal()" class="text-slate-400 hover:text-slate-600 hover:bg-slate-200/60 p-2.5 rounded-xl transition cursor-pointer text-2xl font-bold leading-none select-none">&times;</button>
+            </div>
+            <!-- ส่วนเนื้อหาตัวเต็ม (ใช้ whitespace-pre-wrap เพื่อรักษารูปแบบบรรทัดของคู่มือ .md) -->
+            <div id="modalBody" class="p-6 overflow-y-auto flex-1 text-slate-700 leading-relaxed text-base whitespace-pre-wrap break-words">
+                <!-- ข้อมูลเนื้อหาคู่มือจะถูกหย่อนลงตรงนี้ผ่าน JS -->
+            </div>
+            <!-- ส่วนท้าย Modal -->
+            <div class="p-4 border-t border-slate-100 bg-slate-50 flex justify-end">
+                <button onclick="closeModal()" class="px-5 py-2 bg-slate-200 hover:bg-slate-300 text-slate-700 text-sm font-medium rounded-xl transition cursor-pointer">
+                    ปิดหน้าต่าง
+                </button>
+            </div>
+        </div>
+    </div>
+
     <script>
         let allData = [];
         let currentFilteredData = [];
         let currentCategory = 'ALL';
 
-        // ฟังก์ชันช่วยดึงลิงก์รูปแรกที่เจอจากข้อความที่เป็น HTML
         function extractFirstImageUrl(htmlString) {
             if (!htmlString) return null;
             const div = document.createElement('div');
@@ -130,31 +154,40 @@
             container.innerHTML = articles.map(item => {
                 const dateStr = item.pubDate ? new Date(item.pubDate).toLocaleDateString('th-TH', { year: 'numeric', month: 'short', day: 'numeric' }) : '';
                 
-// ดึงรูปภาพจากการเตรียมข้อมูลหลังบ้าน
                 let imageUrl = item.thumbnail;
-                
-                // ค้นหาเพิ่มเติมกรณีรูปภาพหลุดรอด
                 if (!imageUrl) {
                     imageUrl = extractFirstImageUrl(item.content);
                 }
                 
-                // หากไม่มีรูปจริงจากข่าวนั้นๆ ให้สุ่มเลือกรูปไอทีจาก Unsplash ตามความยาวของตัวอักษรเพื่อไม่ให้ภาพซ้ำกัน
                 if (!imageUrl) {
                     const fallbackImages = [
-                        "https://images.unsplash.com/photo-1518770660439-4636190af475?w=500&auto=format&fit=crop&q=60", // แผงวงจร
-                        "https://images.unsplash.com/photo-1488590528505-98d2b5aba04b?w=500&auto=format&fit=crop&q=60", // โน้ตบุ๊ก / โค้ด
-                        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=500&auto=format&fit=crop&q=60", // เครือข่ายคลาวด์
-                        "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=500&auto=format&fit=crop&q=60", // ดิจิทัลเมทริกซ์
-                        "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=500&auto=format&fit=crop&q=60", // ปลอดภัยระบบ Security
-                        "https://images.unsplash.com/photo-1531297484001-80022131f5a1?w=500&auto=format&fit=crop&q=60"  // เทคโนโลยีล้ำสมัย
+                        "https://images.unsplash.com/photo-1518770660439-4636190af475?w=500&auto=format&fit=crop&q=60",
+                        "https://images.unsplash.com/photo-1488590528505-98d2b5aba04b?w=500&auto=format&fit=crop&q=60",
+                        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=500&auto=format&fit=crop&q=60",
+                        "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=500&auto=format&fit=crop&q=60",
+                        "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=500&auto=format&fit=crop&q=60",
+                        "https://images.unsplash.com/photo-1531297484001-80022131f5a1?w=500&auto=format&fit=crop&q=60"
                     ];
-                    // สุ่มตำแหน่งในอาเรย์จากผลรวมความยาวชื่อเรื่อง
                     const index = (item.title ? item.title.length : 0) % fallbackImages.length;
                     imageUrl = fallbackImages[index];
                 }
 
+                // 🛠️ [จุดแก้ไขสำคัญ] ตรวจสอบเงื่อนไขว่าเป็นเอกสารภายในหน่วยงานหรือไม่
+                const isInternal = item.id && String(item.id).startsWith('local-');
+                
+                // แยกโครงสร้างของแท็กลิงก์หัวข้อข่าวตามแหล่งที่มา
+                const titleLinkHtml = isInternal
+                    ? `<a href="javascript:void(0)" onclick="openArticle('${item.id}')" class="hover:underline flex items-baseline gap-2 group-hover:text-blue-600">
+                        <span>${item.title}</span>
+                        <span class="text-[11px] font-normal text-emerald-700 bg-emerald-50 px-1.5 py-0.5 rounded border border-emerald-200/60 shrink-0">อ่านในเว็บ</span>
+                       </a>`
+                    : `<a href="${item.link}" target="_blank" class="hover:underline flex items-baseline gap-1 group-hover:text-blue-600">
+                        <span>${item.title}</span>
+                        <span class="text-slate-400 text-xs font-normal shrink-0">↗</span>
+                       </a>`;
+
                 return `
-                    <article class="bg-white p-5 rounded-2xl border border-slate-200/70 hover:border-blue-400 hover:shadow-md transition duration-200 flex flex-col sm:flex-row gap-5">
+                    <article class="group bg-white p-5 rounded-2xl border border-slate-200/70 hover:border-blue-400 hover:shadow-md transition duration-200 flex flex-col sm:flex-row gap-5">
                         
                         <!-- พื้นที่รูปภาพตัวอย่าง (Thumbnail) -->
                         <div class="sm:w-40 sm:h-28 w-full h-40 flex-shrink-0 bg-slate-100 rounded-xl overflow-hidden border border-slate-100">
@@ -168,8 +201,8 @@
                                     <span class="bg-slate-100 text-slate-700 px-2 py-0.5 rounded-md font-medium">📍 ${item.source}</span>
                                     <span class="text-slate-400">${dateStr}</span>
                                 </div>
-                                <h3 class="text-lg font-bold text-slate-900 mb-1 leading-snug hover:text-blue-600">
-                                    <a href="${item.link}" target="_blank" class="hover:underline">${item.title}</a>
+                                <h3 class="text-lg font-bold text-slate-900 mb-1 leading-snug">
+                                    ${titleLinkHtml}
                                 </h3>
                                 <p class="text-slate-600 text-sm leading-relaxed line-clamp-2">${item.content.replace(/<[^>]*>/g, '').trim()}</p>
                             </div>
@@ -178,6 +211,47 @@
                     </article>
                 `;
             }).join('');
+        }
+
+        // 📝 [ฟังก์ชันเพิ่มใหม่] เปิดอ่านข้อมูลในหน้าต่างป๊อปอัป Modal
+        function openArticle(articleId) {
+            const article = allData.find(item => item.id === articleId);
+            if (article) {
+                const dateStr = article.pubDate ? new Date(article.pubDate).toLocaleDateString('th-TH', { year: 'numeric', month: 'short', day: 'numeric' }) : '';
+                
+                document.getElementById('modalCategory').innerText = `หมวดหมู่: ${article.category}`;
+                document.getElementById('modalTitle').innerText = article.title;
+                document.getElementById('modalMeta').innerText = `📍 แหล่งที่มา: ${article.source} | อัปเดตเมื่อ: ${dateStr}`;
+                
+                // นำเนื้อหาตัวเต็มใส่ลงใน Modal (ความกว้างเว้นวรรคแบบคงเดิมตามเนื้อผ้าคู่มือ)
+                document.getElementById('modalBody').innerText = article.content;
+                
+                // เปลี่ยนสถานะการแสดงผล Modal จากซ่อน (hidden) เป็นตารางแบบยืดหยุ่น (flex)
+                const modal = document.getElementById('articleModal');
+                modal.classList.remove('hidden');
+                modal.classList.add('flex');
+                
+                // ล็อกไม่ให้หน้าจอหลักขยับเลื่อนตามขณะเลื่อนอ่านในป๊อปอัป
+                document.body.style.overflow = 'hidden';
+            }
+        }
+
+        // 🔒 [ฟังก์ชันเพิ่มใหม่] สั่งปิดหน้าต่างป๊อปอัป Modal
+        function closeModal() {
+            const modal = document.getElementById('articleModal');
+            modal.classList.remove('flex');
+            modal.classList.add('hidden');
+            
+            // คืนค่าระบบสกอร์บาร์ของหน้าหลักให้กลับมาทำงานปกติ
+            document.body.style.overflow = '';
+        }
+
+        // เสริมความสะดวก: เมื่อกดคลิกพื้นที่ว่างภายนอกหน้าต่างป๊อปอัป ให้สั่งปิดการทำงานอัตโนมัติ
+        window.onclick = function(event) {
+            const modal = document.getElementById('articleModal');
+            if (event.target === modal) {
+                closeModal();
+            }
         }
 
         function switchCategory(cat) {
