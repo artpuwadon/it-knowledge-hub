@@ -29,9 +29,10 @@ const parser = new Parser({
 const FEEDS = [
     { url: 'https://www.blognone.com/atom.xml', category: 'General', sourceName: 'Blognone' },
     { url: 'https://www.beartai.com/feed', category: 'General', sourceName: 'Beartai' },
-    { url: 'https://www.it24hrs.com/feed/', category: 'Security', sourceName: 'iT24Hrs' },
+    { url: 'https://www.techtalkthai.com/category/security/feed/', category: 'Security', sourceName: 'TechTalk Thai' },
     { url: 'https://techsauce.co/feed', category: 'General', sourceName: 'Techsauce' },
-    { url: 'https://www.techtalkthai.com/feed/', category: 'General', sourceName: 'TechTalk Thai' }
+    { url: 'https://www.techtalkthai.com/feed/', category: 'General', sourceName: 'TechTalk Thai' },
+    { url: 'https://it24hrs.com/category/it-news/feed/', category: 'General', sourceName: 'TechTalk Thai' }
 ];
 
 function findImage(item) {
