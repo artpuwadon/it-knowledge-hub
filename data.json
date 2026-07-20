@@ -4,7 +4,7 @@
     "title": "แนวทางปฏิบัติการตั้งรหัสผ่านให้ปลอดภัยสำหรับบุคลากร",
     "link": "https://github.com/",
     "content": "1. รหัสผ่านต้องมีความยาวอย่างน้อย 8 ตัวอักษร\n2. ประกอบด้วยอักษรตัวพิมพ์ใหญ่ ตัวพิมพ์เล็ก ตัวเลข และสัญลักษณ์พิเศษ\n3. ห้ามใช้ข้อมูลส่วนตัว เช่น วันเกิด หรือเบอร์โทรศัพท์\n4. เปลี่ยนรหัสผ่านใหม่ทุกๆ 3-6 เดือนเพื่อความปลอดภัย",
-    "pubDate": "2026-07-20T00:00:22.147Z",
+    "pubDate": "2026-07-20T12:05:32.337Z",
     "source": "คู่มือภายในองค์กร",
     "category": "Internal",
     "thumbnail": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=500&auto=format&fit=crop&q=60"
@@ -13,11 +13,81 @@
     "id": "local-law-hub.md",
     "title": "คลังกฎหมายและระเบียบที่เกี่ยวข้องกับการปฏิบัติราชการ",
     "link": "https://github.com/",
-    "content": "### ⚖️ ศูนย์รวมลิงก์กฎหมายฉบับเต็มและแนวทางปฏิบัติงาน\n\nเพื่อความสะดวกและถูกต้องในการอ้างอิงข้อกฎหมายของเจ้าหน้าที่ในการปฏิบัติราชการ ศูนย์ไอทีได้รวบรวมลิงก์ตรงไปยังระบบสืบค้นกฎหมายของสำนักงานคณะกรรมการกฤษฎีกา และไฟล์ PDF ฉบับราชกิจจานุเบกษาไว้ในจุดเดียว ดังนี้ครับ:\n\n---\n\n### 🛒 1. หมวดการบริหารงานพัสดุและการจัดซื้อจัดจ้าง\n*   **พ.ร.บ. การจัดซื้อจัดจ้างและการบริหารพัสดุภาครัฐ พ.ศ. 2560**\n    *   🔗 [อ่านกฎหมายฉบับเต็ม (เว็บกฤษฎีกา)](https://www.krisdika.go.th)\n    *   📄 [ดาวน์โหลดไฟล์ PDF ฉบับประกาศราชกิจจานุเบกษา](https://www.gprocurement.go.th)\n*   **ระเบียบกระทรวงการคลังว่าด้วยการจัดซื้อจัดจ้างและการบริหารพัสดุภาครัฐ พ.ศ. 2560**\n    *   🔗 [อ่านระเบียบฉบับเต็มและกฎกระทรวงที่เกี่ยวข้อง](https://www.gprocurement.go.th)\n\n---\n\n### 🏢 2. หมวดการปฏิบัติราชการและวิธีพิจารณาทางปกครอง\n*   **พ.ร.บ. วิธีปฏิบัติราชการทางปกครอง พ.ศ. 2539 (และฉบับแก้ไขเพิ่มเติม)**\n    *   🔗 [อ่านกฎหมายฉบับเต็ม (เว็บกฤษฎีกา)](https://www.krisdika.go.th)\n*   **พ.ร.บ. ความรับผิดทางละเมิดของเจ้าหน้าที่ พ.ศ. 2539**\n    *   🔗 [อ่านกฎหมายฉบับเต็ม (เว็บกฤษฎีกา)](https://www.krisdika.go.th)\n*   **พ.ร.บ. การปฏิบัติราชการทางอิเล็กทรอนิกส์ พ.ศ. 2565** *(สำคัญมากสำหรับงานไอทีและบริการประชาชน)*\n    *   🔗 [อ่านกฎหมายฉบับเต็ม (เว็บกฤษฎีกา)](https://www.krisdika.go.th)\n\n---\n\n### 🛡️ 3. หมวดคุ้มครองข้อมูลและความมั่นคงปลอดภัยไซเบอร์\n*   **พ.ร.บ. คุ้มครองข้อมูลส่วนบุคคล พ.ศ. 2562 (PDPA)**\n    *   🔗 [สืบค้นกฎหมายและแนวทางปฏิบัติจาก สคส.](https://www.pdpc.or.th)\n*   **พ.ร.บ. การรักษาความมั่นคงปลอดภัยไซเบอร์ พ.ศ. 2562**\n    *   🔗 [สืบค้นกฎหมายและประกาศจาก สกมช. (NCSA)](https://www.ncsa.or.th)\n*   **พ.ร.บ. ว่าด้วยการกระทำความผิดเกี่ยวกับคอมพิวเตอร์ (ฉบับที่ 2) พ.ศ. 2560**\n    *   🔗 [อ่านกฎหมายฉบับเต็ม (เว็บกฤษฎีกา)](https://www.krisdika.go.th)\n\n---\n\n### 💡 แนะนำการใช้งานสำหรับเจ้าหน้าที่\n> หากต้องการสืบค้นกฎหมายอื่น ๆ เพิ่มเติม นอกเหนือจากรายการข้างต้น สามารถเข้าใช้งานระบบกฎหมายดิจิทัลโดยตรงได้ที่ **[ระบบสืบค้นกฎหมาย สำนักงานคณะกรรมการกฤษฎีกา](https://www.krisdika.go.th)** เพื่อข้อมูลที่อัปเดตและเป็นปัจจุบันที่สุด",
-    "pubDate": "2026-07-20T00:00:22.147Z",
+    "content": "### ⚖️ ศูนย์รวมลิงก์กฎหมายฉบับเต็มและแนวทางปฏิบัติงาน\n\nเพื่อความสะดวกและถูกต้องในการอ้างอิงข้อกฎหมายของเจ้าหน้าที่ในการปฏิบัติราชการ ศูนย์ไอทีได้รวบรวมลิงก์ตรงไปยังระบบสืบค้นกฎหมายของสำนักงานคณะกรรมการกฤษฎีกา และไฟล์ PDF ฉบับราชกิจจานุเบกษาไว้ในจุดเดียว ดังนี้ครับ:\n\n---\n\n### 🛒 1. หมวดการบริหารงานพัสดุและการจัดซื้อจัดจ้าง\n*   **พ.ร.บ. การจัดซื้อจัดจ้างและการบริหารพัสดุภาครัฐ พ.ศ. 2560**\n    *   🔗 [อ่านกฎหมายฉบับเต็ม (เว็บกฤษฎีกา)](https://www.ocs.go.th/)\n    *   📄 [ดาวน์โหลดไฟล์ PDF ฉบับประกาศราชกิจจานุเบกษา](zifQ3djQydnQ18_T3dzA0czU0NfANMLQ1MPIz1w8EKDHAARwP9KGL041EQhd_4cP0oNCvCjM2AJgT4OvsHehgYOBtCFeAxoyA3NMIg01ERAHhSDzY!/dz/d5/L0lDUmlTUSEhL3dHa0FKRnNBLzROV3FpQSEhL3Ro/)\n*   **ระเบียบกระทรวงการคลังว่าด้วยการจัดซื้อจัดจ้างและการบริหารพัสดุภาครัฐ พ.ศ. 2560**\n    *   🔗 [อ่านระเบียบฉบับเต็มและกฎกระทรวงที่เกี่ยวข้อง](https://www.gprocurement.go.th/wps/portal/egp/Regulation/Ministry_of_Finance_Regularity/)\n\n---\n\n### 🏢 2. หมวดการปฏิบัติราชการและวิธีพิจารณาทางปกครอง\n*   **พ.ร.บ. วิธีปฏิบัติราชการทางปกครอง พ.ศ. 2539 (และฉบับแก้ไขเพิ่มเติม)**\n    *   🔗 [อ่านกฎหมายฉบับเต็ม (เว็บกฤษฎีกา)](https://www.ocs.go.th/)\n*   **พ.ร.บ. ความรับผิดทางละเมิดของเจ้าหน้าที่ พ.ศ. 2539**\n    *   🔗 [อ่านกฎหมายฉบับเต็ม (เว็บกฤษฎีกา)](https://www.ocs.go.th/)\n*   **พ.ร.บ. การปฏิบัติราชการทางอิเล็กทรอนิกส์ พ.ศ. 2565** *(สำคัญมากสำหรับงานไอทีและบริการประชาชน)*\n    *   🔗 [อ่านกฎหมายฉบับเต็ม (เว็บกฤษฎีกา)](https://www.ocs.go.th/)\n\n---\n\n### 🛡️ 3. หมวดคุ้มครองข้อมูลและความมั่นคงปลอดภัยไซเบอร์\n*   **พ.ร.บ. คุ้มครองข้อมูลส่วนบุคคล พ.ศ. 2562 (PDPA)**\n    *   🔗 [สืบค้นกฎหมายและแนวทางปฏิบัติจาก สคส.](https://www.pdpc.or.th)\n*   **พ.ร.บ. การรักษาความมั่นคงปลอดภัยไซเบอร์ พ.ศ. 2562**\n    *   🔗 [สืบค้นกฎหมายและประกาศจาก สกมช. (NCSA)](https://www.ncsa.or.th/standards/laws)\n*   **พ.ร.บ. ว่าด้วยการกระทำความผิดเกี่ยวกับคอมพิวเตอร์ (ฉบับที่ 2) พ.ศ. 2560**\n    *   🔗 [อ่านกฎหมายฉบับเต็ม (เว็บกฤษฎีกา)](https://www.ocs.go.th/)\n\n---\n\n### 💡 แนะนำการใช้งานสำหรับเจ้าหน้าที่\n> หากต้องการสืบค้นกฎหมายอื่น ๆ เพิ่มเติม นอกเหนือจากรายการข้างต้น สามารถเข้าใช้งานระบบกฎหมายดิจิทัลโดยตรงได้ที่ **[ระบบสืบค้นกฎหมาย สำนักงานคณะกรรมการกฤษฎีกา](https://www.ocs.go.th/)** เพื่อข้อมูลที่อัปเดตและเป็นปัจจุบันที่สุด",
+    "pubDate": "2026-07-20T12:05:32.337Z",
     "source": "ศูนย์รวมกฎหมายภาครัฐ",
     "category": "Law",
     "thumbnail": "https://images.unsplash.com/photo-1589829545856-d10d557cf95f?w=500"
+  },
+  {
+    "id": "https://it24hrs.com/?p=168751",
+    "title": "วิธีใช้ Connected Apps บน Google AI Mode ให้สั่งทำงานข้ามแอปแทนคุณได้แล้ว",
+    "link": "https://it24hrs.com/2026/connected-apps-google-ai-mode/",
+    "content": "วิธีใช้ Connected Apps บน Google AI Mode เวลาค้นหาไอเดี […]\nThe post วิธีใช้ Connected Apps บน Google AI Mode ให้สั่งทำงานข้ามแอปแทนคุณได้แล้ว appeared first on iT24Hrs by ปานระพี.",
+    "pubDate": "Mon, 20 Jul 2026 10:35:14 +0000",
+    "source": "iT24Hrs",
+    "category": "Security",
+    "thumbnail": null
+  },
+  {
+    "id": "https://it24hrs.com/?p=168750",
+    "title": "งาน Smart Sensor Asia Expo 2026 เซินเจิ้น ประเทศจีน เจาะลึกเบื้องหลังชิปและเซนเซอร์หุ่นยนต์ Humanoid",
+    "link": "https://it24hrs.com/2026/smart-sensor-asia-expo-2026/",
+    "content": "งาน Smart Sensor Asia Expo 2026 (SSA 2026) ที่เซินเจิ้น […]\nThe post งาน Smart Sensor Asia Expo 2026 เซินเจิ้น ประเทศจีน เจาะลึกเบื้องหลังชิปและเซนเซอร์หุ่นยนต์ Humanoid appeared first on iT24Hrs by ปานระพี.",
+    "pubDate": "Mon, 20 Jul 2026 10:10:48 +0000",
+    "source": "iT24Hrs",
+    "category": "Security",
+    "thumbnail": null
+  },
+  {
+    "id": "https://www.techtalkthai.com/?p=168025",
+    "title": "Sangfor ได้รับการยอมรับในฐานะ Representative Vendor ใน Gartner® Market Guide for Cloud Infrastructure Sovereign Solutions [Guest Post]",
+    "link": "https://www.techtalkthai.com/sangfor-recognized-as-representative-vendor-cloud-infra-sovereign-solution-by-gartner/",
+    "content": "หลังจากที่ Sangfor ได้รับการระบุชื่อในรายงาน Gartner® Market Guide for Private Clouds เมื่อไม่นานมานี้ Sangfor มีความยินดีที่จะประกาศอีกหนึ่งการยอมรับสำคัญ โดยได้รับการระบุชื่อเป็น Representative Vendor ในรายงาน Gartner® Market Guide for Cloud Infrastructure Sovereign Solutions ในฐานะผู้นำระดับโลกด้าน Cloud Computing และ Cybersecurity Sangfor เชื่อว่าการได้รับการยอมรับในครั้งนี้สะท้อนถึงความมุ่งมั่นอย่างต่อเนื่องของบริษัทในการสนับสนุนองค์กรต่าง ๆ ให้สามารถตอบสนองต่อความต้องการด้าน Digital Sovereignty หรืออธิปไตยทางดิจิทัล ที่เพิ่มสูงขึ้น ช่วยให้องค์กรสามารถควบคุมข้อมูล การดำเนินงาน และเทคโนโลยีของตนเองได้มากขึ้น ท่ามกลางภูมิทัศน์โลกที่มีความซับซ้อนมากยิ่งขึ้น ความต้องการด้าน Digital Sovereignty ที่เพิ่มขึ้น ท่ามกลางแรงกดดันด้านภูมิรัฐศาสตร์และ AI ตามรายงานของ Gartner ระบุว่า “ผลกระทบที่ทวีความรุนแรงขึ้นจากความตึงเครียดด้านภูมิรัฐศาสตร์ และความจำเป็นเชิงกลยุทธ์ในการบริหารจัดการความต้องการด้าน AI ขั้นสูง กำลังผลักดันให้เกิดความต้องการโซลูชันด้าน …",
+    "pubDate": "Mon, 20 Jul 2026 07:52:12 +0000",
+    "source": "TechTalk Thai",
+    "category": "General",
+    "thumbnail": "https://www.techtalkthai.com/wp-content/uploads/2026/07/Sangfor-20072026-FB-Cover.png"
+  },
+  {
+    "id": "https://it24hrs.com/?p=168741",
+    "title": "วิธีใช้ Claude Reflect ดูสถิติการคุยกับ AI พร้อมตั้งเวลาเตือนให้พัก",
+    "link": "https://it24hrs.com/2026/how-to-use-claude-reflect-dashboard/",
+    "content": "วิธีใช้ Claude Reflect ดูสถิติการคุยกับ AI  โดย Claude  […]\nThe post วิธีใช้ Claude Reflect ดูสถิติการคุยกับ AI พร้อมตั้งเวลาเตือนให้พัก appeared first on iT24Hrs by ปานระพี.",
+    "pubDate": "Mon, 20 Jul 2026 06:54:00 +0000",
+    "source": "iT24Hrs",
+    "category": "Security",
+    "thumbnail": null
+  },
+  {
+    "id": "https://www.techtalkthai.com/?p=167932",
+    "title": "IBM Bob: AI ที่ทำงานได้ทั้งวงจรการพัฒนาซอฟต์แวร์ [Guest post]",
+    "link": "https://www.techtalkthai.com/intro-to-ibm-bob-the-ai-assisstant-for-sdlc/",
+    "content": "เครื่องมือ AI เขียนโค้ดส่วนใหญ่ทำหน้าที่เดียว คือคอย autocomplete บรรทัดถัดไปตอนเราพิมพ์ ช่วยให้พิมพ์เร็วขึ้นได้จริง แต่พอเจองานใหญ่อย่างการ modernize ระบบเก่า ความช่วยเหลือระดับบรรทัดต่อบรรทัดก็ไปได้ไม่สุด เพราะปัญหาจริงกระจายอยู่ทั้ง codebase ทั้งการเข้าใจว่าส่วนไหน depend กับส่วนไหน การประสานการแก้ข้ามหลายไฟล์ และการคุม risk ตอน deploy IBM Bob คือ AI development partner ระดับ enterprise ที่ถูกสร้างมาเพื่อจัดการงานในระดับนั้น ทำงานครอบคลุมทั้ง SDLC ตั้งแต่ plan, design, code, test ไปจนถึง deploy และ modernize ระบบเดิม ช่วยตลอดเส้นทางจนกว่าซอฟต์แวร์ตัวหนึ่งจะพร้อมขึ้น production จริง Credit: https://bob.ibm.com/ IBM Bob เปิดให้ใช้งานทั่วโลกอย่างเป็นทางการเมื่อเดือนเมษายน 2026 ในรูปแบบ SaaS ก่อนหน้านั้นถูกใช้งานภายใน IBM …",
+    "pubDate": "Mon, 20 Jul 2026 03:30:00 +0000",
+    "source": "TechTalk Thai",
+    "category": "General",
+    "thumbnail": "https://www.techtalkthai.com/wp-content/uploads/2026/07/CU_ibm_bob-img-01.png"
+  },
+  {
+    "id": "https://www.techtalkthai.com/?p=168018",
+    "title": "DoorDash เปิดตัว dd-cli เครื่องมือสั่งอาหารผ่าน Command Line ปูทางสู่ยุค Agentic Commerce",
+    "link": "https://www.techtalkthai.com/doordash-introduces-dd-cli-for-agentic-commerce/",
+    "content": "DoorDash แพลตฟอร์มฟู้ดเดลิเวอรี่เปิดตัว DoorDash CLI หรือ dd-cli เครื่องมือสำหรับการสั่งอาหารผ่าน Command Line ถือเป็นหนึ่งในความเคลื่อนไหวทางธุรกิจที่สำคัญ เพราะสะท้อนภาพการก้าวเข้าสู่ยุค Agentic Commerce ที่ AI Agent สามารถทำธุรกรรมทางเศรษฐกิจแทนมนุษย์ได้อย่างสมบูรณ์แบบ แม้หลายจะถูกหลายคนมองเป็นเรื่องตลกในฝั่งผู้พัฒนาก็ตาม Andy Fang ผู้ร่วมก่อตั้งและ CTO ของ DoorDash ได้ประกาศผ่านแพลตฟอร์ม X เปิดรับลงทะเบียน Waitlist สำหรับนักพัฒนาบนระบบปฏิบัติการ macOS ในสหรัฐอเมริกาและแคนาดา เพื่อเข้าถึงสิทธิ์การใช้งาน dd-cli ในช่วง Early Access เครื่องมือนี้เปิดโอกาสให้นักพัฒนาสามารถเขียนคำสั่งให้ AI Agent เข้ามาจัดการกระบวนการทั้งหมดแทนมนุษย์ โดยรองรับความสามารถดังต่อไปนี้ ค้นหาร้านอาหารและตรวจสอบสินค้าในสต็อก ค้นหาและเปรียบเทียบดีลโปรโมชันที่ดีที่สุด ดำเนินการสั่งซื้อและชำระเงินผ่านระบบของ DoorDash ได้โดยตรงผ่าน Command Line วิดีโอสาธิตที่แนบมากับโพสต์บน X ของ Andy Fang นำเสนอการทำงานแบบ Over-engineering …",
+    "pubDate": "Mon, 20 Jul 2026 02:18:39 +0000",
+    "source": "TechTalk Thai",
+    "category": "General",
+    "thumbnail": "https://www.techtalkthai.com/wp-content/uploads/2026/07/TTT-61.jpg"
+  },
+  {
+    "id": "151193 at https://www.blognone.com",
+    "title": "Apple Store ทดสอบระบบบันทึกเสียงสนทนาและสรุปเนื้อหาที่ Genius Bar",
+    "link": "https://www.blognone.com/node/151193",
+    "content": "Apple Store ทดสอบระบบบันทึกเสียงสนทนาและสรุปเนื้อหาที่ Genius Bar\n\n  \nBody\nมีข้อมูลเกี่ยวกับการนำ AI มาให้บริการลูกค้าของแอปเปิล โดย Mark Gurman แห่ง Bloomberg คนเดิมอีกเช่นเคย บอกว่าแอปเปิลเริ่มนำร่องทดสอบระบบที่ชื่อว่า \"Live Notes\" กับร้านค้า Apple Store บางสาขา ซึ่งระบบนี้จะบันทึกการสนทนาของลูกค้ากับเจ้าหน้าที่ Genius Bar\nเมื่อการสนทนากับลูกค้าสิ้นสุด Live Notes ก็จะถอดข้อความเสียงออกมา และสรุปเนื้อหากับพูดคุยกับลูกค้า เพื่อใช้ประกอบการดูแลลูกค้านั่นเอง อย่างไรก็ตาม Gurman บอกว่าเมื่อแอปเปิลแจ้งร้าน Apple Store ถึงระบบนี้ ก็มีพนักงานบางส่วนแสดงความกังวลในด้านต่าง ๆ ซึ่งแอปเปิลก็ยืนยันว่าข้อมูลการสนทนาจะไม่เก็บบันทึกไว้เอง และผู้จัดการสาขาก็ไม่สามารถเข้าถึงข้อมูลนี้ได้ จึงไม่มีผลต่อการทำงานและการประเมินการทำงาน\nLive Notes ตอนนี้ยังเป็นทางเลือกสำหรับพนักงาน Apple Store และลูกค้าต้องยินยอมก่อนเปิดใช้งานเท่านั้น รวมทั้งยังจำกัดเฉพาะบางสาขา\nที่มา: Bloomberg\narjin\nMon, 20/07/2026 - 07:54",
+    "pubDate": "Mon, 20 Jul 2026 00:54:14 +0000",
+    "source": "Blognone",
+    "category": "General",
+    "thumbnail": null
   },
   {
     "id": "151192 at https://www.blognone.com",
@@ -57,7 +127,7 @@
     "pubDate": "Sun, 19 Jul 2026 06:50:38 +0000",
     "source": "iT24Hrs",
     "category": "Security",
-    "thumbnail": null
+    "thumbnail": "https://it24hrs.com/wp-content/uploads/2026/07/how-to-use-grok-automations-d02.mp4"
   },
   {
     "id": "151187 at https://www.blognone.com",
@@ -140,16 +210,6 @@
     "thumbnail": null
   },
   {
-    "id": "151181 at https://www.blognone.com",
-    "title": "Cape Verde ชนะโซเชียลฟุตบอลโลก 2026 มีผู้ติดตามบน Instagram เพิ่มขึ้นสูงสุด",
-    "link": "https://www.blognone.com/node/151181",
-    "content": "Cape Verde ชนะโซเชียลฟุตบอลโลก 2026 มีผู้ติดตามบน Instagram เพิ่มขึ้นสูงสุด\n\n  \nBody\nMeta เผยสถิติโซเชียลในเครือช่วงฟุตบอลโลก 2026 (นับเฉพาะ 1 เดือนแรกคือ 11 มิ.ย. - 11 ก.ค.)\nนักฟุตบอลมีผู้ยอดติดตามใน Instagram เพิ่มขึ้นรวมกัน 213.6 ล้านคน (เพิ่ม 6.6%) จากยอดรวม 3.26 พันล้าน เพิ่มมาเป็น 3.47 พันล้าน\nVozinha ผู้รักษาประตูของ Cape Verde มีผู้ติดตามเพิ่มขึ้นสูงสุดคือ 28.8 ล้านคน (จากแทบไม่มี เป็น 28.8 ล้านคน ตัวเลขปัจจุบันคือ 29.3 ล้านคน) ตามด้วย Erling Haaland ของ Norway มีผู้ติดตามเพิ่มขึ้น 23 ล้านคน รวมเป็น 63.7 ล้านคน\nCristiano Ronaldo ยังเป็นนักฟุตบอลที่มีผู้ติดตามสูงสุด 676 ล้านคน เพิ่มขึ้นรอบนี้ 10 ล้านคน ส่วน Lionel Messi มีผู้ติดตาม 512.3 ล้านคน เพิ่มขึ้น 5.6 ล้านคน\nทีมฟุตบอลที่มีผู้ติดตามเพิ่มขึ้นสูงสุดคือ Cape Verde เพิ่ม 32.1 ล้านคน, Brazil เพิ่ม 26 ล้านคน, Norway เพิ่ม 24.5 ล้านคน, Mexico 20.8 ล้านคน, Argentina 18.4 ล้านคน\nFacebook มีโพสต์ที่เกี่ยวข้องกับฟุตบอลโลก 80 ล้านโพสต์\nWhatsApp มีข้อความถูกส่งหากัน 29 ล้านข้อความต่อวินาที ระหว่างการแข่งนัด Argentina vs Egypt ถือเป็นสถิติใหม่ที่แซงหน้าฟุตบอลโลกนัดชิงชนะเลิศปี 2022\nที่มา - Meta\n\n\n\n          \nmk\nSat, 18/07/2026 - 09:43",
-    "pubDate": "Sat, 18 Jul 2026 02:43:37 +0000",
-    "source": "Blognone",
-    "category": "General",
-    "thumbnail": "https://www.blognone.com/sites/default/files/files-2026/2026-07/01_biggestgrowersig.webp"
-  },
-  {
     "id": "https://techsauce.co/news/truemoney-tap-paymenttech-launch-thailand",
     "title": "เปิดตัว 'แตะจ่ายด้วยทรูมันนี่' ไม่ต้องมีหรือผูกบัตรเครดิตก็จ่ายผ่านเครื่อง BlueTap และ EDC เตรียมขยายแตะเข้า MRT ได้ด้วย",
     "link": "https://techsauce.co/news/truemoney-tap-paymenttech-launch-thailand",
@@ -178,16 +238,6 @@
     "source": "Techsauce",
     "category": "General",
     "thumbnail": "https://storage.googleapis.com/techsauce-prod/ugc/uploads/2026/7/1784279154_DeepMind_%2B_Isomorphic_800.webp"
-  },
-  {
-    "id": "https://it24hrs.com/?p=168703",
-    "title": "NewCore เปิดตัวระบบจัดการตัวตน AI Agent ภายในองค์กร รองรับ Codex, Claude Code และ Cursor",
-    "link": "https://it24hrs.com/2026/newcore-ai-agent-identity-platform-66-million-funding/",
-    "content": "NewCore เปิดตัวระบบจัดการตัวตน AI Agent พร้อมเงินทุน 66 […]\nThe post NewCore เปิดตัวระบบจัดการตัวตน AI Agent ภายในองค์กร รองรับ Codex, Claude Code และ Cursor appeared first on iT24Hrs by ปานระพี.",
-    "pubDate": "Fri, 17 Jul 2026 08:26:14 +0000",
-    "source": "iT24Hrs",
-    "category": "Security",
-    "thumbnail": null
   },
   {
     "id": "https://techsauce.co/ai/waico-china-global-ai-organization",
@@ -228,16 +278,6 @@
     "source": "TechTalk Thai",
     "category": "General",
     "thumbnail": "https://s.w.org/images/core/emoji/17.0.2/72x72/1f6e1.png"
-  },
-  {
-    "id": "https://it24hrs.com/?p=168710",
-    "title": "กฎใหม่ PDPA ประชาชนขอสำเนาข้อมูลส่วนบุคคลได้ องค์กรต้องตอบภายใน 30 วัน ลงราชกิจจาฯแล้ว",
-    "link": "https://it24hrs.com/2026/pdpa-personal-data-access-request-rules-2026/",
-    "content": "กฎใหม่ PDPA ออกใหม่แล้วสดๆร้อนๆ หลังราชกิจจานุเบกษาเผยแ […]\nThe post กฎใหม่ PDPA ประชาชนขอสำเนาข้อมูลส่วนบุคคลได้ องค์กรต้องตอบภายใน 30 วัน ลงราชกิจจาฯแล้ว appeared first on iT24Hrs by ปานระพี.",
-    "pubDate": "Fri, 17 Jul 2026 06:55:10 +0000",
-    "source": "iT24Hrs",
-    "category": "Security",
-    "thumbnail": null
   },
   {
     "id": "https://www.techtalkthai.com/?p=168000",
@@ -420,16 +460,6 @@
     "thumbnail": "https://www.techtalkthai.com/wp-content/uploads/2026/07/Techtalkthai_1200x628-640x335.png"
   },
   {
-    "id": "https://it24hrs.com/?p=168690",
-    "title": "เจาะ Gemini Report 2026 เผยคนไทยใช้ Gemini คุยเรื่องไลฟ์สไตล์สูงสุดอันดับ 1 ในอาเซียน",
-    "link": "https://it24hrs.com/2026/gemini-report-southeast-asia-2026/",
-    "content": "เจาะ Gemini Report 2026 โดย Google ได้เผยแพร่รายงาน \b […]\nThe post เจาะ Gemini Report 2026 เผยคนไทยใช้ Gemini คุยเรื่องไลฟ์สไตล์สูงสุดอันดับ 1 ในอาเซียน appeared first on iT24Hrs by ปานระพี.",
-    "pubDate": "Thu, 16 Jul 2026 07:55:45 +0000",
-    "source": "iT24Hrs",
-    "category": "Security",
-    "thumbnail": null
-  },
-  {
     "id": "https://www.techtalkthai.com/?p=167911",
     "title": "OpenAI เผยรายละเอียด GPT-Red ระบบ AI โจมตีตัวเอง",
     "link": "https://www.techtalkthai.com/openai-details-gpt-red-an-ai-that-attacks-its-own-models/",
@@ -448,35 +478,5 @@
     "source": "TechTalk Thai",
     "category": "General",
     "thumbnail": "https://www.techtalkthai.com/wp-content/uploads/2026/07/ASML-HighNAEUV.jpg"
-  },
-  {
-    "id": "https://www.techtalkthai.com/?p=167903",
-    "title": "Stripe จับมือ Advent ทุ่ม 5.3 หมื่นล้านดอลลาร์ดึง PayPal ออกนอกตลาด",
-    "link": "https://www.techtalkthai.com/stripe-and-advent-reportedly-make-53b-bid-to-take-paypal-private/",
-    "content": "มีรายงานว่า Stripe และบริษัทลงทุนนอกตลาดอย่าง Advent International ได้ยื่นข้อเสนอมากกว่า 5.3 หมื่นล้านดอลลาร์เพื่อซื้อกิจการ PayPal ในข้อตกลงที่จะเปลี่ยนสถานะของ PayPal ให้กลายเป็นบริษัทเอกชน และนำหนึ่งในผู้บุกเบิกด้านการชำระเงินออนไลน์เข้าสู่การควบคุมของคู่แข่งที่มีอายุน้อยกว่าและมีการเติบโตที่รวดเร็วกว่า ผู้เสนอซื้อไม่มีแผนที่จะแยกบริษัทออกเป็นส่วน ๆ โดย Stripe และ Advent จะถือหุ้นในสัดส่วนที่เท่ากันและยังคงดำเนินกิจการ PayPal ต่อไปในฐานะธุรกิจเดียว ข้อเสนอดังกล่าวยังไม่มีผลผูกพันทางกฎหมายและอาจมีการเปลี่ยนแปลงในระหว่างการเจรจาหรือการตรวจสอบของหน่วยงานกำกับดูแล โดย Reuters รายงานว่าในส่วนของการจัดหาเงินทุนนั้นดูเหมือนจะมีความพร้อมแล้ว โดยมีการเตรียมวงเงินจากธนาคารไว้แล้วประมาณ 5 หมื่นล้านดอลลาร์ PayPal ก่อตั้งขึ้นในปี 1998 โดย eBay ได้เข้าซื้อบริการชำระเงินดังกล่าวในปี 2002 ด้วยมูลค่า 1.5 พันล้านดอลลาร์ ก่อนจะแยกตัวออกมาเป็นบริษัทมหาชนในปี 2015 ส่วน Stripe ก่อตั้งขึ้นในปี 2010 และปัจจุบันกลายเป็นบริษัทที่มีขนาดใหญ่กว่าเมื่อวัดจากมูลค่าตลาด ซึ่งอยู่ที่ 1.59 แสนล้านดอลลาร์จากการเสนอซื้อหุ้นคืนจากพนักงานและผู้ถือหุ้นเมื่อเดือนกุมภาพันธ์ที่ผ่านมา สำหรับ Stripe จุดดึงดูดสำคัญคือการเข้าถึงฐานลูกค้า โดย Stripe เติบโตมาจากการให้บริการกลุ่มร้านค้า …",
-    "pubDate": "Thu, 16 Jul 2026 02:53:31 +0000",
-    "source": "TechTalk Thai",
-    "category": "General",
-    "thumbnail": "https://www.techtalkthai.com/wp-content/uploads/2026/07/PayPal-campus.jpg"
-  },
-  {
-    "id": "https://www.techtalkthai.com/?p=167900",
-    "title": "เกาหลีใต้เปิดประมูลโปรเจกต์ Chatbot AI แห่งชาติ รัฐอัดฉีด Nvidia B200 หวังให้คนเกาหลีใต้ใช้งาน AI คุณภาพสูงโดยไม่มีค่าใช้จ่าย",
-    "link": "https://www.techtalkthai.com/south-korea-universal-basic-ai-chatbot/",
-    "content": "รัฐบาลเกาหลีใต้เปิดประมูลเพื่อหาผู้ให้บริการพัฒนาระบบ Universal Basic AI Chatbot และระบบ AI Agent เพื่อผสานการทำงานเข้ากับบริการของภาครัฐภายใต้แผนยุทธศาสตร์ AI for everyone โดยเกาหลีใต้ตั้งเป้าให้ประชาชนทุกคนสามารถเข้าถึงการใช้งาน AI แชตบอตคุณภาพสูงโดยไม่มีค่าใช้จ่าย มีเงื่อนไขสำคัญคือให้ภาคเอกชนเป็นผู้พัฒนา และดำเนินงานระบบ AI ภายใต้สัญญาจ้างที่จะสิ้นสุดในปี 2031 สำหรับเงื่อนไขการสนับสนุนและข้อกำหนดของโครงการดังกล่าวประกอบด้วย รัฐบาลจะจัดสรรชิปประมวลผล Nvidia B200 จำนวนสูงสุด 256 ตัว ให้แก่ผู้ชนะการประมูล ผู้ชนะการประมูลจำเป็นต้องจัดหาเงินลงทุนสมทบในสัดส่วนที่เท่าเทียมกับเงินทุนสนับสนุนจากรัฐ ผู้ให้บริการต้องใช้โมเดล AI ที่พัฒนาขึ้นภายในประเทศเป็นรากฐานในการให้บริการ เพื่อสร้างความมั่นใจว่าบริการดังกล่าวจะได้รับการโฮสต์และดำเนินการภายในเกาหลีใต้ ลดการพึ่งพาผู้ให้บริการจากต่างแดน และสะท้อนบริบททางวัฒนธรรมท้องถิ่นได้อย่างแม่นยำ ความเคลื่อนไหวดังกล่าวเกิดขึ้นหลังจากรัฐบาลสหรัฐอเมริกา บังคับใช้มาตรการห้ามชาวต่างชาติเข้าถึงโมเดลปัญญาประดิษฐ์ Mythos 5 และ Fable 5 ของบริษัท Anthropic นโยบายดังกล่าวส่งผลให้ Anthropic ต้องระงับการให้บริการโมเดลทั้งสองบนระบบออนไลน์ทั้งหมด เนื่องจากไม่สามารถคัดกรองสัญชาติของผู้ใช้งานที่อยู่ในสหรัฐฯ ได้ เหตุการณ์นี้ตอกย้ำถึงความเปราะบางของการพึ่งพาเทคโนโลยีต่างชาติ และเร่งกระแส Sovereign AI หรืออธิปไตย AI …",
-    "pubDate": "Thu, 16 Jul 2026 02:27:08 +0000",
-    "source": "TechTalk Thai",
-    "category": "General",
-    "thumbnail": "https://www.techtalkthai.com/wp-content/uploads/2026/07/TTT-58.jpg"
-  },
-  {
-    "id": "https://www.techtalkthai.com/?p=167895",
-    "title": "Round 2 Solutions แนะธุรกิจยกระดับสู่ Connected Enterprise ใช้ AI และ Cloud ERP ขับเคลื่อนการเติบโตในโลกยุค Disruption [PR]",
-    "link": "https://www.techtalkthai.com/round-2-solutions-advises-businesses-to-upgrade-to-a-connected-enterprise-using-ai-and-cloud-erp-to-drive-growth-in-the-era-of-disruption/",
-    "content": "Round 2 Solutions ภายใต้กลุ่ม G-ABLE ชี้องค์กรไทยจำเป็นต้องเร่งยกระดับสู่ Connected Enterprise เพื่อรับมือความไม่แน่นอนทางเศรษฐกิจและความเปลี่ยนแปลงของโลกธุรกิจที่มีความซับซ้อนเพิ่มขึ้นอย่างต่อเนื่อง โดยมองว่าเทคโนโลยี AI, Cloud ERP และการเชื่อมโยงข้อมูลแบบ End-to-End จะเป็นโครงสร้างพื้นฐานสำคัญขององค์กรยุคใหม่ ที่ช่วยให้สามารถเข้าถึงข้อมูลแบบเรียลไทม์ เพิ่มความเร็วในการตัดสินใจ เสริมความยืดหยุ่นในการดำเนินธุรกิจ และสนับสนุนการเติบโตอย่างยั่งยืนในสภาพแวดล้อมที่มีความไม่แน่นอนสูง นายวิเชียร ลัญฉนะวณิชย์ กรรมการผู้จัดการ บริษัท ราวด์ ทู โซลูชั่นส์ จำกัด (Round 2 Solutions) ซึ่งเป็นบริษัทในกลุ่มบริษัท จีเอเบิล จำกัด (มหาชน) (G-ABLE) ผู้ให้บริการด้านระบบไอทีและดิจิทัลโซลูชัน แบบครบวงจร (Tech Enabler) ชั้นนำของประเทศไทย ที่มีฐานลูกค้าระดับองค์กร Enterprise ในหลายกลุ่มอุตสาหกรรม กล่าวว่า ในภาพรวมเศรษฐกิจโลกปี 2569 ยังคงเผชิญแรงกดดันจากความไม่แน่นอนด้านภูมิรัฐศาสตร์และเศรษฐกิจโลก โดยเฉพาะความขัดแย้งระหว่างประเทศที่ส่งผลกระทบต่อราคาพลังงาน วัตถุดิบ และต้นทุนการดำเนินธุรกิจอย่างต่อเนื่อง ไม่ว่าจะเป็นน้ำมัน ก๊าซ LNG และวัตถุดิบในภาคอุตสาหกรรมที่ยังมีความผันผวนสูง …",
-    "pubDate": "Thu, 16 Jul 2026 02:10:19 +0000",
-    "source": "TechTalk Thai",
-    "category": "General",
-    "thumbnail": "https://www.techtalkthai.com/wp-content/uploads/2026/07/Round2-Solutions-1.jpg"
   }
 ]
