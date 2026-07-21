@@ -2,13 +2,12 @@ const Parser = require('rss-parser');
 const fs = require('fs');
 const path = require('path');
 
-// 🚨 [ระบบป้องกันบอทค้าง] Global Safeguard Timeout (60 วินาที)
+// 🚨 Global Safeguard Timeout (60 วินาที)
 setTimeout(() => {
     console.error('⚠️ สคริปต์ทำงานนานเกินไป ระบบสั่งปิดอัตโนมัติเพื่อป้องกันบอทค้าง');
     process.exit(0); 
 }, 60000);
 
-// ตั้งค่า Parser พร้อม Header แบบเต็มรูปแบบเพื่อป้องกัน Firewall / Cloudflare บล็อก
 const parser = new Parser({
     timeout: 10000, 
     headers: {
@@ -29,7 +28,6 @@ const parser = new Parser({
     }
 });
 
-// รายชื่อแหล่งข่าว RSS
 const FEEDS = [
     { url: 'https://www.blognone.com/atom.xml', category: 'General', sourceName: 'Blognone' },
     { url: 'https://www.beartai.com/feed', category: 'General', sourceName: 'Beartai' },
@@ -41,14 +39,12 @@ const FEEDS = [
     { url: 'https://it24hrs.com/category/it-news/feed/', category: 'General', sourceName: 'IT24Hrs' }
 ];
 
-// 🤖 คำค้นหาสำหรับคัดแยกข่าว AI อัตโนมัติ
 const AI_KEYWORDS = [
     'artificial intelligence', 'chatgpt', 'openai', 'gemini', 'claude', 
     'llm', 'deepseek', 'copilot', 'เอไอ', 'ปัญญาประดิษฐ์', 'machine learning', 
     'generative ai', 'prompt', 'midjourney', 'sora', 'nvda', 'nvidia'
 ];
 
-// 🛡️ คำค้นหาสำหรับคัดแยกข่าว Cyber Security อัตโนมัติ
 const SECURITY_KEYWORDS = [
     'security', 'cyber', 'ไซเบอร์', 'แฮก', 'hack', 'malware', 'มัลแวร์', 
     'ช่องโหว่', 'phishing', 'ฟิชชิ่ง', 'ransomware', 'แรนซัมแวร์', 
@@ -56,15 +52,18 @@ const SECURITY_KEYWORDS = [
 ];
 
 function detectCategory(title, content, defaultCategory) {
+    // 🛡️ 1. ถ้าตั้งต้นมาจากฟีด Cyber Security โดยตรง ให้ยึดเป็น Security เสมอ (ไม่ให้ AI ดึงไป)
+    if (defaultCategory === 'Security') return 'Security';
+
     const textToTest = `${title || ''} ${content || ''}`.toLowerCase();
-    
-    // 1. ตรวจจับข่าว AI
+
+    // 🛡️ 2. ตรวจหาคีย์เวิร์ด Security จากฟีดทั่วไปก่อน
+    const isSecurity = SECURITY_KEYWORDS.some(k => textToTest.includes(k));
+    if (isSecurity) return 'Security';
+
+    // 🤖 3. ถ้าไม่ใช่ข่าว Security ค่อยตรวจหาข่าว AI
     const isAI = AI_KEYWORDS.some(k => textToTest.includes(k)) || /\bai\b/i.test(textToTest);
     if (isAI) return 'AI';
-
-    // 2. ตรวจจับข่าว Security
-    const isSecurity = SECURITY_KEYWORDS.some(k => textToTest.includes(k));
-    if (isSecurity || defaultCategory === 'Security') return 'Security';
     
     return defaultCategory;
 }
@@ -144,7 +143,7 @@ function readLocalKnowledge() {
 
 async function main() {
     let allArticles = [];
-    const seenUrls = new Set(); // ตารางบันทึก URL ป้องกันข่าวซ้ำ
+    const seenUrls = new Set();
 
     for (const feedConfig of FEEDS) {
         try {
@@ -153,7 +152,6 @@ async function main() {
             
             let addedCount = 0;
             feed.items.forEach(item => {
-                // ข้ามถ้าเป็นข่าวที่ดึงมาแล้ว
                 if (item.link && seenUrls.has(item.link)) return;
                 if (item.link) seenUrls.add(item.link);
 
