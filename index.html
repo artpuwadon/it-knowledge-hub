@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>IT Knowledge Hub</title>
-    <!-- เรียกใช้เครื่องมือแต่งหน้าเว็บ + ค้นหา + ตัวแปลงคู่มือ Markdown -->
+    <!-- เรียกใช้ Tailwind CSS + Fuse.js ค้นหา + Marked.js ตัวแปลง Markdown -->
     <script src="https://cdn.jsdelivr.net/npm/@tailwindcss/browser@4"></script>
     <script src="https://cdn.jsdelivr.net/npm/fuse.js@7.0.0/dist/fuse.basic.min.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
@@ -12,14 +12,13 @@
     <!-- 🎨 จัดสไตล์เนื้อหาคู่มือด้านใน และป้องกันข้อความ/ลิงก์/ตาราง ล้นกล่อง Modal -->
     <style>
         #modalBody {
-            overflow-wrap: anywhere;   /* ตัดคำยาวหรือข้อความที่ไม่มีเว้นวรรคให้ลงบรรทัดใหม่ทันที */
+            overflow-wrap: anywhere;
             word-break: break-word;
         }
         #modalBody h1 { font-size: 1.5rem; font-weight: 700; margin-top: 1rem; margin-bottom: 0.5rem; color: #0f172a; line-height: 1.4; }
         #modalBody h2 { font-size: 1.25rem; font-weight: 700; margin-top: 1rem; margin-bottom: 0.5rem; color: #1e293b; line-height: 1.4; }
         #modalBody p { margin-bottom: 0.75rem; color: #334155; line-height: 1.6; }
         
-        /* ตัดลิงก์ URL ยาวๆ ไม่ให้ดันกล่องพัง */
         #modalBody a { 
             color: #2563eb; 
             text-decoration: underline; 
@@ -29,7 +28,6 @@
         }
         #modalBody a:hover { color: #1d4ed8; }
 
-        /* ควบคุมรูปภาพใน Modal ไม่ให้ขนาดใหญ่เกินป๊อปอัป */
         #modalBody img {
             max-width: 100% !important;
             height: auto !important;
@@ -37,7 +35,6 @@
             margin: 1rem 0;
         }
 
-        /* ตารางในหมวดกฎหมาย/คู่มือ ให้สไลด์แนวนอนได้หากความกว้างเกิน */
         #modalBody table {
             display: block;
             width: 100%;
@@ -175,49 +172,50 @@
             }
         }
 
-function filterAndDisplay() {
-    const searchQuery = document.getElementById('searchInput').value.trim();
-    
-    if (currentCategory === 'ALL') {
-        currentFilteredData = allData;
-    } else {
-        currentFilteredData = allData.filter(item => {
-            if (!item.category) return false;
+        // 🔍 ฟังก์ชันกรองข้อมูลแบบใหม่ ยืดหยุ่น ค้นหาหมวดหมู่ได้แม้อยู่ในรูปแบบคำต่างกัน
+        function filterAndDisplay() {
+            const searchQuery = document.getElementById('searchInput').value.trim();
             
-            const itemCat = item.category.toString().trim().toLowerCase();
-            const selectedCat = currentCategory.trim().toLowerCase();
+            if (currentCategory === 'ALL') {
+                currentFilteredData = allData;
+            } else {
+                currentFilteredData = allData.filter(item => {
+                    if (!item.category) return false;
+                    
+                    const itemCat = item.category.toString().trim().toLowerCase();
+                    const selectedCat = currentCategory.trim().toLowerCase();
 
-            // 🛡️ ปรับให้ยืดหยุ่นสำหรับ Cyber Security (ครอบคลุมทั้ง Security, Cyber, ไซเบอร์)
-            if (selectedCat === 'security') {
-                return itemCat.includes('security') || itemCat.includes('cyber') || itemCat.includes('ไซเบอร์');
+                    // 🛡️ สำหรับหมวดหมู่ Cyber Security (รองรับ Security, Cyber, ไซเบอร์)
+                    if (selectedCat === 'security') {
+                        return itemCat.includes('security') || itemCat.includes('cyber') || itemCat.includes('ไซเบอร์');
+                    }
+
+                    // 📋 รองรับหมวดหมู่อื่นๆ ยืดหยุ่นทั้งภาษาไทยและอังกฤษ
+                    if (selectedCat === 'internal') return itemCat.includes('internal') || itemCat.includes('ภายใน');
+                    if (selectedCat === 'general') return itemCat.includes('general') || itemCat.includes('ทั่วไป');
+                    if (selectedCat === 'law') return itemCat.includes('law') || itemCat.includes('กฎหมาย');
+                    if (selectedCat === 'info') return itemCat.includes('info') || itemCat.includes('สรุป');
+
+                    return itemCat === selectedCat || itemCat.includes(selectedCat);
+                });
             }
 
-            // 📋 ปรับความยืดหยุ่นสำหรับหมวดหมู่อื่นๆ
-            if (selectedCat === 'internal') return itemCat.includes('internal') || itemCat.includes('ภายใน');
-            if (selectedCat === 'general') return itemCat.includes('general') || itemCat.includes('ทั่วไป');
-            if (selectedCat === 'law') return itemCat.includes('law') || itemCat.includes('กฎหมาย');
-            if (selectedCat === 'info') return itemCat.includes('info') || itemCat.includes('สรุป');
-
-            return itemCat === selectedCat || itemCat.includes(selectedCat);
-        });
-    }
-
-    if (searchQuery) {
-        const options = { keys: ['title', 'content', 'source', 'category'], threshold: 0.4 };
-        const localFuse = new Fuse(currentFilteredData, options);
-        const results = localFuse.search(searchQuery);
-        displayNews(results.map(r => r.item));
-    } else {
-        displayNews(currentFilteredData);
-    }
-}
+            if (searchQuery) {
+                const options = { keys: ['title', 'content', 'source', 'category'], threshold: 0.4 };
+                const localFuse = new Fuse(currentFilteredData, options);
+                const results = localFuse.search(searchQuery);
+                displayNews(results.map(r => r.item));
+            } else {
+                displayNews(currentFilteredData);
+            }
+        }
 
         function displayNews(articles) {
             const container = document.getElementById('newsContainer');
             document.getElementById('resultCount').innerText = `${articles.length} รายการ`;
 
             if (articles.length === 0) {
-                container.innerHTML = `<div class="bg-white p-12 rounded-2xl text-center border text-slate-400">🔍 ไม่พบข้อมูลในหมวดหมู่นี้ ลองค้นหาคำอื่นดูนะครับ</div>`;
+                container.innerHTML = `<div class="bg-white p-12 rounded-2xl text-center border border-slate-200/80 text-slate-400">🔍 ไม่พบข้อมูลในหมวดหมู่นี้ ลองค้นหาคำอื่นดูนะครับ</div>`;
                 return;
             }
 
@@ -288,10 +286,8 @@ function filterAndDisplay() {
                 document.getElementById('modalTitle').innerText = article.title;
                 document.getElementById('modalMeta').innerText = `📍 แหล่งที่มา: ${article.source} | อัปเดตเมื่อ: ${dateStr}`;
                 
-                // แปลง Markdown เป็น HTML
                 document.getElementById('modalBody').innerHTML = marked.parse(article.content);
                 
-                // บังคับเพิ่มคุณสมบัติให้ทุกลิงก์ที่อยู่ในเนื้อหาป๊อปอัปเปิดแท็บใหม่เสมอ
                 const innerLinks = document.querySelectorAll('#modalBody a');
                 innerLinks.forEach(link => {
                     link.setAttribute('target', '_blank');
