@@ -31,6 +31,7 @@ const FEEDS = [
     { url: 'https://www.beartai.com/feed', category: 'General', sourceName: 'Beartai' },
     { url: 'https://www.techtalkthai.com/category/security/feed/', category: 'Security', sourceName: 'TechTalk Thai' },
     { url: 'https://www.enterpriseitpro.net/category/security/feed/', category: 'Security', sourceName: 'enterpriseitpro' },  
+    { url: 'https://www.thaicert.or.th/cyber-threat-news-th/feed/', category: 'Security', sourceName: 'thaicert' },      
     { url: 'https://www.techtalkthai.com/feed/', category: 'General', sourceName: 'TechTalk Thai' },
     { url: 'https://techsauce.co/feed', category: 'General', sourceName: 'Techsauce' },
     { url: 'https://it24hrs.com/category/it-news/feed/', category: 'General', sourceName: 'IT24Hrs' }
