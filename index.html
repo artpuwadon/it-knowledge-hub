@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>IT Knowledge Hub</title>
+    <title>IT Knowledge Hub - สป.พม.</title>
     <!-- เรียกใช้ Tailwind CSS + Fuse.js ค้นหา + Marked.js ตัวแปลง Markdown -->
     <script src="https://cdn.jsdelivr.net/npm/@tailwindcss/browser@4"></script>
     <script src="https://cdn.jsdelivr.net/npm/fuse.js@7.0.0/dist/fuse.basic.min.js"></script>
@@ -88,13 +88,21 @@
                         <button onclick="switchCategory('ALL')" id="tab-ALL" class="w-full text-left px-3 py-2.5 rounded-xl font-medium text-sm transition cursor-pointer bg-blue-600 text-white shadow-xs">
                             🌐 ทั้งหมด
                         </button>
+
+                        <button onclick="switchCategory('BOOKMARKS')" id="tab-BOOKMARKS" class="w-full text-left px-3 py-2.5 rounded-xl font-medium text-sm transition cursor-pointer text-amber-600 hover:bg-amber-50 flex items-center justify-between">
+                            <span>⭐ บันทึกไว้อ่านทีหลัง</span>
+                            <span id="bookmarkCountBadge" class="bg-amber-100 text-amber-800 text-xs px-2 py-0.5 rounded-full font-bold">0</span>
+                        </button>
+
+                        <hr class="my-2 border-slate-100">
+
                         <button onclick="switchCategory('Internal')" id="tab-Internal" class="w-full text-left px-3 py-2.5 rounded-xl font-medium text-sm transition cursor-pointer text-slate-600 hover:bg-slate-100">
                             📋 คู่มือภายในหน่วยงาน
                         </button>
                         <button onclick="switchCategory('AI')" id="tab-AI" class="w-full text-left px-3 py-2.5 rounded-xl font-medium text-sm transition cursor-pointer text-slate-600 hover:bg-slate-100">
                             🤖 AI & Innovation
                         </button>
-                                <button onclick="switchCategory('General')" id="tab-General" class="w-full text-left px-3 py-2.5 rounded-xl font-medium text-sm transition cursor-pointer text-slate-600 hover:bg-slate-100">
+                        <button onclick="switchCategory('General')" id="tab-General" class="w-full text-left px-3 py-2.5 rounded-xl font-medium text-sm transition cursor-pointer text-slate-600 hover:bg-slate-100">
                             📰 ข่าวสารไอทีทั่วไป
                         </button>
                         <button onclick="switchCategory('Security')" id="tab-Security" class="w-full text-left px-3 py-2.5 rounded-xl font-medium text-sm transition cursor-pointer text-slate-600 hover:bg-slate-100">
@@ -156,6 +164,43 @@
         let currentFilteredData = [];
         let currentCategory = 'ALL';
 
+        // ⏱️ คำนวณเวลาอ่านตัวอย่าง (ประมาณ 400 ตัวอักษร/นาที)
+        function calculateReadTime(text) {
+            if (!text) return '1 นาที';
+            const cleanText = text.replace(/<[^>]*>?/gm, '').trim();
+            const minutes = Math.ceil(cleanText.length / 400);
+            return `${Math.max(1, minutes)} นาที`;
+        }
+
+        // 📦 โหลดรายการ Bookmark จาก localStorage
+        function getBookmarks() {
+            return JSON.parse(localStorage.getItem('it_hub_bookmarks') || '[]');
+        }
+
+        // 🔄 สลับการบันทึก / ยกเลิกบันทึกข่าว
+        function toggleBookmark(articleId, event) {
+            if (event) event.stopPropagation(); // ป้องกันการเปิด Modal เมื่อกดปุ่ม Bookmark
+            
+            let bookmarks = getBookmarks();
+            if (bookmarks.includes(articleId)) {
+                bookmarks = bookmarks.filter(id => id !== articleId);
+            } else {
+                bookmarks.push(articleId);
+            }
+            
+            localStorage.setItem('it_hub_bookmarks', JSON.stringify(bookmarks));
+            updateBookmarkBadge();
+            
+            filterAndDisplay();
+        }
+
+        // 🔢 อัปเดตตัวเลขแสดงจำนวน Bookmark บน Sidebar
+        function updateBookmarkBadge() {
+            const count = getBookmarks().length;
+            const badge = document.getElementById('bookmarkCountBadge');
+            if (badge) badge.innerText = count;
+        }
+
         function extractFirstImageUrl(htmlString) {
             if (!htmlString) return null;
             const div = document.createElement('div');
@@ -168,6 +213,7 @@
             try {
                 const response = await fetch('data.json');
                 allData = await response.json();
+                updateBookmarkBadge();
                 filterAndDisplay();
             } catch (error) {
                 console.error(error);
@@ -175,12 +221,15 @@
             }
         }
 
-        // 🔍 ฟังก์ชันกรองข้อมูลแบบใหม่ ยืดหยุ่น ค้นหาหมวดหมู่ได้แม้อยู่ในรูปแบบคำต่างกัน
+        // 🔍 ฟังก์ชันกรองข้อมูลแบบยืดหยุ่น
         function filterAndDisplay() {
             const searchQuery = document.getElementById('searchInput').value.trim();
             
             if (currentCategory === 'ALL') {
                 currentFilteredData = allData;
+            } else if (currentCategory === 'BOOKMARKS') {
+                const bookmarks = getBookmarks();
+                currentFilteredData = allData.filter(item => bookmarks.includes(item.id));
             } else {
                 currentFilteredData = allData.filter(item => {
                     if (!item.category) return false;
@@ -188,16 +237,13 @@
                     const itemCat = item.category.toString().trim().toLowerCase();
                     const selectedCat = currentCategory.trim().toLowerCase();
 
-                    // 🤖 รองรับหมวดหมู่ AI
                     if (selectedCat === 'ai') {
-                    return itemCat.includes('ai') || itemCat.includes('เอไอ') || itemCat.includes('ปัญญาประดิษฐ์');
+                        return itemCat.includes('ai') || itemCat.includes('เอไอ') || itemCat.includes('ปัญญาประดิษฐ์');
                     }
-                    // 🛡️ สำหรับหมวดหมู่ Cyber Security (รองรับ Security, Cyber, ไซเบอร์)
                     if (selectedCat === 'security') {
                         return itemCat.includes('security') || itemCat.includes('cyber') || itemCat.includes('ไซเบอร์');
                     }
 
-                    // 📋 รองรับหมวดหมู่อื่นๆ ยืดหยุ่นทั้งภาษาไทยและอังกฤษ
                     if (selectedCat === 'internal') return itemCat.includes('internal') || itemCat.includes('ภายใน');
                     if (selectedCat === 'general') return itemCat.includes('general') || itemCat.includes('ทั่วไป');
                     if (selectedCat === 'law') return itemCat.includes('law') || itemCat.includes('กฎหมาย');
@@ -226,9 +272,13 @@
                 return;
             }
 
+            const bookmarks = getBookmarks();
+
             container.innerHTML = articles.map(item => {
                 const dateStr = item.pubDate ? new Date(item.pubDate).toLocaleDateString('th-TH', { year: 'numeric', month: 'short', day: 'numeric' }) : '';
-                
+                const readTimeStr = item.readTime || calculateReadTime(item.content);
+                const isBookmarked = bookmarks.includes(item.id);
+
                 let imageUrl = item.thumbnail;
                 if (!imageUrl) {
                     imageUrl = extractFirstImageUrl(item.content);
@@ -260,17 +310,26 @@
                        </a>`;
 
                 return `
-                    <article class="group bg-white p-5 rounded-2xl border border-slate-200/70 hover:border-blue-400 hover:shadow-md transition duration-200 flex flex-col sm:flex-row gap-5">
+                    <article class="group bg-white p-5 rounded-2xl border border-slate-200/70 hover:border-blue-400 hover:shadow-md transition duration-200 flex flex-col sm:flex-row gap-5 relative">
                         
+                        <!-- ปุ่ม Bookmark -->
+                        <button onclick="toggleBookmark('${item.id}', event)" 
+                                title="${isBookmarked ? 'ยกเลิกการบันทึก' : 'บันทึกไว้อ่านทีหลัง'}"
+                                class="absolute top-3 right-3 z-10 p-2 rounded-full transition cursor-pointer ${isBookmarked ? 'bg-amber-100 text-amber-600 border border-amber-300' : 'bg-slate-100/80 text-slate-400 hover:text-amber-500 hover:bg-white'}">
+                            ${isBookmarked ? '⭐' : '🔖'}
+                        </button>
+
                         <div class="sm:w-40 sm:h-28 w-full h-40 flex-shrink-0 bg-slate-100 rounded-xl overflow-hidden border border-slate-100">
                             <img src="${imageUrl}" class="w-full h-full object-cover" alt="thumbnail" loading="lazy" onerror="this.src='https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=500&auto=format&fit=crop&q=60'">
                         </div>
 
-                        <div class="flex flex-col justify-between flex-1 min-w-0">
+                        <div class="flex flex-col justify-between flex-1 min-w-0 pr-8">
                             <div>
-                                <div class="flex items-center gap-2 mb-1.5 text-xs">
+                                <div class="flex items-center gap-2 mb-1.5 text-xs flex-wrap">
                                     <span class="bg-slate-100 text-slate-700 px-2 py-0.5 rounded-md font-medium">📍 ${item.source}</span>
                                     <span class="text-slate-400">${dateStr}</span>
+                                    <span class="text-slate-300">•</span>
+                                    <span class="text-slate-500 font-medium">⏱️ ${readTimeStr}</span>
                                 </div>
                                 <h3 class="text-lg font-bold text-slate-900 mb-1 leading-snug break-words">
                                     ${titleLinkHtml}
@@ -325,10 +384,27 @@
 
         function switchCategory(cat) {
             currentCategory = cat;
+            
+            // รีเซ็ตสไตล์ปุ่มทั้งหมดใน Sidebar
             const buttons = document.querySelectorAll('#categoryMenu button');
-            buttons.forEach(btn => btn.className = "w-full text-left px-3 py-2.5 rounded-xl font-medium text-sm transition cursor-pointer text-slate-600 hover:bg-slate-100");
+            buttons.forEach(btn => {
+                if (btn.id === 'tab-BOOKMARKS') {
+                    btn.className = "w-full text-left px-3 py-2.5 rounded-xl font-medium text-sm transition cursor-pointer text-amber-600 hover:bg-amber-50 flex items-center justify-between";
+                } else {
+                    btn.className = "w-full text-left px-3 py-2.5 rounded-xl font-medium text-sm transition cursor-pointer text-slate-600 hover:bg-slate-100";
+                }
+            });
+
+            // ไฮไลต์ปุ่มที่ถูกเลือก
             const activeBtn = document.getElementById(`tab-${cat}`);
-            if (activeBtn) activeBtn.className = "w-full text-left px-3 py-2.5 rounded-xl font-medium text-sm transition cursor-pointer bg-blue-600 text-white shadow-xs";
+            if (activeBtn) {
+                if (cat === 'BOOKMARKS') {
+                    activeBtn.className = "w-full text-left px-3 py-2.5 rounded-xl font-medium text-sm transition cursor-pointer bg-amber-500 text-white shadow-xs flex items-center justify-between";
+                } else {
+                    activeBtn.className = "w-full text-left px-3 py-2.5 rounded-xl font-medium text-sm transition cursor-pointer bg-blue-600 text-white shadow-xs";
+                }
+            }
+
             filterAndDisplay();
         }
 
