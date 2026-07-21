@@ -9,19 +9,53 @@
     <script src="https://cdn.jsdelivr.net/npm/fuse.js@7.0.0/dist/fuse.basic.min.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
 
-    <!-- 🎨 [เพิ่มใหม่] จัดสไตล์ให้เนื้อหาคู่มือด้านในมีสีสันและกดคลิกได้ชัดเจนขึ้น -->
+    <!-- 🎨 จัดสไตล์เนื้อหาคู่มือด้านใน และป้องกันข้อความ/ลิงก์/ตาราง ล้นกล่อง Modal -->
     <style>
-        #modalBody h1 { font-size: 1.5rem; font-weight: 700; margin-top: 1rem; margin-bottom: 0.5rem; color: #0f172a; }
-        #modalBody h2 { font-size: 1.25rem; font-weight: 700; margin-top: 1rem; margin-bottom: 0.5rem; color: #1e293b; }
-        #modalBody p { margin-bottom: 0.75rem; color: #334155; }
-        /* ตกแต่งลิงก์ด้านในคู่มือให้เป็นสีน้ำเงิน ขีดเส้นใต้ และเปลี่ยนรูปเมาส์ */
-        #modalBody a { color: #2563eb; text-decoration: underline; font-weight: 500; transition: color 0.2s; }
+        #modalBody {
+            overflow-wrap: anywhere;   /* ตัดคำยาวหรือข้อความที่ไม่มีเว้นวรรคให้ลงบรรทัดใหม่ทันที */
+            word-break: break-word;
+        }
+        #modalBody h1 { font-size: 1.5rem; font-weight: 700; margin-top: 1rem; margin-bottom: 0.5rem; color: #0f172a; line-height: 1.4; }
+        #modalBody h2 { font-size: 1.25rem; font-weight: 700; margin-top: 1rem; margin-bottom: 0.5rem; color: #1e293b; line-height: 1.4; }
+        #modalBody p { margin-bottom: 0.75rem; color: #334155; line-height: 1.6; }
+        
+        /* ตัดลิงก์ URL ยาวๆ ไม่ให้ดันกล่องพัง */
+        #modalBody a { 
+            color: #2563eb; 
+            text-decoration: underline; 
+            font-weight: 500; 
+            word-break: break-all; 
+            transition: color 0.2s; 
+        }
         #modalBody a:hover { color: #1d4ed8; }
+
+        /* ควบคุมรูปภาพใน Modal ไม่ให้ขนาดใหญ่เกินป๊อปอัป */
+        #modalBody img {
+            max-width: 100% !important;
+            height: auto !important;
+            border-radius: 0.5rem;
+            margin: 1rem 0;
+        }
+
+        /* ตารางในหมวดกฎหมาย/คู่มือ ให้สไลด์แนวนอนได้หากความกว้างเกิน */
+        #modalBody table {
+            display: block;
+            width: 100%;
+            overflow-x: auto;
+            border-collapse: collapse;
+            margin: 1rem 0;
+        }
+        #modalBody th, #modalBody td {
+            border: 1px solid #e2e8f0;
+            padding: 0.5rem 0.75rem;
+            font-size: 0.875rem;
+        }
+
         #modalBody ul { list-style-type: disc; padding-left: 1.5rem; margin-bottom: 0.75rem; }
         #modalBody ol { list-style-type: decimal; padding-left: 1.5rem; margin-bottom: 0.75rem; }
         #modalBody li { margin-bottom: 0.25rem; }
-        #modalBody code { background-color: #f1f5f9; padding: 0.2rem 0.4rem; border-radius: 0.25rem; font-family: monospace; font-size: 0.875rem; color: #0f172a; }
-        #modalBody pre { background-color: #f1f5f9; padding: 1rem; border-radius: 0.5rem; overflow-x: auto; margin-bottom: 0.75rem; }
+        #modalBody code { background-color: #f1f5f9; padding: 0.2rem 0.4rem; border-radius: 0.25rem; font-family: monospace; font-size: 0.875rem; color: #0f172a; word-break: break-all; }
+        #modalBody pre { background-color: #f1f5f9; padding: 1rem; border-radius: 0.5rem; overflow-x: auto; margin-bottom: 0.75rem; max-width: 100%; }
         #modalBody pre code { background-color: transparent; padding: 0; }
     </style>
 </head>
@@ -97,15 +131,15 @@
         <div class="bg-white rounded-2xl max-w-3xl w-full max-h-[85vh] flex flex-col shadow-2xl border border-slate-100 overflow-hidden transform scale-100 transition-transform">
             <!-- ส่วนหัว Modal -->
             <div class="p-6 border-b border-slate-100 flex justify-between items-start bg-slate-50/70">
-                <div>
+                <div class="pr-4">
                     <span id="modalCategory" class="bg-blue-100 text-blue-700 text-xs font-semibold px-2.5 py-1 rounded-md mb-2 inline-block"></span>
-                    <h2 id="modalTitle" class="text-xl md:text-2xl font-bold text-slate-900 leading-snug"></h2>
+                    <h2 id="modalTitle" class="text-xl md:text-2xl font-bold text-slate-900 leading-snug break-words"></h2>
                     <p id="modalMeta" class="text-xs text-slate-400 mt-1.5"></p>
                 </div>
-                <button onclick="closeModal()" class="text-slate-400 hover:text-slate-600 hover:bg-slate-200/60 p-2.5 rounded-xl transition cursor-pointer text-2xl font-bold leading-none select-none">&times;</button>
+                <button onclick="closeModal()" class="text-slate-400 hover:text-slate-600 hover:bg-slate-200/60 p-2.5 rounded-xl transition cursor-pointer text-2xl font-bold leading-none select-none shrink-0">&times;</button>
             </div>
-            <!-- ส่วนเนื้อหาตัวเต็ม (เอา whitespace-pre-wrap ออกเพื่อให้ตัวแปลง HTML ทำงานได้สมบูรณ์) -->
-            <div id="modalBody" class="p-6 overflow-y-auto flex-1 text-slate-700 leading-relaxed text-base break-words">
+            <!-- ส่วนเนื้อหาตัวเต็ม -->
+            <div id="modalBody" class="p-6 overflow-y-auto flex-1 text-slate-700 leading-relaxed text-base">
                 <!-- ข้อมูลจะถูกหย่อนลงตรงนี้ผ่าน JS -->
             </div>
             <!-- ส่วนท้าย Modal -->
@@ -209,16 +243,16 @@
                             <img src="${imageUrl}" class="w-full h-full object-cover" alt="thumbnail" loading="lazy" onerror="this.src='https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=500&auto=format&fit=crop&q=60'">
                         </div>
 
-                        <div class="flex flex-col justify-between flex-1">
+                        <div class="flex flex-col justify-between flex-1 min-w-0">
                             <div>
                                 <div class="flex items-center gap-2 mb-1.5 text-xs">
                                     <span class="bg-slate-100 text-slate-700 px-2 py-0.5 rounded-md font-medium">📍 ${item.source}</span>
                                     <span class="text-slate-400">${dateStr}</span>
                                 </div>
-                                <h3 class="text-lg font-bold text-slate-900 mb-1 leading-snug">
+                                <h3 class="text-lg font-bold text-slate-900 mb-1 leading-snug break-words">
                                     ${titleLinkHtml}
                                 </h3>
-                                <p class="text-slate-600 text-sm leading-relaxed line-clamp-2">${item.content.replace(/<[^>]*>/g, '').trim()}</p>
+                                <p class="text-slate-600 text-sm leading-relaxed line-clamp-2 break-words">${item.content.replace(/<[^>]*>/g, '').trim()}</p>
                             </div>
                         </div>
 
@@ -227,7 +261,6 @@
             }).join('');
         }
 
-        // 🛠️ [จุดแก้ไขหลัก] เปลี่ยนจากการหยอดข้อความดิบ มาใช้ marked.parse แปลง Markdown เป็น HTML
         function openArticle(articleId) {
             const article = allData.find(item => item.id === articleId);
             if (article) {
@@ -237,10 +270,10 @@
                 document.getElementById('modalTitle').innerText = article.title;
                 document.getElementById('modalMeta').innerText = `📍 แหล่งที่มา: ${article.source} | อัปเดตเมื่อ: ${dateStr}`;
                 
-                // 🚀 แปลง Markdown ในไฟล์ .md เป็นโครงสร้างเว็บที่สมบูรณ์
+                // แปลง Markdown เป็น HTML
                 document.getElementById('modalBody').innerHTML = marked.parse(article.content);
                 
-                // 🔗 บังคับเพิ่มคุณสมบัติให้ทุกลิงก์ที่อยู่ในเนื้อหาป๊อปอัปให้เปิดหน้าใหม่ (New Tab) เสมอ
+                // บังคับเพิ่มคุณสมบัติให้ทุกลิงก์ที่อยู่ในเนื้อหาป๊อปอัปเปิดแท็บใหม่เสมอ
                 const innerLinks = document.querySelectorAll('#modalBody a');
                 innerLinks.forEach(link => {
                     link.setAttribute('target', '_blank');
