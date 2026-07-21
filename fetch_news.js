@@ -166,7 +166,8 @@ async function main() {
                     pubDate: item.pubDate || item.isoDate,
                     source: feedConfig.sourceName, 
                     category: finalCategory,
-                    thumbnail: findImage(item)
+                    thumbnail: findImage(item),
+                    readTime: calculateReadTime(contentText)
                 });
                 addedCount++;
             });
@@ -184,6 +185,14 @@ async function main() {
     console.log(`🎉 สรุปคลังความรู้ใหม่เสร็จสิ้นทั้งหมด ${allArticles.length} รายการ`);
 
     process.exit(0);
+}
+
+// ⏱️ ฟังก์ชันคำนวณเวลาอ่าน (ประมาณ 400 อักขระภาษาไทย / 1 นาที)
+function calculateReadTime(text) {
+    if (!text) return '1 นาที';
+    const cleanText = text.replace(/<[^>]*>?/gm, '').trim(); // ลบ HTML tags ออกก่อนนับ
+    const minutes = Math.ceil(cleanText.length / 400);
+    return `${Math.max(1, minutes)} นาที`;
 }
 
 main();
