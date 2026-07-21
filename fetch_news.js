@@ -2,18 +2,18 @@ const Parser = require('rss-parser');
 const fs = require('fs');
 const path = require('path');
 
-// 🚨 [เพิ่มเพิ่มความปลอดภัย] ระบบป้องกันบอทค้างแบบสากล (Global Safeguard Timeout)
-// ถ้าสคริปต์รันรวมกันทั้งหมดเกิน 60 วินาที ให้ปิดตัวเองทันที ข้อมูลหน้าเว็บจะได้ไม่ค้าง
+// 🚨 ระบบป้องกันบอทค้างแบบสากล (Global Safeguard Timeout)
 setTimeout(() => {
     console.error('⚠️ สคริปต์ทำงานนานเกินไป ระบบสั่งปิดอัตโนมัติเพื่อป้องกันบอทค้าง');
     process.exit(0); 
 }, 60000);
 
-// ปรับค่า Timeout ให้กระชับขึ้นเป็น 8 วินาที หากเว็บไหนไม่ตอบรับให้ตัดจบทันที บอทจะไม่ค้าง
+// ตั้งค่า Parser พร้อม Header ป้องกันการโดนบล็อก
 const parser = new Parser({
     timeout: 8000, 
     headers: {
-        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36'
+        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36',
+        'Accept': 'application/rss+xml, application/xml, text/xml, */*'
     },
     customFields: {
         item: [
@@ -25,15 +25,32 @@ const parser = new Parser({
     }
 });
 
-// คัดเหลือเฉพาะแหล่งข่าวเสรีที่เปิดให้ดึงข้อมูลได้ 100% ไม่ติดบล็อก Firewall
+// รายชื่อแหล่งข่าว RSS
 const FEEDS = [
     { url: 'https://www.blognone.com/atom.xml', category: 'General', sourceName: 'Blognone' },
     { url: 'https://www.beartai.com/feed', category: 'General', sourceName: 'Beartai' },
     { url: 'https://www.techtalkthai.com/category/security/feed/', category: 'Security', sourceName: 'TechTalk Thai' },
-    { url: 'https://techsauce.co/feed', category: 'General', sourceName: 'Techsauce' },
+    { url: 'https://www.enterpriseitpro.net/category/security/feed/', category: 'Security', sourceName: 'enterpriseitpro' },  
     { url: 'https://www.techtalkthai.com/feed/', category: 'General', sourceName: 'TechTalk Thai' },
-    { url: 'https://it24hrs.com/category/it-news/feed/', category: 'General', sourceName: 'TechTalk Thai' }
+    { url: 'https://techsauce.co/feed', category: 'General', sourceName: 'Techsauce' },
+    { url: 'https://it24hrs.com/category/it-news/feed/', category: 'General', sourceName: 'IT24Hrs' }
 ];
+
+// 🛡️ คำค้นหาสำหรับคัดแยกข่าว Cyber Security จากฟีดทั่วไปให้อัตโนมัติ
+const SECURITY_KEYWORDS = [
+    'security', 'cyber', 'ไซเบอร์', 'แฮก', 'hack', 'malware', 'มัลแวร์', 
+    'ช่องโหว่', 'phishing', 'ฟิชชิ่ง', 'ransomware', 'แรนซัมแวร์', 
+    'ความปลอดภัย', 'cve-', 'cisa', 'pdpa', 'vulnerability', 'ddos', 'ภัยคุกคาม'
+];
+
+function detectCategory(title, content, defaultCategory) {
+    if (defaultCategory === 'Security') return 'Security';
+    
+    const textToTest = `${title || ''} ${content || ''}`.toLowerCase();
+    const isSecurity = SECURITY_KEYWORDS.some(keyword => textToTest.includes(keyword.toLowerCase()));
+    
+    return isSecurity ? 'Security' : defaultCategory;
+}
 
 function findImage(item) {
     if (item.mediaContent && item.mediaContent.length > 0) {
@@ -63,14 +80,11 @@ function readLocalKnowledge() {
         if (path.extname(file) === '.md') {
             const filePath = path.join(knowledgeDir, file);
             
-            // 1. อ่านไฟล์และกำจัดอักขระล่องหน (BOM) ที่มักแฝงมากับไฟล์ Text 
             const contentRaw = fs.readFileSync(filePath, 'utf-8');
             const content = contentRaw.replace(/^\uFEFF/, '').trim(); 
             
-            // 2. ใช้ Regex ที่ยืดหยุ่นขึ้น (เอา ^ ออก เพื่อไม่บังคับว่าต้องติดบรรทัดแรกสุดเผื่อมีเคาะว่าง)
             const match = content.match(/---\r?\n([\s\S]*?)\r?\n---\r?\n([\s\S]*)/);
             
-            // ค่าเริ่มต้น (หากไฟล์ไหนไม่มีหัวไฟล์ จะถูกจัดลงหมวดนี้)
             let title = file.replace('.md', '');
             let category = 'Internal'; 
             let source = 'คู่มือภายใน';
@@ -78,19 +92,17 @@ function readLocalKnowledge() {
             let actualContent = content;
 
             if (match) {
-                // 3. ใช้การสับบรรทัดแบบรองรับทั้ง Windows (\r\n) และ Mac/Linux (\n)
                 const yamlLines = match[1].split(/\r?\n/);
                 actualContent = match[2].trim();
                 
                 yamlLines.forEach(line => {
-                    // 4. แยก Key และ Value แบบปลอดภัย (ใช้ indexOf ป้องกันปัญหาเครื่องหมาย : ซ้อนใน URL รูปภาพ)
                     const splitIndex = line.indexOf(':');
                     if (splitIndex > -1) {
-                        const key = line.slice(0, splitIndex).trim().toLowerCase(); // แปลงคีย์เป็นพิมพ์เล็กเสมอ
-                        const value = line.slice(splitIndex + 1).trim(); // ตัดช่องว่างหัวท้ายของค่า
+                        const key = line.slice(0, splitIndex).trim().toLowerCase();
+                        const value = line.slice(splitIndex + 1).trim();
                         
                         if (key === 'title') title = value;
-                        if (key === 'category') category = value; // จะดึงคำว่า "Law" มาได้แน่นอน
+                        if (key === 'category') category = value;
                         if (key === 'source') source = value;
                         if (key === 'thumbnail') thumbnail = value;
                     }
@@ -122,14 +134,18 @@ async function main() {
             const feed = await parser.parseURL(feedConfig.url);
             
             feed.items.forEach(item => {
+                const contentText = item.contentSnippet || item.content || "";
+                // ตรวจจับหมวดหมู่ Security อัตโนมัติจากเนื้อหาข่าว
+                const finalCategory = detectCategory(item.title, contentText, feedConfig.category);
+
                 allArticles.push({
                     id: item.guid || item.id || Math.random().toString(36).substr(2, 9),
                     title: item.title,
                     link: item.link,
-                    content: item.contentSnippet || item.content || "",
+                    content: contentText,
                     pubDate: item.pubDate || item.isoDate,
                     source: feedConfig.sourceName, 
-                    category: feedConfig.category,
+                    category: finalCategory,
                     thumbnail: findImage(item)
                 });
             });
@@ -146,7 +162,6 @@ async function main() {
     fs.writeFileSync('data.json', JSON.stringify(allArticles, null, 2), 'utf-8');
     console.log(`🎉 สรุปคลังความรู้ใหม่เสร็จสิ้นทั้งหมด ${allArticles.length} รายการ`);
 
-    // 🚀 [จุดสำคัญที่สุด] สั่งปิดโปรเซสทันที เพื่อบังคับล้างท่อเชื่อมต่อที่ค้างอยู่ใน Event Loop ทั้งหมด
     process.exit(0);
 }
 
