@@ -175,24 +175,42 @@
             }
         }
 
-        function filterAndDisplay() {
-            const searchQuery = document.getElementById('searchInput').value.trim();
+function filterAndDisplay() {
+    const searchQuery = document.getElementById('searchInput').value.trim();
+    
+    if (currentCategory === 'ALL') {
+        currentFilteredData = allData;
+    } else {
+        currentFilteredData = allData.filter(item => {
+            if (!item.category) return false;
             
-            if (currentCategory === 'ALL') {
-                currentFilteredData = allData;
-            } else {
-                currentFilteredData = allData.filter(item => item.category === currentCategory);
+            const itemCat = item.category.toString().trim().toLowerCase();
+            const selectedCat = currentCategory.trim().toLowerCase();
+
+            // 🛡️ ปรับให้ยืดหยุ่นสำหรับ Cyber Security (ครอบคลุมทั้ง Security, Cyber, ไซเบอร์)
+            if (selectedCat === 'security') {
+                return itemCat.includes('security') || itemCat.includes('cyber') || itemCat.includes('ไซเบอร์');
             }
 
-            if (searchQuery) {
-                const options = { keys: ['title', 'content', 'source'], threshold: 0.4 };
-                const localFuse = new Fuse(currentFilteredData, options);
-                const results = localFuse.search(searchQuery);
-                displayNews(results.map(r => r.item));
-            } else {
-                displayNews(currentFilteredData);
-            }
-        }
+            // 📋 ปรับความยืดหยุ่นสำหรับหมวดหมู่อื่นๆ
+            if (selectedCat === 'internal') return itemCat.includes('internal') || itemCat.includes('ภายใน');
+            if (selectedCat === 'general') return itemCat.includes('general') || itemCat.includes('ทั่วไป');
+            if (selectedCat === 'law') return itemCat.includes('law') || itemCat.includes('กฎหมาย');
+            if (selectedCat === 'info') return itemCat.includes('info') || itemCat.includes('สรุป');
+
+            return itemCat === selectedCat || itemCat.includes(selectedCat);
+        });
+    }
+
+    if (searchQuery) {
+        const options = { keys: ['title', 'content', 'source', 'category'], threshold: 0.4 };
+        const localFuse = new Fuse(currentFilteredData, options);
+        const results = localFuse.search(searchQuery);
+        displayNews(results.map(r => r.item));
+    } else {
+        displayNews(currentFilteredData);
+    }
+}
 
         function displayNews(articles) {
             const container = document.getElementById('newsContainer');
