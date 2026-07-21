@@ -2,18 +2,22 @@ const Parser = require('rss-parser');
 const fs = require('fs');
 const path = require('path');
 
-// 🚨 ระบบป้องกันบอทค้างแบบสากล (Global Safeguard Timeout)
+// 🚨 [ระบบป้องกันบอทค้าง] Global Safeguard Timeout (60 วินาที)
 setTimeout(() => {
     console.error('⚠️ สคริปต์ทำงานนานเกินไป ระบบสั่งปิดอัตโนมัติเพื่อป้องกันบอทค้าง');
     process.exit(0); 
 }, 60000);
 
-// ตั้งค่า Parser พร้อม Header ป้องกันการโดนบล็อก
+// ตั้งค่า Parser พร้อม Header แบบเต็มรูปแบบเพื่อป้องกัน Firewall / Cloudflare บล็อก
 const parser = new Parser({
-    timeout: 8000, 
+    timeout: 10000, 
     headers: {
-        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36',
-        'Accept': 'application/rss+xml, application/xml, text/xml, */*'
+        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36',
+        'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8',
+        'Accept-Language': 'th-TH,th;q=0.9,en-US;q=0.8,en;q=0.7',
+        'Cache-Control': 'no-cache',
+        'Pragma': 'no-cache',
+        'Referer': 'https://www.google.com/'
     },
     customFields: {
         item: [
@@ -30,14 +34,13 @@ const FEEDS = [
     { url: 'https://www.blognone.com/atom.xml', category: 'General', sourceName: 'Blognone' },
     { url: 'https://www.beartai.com/feed', category: 'General', sourceName: 'Beartai' },
     { url: 'https://www.techtalkthai.com/category/security/feed/', category: 'Security', sourceName: 'TechTalk Thai' },
-    { url: 'https://www.enterpriseitpro.net/category/security/feed/', category: 'Security', sourceName: 'enterpriseitpro' },  
-    { url: 'https://www.thaicert.or.th/cyber-threat-news-th/feed/', category: 'Security', sourceName: 'thaicert' },      
+    { url: 'https://www.enterpriseitpro.net/category/security/feed/', category: 'Security', sourceName: 'Enterprise IT Pro' },  
+    { url: 'https://www.thaicert.or.th/cyber-threat-news-th/feed/', category: 'Security', sourceName: 'ThaiCERT' },      
     { url: 'https://www.techtalkthai.com/feed/', category: 'General', sourceName: 'TechTalk Thai' },
     { url: 'https://techsauce.co/feed', category: 'General', sourceName: 'Techsauce' },
     { url: 'https://it24hrs.com/category/it-news/feed/', category: 'General', sourceName: 'IT24Hrs' }
 ];
 
-// 🛡️ คำค้นหาสำหรับคัดแยกข่าว Cyber Security จากฟีดทั่วไปให้อัตโนมัติ
 // 🤖 คำค้นหาสำหรับคัดแยกข่าว AI อัตโนมัติ
 const AI_KEYWORDS = [
     'artificial intelligence', 'chatgpt', 'openai', 'gemini', 'claude', 
@@ -45,26 +48,23 @@ const AI_KEYWORDS = [
     'generative ai', 'prompt', 'midjourney', 'sora', 'nvda', 'nvidia'
 ];
 
-// 🛡️ คำค้นหาสำหรับคัดแยกข่าว Cyber Security
+// 🛡️ คำค้นหาสำหรับคัดแยกข่าว Cyber Security อัตโนมัติ
 const SECURITY_KEYWORDS = [
     'security', 'cyber', 'ไซเบอร์', 'แฮก', 'hack', 'malware', 'มัลแวร์', 
     'ช่องโหว่', 'phishing', 'ฟิชชิ่ง', 'ransomware', 'แรนซัมแวร์', 
-    'ความปลอดภัย', 'cve-', 'cisa', 'pdpa', 'vulnerability', 'ddos', 'ภัยคุกคาม'
+    'ความปลอดภัย', 'cve-', 'cisa', 'pdpa', 'vulnerability', 'ddos', 'ภัยคุกคาม', 'zero-day'
 ];
 
 function detectCategory(title, content, defaultCategory) {
-    if (defaultCategory === 'Security') return 'Security';
-    if (defaultCategory === 'AI') return 'AI';
-    
     const textToTest = `${title || ''} ${content || ''}`.toLowerCase();
     
-    // 🤖 ตรวจจับข่าว AI (ใช้ Regex \bai\b ป้องกันคำว่า email หรือ detail ติดมา)
+    // 1. ตรวจจับข่าว AI
     const isAI = AI_KEYWORDS.some(k => textToTest.includes(k)) || /\bai\b/i.test(textToTest);
     if (isAI) return 'AI';
 
-    // 🛡️ ตรวจจับข่าว Security
+    // 2. ตรวจจับข่าว Security
     const isSecurity = SECURITY_KEYWORDS.some(k => textToTest.includes(k));
-    if (isSecurity) return 'Security';
+    if (isSecurity || defaultCategory === 'Security') return 'Security';
     
     return defaultCategory;
 }
@@ -144,15 +144,20 @@ function readLocalKnowledge() {
 
 async function main() {
     let allArticles = [];
+    const seenUrls = new Set(); // ตารางบันทึก URL ป้องกันข่าวซ้ำ
 
     for (const feedConfig of FEEDS) {
         try {
             console.log(`กำลังดึงข้อมูลจาก: ${feedConfig.sourceName}`);
             const feed = await parser.parseURL(feedConfig.url);
             
+            let addedCount = 0;
             feed.items.forEach(item => {
+                // ข้ามถ้าเป็นข่าวที่ดึงมาแล้ว
+                if (item.link && seenUrls.has(item.link)) return;
+                if (item.link) seenUrls.add(item.link);
+
                 const contentText = item.contentSnippet || item.content || "";
-                // ตรวจจับหมวดหมู่ Security อัตโนมัติจากเนื้อหาข่าว
                 const finalCategory = detectCategory(item.title, contentText, feedConfig.category);
 
                 allArticles.push({
@@ -165,10 +170,11 @@ async function main() {
                     category: finalCategory,
                     thumbnail: findImage(item)
                 });
+                addedCount++;
             });
-            console.log(`✅ ดึงสำเร็จจาก: ${feedConfig.sourceName}`);
+            console.log(`✅ ดึงสำเร็จจาก: ${feedConfig.sourceName} (เพิ่ม ${addedCount} ข่าว)`);
         } catch (error) {
-            console.error(`❌ ข้ามแหล่งข้อมูล ${feedConfig.sourceName} เนื่องจาก:`, error.message);
+            console.error(`❌ ข้ามแหล่งข้อมูล ${feedConfig.sourceName} (${feedConfig.url}) เนื่องจาก:`, error.message);
         }
     }
 
