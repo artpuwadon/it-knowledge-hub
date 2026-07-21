@@ -38,6 +38,14 @@ const FEEDS = [
 ];
 
 // 🛡️ คำค้นหาสำหรับคัดแยกข่าว Cyber Security จากฟีดทั่วไปให้อัตโนมัติ
+// 🤖 คำค้นหาสำหรับคัดแยกข่าว AI อัตโนมัติ
+const AI_KEYWORDS = [
+    'artificial intelligence', 'chatgpt', 'openai', 'gemini', 'claude', 
+    'llm', 'deepseek', 'copilot', 'เอไอ', 'ปัญญาประดิษฐ์', 'machine learning', 
+    'generative ai', 'prompt', 'midjourney', 'sora', 'nvda', 'nvidia'
+];
+
+// 🛡️ คำค้นหาสำหรับคัดแยกข่าว Cyber Security
 const SECURITY_KEYWORDS = [
     'security', 'cyber', 'ไซเบอร์', 'แฮก', 'hack', 'malware', 'มัลแวร์', 
     'ช่องโหว่', 'phishing', 'ฟิชชิ่ง', 'ransomware', 'แรนซัมแวร์', 
@@ -46,11 +54,19 @@ const SECURITY_KEYWORDS = [
 
 function detectCategory(title, content, defaultCategory) {
     if (defaultCategory === 'Security') return 'Security';
+    if (defaultCategory === 'AI') return 'AI';
     
     const textToTest = `${title || ''} ${content || ''}`.toLowerCase();
-    const isSecurity = SECURITY_KEYWORDS.some(keyword => textToTest.includes(keyword.toLowerCase()));
     
-    return isSecurity ? 'Security' : defaultCategory;
+    // 🤖 ตรวจจับข่าว AI (ใช้ Regex \bai\b ป้องกันคำว่า email หรือ detail ติดมา)
+    const isAI = AI_KEYWORDS.some(k => textToTest.includes(k)) || /\bai\b/i.test(textToTest);
+    if (isAI) return 'AI';
+
+    // 🛡️ ตรวจจับข่าว Security
+    const isSecurity = SECURITY_KEYWORDS.some(k => textToTest.includes(k));
+    if (isSecurity) return 'Security';
+    
+    return defaultCategory;
 }
 
 function findImage(item) {
