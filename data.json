@@ -1,23 +1,188 @@
 [
   {
+    "id": "local-cybersecurity-101.md",
+    "title": "แนวทางปฏิบัติการตั้งรหัสผ่านให้ปลอดภัยสำหรับบุคลากร",
+    "link": "https://github.com/",
+    "content": "1. รหัสผ่านต้องมีความยาวอย่างน้อย 8 ตัวอักษร\n2. ประกอบด้วยอักษรตัวพิมพ์ใหญ่ ตัวพิมพ์เล็ก ตัวเลข และสัญลักษณ์พิเศษ\n3. ห้ามใช้ข้อมูลส่วนตัว เช่น วันเกิด หรือเบอร์โทรศัพท์\n4. เปลี่ยนรหัสผ่านใหม่ทุกๆ 3-6 เดือนเพื่อความปลอดภัย",
+    "pubDate": "2026-08-14T23:23:31.447Z",
+    "source": "คู่มือภายในองค์กร",
+    "category": "Internal",
+    "thumbnail": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=500&auto=format&fit=crop&q=60"
+  },
+  {
     "id": "local-law-hub.md",
     "title": "คลังกฎหมายและระเบียบที่เกี่ยวข้องกับการปฏิบัติราชการ",
     "link": "https://github.com/",
     "content": "### ⚖️ ศูนย์รวมลิงก์กฎหมายฉบับเต็มและแนวทางปฏิบัติงาน\n\nเพื่อความสะดวกและถูกต้องในการอ้างอิงข้อกฎหมายของเจ้าหน้าที่ในการปฏิบัติราชการ ศูนย์ไอทีได้รวบรวมลิงก์ตรงไปยังระบบสืบค้นกฎหมายของสำนักงานคณะกรรมการกฤษฎีกา และไฟล์ PDF ฉบับราชกิจจานุเบกษาไว้ในจุดเดียว ดังนี้ครับ:\n\n---\n\n### 🛒 1. หมวดการบริหารงานพัสดุและการจัดซื้อจัดจ้าง\n*   **พ.ร.บ. การจัดซื้อจัดจ้างและการบริหารพัสดุภาครัฐ พ.ศ. 2560**\n    *   🔗 [อ่านกฎหมายฉบับเต็ม (เว็บกฤษฎีกา)](https://www.ocs.go.th/)\n    *   📄 [ดาวน์โหลดไฟล์ PDF ฉบับประกาศราชกิจจานุเบกษา](https://www.gprocurement.go.th/wps/portal/egp/Regulation/!ut/p/z1/04_Sj9CPykssy0xPLMnMz0vMAfIjo8zifQ3djQydnQ18_T3dzA0czU0NfANMLQ1MPIz1w8EKDHAARwP9KGL041EQhd_4cP0oNCvCjM2AJgT4OvsHehgYOBtCFeAxoyA3NMIg01ERAHhSDzY!/dz/d5/L0lDUmlTUSEhL3dHa0FKRnNBLzROV3FpQSEhL3Ro/)\n*   **ระเบียบกระทรวงการคลังว่าด้วยการจัดซื้อจัดจ้างและการบริหารพัสดุภาครัฐ พ.ศ. 2560**\n    *   🔗 [อ่านระเบียบฉบับเต็มและกฎกระทรวงที่เกี่ยวข้อง](https://www.gprocurement.go.th/wps/portal/egp/Regulation/Ministry_of_Finance_Regularity/)\n\n---\n\n### 🏢 2. หมวดการปฏิบัติราชการและวิธีพิจารณาทางปกครอง\n*   **พ.ร.บ. วิธีปฏิบัติราชการทางปกครอง พ.ศ. 2539 (และฉบับแก้ไขเพิ่มเติม)**\n    *   🔗 [อ่านกฎหมายฉบับเต็ม (เว็บกฤษฎีกา)](https://www.ocs.go.th/)\n*   **พ.ร.บ. ความรับผิดทางละเมิดของเจ้าหน้าที่ พ.ศ. 2539**\n    *   🔗 [อ่านกฎหมายฉบับเต็ม (เว็บกฤษฎีกา)](https://www.ocs.go.th/)\n*   **พ.ร.บ. การปฏิบัติราชการทางอิเล็กทรอนิกส์ พ.ศ. 2565** *(สำคัญมากสำหรับงานไอทีและบริการประชาชน)*\n    *   🔗 [อ่านกฎหมายฉบับเต็ม (เว็บกฤษฎีกา)](https://www.ocs.go.th/)\n\n---\n\n### 🛡️ 3. หมวดคุ้มครองข้อมูลและความมั่นคงปลอดภัยไซเบอร์\n*   **พ.ร.บ. คุ้มครองข้อมูลส่วนบุคคล พ.ศ. 2562 (PDPA)**\n    *   🔗 [สืบค้นกฎหมายและแนวทางปฏิบัติจาก สคส.](https://www.pdpc.or.th)\n*   **พ.ร.บ. การรักษาความมั่นคงปลอดภัยไซเบอร์ พ.ศ. 2562**\n    *   🔗 [สืบค้นกฎหมายและประกาศจาก สกมช. (NCSA)](https://www.ncsa.or.th/standards/laws)\n*   **พ.ร.บ. ว่าด้วยการกระทำความผิดเกี่ยวกับคอมพิวเตอร์ (ฉบับที่ 2) พ.ศ. 2560**\n    *   🔗 [อ่านกฎหมายฉบับเต็ม (เว็บกฤษฎีกา)](https://www.ocs.go.th/)\n\n---\n\n### 💡 แนะนำการใช้งานสำหรับเจ้าหน้าที่\n> หากต้องการสืบค้นกฎหมายอื่น ๆ เพิ่มเติม นอกเหนือจากรายการข้างต้น สามารถเข้าใช้งานระบบกฎหมายดิจิทัลโดยตรงได้ที่ **[ระบบสืบค้นกฎหมาย สำนักงานคณะกรรมการกฤษฎีกา](https://www.ocs.go.th/)** เพื่อข้อมูลที่อัปเดตและเป็นปัจจุบันที่สุด",
-    "pubDate": "2026-08-13T23:43:04.007Z",
+    "pubDate": "2026-08-14T23:23:31.447Z",
     "source": "ศูนย์รวมกฎหมายภาครัฐ",
     "category": "Law",
     "thumbnail": "https://images.unsplash.com/photo-1589829545856-d10d557cf95f?w=500"
   },
   {
-    "id": "local-cybersecurity-101.md",
-    "title": "แนวทางปฏิบัติการตั้งรหัสผ่านให้ปลอดภัยสำหรับบุคลากร",
-    "link": "https://github.com/",
-    "content": "1. รหัสผ่านต้องมีความยาวอย่างน้อย 8 ตัวอักษร\n2. ประกอบด้วยอักษรตัวพิมพ์ใหญ่ ตัวพิมพ์เล็ก ตัวเลข และสัญลักษณ์พิเศษ\n3. ห้ามใช้ข้อมูลส่วนตัว เช่น วันเกิด หรือเบอร์โทรศัพท์\n4. เปลี่ยนรหัสผ่านใหม่ทุกๆ 3-6 เดือนเพื่อความปลอดภัย",
-    "pubDate": "2026-08-13T23:43:04.006Z",
-    "source": "คู่มือภายในองค์กร",
-    "category": "Internal",
-    "thumbnail": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=500&auto=format&fit=crop&q=60"
+    "id": "https://techsauce.co/news/apple-mercenary-spyware-threat-notification",
+    "title": "Apple เด้งเตือนบนหน้าจอล็อกผู้ใช้ iPhone ใน 110 ประเทศ เมื่อระบบตรวจพบสปายแวร์รับจ้างเล็งเป้า รวมสะสมแล้วกว่า 150 ประเทศ ตั้งแต่ปี 2021",
+    "link": "https://techsauce.co/news/apple-mercenary-spyware-threat-notification",
+    "content": "Apple ส่งการแจ้งเตือนภัยคุกคามรอบใหม่ไปยังผู้ใช้ใน 110 ประเทศ เปลี่ยนจากอีเมลมาเป็นการเด้งเตือนบนหน้าจอล็อก iPhone พร้อมแนะนำให้เปิดโหมดล็อกดาวน์ ย้อนดูว่าการแจ้งเตือนแบบเดียวกันนี้เคยนำไปสู่การเปิดโปงคดีสอดแนมในโปแลนด์และไทยได้อย่างไร",
+    "pubDate": "Fri, 14 Aug 2026 23:04:46 +0700",
+    "source": "Techsauce",
+    "category": "Security",
+    "thumbnail": "https://storage.googleapis.com/techsauce-prod/ugc/uploads/2026/8/1786723185_apple_threat_800.webp",
+    "readTime": "1 นาที"
+  },
+  {
+    "id": "151373 at https://www.blognone.com",
+    "title": "กูเกิลเปิดตัว Pixel Tag ป้ายติดตามตัวแรกของแบรนด์กูเกิลเอง",
+    "link": "https://www.blognone.com/node/151373",
+    "content": "กูเกิลเปิดตัว Pixel Tag ป้ายติดตามตัวแรกของแบรนด์กูเกิลเอง\n\n  \nBody\nเก็บตกข่าวฮาร์ดแวร์ใหม่ของกูเกิล นอกจาก Pixel 11, Pixel 11 Pro Fold, Pixel Watch 5 ยังมี Google Pixel Tag ป้ายติดตามรุ่นแรกของแบรนด์กูเกิล ที่ใช้เครือข่าย Google Find Hub ช่วยกันตามหาตำแหน่งของป้าย\nGoogle Pixel Tag มีคุณสมบัติเหมือนป้ายติดตามยี่ห้ออื่นๆ คือ ขนาดเล็ก พกพาสะดวก วัสดุใช้สเตนเลสเพื่อความแข็งแรง, กันน้ำกันฝุ่น IP67, มีลำโพงในตัวส่งเสียงบอกตำแหน่งได้, มีปุ่มกดที่ตัวป้ายเพื่อให้มือถือเสียงดัง,  แบตเตอรี่ใช้ได้นาน 1 ปี และเปลี่ยนเองได้ง่าย, รองรับ Ultra-Wideband เพื่อบอกทิศทางตอนค้นหา\nGoogle Pixel Tag ใช้งานได้กับอุปกรณ์ Android 9 ขึ้นไป ราคาตัวละ 29 ดอลลาร์ มีแบบแพ็ค 4 อันราคา 99 ดอลลาร์ เริ่มวางขาย 11 พฤศจิกายน โน่นเลย\nที่มา - Google\nmk\nFri, 14/08/2026 - 19:58",
+    "pubDate": "Fri, 14 Aug 2026 12:58:19 +0000",
+    "source": "Blognone",
+    "category": "General",
+    "thumbnail": null,
+    "readTime": "2 นาที"
+  },
+  {
+    "id": "151372 at https://www.blognone.com",
+    "title": "Instagram เปลี่ยนโลโก้ตัวหนังสือแบบใหม่ บอกว่าคมชัด ทันสมัย โดยอิงรูปแบบเดิม",
+    "link": "https://www.blognone.com/node/151372",
+    "content": "Instagram เปลี่ยนโลโก้ตัวหนังสือแบบใหม่ บอกว่าคมชัด ทันสมัย โดยอิงรูปแบบเดิม\n\n  \nBody\nInstagram ประกาศรีแบรนด์อีกครั้ง โดยการเปลี่ยนแปลงสำคัญคือโลโก้ตัวหนังสือ (wordmark) ที่เปลี่ยนฟอนต์เป็นแบบใหม่ รวมทั้งภาพรวมอื่นในแบรนด์ที่ปรับปรุงให้สอดคล้องกับโลโก้ใหม่นี้ด้วย\nAdam Mosseri หัวหน้าทีม Instagram บอกว่าโลโก้คำว่า Instagram เดิมถูกใช้มานานกว่าสิบปีและดูเก่าไปแล้ว การปรับปรุงทำเพื่อให้เส้นคมชัด ทันสมัย โดยยังอิงกับโลโก้แบบเดิม คงความเรียบง่ายให้เป็น Instagram\nการเปลี่ยนแปลงย่อมมีคนชอบ ไม่ชอบ เฉย ๆ แต่อย่างไรก็ตามมีคนตั้งข้อสังเกตว่าอักษร r ในโลโก้ใหม่นี้ดูตั้งใจให้คล้าย z ไม่รู้ว่าเพื่อบอกว่าเป็นแอปสำหรับเจนซีหรือไม่\nที่มา: Social Media Today\narjin\nFri, 14/08/2026 - 19:00",
+    "pubDate": "Fri, 14 Aug 2026 12:00:41 +0000",
+    "source": "Blognone",
+    "category": "General",
+    "thumbnail": null,
+    "readTime": "2 นาที"
+  },
+  {
+    "id": "151371 at https://www.blognone.com",
+    "title": "ChatGPT บน macOS เพิ่มฟีเจอร์ Computer History จดจำทุกกิจกรรมบนคอมพิวเตอร์ เพื่อให้ย้อนถามอดีตได้",
+    "link": "https://www.blognone.com/node/151371",
+    "content": "ChatGPT บน macOS เพิ่มฟีเจอร์ Computer History จดจำทุกกิจกรรมบนคอมพิวเตอร์ เพื่อให้ย้อนถามอดีตได้\n\n  \nBody\nแอป ChatGPT บน macOS เพิ่มฟีเจอร์ใหม่ชื่อ Computer History โดย OpenAI อธิบายว่าทำให้ ChatGPT สามารถจดจำกิจกรรมที่อยู่บนเครื่องทั้งการคลิก พิมพ์ เปิดปิดแอป เพื่อทำให้ ChatGPT รู้กิจกรรมที่เกิดขึ้นบนคอมพิวเตอร์ไว้ตอบคำถามเกี่ยวกับประวัติการทำงาน เช่น เมื่อวานนี้พยายาม debug อะไรอยู่ เป็นต้น ฟีเจอร์นี้มาแทนที่ส่วนขยาย Chronicle ที่อยู่ในสถานะงานวิจัยของ ChatGPT ก่อนหน้านี้\nอ่านถึงตรงนี้ก็อย่าเพิ่งตกใจไป เพราะฟีเจอร์ Computer History ถูกปิดไว้เป็นค่าเริ่มต้น การเปิดให้เข้าถึงจะต้องระบุแอป เว็บไซต์ ใดได้บ้าง ไม่ใช่ทั้งหมด OpenAI อธิบายเพิ่มเติมด้วยว่าการทำงานจะใช้วิธีจดจำกิจกรรมที่เกิดขึ้น ไม่มีการบันทึกหน้าจอหรือเสียงไว้\nComputer History รองรับการใช้งานทั้งในแอป ChatGPT และ Codex สำหรับลูกค้า ChatGPT Pro, Business และ Enterprise เท่านั้น เฉพาะลูกค้า Business และ Enterprise จะไม่สามารถเปิดฟีเจอร์นี้ได้เอง ต้องให้ผู้ดูแลระบบองค์กรอนุญาตด้วย ฟีเจอร์ที่ดีขนาดนี้ย่อมเปิดใช้งานทั่วโลกยกเว้นประเทศในทวีปยุโรป\nที่มา: OpenAI\narjin\nFri, 14/08/2026 - 18:52",
+    "pubDate": "Fri, 14 Aug 2026 11:52:59 +0000",
+    "source": "Blognone",
+    "category": "AI",
+    "thumbnail": null,
+    "readTime": "3 นาที"
+  },
+  {
+    "id": "151370 at https://www.blognone.com",
+    "title": "GLM-5.3 มาแล้ว เพิ่มความสามารถเขียนโค้ดที่เก่งขึ้น รวมทั้งความสามารถความปลอดภัยไซเบอร์",
+    "link": "https://www.blognone.com/node/151370",
+    "content": "GLM-5.3 มาแล้ว เพิ่มความสามารถเขียนโค้ดที่เก่งขึ้น รวมทั้งความสามารถความปลอดภัยไซเบอร์\n\n  \nBody\nZ.ai ออกโมเดลปัญญาประดิษฐ์แบบโอเพนซอร์สเวอร์ชันใหม่ GLM-5.3 ซึ่งพัฒนาบนพื้นฐานเดียวกับโมเดล GLM-5.2 เวอร์ชันก่อนหน้านี้ ด้วยอาศัยขั้นตอนหลังการฝึกฝนโมเดล (post-training) เพื่อเพิ่มความสามารถด้านต่าง ๆ\nGLM-5.3 มีจุดเด่นด้านการเขียนโค้ดที่ทำได้ดียิ่งขึ้น ตัวเลขที่ Z.ai บอกคือทำคะแนนการทดสอบที่ Z.ai ใช้ภายในได้ดีกว่า GLM-5.2 ถึง 50% ส่วนหัวข้ออื่นเช่น Terminal Bench 3.0 หรือ Agents' Last Exam ก็มีคะแนนที่โดดเด่นเมื่อเทียบกับโมเดลชั้นนำของ OpenAI และ Anthropic\nGLM-5.3 ยังเพิ่มความสามารถที่เป็นกระแสตอนนี้ด้านความปลอดภัยไซเบอร์ โดยบอกว่าผลการทดสอบ CyberGym ทำคะแนนค้นพบช่องโหว่ได้มากกว่าสองเท่าเมื่อเทียบกับ GLM-5.2\nGLM-5.3 เปิดให้ใช้งานแล้วตั้งแต่วันนี้ โดยบน API สามารถเรียกระดับการคิด low, high, max ส่วนการเขียนโค้ดของ GLM Coding Plan สามารถใช้ได้ผ่าน ZCode, Claude Code และ OpenCode โดยกำหนดช่วงเวลาใช้งานเยอะ (peak hours) คือ 14:00-18:00 (UTC+8) วันจันทร์-ศุกร์ หากใช้งานนอกเวลาดังกล่าวจะได้ส่วนลด 50% จากเวลา peak hours\nที่มา: Z.ai\narjin\nFri, 14/08/2026 - 18:41",
+    "pubDate": "Fri, 14 Aug 2026 11:41:11 +0000",
+    "source": "Blognone",
+    "category": "Security",
+    "thumbnail": null,
+    "readTime": "3 นาที"
+  },
+  {
+    "id": "https://www.techtalkthai.com/?p=168814",
+    "title": "PDPC เดินหน้าผนึกกำลังเครือข่าย DPO กว่า 3,700 หน่วยงานทั่วประเทศยกระดับตามมติ ครม.ทันที [PR]",
+    "link": "https://www.techtalkthai.com/pdpc-ramp-up-the-thai-cybersecurity-pr/",
+    "content": "สำนักงานคณะกรรมการคุ้มครองข้อมูลส่วนบุคคล (สคส.) หรือ PDPC เดินหน้าขับเคลื่อนมาตรการยกระดับการรักษาความมั่นคงปลอดภัยไซเบอร์เพื่อคุ้มครองข้อมูลส่วนบุคคลของประชาชน โดยผนึกกำลังเครือข่ายเจ้าหน้าที่คุ้มครองข้อมูลส่วนบุคคล หรือ DPO กว่า 3,700 หน่วยงาน ทั้งภาครัฐและเอกชนทั่วประเทศ เร่งดำเนินการรีเซ็ต Username และ Password ของระบบที่เกี่ยวข้อง พร้อมติดตามการเปิดใช้ระบบยืนยันตัวตนหลายปัจจัย หรือ Multi-Factor Authentication (MFA) อย่างเป็นรูปธรรม เพื่อลดความเสี่ยงจากการเข้าถึงข้อมูลโดยมิชอบ การดำเนินการดังกล่าวเป็นการขานรับ มติคณะรัฐมนตรีเมื่อวันที่ 11 สิงหาคม 2569 เรื่องที่ 5 แนวทางการป้องกันข้อมูลส่วนบุคคลรั่วไหลจากเหตุบัญชีผู้ใช้งานสำหรับยืนยันตัวตน (Credential) รั่วไหล ซึ่งคณะรัฐมนตรีเห็นชอบแนวทางการใช้มาตรการยืนยันตัวตนหลายปัจจัย เช่น MFA การใช้ Digital Identity อย่าง ThaID หรือวิธีการยืนยันตัวตนในรูปแบบอื่นที่มีความมั่นคงปลอดภัย โดยมอบหมายให้หน่วยงานที่เกี่ยวข้องขับเคลื่อนสู่การปฏิบัติต่อไป พ.ต.อ.สุรพงศ์ เปล่งขำ เลขาธิการคณะกรรมการคุ้มครองข้อมูลส่วนบุคคล กล่าวว่า การดำเนินการครั้งนี้เป็นการต่อยอดจากการประชุมร่วมกับรัฐมนตรีว่าการกระทรวงดิจิทัลเพื่อเศรษฐกิจและสังคม กรณีการเข้าถึงข้อมูลภาครัฐโดยมิชอบ โดย สคส. ดำเนินงานครอบคลุมทั้ง “ต้นน้ำ–กลางน้ำ–ปลายน้ำ” ควบคู่กับการยกระดับมาตรการป้องกันเชิงระบบ …",
+    "pubDate": "Fri, 14 Aug 2026 11:31:10 +0000",
+    "source": "TechTalk Thai",
+    "category": "Security",
+    "thumbnail": "https://www.techtalkthai.com/wp-content/uploads/2026/08/pdpcpaugusypr-640x335.png",
+    "readTime": "4 นาที"
+  },
+  {
+    "id": "https://techsauce.co/news/boi-jetro-jcc-japanese-investment-thailand-upgrade-2026",
+    "title": "ญี่ปุ่นยังเชื่อมั่นไทย 5 ปีขอส่งเสริมลงทุน 3.96 แสนล้าน แต่เงินก้อนใหม่มุ่งไปที่การอัปเกรดโรงงานเดิม",
+    "link": "https://techsauce.co/news/boi-jetro-jcc-japanese-investment-thailand-upgrade-2026",
+    "content": "บีโอไอหารือเจโทรและหอการค้าญี่ปุ่น เปิดตัวเลขคำขอส่งเสริมลงทุนญี่ปุ่น 5 ปี 1,380 โครงการ มูลค่า 396,000 ล้านบาท ผลสำรวจ 504 บริษัทชี้ ร้อยละ 59 เตรียมเปลี่ยนเครื่องจักรใหม่ ร้อยละ 22 ลงทุนดิจิทัล ขณะที่ดัชนี DI ครึ่งปีแรก 2569 อยู่ที่ -6",
+    "pubDate": "Fri, 14 Aug 2026 16:29:30 +0700",
+    "source": "Techsauce",
+    "category": "General",
+    "thumbnail": "https://storage.googleapis.com/techsauce-prod/ugc/uploads/2026/8/1786699407_boi_skill_bridge_800.webp",
+    "readTime": "1 นาที"
+  },
+  {
+    "id": "https://techsauce.co/ai/anthropic-claude-ai-agent-office-drama-experiment",
+    "title": "Anthropic แชร์วิจัย AI Agent ออฟฟิศทะเลาะกัน หลังรับบรีฟต่างกัน แต่ต้องทำงานด้วยกัน ต่าง ‘พยายามทำลายอีกฝ่าย’ เพื่อได้ผลงาน",
+    "link": "https://techsauce.co/ai/anthropic-claude-ai-agent-office-drama-experiment",
+    "content": "สรุปงานวิจัยล่าสุดจาก Anthropic เมื่อจับ AI Agent อย่าง Claude มาทำงานร่วมกัน แต่ผลลัพธ์กลับกลายเป็นดราม่าออฟฟิศ ทั้งแอบลบไฟล์เพื่อน เขียนมัลแวร์ใส่กัน ฮั้วราคา และเล่นการเมืองไม่ต่างจากมนุษย์",
+    "pubDate": "Fri, 14 Aug 2026 15:13:57 +0700",
+    "source": "Techsauce",
+    "category": "Security",
+    "thumbnail": "https://storage.googleapis.com/techsauce-prod/ugc/uploads/2026/8/1786695105_AI_Agent_%E0%B8%97%E0%B8%B0%E0%B9%80%E0%B8%A5%E0%B8%B2%E0%B8%B0_3.webp",
+    "readTime": "1 นาที"
+  },
+  {
+    "id": "https://techsauce.co/basedon/hyrox-business-model-not-selling-health",
+    "title": "HYROX ธุรกิจที่โตปีละเท่าตัวโดยแทบไม่ใช้งบโฆษณา และให้ยิมหลักหมื่นแห่งจ่ายเงินเพื่อขายของให้",
+    "link": "https://techsauce.co/basedon/hyrox-business-model-not-selling-health",
+    "content": "ถอดโมเดลธุรกิจ HYROX ที่ทำรายได้ระดับ 208 ล้านยูโรโดยแทบไม่ใช้งบโฆษณา สินค้าจริงไม่ใช่สุขภาพแต่คือตัวเลขที่เทียบกันได้ทั้งโลก พร้อมเหตุผลที่กองทุนสายลักชัวรีที่ LVMH หนุนหลังสนใจ และจุดเปราะเรื่องมาตรฐานการตัดสิน",
+    "pubDate": "Fri, 14 Aug 2026 15:06:33 +0700",
+    "source": "Techsauce",
+    "category": "General",
+    "thumbnail": "https://storage.googleapis.com/techsauce-prod/ugc/uploads/2026/8/1786693993_Hyrox_800.webp",
+    "readTime": "1 นาที"
+  },
+  {
+    "id": "https://www.techtalkthai.com/?p=168807",
+    "title": "IBM จับมือ OpenAI รุกตลาด Enterprise AI ผสานโมเดลล่าสุดเข้ากับบริการให้คำปรึกษา",
+    "link": "https://www.techtalkthai.com/ibm-partners-openai-enterprise-ai/",
+    "content": "IBM ร่วมมือกับ OpenAI นำโมเดลและเครื่องมือเกี่ยวกับ AI เพิ่มประสิทธิภาพ IBM Consulting เพื่อให้บริการให้คำปรึกษากับลูกค้าองค์กรได้ดีขึ้น ความร่วมมือครั้งนี้เปิดช่องทางให้ OpenAI สามารถเจาะตลาดบริษัทยักษ์ใหญ่ระดับโลกได้มากขึ้น ภายใต้ดีลนี้ทั้งสองบริษัทจะร่วมกันทำตลาดและพัฒนาโซลูชัน AI เฉพาะทางสำหรับอุตสาหกรรมการเงินการธนาคาร หน่วยงานภาครัฐ โทรคมนาคม และค้าปลีก การเคลื่อนไหวนี้เกิดขึ้นเพียงไม่ถึงปีหลังจาก IBM ประกาศเป็นพันธมิตรในลักษณะเดียวกันกับ Anthropic แต่ดีลกับ OpenAI นั้น บุคลากรของ IBM จะได้รับการฝึกอบรมเกี่ยวกับผลิตภัณฑ์ของ OpenAI โดยเน้นไปที่โมเดล Codex, API และ Cybersecurity นอกจากนี้ IBM จะจัดตั้งทีม Forward Deployed Experts ที่ผ่านการรับรองจาก OpenAI เพื่อสนับสนุนการติดตั้งและประยุกต์ใช้งานระบบให้กับลูกค้าองค์กรโดยตรง จุดสำคัญของความร่วมมือคือการนำโมเดล AI รุ่นล่าสุดของ OpenAI เช่น GPT-5.6, Codex และ ChatGPT Work เข้าไปผสานการทำงานร่วมกับ IBM …",
+    "pubDate": "Fri, 14 Aug 2026 07:54:57 +0000",
+    "source": "TechTalk Thai",
+    "category": "Security",
+    "thumbnail": "https://www.techtalkthai.com/wp-content/uploads/2026/08/TTT-78.jpg",
+    "readTime": "3 นาที"
+  },
+  {
+    "id": "https://it24hrs.com/?p=169200",
+    "title": "Google เปิดตัว Gemini 3.7 Flash เก่งขึ้นด้านเขียนโค้ดและ AI Agent",
+    "link": "https://it24hrs.com/2026/google-gemini-3-7-flash-launch/",
+    "content": "Google เปิดตัว Gemini 3.7 Flash โมเดล AI รุ่นใหม่ที่ได้ […]\nThe post Google เปิดตัว Gemini 3.7 Flash เก่งขึ้นด้านเขียนโค้ดและ AI Agent appeared first on iT24Hrs by ปานระพี.",
+    "pubDate": "Fri, 14 Aug 2026 05:43:18 +0000",
+    "source": "IT24Hrs",
+    "category": "AI",
+    "thumbnail": null,
+    "readTime": "1 นาที"
+  },
+  {
+    "id": "https://techsauce.co/ai/south-korea-post-ai-strategy",
+    "title": "เกาหลีใต้ประกาศแผนพัฒนาชาติ ‘หลังยุค AI’ ผู้ผลิตชิปวันนี้  อาจไม่พอค้ำจุนประเทศอีก 10 ปี ต้องสร้าง S-Curve ตัวใหม่",
+    "link": "https://techsauce.co/ai/south-korea-post-ai-strategy",
+    "content": "เจาะลึกยุทธศาสตร์เกาหลีใต้ มองข้ามช็อตเตรียมรับมือยุค Post-AI ทุ่มหมดตักสร้าง 7 เครื่องยนต์เศรษฐกิจใหม่ ตั้งแต่ชิปควอนตัม SMR ไปจนถึงภารกิจดวงจันทร์",
+    "pubDate": "Fri, 14 Aug 2026 12:34:22 +0700",
+    "source": "Techsauce",
+    "category": "AI",
+    "thumbnail": "https://storage.googleapis.com/techsauce-prod/ugc/uploads/2026/8/1786685602_%E0%B9%80%E0%B8%81%E0%B8%B2%E0%B8%AB%E0%B8%A5%E0%B8%B5%E0%B9%83%E0%B8%95%E0%B9%89_Post_AI_3.webp",
+    "readTime": "1 นาที"
+  },
+  {
+    "id": "https://www.techtalkthai.com/?p=168804",
+    "title": "Alibaba Cloud ขอเชิญร่วมงานสัมมนา Qwen Conference Thailand 2026 [4 ก.ย. 2026 – 13.00น.]",
+    "link": "https://www.techtalkthai.com/alibaba-cloud-qwen-conference-thailand-2026/",
+    "content": "Alibaba Cloud ขอเรียนเชิญ CAIO, CTO, CIO, CDO, AI Leader, IT Manager, AI Engineer, Data Engineer และทุกท่านที่สนใจเข้าร่วมงานสัมมนา Qwen Conference Thailand 2026 เพื่อร่วมเรียนรู้ถึงแนวโน้มล่าสุดในการประยุกต์ใช้งาน AI สำหรับภาคธุรกิจองค์กร พร้อมแนะนำเครื่องมือ AI ชั้นนำที่ครอบคลุมทั้ง Agentic AI, Video AI, Agentic Coding AI และ AI Production Platform พร้อมกรณีศึกษาการใช้งานจริง ให้ธุรกิจนำไปพร้อมใช้งานต่อยอดได้ทันที\n\nงานสัมมนานี้จะจัดขึ้นในวันศุกร์ที่ 4 กันยายน 2026 เวลา 13.00น. - 18.00น. ณ โรงแรม Centara Grand, Central World โดยผู้ที่สนใจสามารถตรวจสอบรายละเอียด กำหนดการ และลงทะเบียนเข้าร่วมงานโดยไม่มีค่าใช้จ่ายได้ดังนี้",
+    "pubDate": "Fri, 14 Aug 2026 05:29:57 +0000",
+    "source": "TechTalk Thai",
+    "category": "AI",
+    "thumbnail": "https://www.techtalkthai.com/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-13-at-12.31.26-PM.jpeg",
+    "readTime": "2 นาที"
+  },
+  {
+    "id": "https://www.techtalkthai.com/?p=168798",
+    "title": "MOVE TO SAP S/4HANA Cloud: Accelerate Your Journey to the Autonomous Enterprise [PR]",
+    "link": "https://www.techtalkthai.com/ndbs-move-to-sap-s-4hana-cloud-accelerate-your-journey-to-the-autonomous-enterprise-pr/",
+    "content": "NTT DATA Business Solutions (Thailand) Ltd. ขอเชิญผู้บริหารและองค์กรที่กำลังวางแผน Transformation เข้าร่วมสัมมนา “MOVE TO SAP S/4HANA Cloud: Accelerate Your Journey to the Autonomous Enterprise” เพื่อเตรียมความพร้อมสู่อนาคตขององค์กรในยุค AI, Automation และ Cloud ERP ภายในงานพบกับ Speakers จาก NTT DATA Business Solutions (Thailand) ที่มีประสบการณ์และความเชี่ยวชาญด้าน SAP Solutions พร้อมเจาะลึกแนวทางการเปลี่ยนผ่านสู่ SAP S/4HANA Cloud ผ่าน GROW with SAP และ RISE with SAP รวมถึงเปรียบเทียบแนวทาง Greenfield, Brownfield และ Bluefield …",
+    "pubDate": "Fri, 14 Aug 2026 03:49:02 +0000",
+    "source": "TechTalk Thai",
+    "category": "AI",
+    "thumbnail": "https://www.techtalkthai.com/wp-content/uploads/2026/08/cover-640x335.png",
+    "readTime": "2 นาที"
+  },
+  {
+    "id": "https://techsauce.co/tech-and-biz/data-flywheel-ai-banking-future",
+    "title": "Data Flywheel วงล้อข้อมูลที่กำลังเปลี่ยนเกมการแข่งขันของธุรกิจธนาคาร",
+    "link": "https://techsauce.co/tech-and-biz/data-flywheel-ai-banking-future",
+    "content": "ถอดรหัส Data Flywheel วงล้อข้อมูลยุค AI-First จุดเปลี่ยนสำคัญที่สร้างความได้เปรียบให้สถาบันการเงิน พร้อมพาเจาะลึก 4 มิติข้อมูล และทิศทางธนาคารแห่งอนาคต",
+    "pubDate": "Fri, 14 Aug 2026 08:00:00 +0700",
+    "source": "Techsauce",
+    "category": "AI",
+    "thumbnail": "https://storage.googleapis.com/techsauce-prod/ugc/uploads/2026/7/1785136021_Data_Flywheel_12.webp",
+    "readTime": "1 นาที"
   },
   {
     "id": "https://www.techtalkthai.com/?p=168794",
@@ -86,28 +251,6 @@
     "readTime": "2 นาที"
   },
   {
-    "id": "151363 at https://www.blognone.com",
-    "title": "จบสงครามราคา DeepSeek ขึ้นราคาค่า API 3 เท่าตัว ค่าแคชขึ้น 12 เท่าตัว",
-    "link": "https://www.blognone.com/node/151363",
-    "content": "จบสงครามราคา DeepSeek ขึ้นราคาค่า API 3 เท่าตัว ค่าแคชขึ้น 12 เท่าตัว\n\n  \nBody\nหลัง DeepSeek เปิดตัว DeepSeek V4 Pro ก็ขึ้นราคาตามที่ประกาศไว้ก่อนหน้านี้ โดยราคาหลักๆ ขึ้น 3 เท่าตัว และบางกรณีเพิ่มขึ้นถึง 12 เท่าตัว\nสำหรับราคาหลัก คือ อินพุตและเอาท์พุต ทั้ง V4 Flash และ V4 Pro ขึ้นราคา 3 เท่าและ 4.6 เท่า ส่วนที่ขึ้นราคามากที่สุดคือค่าแคชของ V4 Pro ที่ขึ้นจาก 0.003625 ดอลลาร์ต่อล้านโทเค็น มาเป็น 0.044 ดอลลาร์ต่อล้านโทเค็น หรือประมาณ 12 เท่าตัว\nแม้จะขึ้นราคามาก แต่ DeepSeek ยังมีส่วนลดนอกช่วงเวลาหนาแน่นที่ให้ราคาเพียงครึ่งเดียว โดยช่วงเวลาหนาแน่น ได้แก่ 8.00-11.00 และ 13.00-17.00 ตามเวลาประเทศไทย\nราคาใหม่เริ่มวันที่ 16 สิงหาคมนี้\nที่มา - DeepSeek, @DeepSeek_AI\nlew\nThu, 13/08/2026 - 19:49",
-    "pubDate": "Thu, 13 Aug 2026 12:49:45 +0000",
-    "source": "Blognone",
-    "category": "AI",
-    "thumbnail": null,
-    "readTime": "2 นาที"
-  },
-  {
-    "id": "151362 at https://www.blognone.com",
-    "title": "Twitch จะให้ Amazon นำคอนเทนต์ไปเทรน Generative AI เป็นค่าเริ่มต้น หากไม่ยินยอมต้อง opt-out เอง",
-    "link": "https://www.blognone.com/node/151362",
-    "content": "Twitch จะให้ Amazon นำคอนเทนต์ไปเทรน Generative AI เป็นค่าเริ่มต้น หากไม่ยินยอมต้อง opt-out เอง\n\n  \nBody\nTwitch ประกาศว่าจะนำคอนเทนต์วิดีโอสตรีมของแคสเตอร์ไปใช้สำหรับการฝึกฝนโมเดลปัญญาประดิษฐ์ โดย Amazon ที่เป็นเจ้าของ Twitch โดยช่องของครีเอเตอร์จะกำหนดเปิดอนุญาตนำวิดีโอไปฝึกฝน AI เป็นค่าเริ่มต้น แต่สามารถ opt-out ปิดไม่อนุญาตการเข้าถึงได้\nหากต้องการปิดการเข้าถึงวิดีโอสำหรับฝึกฝน AI ผู้ใช้งานต้องไปที่หัวข้อ Security and Privacy ใน Settings และปิด Training for Generative AI ซึ่ง Twitch บอกว่าเป็นการไม่อนุญาตให้ Amazon เข้าถึงเนื้อหาสำหรับฝึกฝน Generative AI เท่านั้น แต่การเข้าถึงในด้านอื่นยังเป็นไปตามเงื่อนไขการใช้งานเดิม\nMike Minton หัวหน้าฝ่ายผลิตภัณฑ์ของ Twitch ได้ไลฟ์ผ่านช่องของ Twitch เพื่อชี้แจงการเปลี่ยนแปลงนี้ ซึ่งคอมเมนต์ก็เป็นไปในทางต่อต้านตามคาด ส่วนใหญ่ตั้งคำถามว่าทำไมจึงเปิดอนุญาตเป็นค่าเริ่มต้นแล้วให้ผู้ใช้งานไป opt-out ซึ่ง Minton ตอบคำถามนี้อย่างจริงใจมากว่า เพราะถ้าเป็นระบบผู้ใช้งานเปิดตัว (opt-in) ก็คงไม่มีใครยินยอมนั่นเอง\nที่มา: TechCrunch\narjin\nThu, 13/08/2026 - 19:48",
-    "pubDate": "Thu, 13 Aug 2026 12:48:29 +0000",
-    "source": "Blognone",
-    "category": "Security",
-    "thumbnail": null,
-    "readTime": "3 นาที"
-  },
-  {
     "id": "https://www.techtalkthai.com/?p=168789",
     "title": "ขอเชิญผู้ประกอบการเข้าร่วมโครงการส่งเสริมธุรกิจไทยฯ รับชื่อเว็บไซต์ .co.th/.in.th และบริการจัดทำเว็บไซต์ฟรี!",
     "link": "https://www.techtalkthai.com/thaionline-in-th/",
@@ -116,28 +259,6 @@
     "source": "TechTalk Thai",
     "category": "General",
     "thumbnail": "https://www.techtalkthai.com/wp-content/uploads/2026/08/banner-4.jpg",
-    "readTime": "3 นาที"
-  },
-  {
-    "id": "151361 at https://www.blognone.com",
-    "title": "Pixel Watch 5 รองรับ Gemini ออฟไลน์ ทำงานกับคำสั่งซับซ้อนได้ดีขึ้น",
-    "link": "https://www.blognone.com/node/151361",
-    "content": "Pixel Watch 5 รองรับ Gemini ออฟไลน์ ทำงานกับคำสั่งซับซ้อนได้ดีขึ้น\n\n  \nBody\nกูเกิลเปิดตัวสมาร์ทวอทช์ Pixel Watch 5 คู่กับการเปิดตัวสมาร์ทโฟนตระกูล Pixel 11 ภาพรวมใช้ดีไซน์แบบ Pixel Watch 4 รุ่นก่อนหน้า มีตัวเลือก 2 ขนาด 41 มิลลิเมตร และ 45 มิลลิเมตร หน้าจอ Actua 360 ความสว่างสูงสุด 3,000 nits แบตเตอรีใช้งานได้สูงสุด 30 ชั่วโมง สำหรับรุ่น 41 มิลลิเมตร และ 40 ชั่วโมง สำหรับ 45 มิลลิเมตร ชิปตัวเดิม Snapdragon W5 Gen 2 แต่เพิ่มความจุเป็น 64GB\nจุดขายหลักด้าน AI ของ Pixel Watch คือ Gemini Intelligence Proactive Suggestions รองรับการทำงานที่ซับซ้อนมากขึ้นภายในการแตะครั้งเดียว เช่น การค้นหาข้อมูลพิกัดสถานที่จากนัดหมาย ก็ดึงข้อมูลมาครั้งเดียวได้เลย นอกจากนี้ยังมี Gemini ที่ทำงานได้แบบออฟไลน์จบในนาฬิกาสำหรับงานพื้นฐาน เช่น ปรับความสว่างจอ, เปิดใหม่ Do Not Disturb หรือสั่งเปิดแอป\nส่วนฟีเจอร์สุขภาพ เพิ่มเติมการตรวจจับภาวะหายใจฉุกเฉินที่บอกว่าเป็นรายแรกในอุตสาหกรรม ซึ่งอาศัยข้อมูลเซ็นเซอร์หลายอย่างทำงานประกอบกัน พร้อมกับส่งการแจ้งเตือนฉุกเฉินทันที และมีระบบรายงานแนวโน้มสุขภาพแบบทุก 3 เดือน ทั้งความดันโลหิต, คุณภาพการหายใจขณะนอนหลับ และแนวโน้มภาวะดื้ออินซูลิน\nPixel Watch 5 ราคาเริ่มต้น 399 ดอลลาร์ เพิ่มขึ้นจากรุ่นก่อนหน้า 50 ดอลลาร์ สินค้าเริ่มขายทั่วไป 20 สิงหาคมนี้\n\nที่มา: กูเกิล\narjin\nThu, 13/08/2026 - 19:33",
-    "pubDate": "Thu, 13 Aug 2026 12:33:34 +0000",
-    "source": "Blognone",
-    "category": "AI",
-    "thumbnail": null,
-    "readTime": "4 นาที"
-  },
-  {
-    "id": "151360 at https://www.blognone.com",
-    "title": "Pixel 11 Pro Fold ทนทานมากขึ้น จอสว่างขึ้น 20% และแพงขึ้นอีก 100 ดอลลาร์",
-    "link": "https://www.blognone.com/node/151360",
-    "content": "Pixel 11 Pro Fold ทนทานมากขึ้น จอสว่างขึ้น 20% และแพงขึ้นอีก 100 ดอลลาร์\n\n  \nBody\nนอกจาก Pixel 11 กูเกิลก็เปิดตัวสมาร์ทโฟนจอพับ Pixel 11 Pro Fold ด้วยเช่นกัน โดยบอกว่ามาพร้อมการออกแบบใหม่และทนมากกว่าเดิม ตัวเครื่องเบากว่า Pixel 10 Pro Fold รุ่นก่อนหน้า 10% และบางลง 1 มิลลิเมตร กล้องหลังเพิ่มลูกเล่นแสดง LED ที่บริเวณแฟลช เวลาคว่ำโทรศัพท์ไว้และมีสายเข้า หรือเพื่อเป็นสัญญาณตอบโต้เมื่อคุยกับ Gemini\nกูเกิลบอกว่า Pixel 11 Pro Fold ได้ปรับปรุงความทนทานให้มากกว่ากว่ารุ่นก่อนหน้าสามเท่า ขณะที่หน้าจอมีความสว่างมากขึ้น 20% จอด้านในเป็น Super Actua Flex OLED ขนาด 8 นิ้ว ส่วนจอด้านนอกขนาด 6.5 นิ้ว อัปเกรดเป็น Super Actua การกันน้ำฝุ่นเป็น IP68 เหมือนเดิม\nชิปอัปเกรดเป็น Google Tensor G6 เช่นเดียวกับ Pixel 11 รุ่นอื่น กล้องหลัก 48MP กล้องอัลตร้าไวด์ 10.5MP มี Macro Focus และกล้องเทเล 10.8MP ซูม 5x (ดิจิทัล 30x)\nPixel 11 Pro Fold แรม 16GB มีความจุสามขนาดเริ่มต้น 256GB ราคาเริ่มต้น 1,899 ดอลลาร์ แพงขึ้น 100 ดอลลาร์ สินค้าเริ่มขายทั่วไป 20 สิงหาคม เปิดจองล่วงหน้าตั้งแต่วันนี้\nที่มา: กูเกิล\n\narjin\nThu, 13/08/2026 - 19:03",
-    "pubDate": "Thu, 13 Aug 2026 12:03:03 +0000",
-    "source": "Blognone",
-    "category": "AI",
-    "thumbnail": null,
     "readTime": "3 นาที"
   },
   {
@@ -207,28 +328,6 @@
     "readTime": "1 นาที"
   },
   {
-    "id": "https://techsauce.co/ai/google-deepmind-sl2t-sign-language",
-    "title": "Google DeepMind เปิดตัว SL2T โมเดล AI แปลภาษามือเป็นข้อความ",
-    "link": "https://techsauce.co/ai/google-deepmind-sl2t-sign-language",
-    "content": "Google DeepMind เปิดตัว SL2T โมเดล AI แปลภาษามือเป็นข้อความ ลงใช้งานจริงบน Gboard และ Live Transcribe ใน Pixel 11 ฝึกด้วยข้อมูลภาษามือกว่า 100,000 ชั่วโมงจาก 50 ภาษา ทำคะแนน 70 BLEURT สูงสุดเท่าที่เคยมี พร้อมออกแบบให้วิดีโอไม่ออกจากเครื่อง",
-    "pubDate": "Thu, 13 Aug 2026 12:10:49 +0700",
-    "source": "Techsauce",
-    "category": "AI",
-    "thumbnail": "https://storage.googleapis.com/techsauce-prod/ugc/uploads/2026/8/1786597658_SL2T_800.webp",
-    "readTime": "1 นาที"
-  },
-  {
-    "id": "https://techsauce.co/ai/anthropic-claude-text-watermarking-eu-ai-act",
-    "title": "Anthropic เตรียมฝังลายน้ำในข้อความและไฟล์ทุกอย่างที่เจนจาก Claude ต่อให้จะ Copy-Paste ก็ลบไม่ออก",
-    "link": "https://techsauce.co/ai/anthropic-claude-text-watermarking-eu-ai-act",
-    "content": "Anthropic ประกาศเตรียมฝังลายน้ำในข้อความและไฟล์จาก Claude รับมือ EU AI Act เกาะติดทุกการ Copy-Paste ส่งสัญญาณเตือนยุคเนียนใช้ AI ทำคอนเทนต์",
-    "pubDate": "Thu, 13 Aug 2026 11:28:16 +0700",
-    "source": "Techsauce",
-    "category": "AI",
-    "thumbnail": "https://storage.googleapis.com/techsauce-prod/ugc/uploads/2026/8/1786595129_Anthropic_%E0%B8%A5%E0%B8%B2%E0%B8%A2%E0%B8%99%E0%B9%89%E0%B8%B3_3.webp",
-    "readTime": "1 นาที"
-  },
-  {
     "id": "https://www.techtalkthai.com/?p=168766",
     "title": "Salesforce เผยองค์กรใช้ Agentic AI เพิ่มขึ้นกว่าเท่าตัว ชี้ระยะเวลา Deploy สู่ระบบจริงลดลง 53%",
     "link": "https://www.techtalkthai.com/salesforce-agentic-ai-workforce-growth-2026/",
@@ -271,28 +370,6 @@
     "category": "AI",
     "thumbnail": "https://www.techtalkthai.com/wp-content/uploads/2026/08/google-deepmind-sl2t-ai-model-pixel-11-img-640x360.webp",
     "readTime": "2 นาที"
-  },
-  {
-    "id": "https://techsauce.co/basedon/eniac-6-women-programmers-untold-story",
-    "title": "Computer เคยเป็นอาชีพของผู้หญิงเหล่านี้มาก่อน เรื่องของ ‘ตัวแม่’ วงการ IT ที่ใช้มือและสมองสร้างซอฟต์แวร์ในคอมพิวเตอร์",
-    "link": "https://techsauce.co/basedon/eniac-6-women-programmers-untold-story",
-    "content": "ย้อนรอยเรื่องจริงของ 6 หญิงเหล็กผู้เบิกทางสั่งงาน ENIAC คอมพิวเตอร์เครื่องแรกของโลก ไร้คู่มือ ไร้คีย์บอร์ด สู่บทบาทการเสียสละทางอาชีพเพื่อครอบครัวที่ถูกลืมเลือน",
-    "pubDate": "Wed, 12 Aug 2026 17:07:30 +0700",
-    "source": "Techsauce",
-    "category": "General",
-    "thumbnail": "https://storage.googleapis.com/techsauce-prod/ugc/uploads/2026/8/1786528762_%E0%B8%95%E0%B8%B1%E0%B8%A7%E0%B9%81%E0%B8%A1%E0%B9%88_IT_2.webp",
-    "readTime": "1 นาที"
-  },
-  {
-    "id": "https://techsauce.co/ai/meta-personal-superintelligence-zuckerberg-vs-openai",
-    "title": "เรียงความ 6,500 คำของ Mark Zuckerberg กระจายอำนาจ AI ให้ทุกคน",
-    "link": "https://techsauce.co/ai/meta-personal-superintelligence-zuckerberg-vs-openai",
-    "content": "วิเคราะห์แนวคิด Personal Superintelligence จาก Mark Zuckerberg เปิด 5 ข้อเสนอใหญ่ของ Meta",
-    "pubDate": "Wed, 12 Aug 2026 13:53:19 +0700",
-    "source": "Techsauce",
-    "category": "AI",
-    "thumbnail": "https://storage.googleapis.com/techsauce-prod/ugc/uploads/2026/8/1786517427_Mark_Zuckerberg_6500_2.webp",
-    "readTime": "1 นาที"
   },
   {
     "id": "https://www.techtalkthai.com/?p=168742",
@@ -339,17 +416,6 @@
     "readTime": "3 นาที"
   },
   {
-    "id": "https://techsauce.co/basedon/kobkarn-wattanavrangkul-architect-mindset",
-    "title": "สถาปนิกที่ทำให้สามวิชาชีพ ที่พูดคนละภาษา สร้างของชิ้นเดียวกัน จากโรงงานโตชิบา ประธานบอร์ดกสิกรไทย ไปจนถึงเส้นทางเที่ยวทั้งประเทศ",
-    "link": "https://techsauce.co/basedon/kobkarn-wattanavrangkul-architect-mindset",
-    "content": "กอบกาญจน์ วัฒนวรางกูร จะขึ้นพูดเรื่องเศรษฐกิจงานอีเวนต์ที่ศูนย์ฯ สิริกิติ์ ซึ่งบริหารโดยบริษัทที่ตัวเองเป็นประธานบอร์ด ย้อนเส้นทางจาก 12 เมืองต้องห้ามพลาด สมัยเป็นรัฐมนตรีท่องเที่ยว สู่ศูนย์ประชุม 300,000 ตารางเมตร",
-    "pubDate": "Wed, 12 Aug 2026 12:07:39 +0700",
-    "source": "Techsauce",
-    "category": "General",
-    "thumbnail": "https://storage.googleapis.com/techsauce-prod/ugc/uploads/2026/8/1786509963_Kobkarn_Wattanavrangkul_TSGS_2026_%282%29.webp",
-    "readTime": "1 นาที"
-  },
-  {
     "id": "https://www.techtalkthai.com/?p=168727",
     "title": "Cloudflare เผยรายงาน DDoS ครึ่งปีแรก 2026 การโจมตีระดับ 1 Tbps พุ่ง 519% และกว่า 90% จบใน 10 นาที",
     "link": "https://www.techtalkthai.com/cloudflare-ddos-report-first-half-2026-terabit-attacks-surge/",
@@ -383,17 +449,6 @@
     "readTime": "1 นาที"
   },
   {
-    "id": "https://techsauce.co/saucy-thoughts/jpmorgan-summer-reading-list-2026",
-    "title": "14 หนังสือที่ J.P. Morgan แนะนำให้อ่านในปี 2026 ตั้งแต่เบื้องหลังไอเดียเปลี่ยนโลก AI ไปจนถึงศิลปะ มรดกโลก และ สุขภาพสมอง",
-    "link": "https://techsauce.co/saucy-thoughts/jpmorgan-summer-reading-list-2026",
-    "content": "J.P. Morgan เปิด Summer Reading List 2026 คัด 14 เล่มจากหลายร้อยเล่มที่ที่ปรึกษาลูกค้าทั่วโลกเสนอชื่อ ครอบคลุมภาวะผู้นำ AI ภูมิรัฐศาสตร์ ศักยภาพมนุษย์ สุขภาพสมอง ศิลปะ และมรดกโลก",
-    "pubDate": "Tue, 11 Aug 2026 18:30:51 +0700",
-    "source": "Techsauce",
-    "category": "AI",
-    "thumbnail": "https://storage.googleapis.com/techsauce-prod/ugc/uploads/2026/8/1786442917_J.P._Morgan_800.webp",
-    "readTime": "1 นาที"
-  },
-  {
     "id": "https://www.techtalkthai.com/?p=168720",
     "title": "Corma เปิดตัวพร้อมทุน 60 ล้านดอลลาร์ ดัน AI ความมั่นคงปลอดภัยเชิงรับ",
     "link": "https://www.techtalkthai.com/corma-launches-with-60m-in-funding-for-defensive-cybersecurity-ai/",
@@ -414,50 +469,6 @@
     "category": "AI",
     "thumbnail": "https://www.techtalkthai.com/wp-content/uploads/2025/12/nvidia-headquarters-banner-2025.jpg",
     "readTime": "4 นาที"
-  },
-  {
-    "id": "https://www.techtalkthai.com/?p=168716",
-    "title": "Intel เตรียมระดมทุนเพิ่ม 1.5 หมื่นล้านดอลลาร์ รับกระแส AI และความต้องการบรรจุภัณฑ์ขั้นสูง",
-    "link": "https://www.techtalkthai.com/intel-to-launch-15b-stock-sale-amid-ai-boom-advanced-packaging-demand/",
-    "content": "Intel ประกาศแผนการระดมทุนมูลค่า 1.5 หมื่นล้านดอลลาร์ด้วยการเสนอขายหุ้นสามัญ กลุ่มธนาคารที่รับประกันการจำหน่ายหุ้นมีสิทธิ์เลือกซื้อหุ้นเพิ่มเติมได้สูงสุด 2.25 พันล้านดอลลาร์ภายในระยะเวลา 30 วัน การเสนอขายหุ้นในครั้งนี้เกิดขึ้นหลังจากที่ราคาหุ้นของ Intel ปรับตัวสูงขึ้นกว่า 3 เท่าตัวในช่วงปีที่ผ่านมา ซึ่งการเพิ่มขึ้นดังกล่าวสะท้อนให้เห็นถึงความเชื่อมั่นของนักลงทุนที่มีต่อธุรกิจศูนย์ข้อมูลและปัญญาประดิษฐ์ของบริษัท โดยรายได้ในส่วนนี้พุ่งสูงขึ้นถึง 59% ในไตรมาสที่ผ่านมา Intel ไม่ได้ให้รายละเอียดภาพรวมที่ชัดเจนว่าจะนำเงินทุนดังกล่าวไปใช้อย่างไร บริษัทระบุเพียงว่าแผนการใช้เงิน “อาจรวมถึงแต่ไม่จำกัดเพียง รายจ่ายฝ่ายทุนและเงินทุนหมุนเวียน” เมื่อเดือนที่แล้ว Intel ได้ปรับเพิ่มคาดการณ์รายจ่ายฝ่ายทุนสำหรับปีนี้จาก 1.8 หมื่นล้านดอลลาร์เป็นมากกว่า 2 หมื่นล้านดอลลาร์ โดย David Zinsner ประธานเจ้าหน้าที่ฝ่ายการเงินได้กล่าวในขณะนั้นว่า บริษัทคาดว่าจะมีการเพิ่มงบประมาณดังกล่าวอีกในปี 2027 พร้อมเสริมว่าเงินทุนส่วนใหญ่จะถูกนำไปใช้กับอุปกรณ์การผลิตชิป ส่วนหนึ่งในประกาศการขายหุ้นของ Intel มีหัวข้อที่ชื่อว่า “ทำไมต้องตอนนี้” ซึ่งระบุว่า “Physical AI, ซิลิคอนที่สร้างขึ้นเพื่อวัตถุประสงค์เฉพาะ, บรรจุภัณฑ์ขั้นสูง และเวเฟอร์จากภายนอก ถือเป็นโอกาสการเติบโตที่สำคัญสำหรับ Intel” ข้อความนี้อาจเป็นเบาะแสสำคัญว่าบริษัทตั้งใจจะนำเงินที่ได้จากการเสนอขายหุ้นไปใช้ในทิศทางใด บรรจุภัณฑ์ขั้นสูงซึ่งเป็นหนึ่งในเทคโนโลยีที่ Intel ระบุว่าเป็นโอกาสในการเติบโต ถูกนำมาใช้เพื่อเชื่อมต่อไดซิลิคอนหลายตัวเข้าด้วยกันในชิปเพียงตัวเดียว เทคโนโลยีนี้ถูกนำไปใช้ในผลิตภัณฑ์ต่าง …",
-    "pubDate": "Tue, 11 Aug 2026 08:16:47 +0000",
-    "source": "TechTalk Thai",
-    "category": "AI",
-    "thumbnail": "https://www.techtalkthai.com/wp-content/uploads/2025/08/Intel-Gordon-Moore-Park-1.jpg",
-    "readTime": "4 นาที"
-  },
-  {
-    "id": "https://www.techtalkthai.com/?p=168711",
-    "title": "OpenAI ขยายโครงการวิจัยความมั่นคงปลอดภัยไซเบอร์ Daybreak",
-    "link": "https://www.techtalkthai.com/openai-expands-daybreak-cybersecurity-research-program/",
-    "content": "OpenAI กำลังขยายโครงการที่ช่วยให้ผู้เชี่ยวชาญด้านความมั่นคงปลอดภัยไซเบอร์สามารถใช้โมเดลของบริษัทในการวิจัยหาช่องโหว่ต่าง ๆ ได้ โครงการนี้มีชื่อว่า Daybreak ซึ่งเปิดตัวไปเมื่อเดือนพฤษภาคมที่ผ่านมา โดยในครั้งนี้ OpenAI ได้เพิ่มระดับการเข้าถึงใหม่สองระดับ ได้แก่ Daybreak Blue และ Daybreak Red พร้อมทั้งประกาศแผนการปรับปรุงกลไกป้องกันเพื่อบล็อกผู้ใช้งานที่ไม่ได้รับอนุญาตไม่ให้เข้าร่วมโครงการนี้ โมเดลภาษาขนาดใหญ่ที่เปิดให้ใช้งานเชิงพาณิชย์ของ OpenAI มีตัวกรองที่คอยบล็อกคำสั่งที่เกี่ยวข้องกับความมั่นคงปลอดภัยไซเบอร์ส่วนใหญ่ แต่ Daybreak จะลบตัวกรองเหล่านั้นออกไปหลายรายการ ส่งผลให้ผู้เข้าร่วมโครงการสามารถใช้ LLM ของ OpenAI ในการทำงานวิจัยหาช่องโหว่ที่ใช้เวลานาน ๆ ได้โดยอัตโนมัติ ทั้งนี้ รายการโมเดลที่เปิดให้ใช้งานรวมถึง GPT-5.6 Sol ซึ่งเป็นอัลกอริทึมเรือธงของบริษัทด้วย Daybreak Blue ซึ่งเป็นระดับการเข้าถึงระดับแรกที่เปิดตัวในครั้งนี้ มีจุดมุ่งหมายเพื่อให้เป็น “จุดเริ่มต้นสำหรับผู้ป้องกันส่วนใหญ่” โดยทีมซอฟต์แวร์สามารถใช้เพื่อสแกนโค้ดของตนเองเพื่อหาช่องโหว่และตรวจสอบว่าแพตช์ต่าง ๆ ทำงานได้ตามที่คาดหวังหรือไม่ นอกจากนี้ Daybreak Blue ยังเอื้อต่อการวิเคราะห์โค้ดภายนอก เช่น ไฟล์มัลแวร์ต่าง ๆ อย่างไรก็ตาม ระบบนี้ไม่รองรับงานที่ซับซ้อนกว่านั้น เช่น การตรวจสอบว่าช่องโหว่ที่เพิ่งค้นพบใหม่สามารถนำไปใช้โจมตีได้หรือไม่ ซึ่ง …",
-    "pubDate": "Tue, 11 Aug 2026 08:02:29 +0000",
-    "source": "TechTalk Thai",
-    "category": "Security",
-    "thumbnail": "https://www.techtalkthai.com/wp-content/uploads/2026/08/OpenAI-Daybreak.png",
-    "readTime": "4 นาที"
-  },
-  {
-    "id": "https://www.techtalkthai.com/?p=168704",
-    "title": "ยกระดับความมั่นคงปลอดภัย! True IDC คว้ามาตรฐาน TIA-942 Rated 3 ด้าน Facility ตอกย้ำบริการ Data Center ระดับโลก",
-    "link": "https://www.techtalkthai.com/true-idc-certified-to-ansi-tia-942-rated-3-standard/",
-    "content": "True IDC ผู้ให้บริการ Data Center และระบบ Cloud อันดับหนึ่งของประเทศไทย ประกาศความสำเร็จอีกขั้นในการยกระดับมาตรฐานศูนย์ข้อมูลสู่ระดับสากล ผ่านการรับรองมาตรฐาน ANSI/TIA-942 Rated 3: Telecommunications Infrastructure Standard for Data Centers ในด้านโครงสร้างพื้นฐานทางกายภาพ จากองค์กร The Telecommunications Industry Association อย่างเป็นทางการ ซึ่งมาตรฐานนี้เป็นเครื่องยืนยันว่า Data Center ของ True IDC มีความพร้อมและมีการดำเนินงานที่สามารถรองรับระบบสำคัญ (Mission Critical) ทั้งช่วงการดำเนินงานและช่วงการบำรุงรักษา (Concurrently Maintainable Site Infrastructure) สอดคล้องกับความต้องการขององค์กรทั้งภาครัฐและภาคเอกชนที่ต้องการความต่อเนื่องและความปลอดภัยสูงสุด การรับรองมาตรฐานดังกล่าวครอบคลุมระบบวิศวกรรมและโครงสร้างพื้นฐาน 5 ด้านหลัก ได้แก่: ระบบไฟฟ้า (Electrical System): มั่นใจด้วยการออกแบบให้นำส่งไฟฟ้าแบบ Dual-Bus (2N) พร้อมเครื่องกำเนิดไฟฟ้าและเครื่องสำรองไฟฟ้าประสิทธิภาพสูง สามารถซ่อมบำรุงได้โดยที่ระบบไม่สะดุด ระบบทำความเย็น (Mechanical/Cooling …",
-    "pubDate": "Tue, 11 Aug 2026 06:17:09 +0000",
-    "source": "TechTalk Thai",
-    "category": "Security",
-    "thumbnail": "https://www.techtalkthai.com/wp-content/uploads/2020/03/true_idc_logo_3.png",
-    "readTime": "3 นาที"
-  },
-  {
-    "id": "https://www.techtalkthai.com/?p=168701",
-    "title": "ตลาดไอทีขาดแคลนทักษะ AI-Native อย่างหนัก สวนทางความต้องการองค์กรที่พุ่งสูง 55%",
-    "link": "https://www.techtalkthai.com/ai-native-staffers-demand-surge/",
-    "content": "การนำ AI เข้าสู่กระบวนการทำงานกลายเป็นเรื่องสำคัญขององค์กรขนาดใหญ่ ส่งผลให้ความต้องการบุคลากรกลุ่ม AI-Native พุ่งสูงขึ้นอย่างต่อเนื่อง อย่างไรก็ตาม ข้อมูลล่าสุดจากแพลตฟอร์มหางาน Indeed ชี้ให้เห็นถึงความท้าทายสำคัญสองประการ คือ จำนวนบุคลากรภายนอกที่ไม่ได้สัดส่วนกับความต้องการ และการขาดแคลนโปรแกรม Upskilling ภายในองค์กรอย่างรุนแรง ผลสำรวจจาก Indeed ร่วมกับ YouGov ซึ่งเก็บข้อมูลจากคนหางานและผู้จัดการฝ่ายบุคคลกว่า 1,000 รายในองค์กรที่มีพนักงาน 500 คนขึ้นไป ยืนยันถึงช่องว่างของทักษะ AI ในตลาดแรงงานปัจจุบัน โดย Kyle M.K. ที่ปรึกษาอาวุโสด้านกลยุทธ์บุคลากรจาก Indeed ระบุว่า องค์กรส่วนใหญ่กำลังเผชิญกับสภาวะ Training Desert หรือไร้การฝึกอบรม แม้บางแห่งจะเริ่มมีโปรแกรมพัฒนาทักษะบ้าง แต่ยังถือเป็นส่วนน้อย เหตุการณ์ดังกล่าวส่งผลให้เกิดภาวะขาดแคลนการยกระดับทักษะภายในองค์กร ในขณะที่ซัพพลายแรงงานจากภายนอกก็มีไม่เพียงพอต่อความต้องการ โดยตัวเลขนี้สอดคล้องกับรายงานของ Bureau of Labor Statistics และ CompTIA ในสหรัฐฯ ที่พบว่ามีการเปิดรับสมัครงานด้าน AI เฉพาะทางเกือบ 14,000 อัตราในเดือนกรกฎาคมที่ผ่านมา ขณะที่ …",
-    "pubDate": "Tue, 11 Aug 2026 04:14:24 +0000",
-    "source": "TechTalk Thai",
-    "category": "AI",
-    "thumbnail": "https://www.techtalkthai.com/wp-content/uploads/2026/08/TTT-76.jpg",
-    "readTime": "3 นาที"
   },
   {
     "id": "151331 at https://www.blognone.com",
@@ -501,17 +512,6 @@
     "source": "IT24Hrs",
     "category": "General",
     "thumbnail": "https://it24hrs.com/wp-content/uploads/2026/08/Nikita-Bier-x.mp4",
-    "readTime": "1 นาที"
-  },
-  {
-    "id": "https://it24hrs.com/?p=169039",
-    "title": "Gmail ปิดฟีเจอร์ Send as จะส่งอีเมลด้วยโดเมนส่วนตัว Yahoo Hotmail ไม่ได้แล้ว?",
-    "link": "https://it24hrs.com/2026/gmail-end-third-party-send-as-2027/",
-    "content": "Gmail ปิดฟีเจอร์ Send as สำหรับบัญชีอีเมลจากผู้ให้บริกา […]\nThe post Gmail ปิดฟีเจอร์ Send as จะส่งอีเมลด้วยโดเมนส่วนตัว Yahoo Hotmail ไม่ได้แล้ว? appeared first on iT24Hrs by ปานระพี.",
-    "pubDate": "Thu, 06 Aug 2026 05:02:31 +0000",
-    "source": "IT24Hrs",
-    "category": "General",
-    "thumbnail": null,
     "readTime": "1 นาที"
   },
   {
