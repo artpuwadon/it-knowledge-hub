@@ -1,34 +1,298 @@
 [
   {
-    "id": "local-cybersecurity-101.md",
-    "title": "แนวทางปฏิบัติการตั้งรหัสผ่านให้ปลอดภัยสำหรับบุคลากร",
-    "link": "https://github.com/",
-    "content": "1. รหัสผ่านต้องมีความยาวอย่างน้อย 8 ตัวอักษร\n2. ประกอบด้วยอักษรตัวพิมพ์ใหญ่ ตัวพิมพ์เล็ก ตัวเลข และสัญลักษณ์พิเศษ\n3. ห้ามใช้ข้อมูลส่วนตัว เช่น วันเกิด หรือเบอร์โทรศัพท์\n4. เปลี่ยนรหัสผ่านใหม่ทุกๆ 3-6 เดือนเพื่อความปลอดภัย",
-    "pubDate": "2026-09-08T00:59:35.128Z",
-    "source": "คู่มือภายในองค์กร",
-    "category": "Internal",
-    "thumbnail": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=500&auto=format&fit=crop&q=60"
-  },
-  {
     "id": "local-law-hub.md",
     "title": "คลังกฎหมายและระเบียบที่เกี่ยวข้องกับการปฏิบัติราชการ",
     "link": "https://github.com/",
     "content": "### ⚖️ ศูนย์รวมลิงก์กฎหมายฉบับเต็มและแนวทางปฏิบัติงาน\n\nเพื่อความสะดวกและถูกต้องในการอ้างอิงข้อกฎหมายของเจ้าหน้าที่ในการปฏิบัติราชการ ศูนย์ไอทีได้รวบรวมลิงก์ตรงไปยังระบบสืบค้นกฎหมายของสำนักงานคณะกรรมการกฤษฎีกา และไฟล์ PDF ฉบับราชกิจจานุเบกษาไว้ในจุดเดียว ดังนี้ครับ:\n\n---\n\n### 🛒 1. หมวดการบริหารงานพัสดุและการจัดซื้อจัดจ้าง\n*   **พ.ร.บ. การจัดซื้อจัดจ้างและการบริหารพัสดุภาครัฐ พ.ศ. 2560**\n    *   🔗 [อ่านกฎหมายฉบับเต็ม (เว็บกฤษฎีกา)](https://www.ocs.go.th/)\n    *   📄 [ดาวน์โหลดไฟล์ PDF ฉบับประกาศราชกิจจานุเบกษา](https://www.gprocurement.go.th/wps/portal/egp/Regulation/!ut/p/z1/04_Sj9CPykssy0xPLMnMz0vMAfIjo8zifQ3djQydnQ18_T3dzA0czU0NfANMLQ1MPIz1w8EKDHAARwP9KGL041EQhd_4cP0oNCvCjM2AJgT4OvsHehgYOBtCFeAxoyA3NMIg01ERAHhSDzY!/dz/d5/L0lDUmlTUSEhL3dHa0FKRnNBLzROV3FpQSEhL3Ro/)\n*   **ระเบียบกระทรวงการคลังว่าด้วยการจัดซื้อจัดจ้างและการบริหารพัสดุภาครัฐ พ.ศ. 2560**\n    *   🔗 [อ่านระเบียบฉบับเต็มและกฎกระทรวงที่เกี่ยวข้อง](https://www.gprocurement.go.th/wps/portal/egp/Regulation/Ministry_of_Finance_Regularity/)\n\n---\n\n### 🏢 2. หมวดการปฏิบัติราชการและวิธีพิจารณาทางปกครอง\n*   **พ.ร.บ. วิธีปฏิบัติราชการทางปกครอง พ.ศ. 2539 (และฉบับแก้ไขเพิ่มเติม)**\n    *   🔗 [อ่านกฎหมายฉบับเต็ม (เว็บกฤษฎีกา)](https://www.ocs.go.th/)\n*   **พ.ร.บ. ความรับผิดทางละเมิดของเจ้าหน้าที่ พ.ศ. 2539**\n    *   🔗 [อ่านกฎหมายฉบับเต็ม (เว็บกฤษฎีกา)](https://www.ocs.go.th/)\n*   **พ.ร.บ. การปฏิบัติราชการทางอิเล็กทรอนิกส์ พ.ศ. 2565** *(สำคัญมากสำหรับงานไอทีและบริการประชาชน)*\n    *   🔗 [อ่านกฎหมายฉบับเต็ม (เว็บกฤษฎีกา)](https://www.ocs.go.th/)\n\n---\n\n### 🛡️ 3. หมวดคุ้มครองข้อมูลและความมั่นคงปลอดภัยไซเบอร์\n*   **พ.ร.บ. คุ้มครองข้อมูลส่วนบุคคล พ.ศ. 2562 (PDPA)**\n    *   🔗 [สืบค้นกฎหมายและแนวทางปฏิบัติจาก สคส.](https://www.pdpc.or.th)\n*   **พ.ร.บ. การรักษาความมั่นคงปลอดภัยไซเบอร์ พ.ศ. 2562**\n    *   🔗 [สืบค้นกฎหมายและประกาศจาก สกมช. (NCSA)](https://www.ncsa.or.th/standards/laws)\n*   **พ.ร.บ. ว่าด้วยการกระทำความผิดเกี่ยวกับคอมพิวเตอร์ (ฉบับที่ 2) พ.ศ. 2560**\n    *   🔗 [อ่านกฎหมายฉบับเต็ม (เว็บกฤษฎีกา)](https://www.ocs.go.th/)\n\n---\n\n### 💡 แนะนำการใช้งานสำหรับเจ้าหน้าที่\n> หากต้องการสืบค้นกฎหมายอื่น ๆ เพิ่มเติม นอกเหนือจากรายการข้างต้น สามารถเข้าใช้งานระบบกฎหมายดิจิทัลโดยตรงได้ที่ **[ระบบสืบค้นกฎหมาย สำนักงานคณะกรรมการกฤษฎีกา](https://www.ocs.go.th/)** เพื่อข้อมูลที่อัปเดตและเป็นปัจจุบันที่สุด",
-    "pubDate": "2026-09-08T00:59:35.128Z",
+    "pubDate": "2026-09-09T01:05:16.708Z",
     "source": "ศูนย์รวมกฎหมายภาครัฐ",
     "category": "Law",
     "thumbnail": "https://images.unsplash.com/photo-1589829545856-d10d557cf95f?w=500"
   },
   {
-    "id": "151570 at https://www.blognone.com",
-    "title": "GPT-6 Astra เล่นเกม Portal จบสำเร็จ ใช้ค่า Token ไปเกือบ 2 หมื่นบาท",
-    "link": "https://www.blognone.com/node/151570",
-    "content": "GPT-6 Astra เล่นเกม Portal จบสำเร็จ ใช้ค่า Token ไปเกือบ 2 หมื่นบาท\n\n  \nBody\nหลังจาก OpenAI เปิดโมเดล GPT-6 Astra ให้ผู้ใช้ทั่วไป ก็มีคนนำ Astra ไปทดลองงานต่างๆ ซึ่งล่าสุดมีคนเอา Astra ไปเล่นเกม Portal และประสบความสำเร็จในการเล่นเกมได้จนจบ\nผู้นำ Astra ไปเล่นเกม Portal มีชื่อบัญชีว่า cozyblazex โพสต์คลิปความยาวเกือบ 2 ชั่วโมง ให้เราเห็นว่า Astra มีวิธีการเล่นเกมอย่างไร โดยเขียนกำกับไว้ว่าได้ตัดส่วนที่โมเดลหยุดคิดออก ซึ่งจังหวะนั้นตัวเครื่องมือ SourcePauseTool จะสั่งให้เกมหยุดรันชั่วคราวจนกว่าจะคิดเสร็จ\ncozyblazex ยังให้ข้อมูลว่า Astra ใช้ค่า token คิดเป็นมูลค่า 571.18 ดอลลาร์ หรือประมาณ 19,000 บาท\n\nAnd... GPT-6 Astra has autonomously completed Portal! I didn’t expect this to happen so soon, but I’m glad we've made so much progress here.I was reminded that back in 2016, one of OpenAI’s technical goals was to “solve a wide variety of games using a single agent.” pic.twitter.com/2nVREdCbMI\n— cozyblaze (@cozyblazex) September 5, 2026\n\n\n          \nmk\nMon, 07/09/2026 - 18:30",
-    "pubDate": "Mon, 07 Sep 2026 11:30:06 +0000",
+    "id": "local-cybersecurity-101.md",
+    "title": "แนวทางปฏิบัติการตั้งรหัสผ่านให้ปลอดภัยสำหรับบุคลากร",
+    "link": "https://github.com/",
+    "content": "1. รหัสผ่านต้องมีความยาวอย่างน้อย 8 ตัวอักษร\n2. ประกอบด้วยอักษรตัวพิมพ์ใหญ่ ตัวพิมพ์เล็ก ตัวเลข และสัญลักษณ์พิเศษ\n3. ห้ามใช้ข้อมูลส่วนตัว เช่น วันเกิด หรือเบอร์โทรศัพท์\n4. เปลี่ยนรหัสผ่านใหม่ทุกๆ 3-6 เดือนเพื่อความปลอดภัย",
+    "pubDate": "2026-09-09T01:05:16.707Z",
+    "source": "คู่มือภายในองค์กร",
+    "category": "Internal",
+    "thumbnail": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=500&auto=format&fit=crop&q=60"
+  },
+  {
+    "id": "151583 at https://www.blognone.com",
+    "title": "เปิดตัวเทรลเลอร์ The Legend of Zelda: Ocarina of Time รีเมคลง Switch 2 กำหนดขาย 5 พฤศจิกายนนี้",
+    "link": "https://www.blognone.com/node/151583",
+    "content": "เปิดตัวเทรลเลอร์ The Legend of Zelda: Ocarina of Time รีเมคลง Switch 2 กำหนดขาย 5 พฤศจิกายนนี้\n\n  \nBody\nนินเทนโดจัดงานแถลงข่าว Direct โดยวันนี้เป็นหัวข้อเกี่ยวกับ Zelda ฉลองครบรอบ 40 ปี ซึ่งนินเทนโดได้เผยแพร่ตัวอย่างของเกม The Legend of Zelda: Ocarina of Time เวอร์ชันรีเมคลง Switch 2 หลังจากประกาศไปเมื่อเดือนมิถุนายน โดยเกมมีกำหนดขายวันที่ 5 พฤศจิกายน 2026 ราคาในสหรัฐอเมริกา 59.99 ดอลลาร์\nในรีเมคของ The Legend of Zelda: Ocarina of Time นี้ มีการปรับปรุงด้านกราฟิก เกมโหลดเร็วขึ้น มีความลื่นไหลมากขึ้น ส่วนเพลงประกอบในเกมก็บันทึกเสียงใหม่ด้วยวงออร์เคสตรา ซึ่งวงออร์เคสตรานี้ก็จะเปิดการแสดงสดตั้งแต่กันยายนไปจนถึงกลางปี 2027 ทั้งในญี่ปุ่นและอีกหลายประเทศ โดยที่ยืนยันตอนนี้คือ สหรัฐอเมริกา สหราชอาณาจักร และออสเตรเลีย\nดูเทรลเลอร์ของ The Legend of Zelda: Ocarina of Time และเพลงธีมใหม่ได้ในคลิปข้างล่าง\n\nประกาศอื่นเกี่ยวกับ Zelda มีดังนี้\nSwitch 2 รุ่นพิเศษ The Legend of Zelda – 40th Anniversary Edition พร้อม Nintendo Switch 2 Pro Controller ธีมเดียวกัน เริ่มขาย 29 ตุลาคม\n\nขลุ่ยโอคาริน่าตามธีมของเกม Zelda ภาคนี้ มีทั้งแบบเป่าสร้างเสียงเพลงเอง และรุ่นไฟฟ้ากดปุ่มเล่นเพลงผลิตโดย HORI เริ่มขายภายในปีนี้\n\nNintendo Museum ในเกียวโต ประเทศญี่ปุ่น จะมีร้านอาหารใหม่ Super Family Restaurant ซึ่งมี Link และคาแรกเตอร์อื่นของนินเทนโด กำหนดเปิดปลายปีนี้ นอกจากนี้พิพิธภัณฑ์จะเพิ่มส่วนเนื้อหาของ Zelda ฉลองครบรอบ 40 ปีด้วย\n\nภาพยนตร์ The Legend of Zelda ฉบับคนแสดง กำหนดวันฉายในโรงภาพยนตร์ 30 เมษายน 2027 ชื่อภาพยนตร์ก็คือ The Legend of Zelda\n\nที่มา: นินเทนโด\narjin\nWed, 09/09/2026 - 00:28",
+    "pubDate": "Tue, 08 Sep 2026 17:28:17 +0000",
+    "source": "Blognone",
+    "category": "General",
+    "thumbnail": "https://www.blognone.com/sites/default/files/files-2026/2026-08/zd_1.jpg",
+    "readTime": "4 นาที"
+  },
+  {
+    "id": "151577 at https://www.blognone.com",
+    "title": "Google Pics เริ่มให้ใช้งานสำหรับลูกค้า Workspace และ Google AI Pro กับ Ultra แล้ว",
+    "link": "https://www.blognone.com/node/151577",
+    "content": "Google Pics เริ่มให้ใช้งานสำหรับลูกค้า Workspace และ Google AI Pro กับ Ultra แล้ว\n\n  \nBody\nกูเกิลประกาศว่า Google Pics เครื่องมือสร้างและแก้ไขรูปภาพที่เปิดตัวในงาน Google I/O ที่ผ่านมา ตอนนี้เริ่มเปิดให้ใช้งานสำหรับลูกค้า Google Workspace และลูกค้าที่สมัคร Google AI Pro กับ Ultra แล้ว\nGoogle Pics ทำงานได้ทั้งในรูปแบบแอปแยก และเป็นเครื่องมือที่แทรกอยู่ในผลิตภัณฑ์ Workspace ได้แก่ Slides, Docs และ Drive ทำให้สามารถเรียกใช้งานแก้ไขรูปภาพได้ในทุกจุดที่ต้องการ\nตัวอย่างความสามารถของ Google Pics ที่กูเกิลนำเสนอ ซึ่งเป็นการทำงานบนโมเดล Nano Banana ได้แก่ การระบุวัตถุที่ต้องการจัดการในภาพได้แม่นยำ, การแก้ไขข้อความในรูปภาพรวมทั้งการแปลภาษา, การแชร์เนื้อหาและแก้ไขภาพร่วมกับทีม, การสร้างทางเลือกให้ผู้ใช้งานเลือกผลลัพธ์ที่ต้องการได้\nกูเกิลอธิบายความแตกต่างของ Google Pics กับ Google Photos ว่าแนวคิด Google Pics เป็นการสร้างสรรค์ผลงานบน Workspace ส่วน Google Photos เน้นการแบ็กอัปข้อมูลส่วนตัว และสามารถค้นหาย้อนหลังได้ง่าย\nที่มา: กูเกิล\narjin\nTue, 08/09/2026 - 22:43",
+    "pubDate": "Tue, 08 Sep 2026 15:43:00 +0000",
     "source": "Blognone",
     "category": "AI",
     "thumbnail": null,
     "readTime": "3 นาที"
+  },
+  {
+    "id": "151582 at https://www.blognone.com",
+    "title": "Mistral รับทุนรอบ D ได้เงิน 3,000 ล้านยูโร นำโดย Samsung Electronics",
+    "link": "https://www.blognone.com/node/151582",
+    "content": "Mistral รับทุนรอบ D ได้เงิน 3,000 ล้านยูโร นำโดย Samsung Electronics\n\n  \nBody\nMistral บริษัทปัญญาประดิษฐ์จากยุโรปประกาศได้รับเงินทุนรอบ D เป็นเงิน 3,000 ล้านยูโร ที่มูลค่าบริษัทหลังได้รับเงินคิดเป็น 21,000 ล้านยูโร โดยผู้ลงทุนหลักในรอบนี้คือซัมซุงอิเล็กทรอนิกส์\nMistral หันมาเน้นลูกค้าระดับองค์กร ตอนนี้มีลูกค้ามากกว่า 125 ราย เช่น Airbus, ASML, HSBC โดยมักเป็นงานที่ต้องการควบคุมอยู่ภายใน แต่ในด้านการออกโมเดลใหม่ๆ แล้ว Mistral ไม่สามารถออกโมเดลที่แข่งขันได้มาสักระยะหนึ่ง โดยช่วงหลังบริษัทหันไปออกโมเดลเฉพาะทาง เช่น Shieldstral สำหรับการทำ guardrail หรือ Mistral OCR สำหรับการแปลงเอกสาร\nบริษัท AI ระดมทุนมหาศาลในช่วงปีที่ผ่านมา เช่น OpenAI เพิ่งได้รับเงิน 1.1 แสนล้านดอลลาร์ หรือ Anthropic ได้รับเงินทุน 6.5 หมื่นล้านดอลลาร์\nที่มา - Mistral\nlew\nTue, 08/09/2026 - 21:05",
+    "pubDate": "Tue, 08 Sep 2026 14:05:28 +0000",
+    "source": "Blognone",
+    "category": "AI",
+    "thumbnail": null,
+    "readTime": "2 นาที"
+  },
+  {
+    "id": "151581 at https://www.blognone.com",
+    "title": "[ลือ] Blizzard เตรียมเปิดตัวเกมยิง StarCraft ภาคใหม่ในงาน BlizzCon 2026",
+    "link": "https://www.blognone.com/node/151581",
+    "content": "[ลือ] Blizzard เตรียมเปิดตัวเกมยิง StarCraft ภาคใหม่ในงาน BlizzCon 2026\n\n  \nBody\nมีข่าวลือว่า Blizzard เตรียมเปิดตัวเกม StarCraft ภาคใหม่ในงาน BlizzCon 2026 ที่จะจัดขึ้นวันที่ 12 กันยายน\nข้อมูลอย่างเป็นทางการตอนนี้คือมีคนไปค้นพบว่า เว็บไซต์ StarCraft  เริ่มฝังข้อมูลแปลกๆ เอาไว้เป็นทีเซอร์ของ \"อะไรบางอย่าง\" โดยข้อมูลที่แฟนๆ ค้นพบระบุเลขปี 2575 (67 ปีหลังเหตุการณ์ตอนจบภาค 2), ชื่อสถานที่เป็นเหมือง Lunar Mining Complex บนดาวเคราะห์ Roxara (สถานที่เดียวกับในเกมยิง StarCraft: Ghost ที่ถูกยกเลิก) และชื่อหน่วย ​Theta Squadron ของฝ่าย Terran\nจากข้อมูลบนเว็บและข่าวลือจากนักข่าวสายเกม เราพอยืนยันได้ว่าเกม StarCraft ภาคใหม่จะเป็นเกมยิงมุมมองบุคคลที่สาม (third person shooter) ที่เน้นเนื้อเรื่อง แต่อาจมีโหมด co-op ให้เล่นเสริมได้\nนอกจากนี้ ยังมีข่าวว่า Blizzard กำลังพัฒนาเกมวางแผน RTS ร่วมกับสตูดิโอภายนอกแห่งหนึ่ง ซึ่งยังไม่ระบุชื่อ แต่ชื่อที่เป็นไปได้คือ Relic Entertainment ที่พัฒนาเกม Age of Empires ร่วมกับไมโครซอฟท์\nที่มา - Reddit, Wccftech\nmk\nTue, 08/09/2026 - 19:37",
+    "pubDate": "Tue, 08 Sep 2026 12:37:40 +0000",
+    "source": "Blognone",
+    "category": "General",
+    "thumbnail": null,
+    "readTime": "3 นาที"
+  },
+  {
+    "id": "151576 at https://www.blognone.com",
+    "title": "[ไม่ยืนยัน] Meta เปลี่ยนมาใช้ Slack เป็นแอปพูดคุยภายในบริษัท ด้วยเหตุผลการรองรับ AI Agent",
+    "link": "https://www.blognone.com/node/151576",
+    "content": "[ไม่ยืนยัน] Meta เปลี่ยนมาใช้ Slack เป็นแอปพูดคุยภายในบริษัท ด้วยเหตุผลการรองรับ AI Agent\n\n  \nBody\nBusiness Insider อ้างอีเมลภายใน Meta ที่เป็นประกาศจาก Alexandr Wang หัวหน้าฝ่าย AI ว่าบริษัทจะเปลี่ยนแอปพลิเคชันที่ใช้ติดต่อสื่อสารภายในองค์กรจาก Google Chat เป็น Slack ด้วยเหตุผลเรื่อง AI\nWang บอกว่า Slack เป็นแพลตฟอร์มที่แข็งแรงที่สุดในตลาดตอนนี้สำหรับการรัน AI Agent มีอินเทอร์เฟซที่ดี มีชุมชนนักพัฒนาที่มั่นคง รองรับ 3rd Party หลากหลาย ซึ่งเป็นเหตุผลที่บริษัทตัดสินใจเปลี่ยนมาใช้งาน และเชื่อว่าทุกคนใน Meta จะได้ประโยชน์จากสภาพแวดล้อมที่รายล้อมด้วย Agent มากขึ้น\nทั้งนี้ Meta และ Salesforce บริษัทแม่ของ Slack ปฏิเสธที่จะให้ความเห็นต่อรายงานนี้\nที่มา: Business Insider\narjin\nTue, 08/09/2026 - 19:29",
+    "pubDate": "Tue, 08 Sep 2026 12:29:00 +0000",
+    "source": "Blognone",
+    "category": "AI",
+    "thumbnail": null,
+    "readTime": "2 นาที"
+  },
+  {
+    "id": "151579 at https://www.blognone.com",
+    "title": "[ลือ] Apple มีแผนปรับ App Store ให้สร้างรายได้มากขึ้น - Phil Schiller ไม่เห็นด้วย และเป็นเหตุผลที่เขาลาออก",
+    "link": "https://www.blognone.com/node/151579",
+    "content": "[ลือ] Apple มีแผนปรับ App Store ให้สร้างรายได้มากขึ้น - Phil Schiller ไม่เห็นด้วย และเป็นเหตุผลที่เขาลาออก\n\n  \nBody\nMark Gurman แห่ง Bloomberg รายงานข้อมูลในจดหมายข่าวรายสัปดาห์ Power On บอกว่าแอปเปิลกำลังพิจารณาเปลี่ยนแปลงรูปแบบบริการของ App Store โดยมีเป้าหมาย \"ทำเงิน\" จากส่วนธุรกิจนี้ให้มากขึ้น โดยไอเดียมีหลายแบบทั้งเพิ่มอัตรากำไร, เพิ่มระบบที่จะสร้างรายได้แบบต่อเนื่องให้มากขึ้น Gurman บอกว่าข้อเสนอนี้มาจากซีอีโอคนใหม่ John Ternus และ Eddy Cue หัวหน้ากลุ่มธุรกิจ Services\nรายงานบอกว่าแผนงานดังกล่าวเป็นเหตุผลหนึ่งที่ทำให้ Phil Schiller ผู้บริหารระดับสูงของแอปเปิล ที่ก่อนหน้านี้รับผิดชอบ App Store ตัดสินใจลาออกจากการดูแล App Store เพราะเขาไม่เห็นด้วย มองว่าจะสร้างปัญหากับชุมชนนักพัฒนาไปจนถึงหน่วยงานกำกับดูแลของรัฐบาลประเทศต่าง ๆ\nที่มา: Bloomberg\narjin\nTue, 08/09/2026 - 17:52",
+    "pubDate": "Tue, 08 Sep 2026 10:52:00 +0000",
+    "source": "Blognone",
+    "category": "General",
+    "thumbnail": null,
+    "readTime": "2 นาที"
+  },
+  {
+    "id": "https://www.techtalkthai.com/?p=169906",
+    "title": "Veeam นำเสนอ Agentic AI Governance รับมือภูมิทัศน์ด้าน AI Governance ที่กำลังพัฒนาอย่างก้าวกระโดดในประเทศไทย [PR]",
+    "link": "https://www.techtalkthai.com/veeam-on-tour-agentic-ai-governance-pr/",
+    "content": "Veeam Software ซึ่งเป็น The Data and AI Trust Company นำเสนอ agentic AI ศักยภาพสูงบน Veeam DataAI™ Command Platform โดยออกแบบมาเพื่อช่วยให้องค์กรนำมาตรการดูแลด้านความเป็นส่วนตัวของข้อมูลและ AI governance ไปปฏิบัติได้จริงในสภาพแวดล้อมข้อมูลและ AI ที่ซับซ้อน AI agents ของ Veeam ช่วยให้เวิร์กโฟลว์ด้านความเป็นส่วนตัว การขอความยินยอม และการปฏิบัติตามกฎระเบียบเป็นแบบอัตโนมัติ ด้วยความรวดเร็วจากเทคโนโลยีระดับสูง ในขณะที่ประเทศไทยเพิ่มการบังคับใช้ PDPA และเปิดรับฟังความคิดเห็นต่อร่างพระราชบัญญัติ AI ที่เสนอหลักความรับผิดโดยเคร่งครัด (strict liability) เจษฎา ภาสวรวิทย์ ผู้อำนวยการอาวุโสประจำประเทศไทยของ Veeam กล่าวว่า “สำหรับองค์กรธุรกิจไทย เรื่องนี้ไม่ใช่การถกเถียงในเชิงทฤษฎีอีกต่อไป เพราะ PDPC ได้เปิดรับฟังความคิดเห็นต่อร่างแนวปฏิบัติด้านการคุ้มครองข้อมูลส่วนบุคคลใน AI ขณะที่ ETDA ได้เปิดรับฟังความคิดเห็นต่อร่างพระราชบัญญัติ AI ว่าทุกธุรกิจต้องแสดงให้เห็นได้ว่า AI …",
+    "pubDate": "Tue, 08 Sep 2026 10:17:35 +0000",
+    "source": "TechTalk Thai",
+    "category": "Security",
+    "thumbnail": "https://s.w.org/images/core/emoji/17.0.2/72x72/2122.png",
+    "readTime": "3 นาที"
+  },
+  {
+    "id": "151578 at https://www.blognone.com",
+    "title": "Adobe ออก Adobe for Slack เรียกใช้เครื่องมือสร้างสรรค์คอนเทนต์ได้เลยผ่านแชท",
+    "link": "https://www.blognone.com/node/151578",
+    "content": "Adobe ออก Adobe for Slack เรียกใช้เครื่องมือสร้างสรรค์คอนเทนต์ได้เลยผ่านแชท\n\n  \nBody\nAdobe เปิดตัว Adobe for Slack ที่ให้ผู้ใช้งานสามารถเรียกเครื่องมือจากโปรแกรมของ Adobe ผ่าน Slack ได้ทันทีภายในช่องแชท\nAdobe บอกว่าเครื่องมือที่รองรับมีมากกว่า 70 รายการ จากโปรแกรมในเครือทั้ง Firefly, Adobe Express, Photoshop, Premiere, Acrobat, InDesign, Illustrator, Stock, Lightroom และอื่น ๆ โดยเมื่อติดตั้งแอปของ Adobe แล้ว สามารถแท็ก slackbot Adobe เพื่อให้ทำงานตามต้องการเสมือนเป็นผู้ช่วย AI เช่น สร้างโปสเตอร์ รูปภาพ หรือไฟล์ PDF จากไอเดียตั้งต้นในแชท\nAdobe for Slack เปิดให้ใช้งานสำหรับลูกค้า Slack Business+ และ Enterprise+ รองรับการใช้งานทุกแพลตฟอร์ม\nที่มา: Adobe\narjin\nTue, 08/09/2026 - 17:08",
+    "pubDate": "Tue, 08 Sep 2026 10:08:00 +0000",
+    "source": "Blognone",
+    "category": "AI",
+    "thumbnail": null,
+    "readTime": "2 นาที"
+  },
+  {
+    "id": "https://it24hrs.com/?p=169760",
+    "title": "Xiaomi 18 Fold มือถือจอพับทรงใหม่ จอกว้างเทียบสัดส่วน IMAX ดูหนังเต็มตากว่าเดิม",
+    "link": "https://it24hrs.com/2026/xiaomi-18-fold-imax-screen-foldable-phone/",
+    "content": "สมาร์ตโฟนจอพับระดับเรือธงที่ไม่ได้แข่งขันกันแค่เรื่องคว […]\nThe post Xiaomi 18 Fold มือถือจอพับทรงใหม่ จอกว้างเทียบสัดส่วน IMAX ดูหนังเต็มตากว่าเดิม appeared first on iT24Hrs by ปานระพี.",
+    "pubDate": "Tue, 08 Sep 2026 09:26:14 +0000",
+    "source": "IT24Hrs",
+    "category": "General",
+    "thumbnail": null,
+    "readTime": "1 นาที"
+  },
+  {
+    "id": "https://techsauce.co/ai/meta-cai-alexandr-wang-recommends-teens-vibe-coding",
+    "title": "เด็กสมัยนี้ควร Vibe-coding ให้กลายเป็นสัญชาตญาณ Alexandr Wang ชี้คือวิธีที่ เด็กยุคใหม่ควรใช้ชีวิตเพื่ออยู่รอด",
+    "link": "https://techsauce.co/ai/meta-cai-alexandr-wang-recommends-teens-vibe-coding",
+    "content": "Alexandr Wang มหาเศรษฐี AI วัย 28 ปี จาก Meta แนะนำให้เด็กยุคนี้เลิกท่องโค้ดแบบเดิม แล้วหันมาฝึก Vibe-coding ใช้ AI เขียนโปรแกรมแทน เพื่อเตรียมพร้อมรับอนาคต",
+    "pubDate": "Tue, 08 Sep 2026 15:29:44 +0700",
+    "source": "Techsauce",
+    "category": "AI",
+    "thumbnail": "https://storage.googleapis.com/techsauce-prod/ugc/uploads/2026/9/1788855997_%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B8%8D%E0%B9%88%E0%B8%B2%E0%B8%AD%E0%B8%A2%E0%B9%88%E0%B8%B2%E0%B8%A2%E0%B8%B8%E0%B9%88%E0%B8%87_%E0%B8%9B%E0%B8%81%E0%B8%82%E0%B9%88%E0%B8%B2%E0%B8%A71200x800_%2846%29.webp",
+    "readTime": "1 นาที"
+  },
+  {
+    "id": "https://www.techtalkthai.com/?p=169896",
+    "title": "สตาร์ทอัพดาวเทียมไฮเปอร์สเปกตรัม Pixxel ระดมทุน 100 ล้านดอลลาร์",
+    "link": "https://www.techtalkthai.com/hyperspectral-satellite-startup-pixxel-nabs-100m-investment/",
+    "content": "Pixxel ผู้พัฒนาดาวเทียมสำรวจโลกที่มีฐานการดำเนินงานในประเทศอินเดีย ระดมทุนได้ 100 ล้านดอลลาร์สหรัฐ โดยมี Temasek กองทุนความมั่งคั่งของประเทศสิงคโปร์ และ Seraphim นักลงทุนด้านเทคโนโลยีอวกาศ เป็นผู้นำการระดมทุนในรอบ Series C ครั้งนี้ ทั้งนี้ Pixxel ระบุในประกาศการทำข้อตกลงว่ามีนักลงทุนสถาบันอื่น ๆ อีกหลายแห่งเข้าร่วมด้วย ซึ่งส่งผลให้ยอดเงินทุนจากภายนอกรวมของบริษัทในขณะนี้อยู่ที่ 192 ล้านดอลลาร์สหรัฐ วัตถุบนพื้นผิวโลกจะสะท้อนแสงจากดวงอาทิตย์กลับสู่อวกาศ ดาวเทียมถ่ายภาพอย่างเช่นที่ Pixxel พัฒนาขึ้นจะใช้แสงที่สะท้อนเหล่านั้นในการบันทึกภาพ นอกจากนี้ พวกมันยังสามารถระบุองค์ประกอบทางเคมีของวัตถุที่ถ่ายภาพไว้ได้ ซึ่งเป็นไปได้เพราะวัสดุทุกชนิดจะสะท้อนแสงอาทิตย์ในรูปแบบที่แตกต่างกัน ทำให้เกิดลักษณะเฉพาะทางแสงที่ไม่เหมือนใครซึ่งสามารถตรวจจับได้จากอวกาศ เมื่อปีที่ผ่านมา Pixxel ได้ส่งดาวเทียมถ่ายภาพชุดแรกจำนวน 6 ดวงขึ้นสู่อวกาศด้วยจรวดของ SpaceX โดยดาวเทียมเหล่านี้ประกอบกันเป็นกลุ่มดาวเทียมที่เรียกว่า Firefly ซึ่งบริษัทระบุว่าสามารถให้ความละเอียดสูงกว่าทางเลือกอื่น ๆ ส่วนใหญ่ที่มีอยู่เดิมถึง 6 เท่า และตามข้อมูลของ Pixxel ดาวเทียมเหล่านี้สามารถระบุองค์ประกอบทางเคมีของวัตถุได้โดยใช้วิธีการที่เรียกว่าการถ่ายภาพแบบไฮเปอร์สเปกตรัม แสงอาทิตย์ประกอบด้วยลำแสงที่มีความยาวคลื่นหลากหลาย วัสดุแต่ละชนิดจะดูดซับความยาวคลื่นเฉพาะกลุ่ม ซึ่งนั่นเป็นสิ่งที่ทำให้วัสดุแต่ละอย่างมีลักษณะเฉพาะทางแสงที่แตกต่างกัน ยิ่งดาวเทียมสามารถตรวจจับความยาวคลื่นได้มากเท่าไร ก็จะยิ่งสามารถระบุประเภทของวัสดุจากอวกาศได้มากขึ้นเท่านั้น ดาวเทียมสำรวจโลกแบบดั้งเดิมจำนวนมากใช้การออกแบบที่เรียกว่ามัลติสเปกตรัม ซึ่งหมายความว่าพวกมันสามารถตรวจจับแถบสเปกตรัมหรือช่วงความยาวคลื่นได้สูงสุด 15 …",
+    "pubDate": "Tue, 08 Sep 2026 08:21:15 +0000",
+    "source": "TechTalk Thai",
+    "category": "General",
+    "thumbnail": "https://www.techtalkthai.com/wp-content/uploads/2026/09/Pixxel-Satellite.png",
+    "readTime": "4 นาที"
+  },
+  {
+    "id": "https://techsauce.co/news/startup-act-thailand-cabinet-approval",
+    "title": "ครม. เห็นชอบหลักการ Startup Act ปลดล็อกข้อจำกัดระดมทุนสตาร์ตอัปไทย อนุญาตให้บริษัทจำกัดถือหุ้นตนเองได้",
+    "link": "https://techsauce.co/news/startup-act-thailand-cabinet-approval",
+    "content": "คณะรัฐมนตรีมีมติเห็นชอบในหลักการร่างพระราชบัญญัติส่งเสริมธุรกิจสตาร์ตอัปหรือ Startup Act เมื่อวันที่ 8 กันยายน 2569 เปิดทางให้ปรับกฎหมายที่เกี่ยวข้องกับการระดมทุนและการบริหารหุ้นให้รองรับรูปแบบธุรกิจสตาร์ตอัปมากขึ้น พร้อมกำหนดให้สำนักงานนวัตกรรมแห่งช",
+    "pubDate": "Tue, 08 Sep 2026 15:02:26 +0700",
+    "source": "Techsauce",
+    "category": "General",
+    "thumbnail": "https://storage.googleapis.com/techsauce-prod/ugc/uploads/2026/9/1788854465_Keng_%E0%B8%9B%E0%B8%81%E0%B8%82%E0%B9%88%E0%B8%B2%E0%B8%A71200x800_%2848%29.webp",
+    "readTime": "1 นาที"
+  },
+  {
+    "id": "https://www.techtalkthai.com/?p=169894",
+    "title": "หัวหน้านักวิทย์ OpenAI เสนอชะลอวิจัย AI",
+    "link": "https://www.techtalkthai.com/openai-chief-scientist-argues-for-ai-research-slowdown/",
+    "content": "Jakub Pachocki หัวหน้าทีมนักวิทยาศาสตร์ของ OpenAI ได้เรียกร้องให้มีการชะลอการวิจัยด้านปัญญาประดิษฐ์ในบทความที่เผยแพร่เมื่อวันอาทิตย์ หลังจากที่บุคคลสำคัญในอุตสาหกรรมรายอื่น ๆ ได้ออกมาแสดงความคิดเห็นในทำนองเดียวกันในช่วงไม่กี่เดือนที่ผ่านมานี้ Pachocki ระบุว่าห้องปฏิบัติการ AI ชั้นนำควรปรับระดับความพยายามในการพัฒนาโมเดลของตนเองด้วยความสมัครใจ โดยผู้บริหารท่านนี้มองว่าการชะลอตัวดังกล่าวควรกลายเป็นเรื่องปกติ จนกว่าอุตสาหกรรมจะพัฒนามาตรฐานด้านความปลอดภัยของ AI ได้สำเร็จ นอกจากนี้ Pachocki ยังยืนยันว่าการจัดการกับความเสี่ยงของเทคโนโลยีนี้จำเป็นต้องอาศัยรัฐบาลต่าง ๆ ในการให้ความสำคัญกับการประสานงานด้านการพัฒนา AI ในอนาคต เขาเขียนไว้ว่ามาตรการดังกล่าวมีความจำเป็นด้วยเหตุผลหลายประการ ประการหนึ่งคือมาตรการป้องกันความปลอดภัยในปัจจุบันของห้องปฏิบัติการ AI อาจไม่เพียงพอสำหรับโมเดลในอนาคต นอกจากนี้ เขายังชี้ให้เห็นว่าผู้ไม่หวังดีอาจฝึกฝนเอเจนต์ AI โดยมีเป้าหมายเฉพาะเพื่อดำเนินกิจกรรมที่มุ่งร้าย เอเจนต์ที่มีขีดความสามารถสูงซึ่งได้รับการฝึกฝนและสั่งการอย่างชัดเจนให้กระทำการที่เป็นอันตรายนั้นถือเป็นอันตรายรูปแบบใหม่ ซึ่งมีแนวโน้มที่จะก้าวข้ามขอบเขตความตั้งใจของผู้ควบคุม โดยขยายขอบเขตไปสู่พฤติกรรมที่อาจมีความเป็นอันตรายร้ายแรงยิ่งขึ้น เขาระบุว่าเส้นแบ่งระหว่างการนำไปใช้ในทางที่ผิดกับการกระทำที่เป็นอิสระซึ่งไม่สอดคล้องกับเป้าหมายนั้นจะเริ่มเลือนลางเมื่อ AI มีความเป็นอิสระมากขึ้น Pachocki กล่าวว่ามีแนวทางหลักสองประการสำหรับการฝึกฝนด้านการจัดระเบียบ AI ซึ่งเป็นกระบวนการสอนให้โมเดลภาษาขนาดใหญ่หลีกเลี่ยงกิจกรรมที่เป็นอันตราย แนวทางแรกเกี่ยวข้องกับการใช้โมเดล AI เพื่อตรวจสอบว่า LLM ที่กำลังฝึกอยู่นั้นสอดคล้องกับกฎความปลอดภัยหรือไม่ ส่วนแนวทางที่สองคือการบูรณาการคำแนะนำด้านความปลอดภัยเข้ากับชุดข้อมูลการฝึกฝนของโมเดล เขายังเปิดเผยว่านักวิจัยของ OpenAI ได้สร้างความก้าวหน้าที่สำคัญบางประการในด้านการจัดระเบียบ AI และเสริมว่าการค้นพบเหล่านั้นเป็นเหตุผลที่ทำให้ GPT-6 Astra รุ่นล่าสุดของบริษัทมีความสอดคล้องกับมาตรฐานความปลอดภัยได้ดีกว่ารุ่นก่อนหน้า …",
+    "pubDate": "Tue, 08 Sep 2026 07:50:01 +0000",
+    "source": "TechTalk Thai",
+    "category": "Security",
+    "thumbnail": "https://www.techtalkthai.com/wp-content/uploads/2025/11/OpenAI-logo-blossom.png",
+    "readTime": "5 นาที"
+  },
+  {
+    "id": "https://techsauce.co/tech-and-biz/cx-agentic-era-accenture-song-tuomas-peltoniemi",
+    "title": "เมื่อลูกค้าไม่ได้ตัดสินใจเพียงลำพังอีกต่อไป: Accenture Song เปิดเกมใหม่ของ CX ในยุค AI Agent",
+    "link": "https://techsauce.co/tech-and-biz/cx-agentic-era-accenture-song-tuomas-peltoniemi",
+    "content": "Tuomas Peltoniemi จาก Accenture Song สรุปห้าบทเรียนเรื่อง CX ในยุค AI Agent บนเวที Techsauce Global Summit 2026 พร้อมผลสำรวจผู้บริโภค 25,590 คนใน 16 ประเทศที่พบว่า 74% เชื่อ AI Agent มากกว่าเพื่อนสนิทเมื่อต้องซื้อของแทน",
+    "pubDate": "Tue, 08 Sep 2026 14:01:39 +0700",
+    "source": "Techsauce",
+    "category": "AI",
+    "thumbnail": "https://storage.googleapis.com/techsauce-prod/ugc/uploads/2026/9/1788850447_Accenture_Song_800_%283%29.webp",
+    "readTime": "1 นาที"
+  },
+  {
+    "id": "https://www.techtalkthai.com/?p=169887",
+    "title": "Splunk Webinar : เปลี่ยนจากระบบ เฝ้ารอ สู่การป้องกันปัญหาล่วงหน้า ด้วย Splunk AI-driven Observability [8 ต.ค. 2569 – 14.00น.]",
+    "link": "https://www.techtalkthai.com/splunk-webinar-from-reactive-to-proactive-response-with-ai-driven-observability/",
+    "content": "Splunk ขอเชิญ IT Manager, IT Security Consultant, SecOps, Network Operation, IT security operation, System Engineer, IT Admin และผู้สนใจทุกท่านเข้าร่วมงานสัมมนาออนไลน์ในหัวข้อ “เปลี่ยนจากระบบเฝ้ารอสู่การป้องกันปัญหาล่วงหน้าด้วย Splunk AI-driven Observability” ซึ่งคุณจะได้เรียนรู้เกี่ยวกับโซลูชัน AI-driven Observability ที่จะพลิกโฉมระบบเฝ้าระวังขององค์กรสู่การแก้ปัญหาล่วงหน้า ไม่พลาดทุก Blind spot ด้วยข้อมูลจาก Metric, Trace, Log ที่แม่นยำ นำส่งภาพ Observability แบบ End-to-End และตัวช่วยป้องกันการแจ้งเตือนแบบโหมกระหน่ำ มอบ insight ที่ถูกต้องให้ทีมไอทีทำงานได้อย่างมีประสิทธิภาพ โดยงานจะจัดขึ้นใน วันพฤหัสบดีที่ 8 ตุลาคม 2569 เวลา 14.00 – 15.30น. สนใจลงทะเบียนหรือชมกำหนดการเพิ่มเติมได้ที่ รายละเอียดการบรรยาย หัวข้อ : …",
+    "pubDate": "Tue, 08 Sep 2026 06:50:53 +0000",
+    "source": "TechTalk Thai",
+    "category": "Security",
+    "thumbnail": "https://www.techtalkthai.com/wp-content/uploads/2026/09/Splunk-Webinar-08102026-FB-Cover-V1.png",
+    "readTime": "2 นาที"
+  },
+  {
+    "id": "https://techsauce.co/ai/bill-gates-turbulent-ai-era-memo",
+    "title": "Bill Gates เสนอ 3 ทางรับมือยุค AI ที่ปั่นป่วน ตั้งแต่ภาษีหุ่นยนต์ไปจนถึงองค์กรโลก",
+    "link": "https://techsauce.co/ai/bill-gates-turbulent-ai-era-memo",
+    "content": "Bill Gates เขียนบันทึกฉบับใหม่ยอมรับเป็นครั้งแรกว่าถ้าไม่ระวัง ผลเสียของ AI อาจมากกว่าผลดี พร้อมชี้ความเสี่ยงสามข้อ ประโยชน์ที่ใหญ่กว่าที่คิด และสามข้อเสนอรับมือ ตั้งแต่กลไกระดับโลก แนวคิด Human Reserved ถึงภาษีโทเคน AI และหุ่นยนต์",
+    "pubDate": "Tue, 08 Sep 2026 13:23:36 +0700",
+    "source": "Techsauce",
+    "category": "AI",
+    "thumbnail": "https://storage.googleapis.com/techsauce-prod/ugc/uploads/2026/9/1788848158_Bill_Gates_AI_800.webp",
+    "readTime": "1 นาที"
+  },
+  {
+    "id": "https://www.techtalkthai.com/?p=169871",
+    "title": "Red Hat  Tech Day 2026 : ทศวรรษใหม่ที่ Open-source ไม่ใช่ทางเลือกแต่คือ Foundation",
+    "link": "https://www.techtalkthai.com/red-hat-tech-day-2026-open-source-is-not-option-but-foundation/",
+    "content": "Red Hat Tech Day 2026 หนึ่งอีเว้นต์ไฮไลต์สำคัญที่ตอกย้ำความยิ่งใหญ่ของ Red Hat ประเทศไทยปีที่ 10 โดยหนึ่งในหัวข้อร้อนแรงอย่าง AI ถูกหยิบยกขึ้นมาพูดถึงเป็นกระแสหลักของงาน ที่ผ่านมา Red Hat ดำเนินธุรกิจในประเทศไทยเป็นอย่างไร และในมุมของ AI ที่เป็นมากกว่าแค่ไวรัลในระดับองค์กร Red Hat นำเสนอเรื่องนี่อย่างไร ในงานนี้มีคำตอบ ซึ่งทีมงาน TechTalkThai ขอเรียบเรียงประเด็นต่างๆมาให้ทุกท่านได้ติดตามกันอีกครั้งครับ คุณ Danial Aw, General Manager & Vice President, Asia pacific และ คุณ Albert Chai, General Manager, ASEAN จาก Rad Hat “เราเชื่อเสมอว่านวัตกรรมต้องมาจากการเปิดกว้างให้ทุกคนได้สร้างสรรค์ เป็นเวลาถึง 10 ปีที่เราได้เข้ามาจัดตั้งหน่วยธุรกิจในประเทศไทย และได้มีโอกาสเข้าไปช่วยลูกค้ามากมาย ซึ่งที่ผ่านมาเราเห็นศักยภาพของธุรกิจในประเทศไทยที่ลงทุนกับการทำ Digital Transformation …",
+    "pubDate": "Tue, 08 Sep 2026 06:16:12 +0000",
+    "source": "TechTalk Thai",
+    "category": "AI",
+    "thumbnail": "https://www.techtalkthai.com/wp-content/uploads/2026/09/Red-Hat-Tech-day-2026-FB-Cover.png",
+    "readTime": "2 นาที"
+  },
+  {
+    "id": "https://it24hrs.com/?p=169736",
+    "title": "iOS 27 เตรียมให้ไอโฟน 2 เครื่องใช้เบอร์เดียวกันได้",
+    "link": "https://it24hrs.com/2026/ios-27-iphone-handoff-one-number-two-iphones/",
+    "content": "iOS 27 เตรียมให้ไอโฟน 2 เครื่องใช้เบอร์เดียวกันได้ มีัร […]\nThe post iOS 27 เตรียมให้ไอโฟน 2 เครื่องใช้เบอร์เดียวกันได้ appeared first on iT24Hrs by ปานระพี.",
+    "pubDate": "Tue, 08 Sep 2026 06:04:31 +0000",
+    "source": "IT24Hrs",
+    "category": "General",
+    "thumbnail": null,
+    "readTime": "1 นาที"
+  },
+  {
+    "id": "151575 at https://www.blognone.com",
+    "title": "Huawei เปิดตัวสมาร์ทโฟนจอ 3 พับใหม่ Mate XT 2 หน้าจอ Privacy-Protect, ย้ายกล้องหลังมาตรงกลาง",
+    "link": "https://www.blognone.com/node/151575",
+    "content": "Huawei เปิดตัวสมาร์ทโฟนจอ 3 พับใหม่ Mate XT 2 หน้าจอ Privacy-Protect, ย้ายกล้องหลังมาตรงกลาง\n\n  \nBody\nHuawei เปิดตัว Huawei Mate XT 2 สมาร์ทโฟนหน้าจอสามพับหรือ Tri-Fold รุ่นใหม่ ชิป Kirin 9050 Pro ซึ่งเป็นชิปที่ออกแบบด้วย Tau Scaling Law ที่ Huawei เคยพูดถึงเมื่อเดือนพฤษภาคม เร็วขึ้นกว่า Mate XTs 42% ใช้ระบบปฏิบัติการ HarmonyOS 7\nจอด้านนอกเป็น OLED LTPO ขนาด 6.5 นิ้ว ส่วนจอด้านในเมื่อกางออกเป็น OLED LTPO ขนาด 10.2 นิ้ว อัตรารีเฟรช 90Hz ความละเอียด 3K และมีฟีเจอร์ป้องกันการมองด้านข้างในระดับฮาร์ดแวร์ ส่วนกล้องหลังออกแบบใหม่ย้ายมาอยู่ตรงกลาง กล้องหลัก 50MP, กล้องเทเล 50MP ซูมออปติคัล 3.5x และกล้องอัลตร้าไวด์ 40MP แบตเตอรี่ขนาด 5,600mAh รองรับชาร์จเร็ว 66 วัตต์ แบบสาย และไร้สาย 50 วัตต์ นอกจากนี้สเป็กกันน้ำกันฝุ่นเป็น IP58/IP59\nHuawei Mate XT 2 มีตัวเลือก 3 สี ดำ ม่วง และขาว เริ่มต้น 16/256GB ราคาในจีน 19,999 หยวน (ประมาณ 98,000 บาท) ส่วนต่างประเทศยังไม่ได้ระบุ\nที่มา: GSM Arena\narjin\nTue, 08/09/2026 - 12:35",
+    "pubDate": "Tue, 08 Sep 2026 05:35:26 +0000",
+    "source": "Blognone",
+    "category": "General",
+    "thumbnail": null,
+    "readTime": "3 นาที"
+  },
+  {
+    "id": "151574 at https://www.blognone.com",
+    "title": "Xiaomi เปิดตัวสมาร์ทโฟนจอพับ Xiaomi 18 Fold ชิป Xring O3 และสีใหม่แดงเข้ม",
+    "link": "https://www.blognone.com/node/151574",
+    "content": "Xiaomi เปิดตัวสมาร์ทโฟนจอพับ Xiaomi 18 Fold ชิป Xring O3 และสีใหม่แดงเข้ม\n\n  \nBody\nXiaomi เปิดตัวสมาร์ทโฟนจอพับรุ่นใหม่ Xiaomi 18 Fold ที่หน้าจอกางออกทางด้านกว้าง ใช้ชิป Xring O3 ที่เป็นชิป SoC ซึ่ง Xiaomi ออกแบบเอง ตัวเลือกแรม 12/16GB สตอเรจ 256GB/512GB/1TB\nหน้าจอเมื่อกางออกมามีขนาด 7.58 นิ้ว ความละเอียด 2364x1672 ส่วนจอด้านนอกขนาด 5.38 นิ้ว ความละเอียด 1168x1712 อัตรารีเฟรช 120Hz ทั้งสองจอ ความสว่างสูงสุด 4,000-nit กล้องหลัง 3 ตัว กล้องหลัก 200MP กล้องเทเล 50MP ซูมออปติคัล 3.5x และกล้องอัลตร้าไวด์ 50MP นอกจากนี้มีกล้องเซลฟี่ 16MP ที่หน้าจอทั้งสองด้าน ระบบปฏิบัติการ HyperOS 4 ที่มีพื้นฐานจาก Android 17\nXiaomi 18 Fold มีตัวเลือกสีดำ แดง ทอง และสีพิเศษเซรามิก ราคาขายในจีนเริ่มต้น 12/255GB ที่ 10,999 หยวน (ประมาณ 54,000 บาท) ยังไม่มีข้อมูลการขายนอกประเทศจีน\nทั้งนี้มีข้อสังเกตว่า Xiaomi เลือกเปิดตัวสมาร์ทโฟนหน้าจอพับรุ่นใหม่ ไม่กี่วันก่อนงานแถลงข่าวแอปเปิล แถมดีไซน์ของ 18 Fold ก็คล้ายกับ iPhone จอพับที่มีรูปหลุดออกมา รวมถึงสีหลักที่ใช้ทำการตลาดก็เป็นสีแดงเข้ม ที่คาดเดาว่าแอปเปิลก็จะใช้สีนี้เช่นกัน\nที่มา: GSM Arena\n\narjin\nTue, 08/09/2026 - 12:34",
+    "pubDate": "Tue, 08 Sep 2026 05:34:02 +0000",
+    "source": "Blognone",
+    "category": "General",
+    "thumbnail": "https://www.blognone.com/sites/default/files/files-2026/2026-08/img_3105.png",
+    "readTime": "3 นาที"
+  },
+  {
+    "id": "151573 at https://www.blognone.com",
+    "title": "นักวิจัยแยกตัวประกอบ root certificate ขนาด 512 บิตที่ใช้งานจริงในยุค Netscape สำเร็จ",
+    "link": "https://www.blognone.com/node/151573",
+    "content": "นักวิจัยแยกตัวประกอบ root certificate ขนาด 512 บิตที่ใช้งานจริงในยุค Netscape สำเร็จ\n\n  \nBody\nMatthew McPherrin นักวิจัยกระบวนการเข้ารหัสลับ ประกาศความสำเร็จในการแยกตัวประกอบใบรับรองเข้ารหัสลับของ E-Certify ที่เป็นหน่วยงานยืนยันตัวตนออกใบรับรองเข้ารหัสลับตั้งแต่ปี 1998\nE-Certify เป็นบริษัทแคนาดาที่กุญแจสาธารณะได้ถูกรวมไปกับเบราว์เซอร์ Netscape 4.51 ตั้งแต่ปี 1999 ปัญหาคือบริษัทนี้ใช้กุญแจขนาดเพียง 512 บิตเท่านั้น แม้ว่าการแข่งขันแยกตัวประกอบหมายเลข RSA จะแยกตัวประกอบ RSA-155 ที่มีขนาด 512 บิตได้สำเร็จตั้งแต่ปี 1999\nMcPherrin ใช้ซีพียู AMD Ryzen 9 5950X แยกตัวประกอบใบรับรอง E-Certify RSA 512 Gold Server ใช้เวลา 32 ชั่วโมง และ E-Certify RSA 512 Gold Client อีก 29 ชั่วโมง\nตัวใบรับรองของ E-Certify หมดอายุไปตั้งแต่ปี 2003 ดังนั้นแม้จะเป็นคอมพิวเตอร์เก่าตั้งแต่ปี 2000 ก็ไม่สามารถถูกใบรับรองปลอมหลอกได้หากตั้งนาฬิกาไว้ถูกต้อง ความเสี่ยงจึงมีไม่มากนัก\nหมายเลข RSA ที่ใหญ่ที่สุดที่ถูกแยกตัวประกอบได้คือ RSA-260 มีขนาดประมาณ 862 บิต โดยช่วงหลังปี 2000 มีใบรับรองจำนวนมากยังใช้ RSA-1024 อยู่ ทาง NIST เองก็แนะนำให้หยุดใช้ RSA-1024 ตั้งแต่ปี 2010 เป็นต้นไป และให้หันไปใช้ RSA-2048 แทน\nที่มา - Matthew McPherrin\nlew\nTue, 08/09/2026 - 12:30",
+    "pubDate": "Tue, 08 Sep 2026 05:30:55 +0000",
+    "source": "Blognone",
+    "category": "General",
+    "thumbnail": null,
+    "readTime": "3 นาที"
+  },
+  {
+    "id": "https://www.techtalkthai.com/?p=169869",
+    "title": "มาเลเซียเล็งใช้ชิป Ascend 910C ของ Huawei เดินหน้า Sovereign AI แม้สหรัฐฯ เตือนเรื่องความมั่นคง",
+    "link": "https://www.techtalkthai.com/malaysia-eyes-huawei-ascend-910c-sovereign-ai/",
+    "content": "มาเลเซียกำลังพิจารณาเลือกใช้ชิปประมวลผล AI ของ Huawei เพื่อใช้เป็นโครงสร้างพื้นฐานของแผน Sovereign AI มูลค่ากว่า 2,000 ล้านริงกิต หรือราว 494 ล้านดอลลาร์สหรัฐ เพื่อสร้างอธิปไตยทางข้อมูลและลดการพึ่งพาเทคโนโลยีจากภายนอกเพียงฝ่ายเดียว ท่ามกลางแรงกดดันจากสหรัฐฯ ที่ยังคงจับตามองความเคลื่อนไหวนี้ โครงการพัฒนา AI แห่งชาติของมาเลเซียมีเป้าหมายหลักในการควบคุมและรักษาความมั่นคงปลอดภัยของข้อมูลภาครัฐ ข้อมูลหน่วยงานความมั่นคง และข้อมูลระดับชาติให้อยู่ภายใต้การบริหารจัดการของตนเองอย่างสมบูรณ์ รัฐบาลของนายกรัฐมนตรี Anwar Ibrahim พยายามผลักดันให้ประเทศก้าวจากการเป็นเพียงผู้บริโภคเทคโนโลยี มาเป็นผู้กำหนดโครงสร้างพื้นฐานดิจิทัลด้วยตนเอง หัวใจสำคัญของโครงการนี้อยู่ที่ Huawei Ascend 910C ซึ่งเป็นชิป AI Accelerator ตัวท็อปที่ทำตลาดของบริษัทในปัจจุบัน แม้ประสิทธิภาพด้าน Raw Compute และ Ecosystem ด้านซอฟต์แวร์โดยรวมจะยังตามหลัง GPU สถาปัตยกรรมระดับแนวหน้าของ Nvidia อยู่พอสมควร แต่การพัฒนาด้านความคุ้มค่า และการผลิตภายในจีนที่เริ่มเสถียรขึ้น จนหัวเว่ยมีความพร้อมในการส่งมอบชิปนี้สำหรับ Data Center ในตลาดเกิดใหม่ รัฐบาลมาเลเซียได้เลือก Telekom Malaysia ผู้ให้บริการโทรคมนาคมรายใหญ่ของรัฐ ให้เป็นผู้รับผิดชอบหลักในการวางโครงสร้างระบบ …",
+    "pubDate": "Tue, 08 Sep 2026 05:24:07 +0000",
+    "source": "TechTalk Thai",
+    "category": "AI",
+    "thumbnail": "https://www.techtalkthai.com/wp-content/uploads/2026/09/TTT-97-640x336.jpg",
+    "readTime": "3 นาที"
+  },
+  {
+    "id": "https://www.techtalkthai.com/?p=169866",
+    "title": "อาลีบาบาส่งโมเดล Qwen3.8-Flash ลุยตลาด ชูสถาปัตยกรรมใหม่สุดล้ำ คุ้มค่าและทรงพลังที่สุด [PR]",
+    "link": "https://www.techtalkthai.com/alibaba-qwen3-8-flash-pr/",
+    "content": "อาลีบาบาเปิดตัว Qwen3.8-Flash โมเดลประมวลผลมัลติโมดัลแบบเปิดเผยค่าน้ำหนักที่ผ่านการเทรนเรียบร้อยแล้ว (open-weight) ที่ใช้สถาปัตยกรรม Mixture-of-Experts (MoE) ชูจุดเด่นเรื่องความคุ้มค่าสูงสุด โมเดลนี้ประกอบด้วยโมเดลหลักที่มีพารามิเตอร์ 125 พันล้านรายการ (125B) เสริมด้วย N-gram Embeddings อีก 51 พันล้านรายการ (51B) โดยดึงพารามิเตอร์มาใช้งานจริงเพียง 6 พันล้านพารามิเตอร์ (6B) ต่อหนึ่งโทเคน ซึ่งช่วยสร้างความสมดุลได้อย่างลงตัวระหว่างความสามารถ ความเร็วในการตอบสนอง และต้นทุน เหมาะสำหรับแอปพลิเคชันที่ต้องรองรับปริมาณงานสูง เวิร์กโฟลว์ที่ทำงานร่วมกับเครื่องมือต่าง ๆ ตลอดจนระบบช่วยเขียนโค้ดและผู้ช่วยทำงานร่วม นอกจากนี้ Qwen3.8-Flash ยังเป็นต้นแบบของสถาปัตยกรรมที่ออกแบบมาเพื่อรองรับซีรีส์ Qwen4 ที่กำลังจะเปิดตัวเร็ว ๆ นี้ Qwen3.8-Flash แสดงให้เห็นศักยภาพอันโดดเด่นทั้งการเขียนโค้ดด้วยเอเจนต์ (agentic coding),  การทำงานอัตโนมัติอย่างต่อเนื่องในระยะยาว (long-horizon agent tasks) และ AI ที่ประมวลผลได้แบบมัลติโมดัล (multimodal intelligence) โมเดลนี้ทำคะแนนเทียบชั้นได้กับโมเดลชั้นนำเช่น DeepSeek-V4-Flash และ Claude-Opus-4.6 …",
+    "pubDate": "Tue, 08 Sep 2026 04:51:29 +0000",
+    "source": "TechTalk Thai",
+    "category": "AI",
+    "thumbnail": "https://www.techtalkthai.com/wp-content/uploads/2026/09/alibabaqwenflashpr-640x335.png",
+    "readTime": "3 นาที"
+  },
+  {
+    "id": "https://techsauce.co/ai/googles-weathernext-3-ai-weather-forecasting",
+    "title": "เปิดตัว WeatherNext 3 โมเดล AI พยากรณ์อากาศล้ำยุคจาก Google แม่นยำระดับเปลี่ยนเกม วงการอุตุนิยมวิทยาโลก",
+    "link": "https://techsauce.co/ai/googles-weathernext-3-ai-weather-forecasting",
+    "content": "Google เปิดตัว WeatherNext 3 โมเดล AI พยากรณ์อากาศความละเอียดสูง 5 กม. แม่นยำกว่าเดิม เตรียมเชื่อมต่อ Google Search, Maps และ Gemini เพื่อยกระดับข้อมูลสภาพอากาศโลก",
+    "pubDate": "Tue, 08 Sep 2026 11:31:59 +0700",
+    "source": "Techsauce",
+    "category": "AI",
+    "thumbnail": "https://storage.googleapis.com/techsauce-prod/ugc/uploads/2026/9/1788840119_%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B8%8D%E0%B9%88%E0%B8%B2%E0%B8%AD%E0%B8%A2%E0%B9%88%E0%B8%B2%E0%B8%A2%E0%B8%B8%E0%B9%88%E0%B8%87_%E0%B8%9B%E0%B8%81%E0%B8%82%E0%B9%88%E0%B8%B2%E0%B8%A71200x800_%2844%29.webp",
+    "readTime": "1 นาที"
+  },
+  {
+    "id": "https://www.techtalkthai.com/?p=169864",
+    "title": "แฮกเกอร์ใช้ช่องโหว่ใหม่บน MikroTik RouterOS โจมตีจริงแล้ว เข้าควบคุม Router ผ่าน SSH",
+    "link": "https://www.techtalkthai.com/mikrotik-routeros-ssh-vulnerabilities-actively-exploited-router-takeover/",
+    "content": "แฮกเกอร์กำลังนำช่องโหว่ 2 รายการบน MikroTik RouterOS มาต่อกันเป็น exploit chain เพื่อเข้าควบคุมอุปกรณ์ที่เปิดบริการ SSH สู่อินเทอร์เน็ต โดย CERT ของโปแลนด์ยืนยันแล้วว่ามีการโจมตีเกิดขึ้นจริง ช่องโหว่แรกคือ CVE-2026-67276 เป็นช่องโหว่ประเภท SSH Authentication Bypass ที่เกิดจากการตรวจสอบ RSA public key ไม่สมบูรณ์ ทำให้ผู้โจมตีที่ทราบ username และค่า public modulus ของ key ผู้ใช้งานรายนั้น สามารถสร้าง key ขึ้นมาใหม่แล้วเข้าสู่ระบบได้โดยไม่จำเป็นต้องมี private key ตัวจริง ส่วนช่องโหว่ที่สองคือ CVE-2026-86060 เป็นช่องโหว่ประเภท Privilege Escalation บน SSH ที่เกิดจากการจัดการอย่างไม่เหมาะสมกับ username ที่ถูกสร้างขึ้นมาเป็นพิเศษ ผู้โจมตีสามารถใช้ username ดังกล่าวเข้าไปแทรกแซง SSH session จนได้สิทธิ์ระดับผู้ดูแลระบบเต็มรูปแบบ …",
+    "pubDate": "Tue, 08 Sep 2026 02:05:45 +0000",
+    "source": "TechTalk Thai",
+    "category": "Security",
+    "thumbnail": "https://www.techtalkthai.com/wp-content/uploads/2020/01/ttt_2020_world_threat_1-Nicescene-600x313.jpg",
+    "readTime": "2 นาที"
   },
   {
     "id": "https://techsauce.co/news/iflytek-techsauce-global-summit-2026",
@@ -62,28 +326,6 @@
     "category": "General",
     "thumbnail": "https://storage.googleapis.com/techsauce-prod/ugc/uploads/2026/9/1788778440_BOI_%E0%B8%8D%E0%B8%B5%E0%B9%88%E0%B8%9B%E0%B8%B8%E0%B9%88%E0%B8%99%E0%B9%84%E0%B8%97%E0%B8%A2_800.webp",
     "readTime": "1 นาที"
-  },
-  {
-    "id": "151569 at https://www.blognone.com",
-    "title": "Civilization 7 เปิดตัวเนื้อหาเสริม Arc of Tomorrow ยุคนิวเคลียร์ และ Earthrise ยุคอวกาศ ",
-    "link": "https://www.blognone.com/node/151569",
-    "content": "Civilization 7 เปิดตัวเนื้อหาเสริม Arc of Tomorrow ยุคนิวเคลียร์ และ Earthrise ยุคอวกาศ \n\n  \nBody\nสตูดิโอ Firaxis เปิดเผยแผนการอัพเดตเกม Civilization VII ในปีหน้า 2027 โดยจะมีอัพเดตเนื้อหาใหญ่ 2 ตัว ดังนี้\nArc of Tomorrow เป็นอัพเดตฟรี จะเพิ่มยุคสมัยของเกมจากเดิมมี 3 ยุค มาเป็นยุคที่ 4 คือ Atomic Age นับจากปี 1950 ต่อไปจนถึงปี 2050 เพิ่มระบบเกมเพลย์ด้านอาวุธนิวเคลียร์ การผลิต ภาพยนตร์ การทูตแบบหลายภาคี และเพิ่มชนชาติใหม่ๆ เข้ามาให้เล่นอีก\nEarthrise เป็น Expansion แบบเสียเงินตัวแรกของภาค 7 ไม่ได้เพิ่มยุคอวกาศ แต่เพิ่มเกมเพลย์เกี่ยวกับท้องฟ้า ดาราศาสตร์ และอวกาศในทั้ง 4 ยุคของเกม โดยจะมีทั้งภารกิจสำรวจดวงจันทร์ในยุค Modern Age และสำรวจสุริยะจักรวาลในยุค Atomic Age แล้วสามารถนำทรัพยากรกลับมาใช้ที่โลกได้ด้วย\nที่มา - Civilization\n\n\nmk\nMon, 07/09/2026 - 17:17",
-    "pubDate": "Mon, 07 Sep 2026 10:17:10 +0000",
-    "source": "Blognone",
-    "category": "General",
-    "thumbnail": "https://www.blognone.com/sites/default/files/files-2026/2026-09/civ_arcoftomorrow.webp",
-    "readTime": "2 นาที"
-  },
-  {
-    "id": "151567 at https://www.blognone.com",
-    "title": "LINE อัปเดตดีไซน์แอป แทนที่ปุ่ม VOOM ด้วย OpenChat",
-    "link": "https://www.blognone.com/node/151567",
-    "content": "LINE อัปเดตดีไซน์แอป แทนที่ปุ่ม VOOM ด้วย OpenChat\n\n  \nBody\nLINE อัปเดตส่วนติดต่อผู้ใช้งานในแอปมีผลสำหรับผู้ใช้งานในประเทศไทย โดยเริ่มทยอยอัปเดตมาตั้งแต่วันที่ 1 กันยายน มีการเปลี่ยนแปลงดังนี้\nแทนที่ปุ่ม LINE VOOM ในแถบหลักเป็นปุ่ม OpenChat ตามแผนเตรียมปิดบริการ LINE VOOM สิ้นเดือนกันยายนนี้\nหากผู้ใช้งานได้อัปเดตแทนที่ด้วยปุ่ม OpenChat ในแอปแล้ว จะไม่สามารถใช้งาน LINE VOOM ได้อีก\nฟีเจอร์สตอรี่และการ์ดวันเกิดไม่สามารถใช้งานได้เช่นกัน ตามการปิดบริการ LINE VOOM\nทั้งนี้บริการ LINE VOOM ยังมีให้ใช้งานในญี่ปุ่นและไต้หวันแบบจำกัดฟีเจอร์\nที่มา: LINE\narjin\nMon, 07/09/2026 - 17:12",
-    "pubDate": "Mon, 07 Sep 2026 10:12:00 +0000",
-    "source": "Blognone",
-    "category": "General",
-    "thumbnail": null,
-    "readTime": "2 นาที"
   },
   {
     "id": "https://techsauce.co/ai/graph-engineering-google-adk-explained",
@@ -152,50 +394,6 @@
     "readTime": "1 นาที"
   },
   {
-    "id": "https://techsauce.co/saucy-thoughts/chula-university-startup-sandbox",
-    "title": "ถอดโมเดลจุฬาฯ เปลี่ยนมหาวิทยาลัยเป็น Sandbox เปิดพื้นที่ให้นิสิตสร้าง Startup",
-    "link": "https://techsauce.co/saucy-thoughts/chula-university-startup-sandbox",
-    "content": "ทุกวันนี้มหาวิทยาลัยอาจไม่ใช่แค่สถานที่เรียนจบเพื่อเอาใบปริญญา แต่กำลังกลายเป็นสนามซ้อมให้ได้ลองทำธุรกิจตั้งแต่ยังเรียนอยู่",
-    "pubDate": "Mon, 07 Sep 2026 11:26:45 +0700",
-    "source": "Techsauce",
-    "category": "General",
-    "thumbnail": "https://storage.googleapis.com/techsauce-prod/ugc/uploads/2026/9/1788755140_Startup_%E0%B8%88%E0%B8%B8%E0%B8%AC%E0%B8%B2.webp",
-    "readTime": "1 นาที"
-  },
-  {
-    "id": "https://techsauce.co/news/anthropic-claude-campus-ambassador-program",
-    "title": "Anthropic เปิดรับสมัครแบรนด์แอมบาสเดอร์ Claude โอกาสทอง ป.ตรี-โท-เอก เงินสนับสนุน กว่า 1 แสน",
-    "link": "https://techsauce.co/news/anthropic-claude-campus-ambassador-program",
-    "content": "Anthropic เปิดรับสมัคร Claude Campus Ambassador จ้างนักศึกษาร่วมจัดกิจกรรม AI ในมหาวิทยาลัย รับค่าตอบแทนสูงถึง 120,000 บาท สรุปเงื่อนไขและวิธีสมัครที่นี่",
-    "pubDate": "Mon, 07 Sep 2026 11:22:47 +0700",
-    "source": "Techsauce",
-    "category": "AI",
-    "thumbnail": "https://storage.googleapis.com/techsauce-prod/ugc/uploads/2026/9/1788754795_%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B8%8D%E0%B9%88%E0%B8%B2%E0%B8%AD%E0%B8%A2%E0%B9%88%E0%B8%B2%E0%B8%A2%E0%B8%B8%E0%B9%88%E0%B8%87_%E0%B8%9B%E0%B8%81%E0%B8%82%E0%B9%88%E0%B8%B2%E0%B8%A71200x800_%2843%29.webp",
-    "readTime": "1 นาที"
-  },
-  {
-    "id": "https://techsauce.co/saucy-thoughts/5t-thai-founder-silicon-valley-robotics-fundraising",
-    "title": "5Tสูตรระดมทุนจากสตาร์ตอัปไทย VisionLab ที่คว้าเงินกว่า 6 ล้าน USD จาก Silicon Valley",
-    "link": "https://techsauce.co/saucy-thoughts/5t-thai-founder-silicon-valley-robotics-fundraising",
-    "content": "เงินทุนกว่า 7 ล้านดอลลาร์สหรัฐอาจเป็นรอบระดมทุนขนาดใหญ่ในสายตาสตาร์ทอัพไทย ทว่าใน Silicon Valley ตัวเลขนี้ยังถือเป็นเพียงรอบเล็ก ๆ สำหรับ ธนชาติ (เจมส์) คุจารีวณิช ผู้ร่วมก่อตั้งและ CEO ของ VisionLab",
-    "pubDate": "Mon, 07 Sep 2026 10:41:11 +0700",
-    "source": "Techsauce",
-    "category": "General",
-    "thumbnail": "https://storage.googleapis.com/techsauce-prod/ugc/uploads/2026/9/1788752461_vision-labs2.webp",
-    "readTime": "1 นาที"
-  },
-  {
-    "id": "https://techsauce.co/video/healthpan-ai-wearable",
-    "title": "AI & Wearable จะทำให้ความแก่ กลายเป็นโรคที่รักษาได้? l Healthspan EP. 2",
-    "link": "https://techsauce.co/video/healthpan-ai-wearable",
-    "content": "คลิปนี้จะพาทุกคนไปถอดรหัส Healthspan จากคุณกระทิง เรืองโรจน์ ว่า AI และ Wearable ยุคใหม่จะเข้ามาซื้อเวลาชีวิตกลับคืนมาให้เราได้ยังไง? แล้วทำไมอนาคตเราอาจจะมี Jarvis ส่วนตัวคอยเตือนไม่ให้เราป่วย",
-    "pubDate": "Mon, 07 Sep 2026 10:30:00 +0700",
-    "source": "Techsauce",
-    "category": "AI",
-    "thumbnail": null,
-    "readTime": "1 นาที"
-  },
-  {
     "id": "https://www.techtalkthai.com/?p=169808",
     "title": "Panduit และ Globaltronic ผนึกกำลังพัฒนาโครงสร้างพื้นฐานพร้อมรองรับ AI ในประเทศไทย [Guest Post]",
     "link": "https://www.techtalkthai.com/panduit-and-globaltronic-partners-to-develop-ai-ready-infrastructure-in-thailand-guest-post/",
@@ -218,39 +416,6 @@
     "readTime": "2 นาที"
   },
   {
-    "id": "151565 at https://www.blognone.com",
-    "title": "ศาลรัฐเดลาแวร์ตัดสิน ชื่อ Twitter ยังเป็นของ X ห้ามโซเชียลอื่นนำไปสร้าง-ใช้ต่อ แต่คำว่า Tweet กับโลโก้นกสีฟ้าสามารถใช้ได้",
-    "link": "https://www.blognone.com/node/151565",
-    "content": "ศาลรัฐเดลาแวร์ตัดสิน ชื่อ Twitter ยังเป็นของ X ห้ามโซเชียลอื่นนำไปสร้าง-ใช้ต่อ แต่คำว่า Tweet กับโลโก้นกสีฟ้าสามารถใช้ได้\n\n  \nBody\nเรื่องมีอยู่ว่าในสัปดาห์ก่อน มีสตาร์ทอัปใหม่ Operation Bluebird เปิดตัวโซเชียลเน็ตเวิร์กที่ชื่อว่า Twitter.now โดยหนึ่งในผู้ก่อตั้งคือ Stephen Coates ที่เคยเป็นที่ปรึกษาด้านเครื่องหมายการค้าของ Twitter\nในตอนนี้ Twitter.now ยังไม่ได้เปิดบริการต่อสาธารณะ แต่เปิดรับสมาชิกรุ่นก่อตั้งในราคา 20 ดอลลาร์ ซึ่ง Operation Bluebird บอกถึงแนวทางว่านี่ไม่ใช่การสร้างโซเชียลตัวเดิมที่มหาเศรษฐีท่านหนึ่งซื้อกิจการไปกลับคืนมา แต่ต้องการสร้างโซเชียลที่น่าเชื่อถือ ผู้ใช้งานกำหนดสิ่งที่ต้องการเห็นได้ อัลกอริทึมส่งเนื้อหาที่เหมาะสมมาในฟีด\nถึงแม้ Twitter ตอนนี้ได้เปลี่ยนชื่อเป็น X มาหลายปีแล้ว แต่ X ก็คงไม่ยินดีที่มีคนทำอะไรแบบนี้แน่จึงได้ฟ้องต่อศาลรัฐเดลาแวร์ ให้ออกคำสั่งระงับการให้บริการโซเชียลชื่อ Twitter ตั้งแต่ปีที่แล้ว ซึ่งฝั่งบริษัท Operation Bluebird ก็โต้แย้งว่า X เลือกปล่อยและไม่ได้เป็นเจ้าของเครื่องหมายการค้าทั้ง Twitter และ Tweet ไปแล้ว\nล่าสุดศาลรัฐเดลาแวร์ได้ออกคำตัดสิน ห้าม Operation Bluebird ใช้คำว่า Twitter ที่ยังถือว่าเป็นเครื่องหมายการค้าของ X อย่างไรก็ตามศาลบอกว่า X ได้เลิกใช้งานเครื่องหมายการค้าสองอย่างคือคำว่า Tweet และโลโก้นกสีฟ้า จึงอนุญาตให้ Operation Bluebird สามารถใช้สองสิ่งนี้ได้ จึงทำให้บริษัทเปลี่ยนชื่อบริการใหม่เป็น Tweet.app แทน\nทั้งนี้ทนายความของ X ได้ยื่นอุทธรณ์ต่อประเด็นดังกล่าวแล้ว เรื่องนี้จึงยังไม่จบง่าย ๆ ขณะเดียวกัน Tweet.app ก็ต้องพิสูจน์ต่อไปว่าจะสามารถเป็นโซเชียลสำหรับคนที่คิดถึงนกสีฟ้าได้หรือไม่\nที่มา: TechCrunch\narjin\nSun, 06/09/2026 - 18:46",
-    "pubDate": "Sun, 06 Sep 2026 11:46:00 +0000",
-    "source": "Blognone",
-    "category": "General",
-    "thumbnail": null,
-    "readTime": "4 นาที"
-  },
-  {
-    "id": "https://techsauce.co/sustainable-focus/axons-ai-agritech-food-supply-chain",
-    "title": "เจาะเบื้องหลัง AgriTech ของ AXONS ใช้ AI แก้โจทย์การเกษตรอย่างไร ตั้งแต่การทำฟาร์มถึง Food Supply Chain",
-    "link": "https://techsauce.co/sustainable-focus/axons-ai-agritech-food-supply-chain",
-    "content": "ในปี 2050 ที่ประชากรโลกอาจพุ่งทะลุ 10,000 ล้านคน เราจะเอาอาหารที่ไหนมาเลี้ยงคนทั้งโลก ?",
-    "pubDate": "Sun, 06 Sep 2026 17:21:06 +0700",
-    "source": "Techsauce",
-    "category": "AI",
-    "thumbnail": "https://storage.googleapis.com/techsauce-prod/ugc/uploads/2026/9/1788689869_AgriTech.webp",
-    "readTime": "1 นาที"
-  },
-  {
-    "id": "151564 at https://www.blognone.com",
-    "title": "OpenAI ยอมรับไม่ได้รายงานเหตุการณ์ AI Agent ใช้วิกิเป็นเว็บบอร์ดคุยระหว่างกัน มองยังไม่ใช้ปัญหาความปลอดภัย",
-    "link": "https://www.blognone.com/node/151564",
-    "content": "OpenAI ยอมรับไม่ได้รายงานเหตุการณ์ AI Agent ใช้วิกิเป็นเว็บบอร์ดคุยระหว่างกัน มองยังไม่ใช้ปัญหาความปลอดภัย\n\n  \nBody\nมีรายงานใหม่เกี่ยวกับกรณีที่ AI พยายามทำงานบางอย่างกันเอง ซึ่งอาจมองว่าเป็นการเจาะระบบภายนอกเกินการควบคุมอีกครั้ง ซึ่งกรณีนี้มาจาก AI Agent ของ OpenAI ได้เข้าไปใช้งาน DseWiki เว็บวิกิของชุมชนโปรแกรมเมอร์ในเยอรมนี ด้วยการสร้างเนื้อหาบนวิกินี้ แล้วแก้ไขเนื้อหากันไปมากกว่า 18,000 ครั้ง เพื่อแลกเปลี่ยนข้อมูลระหว่างกันเกี่ยวกับการเจาะระบบ Sandbox ของ OpenAI ไม่ให้ถูกตรวจจับได้\nทีมนักวิจัยที่ค้นพบเหตุการณ์ดังกล่าวบอกว่าเรื่องนี้เกิดขึ้นช่วงเดือนพฤษภาคม ซึ่งเกิดขึ้นก่อนเหตุการณ์ AI ของ OpenAI เจาะระบบ Hugging Face และ OpenAI เองก็ไม่ได้เปิดเผยเหตุการณ์นี้ต่อสาธารณะ\nด้าน OpenAI ชี้แจงเกี่ยวกับเหตุการณ์นี้ว่าทำให้บริษัทต้องกำหนดเส้นแบ่งเหตุการณ์ ว่าแบบใดคือลักษณะที่โมเดล AI เพียงทำงานผิดไปจากที่ควรเป็นเท่านั้น ซึ่งกรณีของวิกิเยอรมนีเข้าข่ายดังกล่าว แต่ในกรณีของ Hugging Face โมเดลทำงานผิดไปจากที่ควรเป็นและละเมิดเกณฑ์ด้านความปลอดภัย มีผลกับภายนอก ทำให้บริษัทต้องสื่อสารกับผู้ที่เกี่ยวข้อง OpenAI ยอมรับว่าตอนนี้มาตรฐานยังไม่ชัดเจน จึงต้องกำหนดรูปแบบใหม่ในกรณีที่โมเดล AI ทำงานผิดไปจากที่ควรเป็นว่าแบบใดที่เรียกว่าละเมิดเกณฑ์ความปลอดภัย\nที่มา: Bleeping Computer\narjin\nSun, 06/09/2026 - 15:30",
-    "pubDate": "Sun, 06 Sep 2026 08:30:00 +0000",
-    "source": "Blognone",
-    "category": "Security",
-    "thumbnail": null,
-    "readTime": "4 นาที"
-  },
-  {
     "id": "https://www.beartai.com/?p=1505720",
     "title": "Marshall เปิดตัว Acton IV และ Stanmore IV ลำโพงบ้านรุ่นใหม่ ปรับทวีตเตอร์ใหม่ รองรับ Auracast และการเปลี่ยนอะไหล่",
     "link": "https://www.beartai.com/tech/gadget/1505720/",
@@ -260,61 +425,6 @@
     "category": "General",
     "thumbnail": "https://www.beartai.com/wp-content/uploads/2026/09/Marshall-MARSHALL-ACTON-IV_03-600x400.jpg",
     "readTime": "4 นาที"
-  },
-  {
-    "id": "151563 at https://www.blognone.com",
-    "title": "[ลือ] โรดแม็ปการออก iPhone ของ Apple ยาวไปถึงปี 2028 และสินค้าอื่น ๆ",
-    "link": "https://www.blognone.com/node/151563",
-    "content": "[ลือ] โรดแม็ปการออก iPhone ของ Apple ยาวไปถึงปี 2028 และสินค้าอื่น ๆ\n\n  \nBody\nถึงแม้แอปเปิลจะไม่บอกเป็นทางการว่างานแถลงข่าว Surprise and shine ในสัปดาห์หน้า จะมีสินค้าใดเปิดตัวบ้าง แต่ iPhone รุ่นใหม่ก็น่าจะออกมาตามรอบการเปิดตัวที่เป็นแบบนี้ทุกปี อย่างไรก็ตาม Mark Gurman แห่ง Bloomberg คนเดิม ได้จัดข้อมูลชุดใหญ่เป็นโรดแม็ปการออกสินค้าของแอปเปิลยาว ๆ ตั้งแต่งานสัปดาห์หน้า ไปจนถึงมี 2028 กันเลยทีเดียว รายละเอียดดังนี้\nงาน Surprise and shine สัปดาห์หน้า\niPhone 18 Pro และ iPhone 18 Pro Max ชิป A20 Pro, ชิปโมเด็ม C2 มีสีใหม่ฟ้าอ่อนและแดงเข้ม\niPhone Ultra สมาร์ทโฟนจอพับตัวแรก, ใช้ Touch ID, ราคาไม่ต่ำกว่า 2,000 ดอลลาร์\nApple Watch Series 12 ชิป S11, มีรุ่นที่เป็นเซรามิก\nApple Watch Ultra 4 ชิป S11, ปรับปรุงฟีเจอร์ด้านสุขภาพ\nAirPods 5 มีสองรุ่นย่อยที่มีและไม่มี ANC\nภายในปี 2027\niPhone 18 และ iPhone 18e ตามแผนใหม่ที่เลื่อนรอบการเปิดตัว iPhone รุ่นพื้นฐานออกไปเป็นต้นปี\niPhone Air 2 เพิ่มกล้องหลังเป็น 2 ตัว, ชิปรุ่นใหม่\niPhone Pro และ iPhone Pro Max ดีไซน์ใหม่ฉลองครบรอบ 20 ปี ข่าวก่อนหน้านี้บอกว่าหน้าจอแบบไร้ขอบ\niPhone Ultra รุ่นที่สอง\nสินค้าสมาร์ทโฮมหลายอย่าง เช่น จอควบคุมอุปกรณ์ที่ลือกันมายาวนาน, กล้องวงจรปิดอัจฉริยะ, Apple TV ใหม่, HomePod ใหม่\nMacBook Neo รุ่นอัปเกรด ใช้ชิป A19 Pro เพิ่มแรมเป็น 12GB\nภายในปี 2028\niPhone Ultra รุ่นที่สาม มีขนาดหน้าจอใหญ่ขึ้นกว่าสองรุ่นแรก\nที่มา: Bloomberg\narjin\nSun, 06/09/2026 - 11:39",
-    "pubDate": "Sun, 06 Sep 2026 04:39:00 +0000",
-    "source": "Blognone",
-    "category": "General",
-    "thumbnail": null,
-    "readTime": "4 นาที"
-  },
-  {
-    "id": "151557 at https://www.blognone.com",
-    "title": "Google อัปเดตโมเดลพยากรณ์อากาศ WeatherNext 3 เพิ่มความถี่เป็นทุก 1 ชั่วโมง เพิ่มแหล่งข้อมูลให้แม่นยำมากขึ้น",
-    "link": "https://www.blognone.com/node/151557",
-    "content": "Google อัปเดตโมเดลพยากรณ์อากาศ WeatherNext 3 เพิ่มความถี่เป็นทุก 1 ชั่วโมง เพิ่มแหล่งข้อมูลให้แม่นยำมากขึ้น\n\n  \nBody\nทีม Google DeepMind และ Google Research อัปเดตโมเดลพยากรณ์อากาศรุ่นใหม่ WeatherNext 3 ซึ่งปรับปรุงด้วยแหล่งข้อมูลที่มากขึ้น และเพิ่มความถี่ของการพยากรณ์มากกว่าเดิม\nWeatherNext 3 ได้เพิ่มความถี่ในการปรับปรุงข้อมูลและระยะความละเอียดของข้อมูลใหม่เป็น ทุก 1 ชั่วโมง ที่ความละเอียดระดับ 5 กิโลเมตร สำหรับค่าอุณหภูมิ-ความชื้น ส่วนตัวแปรภาคพื้นที่ระดับ 10 กิโลเมตร และตัวแปรชั้นบรรยากาศ 25 กิโลเมตร ซึ่งดีขึ้นกว่า WeatherNext 2 เวอร์ชันก่อนหน้า ที่อัปเดตทุก 6 ชั่วโมง บนความละเอียดทุกตัวแปร 25 กิโลเมตร\n\nโมเดลใหม่นี้ยังปรับปรุงแหล่งข้อมูลสำหรับพยากรณ์อากาศให้แม่นยำขึ้น จากเดิมที่ใช้โมเดล NWP (Numerical Weather Prediction) ในการจำลองข้อมูลเป็นหลัก ซึ่งอัปเดตทุก 6 ชั่วโมง และมักไม่ทันข้อมูลเมฆฝน โดยเพิ่มข้อมูลดาวเทียมระบุตำแหน่งแบบเรียลไทม์ รวมกับข้อมูลจากสถานีตรวจสภาพอากาศทั่วโลก ทำให้การพยากรณ์อากาศมีข้อมูลที่อัปเดตไวขึ้น แม่นยำมากกว่าเดิม นอกจากนี้เฉพาะข้อมูลฝนยังใช้ข้อมูลจากดาวเทียม IMERG ของ NASA และข้อมูลที่กูเกิลรวบรวมเอง ทำให้ความแม่นยำดีขึ้นถึง 60%\n\nนักพัฒนาสามารถเข้าถึงข้อมูลพยากรณ์อากาศทั่วโลกได้ระดับชั่วโมงผ่าน BigQuery, Earth Engine หรือดาวน์โหลดข้อมูลเป็นชุดได้จาก Google Cloud Storage นอกจากนี้ข้อมูลพยากรณ์จะนำมาใช้กับบริการต่าง ๆ ของกูเกิลทั้ง Google Search, Gemini, Google Maps, Google Earth สำหรับผู้ใช้งานทั่วไปด้วย\nที่มา: กูเกิล\narjin\nSun, 06/09/2026 - 10:45",
-    "pubDate": "Sun, 06 Sep 2026 03:45:00 +0000",
-    "source": "Blognone",
-    "category": "AI",
-    "thumbnail": "https://www.blognone.com/sites/default/files/files-2026/2026-08/1_weathernext3_diagrams_fig-01.width-1600.format-webp.jpg",
-    "readTime": "4 นาที"
-  },
-  {
-    "id": "151562 at https://www.blognone.com",
-    "title": "ไมโครซอฟท์เปิดตัว Project Zenith - Windows 11 เวอร์ชันพิเศษสำหรับนักพัฒนา",
-    "link": "https://www.blognone.com/node/151562",
-    "content": "ไมโครซอฟท์เปิดตัว Project Zenith - Windows 11 เวอร์ชันพิเศษสำหรับนักพัฒนา\n\n  \nBody\nไมโครซอฟท์เปิดตัว Project Zenith หรือ Windows 11 เวอร์ชันพิเศษสำหรับนักพัฒนาที่ต้องการเขียนโค้ดด้วย AI รองรับการรันโมเดลที่มีพารามิเตอร์ขนาด 30B+ ขึ้นไปในเครื่อง\nProject Zenith ถูกออกแบบมาสำหรับฮาร์ดแวร์รุ่นพิเศษ ที่มีหน่วยความจำแบบ unified memory ขนาด 64GB ขึ้นไป และมีแบนด์วิดท์หน่วยความจำสูงกว่า 250 GB/s โดยฮาร์ดแวร์รุ่นแรกจะอิงอยู่บน มินิพีซี AMD Ryzen AI Halo แต่จะมีฮาร์ดแวร์ที่ใช้ชิปรุ่นอื่นตามมา\nWindows 11 เวอร์ชัน Project Zenith จะมาพร้อมเครื่องมือพื้นฐานสำหรับการเขียนโค้ดและรันโมเดล ประกอบด้วย VS Code, GitHub COpilot, PowerToys, Windows CLI, Windows Terminal, PowerShell 7, .NET 10 รวมถึงมี WSL 2 ที่ติดตั้ง Ubuntu มาให้แล้ว\nProject Zenith ยังจะถูกตั้งค่าให้เหมาะกับนักพัฒนา เช่น Explorer แสดงนามสกุลไฟล์และไฟล์ที่ถูกซ่อน, ปิดไม่แสดงผล recent files, ปิดการแจ้งเตือน และเปิดใช้งาน Command Palette ของ PowerToys (ทำงานเหมือน Spotlight ของ macOS)\nที่มา - Microsoft\nmk\nSun, 06/09/2026 - 09:46",
-    "pubDate": "Sun, 06 Sep 2026 02:46:24 +0000",
-    "source": "Blognone",
-    "category": "AI",
-    "thumbnail": null,
-    "readTime": "3 นาที"
-  },
-  {
-    "id": "151561 at https://www.blognone.com",
-    "title": "ทำงานดีขึ้น 3 เท่า! Acer เปิดตัวชุดจอมอนิเตอร์พกพาแบบ 3 จอพับได้ ",
-    "link": "https://www.blognone.com/node/151561",
-    "content": "ทำงานดีขึ้น 3 เท่า! Acer เปิดตัวชุดจอมอนิเตอร์พกพาแบบ 3 จอพับได้ \n\n  \nBody\nAcer เปิดตัวชุดจอมอนิเตอร์พกพาสำหรับใช้งานนอกสถานที่  Acer PD163Q P3 จุดเด่นคือมี 3 หน้าจอ รีดพลัง productivity ให้สุดทาง\nจอทั้ง 3 มีขนาด 15.6 นิ้วเท่ากัน เป็นจอแบบ IPS ความละเอียด Full HD สามารถพับเก็บได้ ใช้สาย USB-C เพียงเส้นเดียวต่อเชื่อม\nสินค้าเริ่มวางขายไตรมาส 1 ปี 2027 ในราคา 349.99 ดอลลาร์\nที่มา - Acer\nmk\nSun, 06/09/2026 - 09:21",
-    "pubDate": "Sun, 06 Sep 2026 02:21:55 +0000",
-    "source": "Blognone",
-    "category": "General",
-    "thumbnail": null,
-    "readTime": "2 นาที"
-  },
-  {
-    "id": "151555 at https://www.blognone.com",
-    "title": "Google Translate อัปเดตฟีเจอร์ Live Translate ให้ Android, iOS",
-    "link": "https://www.blognone.com/node/151555",
-    "content": "Google Translate อัปเดตฟีเจอร์ Live Translate ให้ Android, iOS\n\n  \nBody\nGoogle Translate อัปเดตฟีเจอร์การแปลภาษาแบบเรียลไทม์ Live Translate ที่เปิดให้ใช้งานเมื่อเดือนมิถุนายนที่ผ่านมา รองรับมากกว่า 70 ภาษา และมีดีเลย์ที่สั้นมากจากต้นฉบับ โดยมีของใหม่ดังนี้\nความสามารถแรกได้เฉพาะ Android ก่อน โดยสามารถแปลภาษาเรียลไทม์แบบทำงานเบื้องหลัง (background) ได้แล้ว ผู้ใช้งานจึงสามารถมัลติทาสก์ทำอย่างอื่นไปด้วยฟังการแปลไปด้วยได้ กูเกิลบอกว่าเพราะคนใช้ฟีเจอร์นี้ถึง 1 ใน 3 มีการแปลเสียงความยาวมากกว่า 5 นาที ฟีเจอร์นี้จะตามมาใน iOS เร็ว ๆ นี้\nอีกความสามารถเป็นของ iOS โดยสามารถฟังเสียงการแปลผ่านหูฟังในโทรศัพท์ได้แล้ว จากเดิมต้องฟังผ่านหูฟังภายนอกเท่านั้น ฟีเจอร์นี้ปัจจุบัน Android ใช้งานได้อยู่แล้ว\nที่มา: กูเกิล\narjin\nSat, 05/09/2026 - 21:39",
-    "pubDate": "Sat, 05 Sep 2026 14:39:00 +0000",
-    "source": "Blognone",
-    "category": "General",
-    "thumbnail": null,
-    "readTime": "2 นาที"
   },
   {
     "id": "https://it24hrs.com/?p=169688",
@@ -394,17 +504,6 @@
     "readTime": "2 นาที"
   },
   {
-    "id": "https://www.techtalkthai.com/?p=169758",
-    "title": "Bitdefender MDR: ผสมผสาน ‘ บุคลากร, กระบวนการ และ เทคโนโลยี’ เพื่อปกป้องระบบธุรกิจสำคัญตลอด 24/7",
-    "link": "https://www.techtalkthai.com/bitdefender-mdr-services/",
-    "content": "การโจมตีไซเบอร์ในปัจจุบันมักเกิดขึ้นนอกเวลาทำการ อาจเป็นกลางดึกหรือวันหยุด ซึ่งเป็นช่วงที่ทีมไอทีส่วนใหญ่ไม่ได้เฝ้าระวัง ปัญหาจึงไม่ได้อยู่ที่คุณภาพของเทคโนโลยีป้องกันภัย แต่อยู่ที่ว่ามี บุคลากรคอยตรวจสอบและตอบสนองต่อสัญญาณเตือนตลอดเวลาหรือไม่ Bitdefender Managed Detection and Response (MDR) จึงถูกออกแบบมาเพื่อเติมเต็มช่องว่างนี้ ด้วยการรวมทีมผู้เชี่ยวชาญที่เฝ้าระวังตลอด 24 ชั่วโมง (SOC) เข้ากับข้อมูลภัยคุกคามล่าสุด การล่าหาภัยเชิงรุก และแพลตฟอร์มความปลอดภัยแบบครบวงจร เพื่อตรวจจับและสกัดกั้นการโจมตีก่อนลุกลาม นอกจากนี้ ลูกค้าที่ใช้บริการระดับ MDR PLUS และมีคุณสมบัติตรงตามเงื่อนไข ยังได้รับความคุ้มครองเพิ่มเติมผ่านประกันความเสียหายจากภัยไซเบอร์สูงสุดถึง 1 ล้านดอลลาร์สหรัฐฯ ทำไมธุรกิจยุคนี้ ไม่ว่าเล็กหรือใหญ่ ควรมี MDR ปัญหาที่แท้จริงอยู่ที่ “คน” ไม่ใช่ “เทคโนโลยี” ทุกวันนี้เทคโนโลยีหาซื้อง่าย สวนทางกับคนเก่งที่จะมาดูแล โดยเฉพาะผู้เชี่ยวชาญด้าน Cybersecurity ที่มีค่าตัวสูงลิ่ว ดังนั้นการมีศูนย์เฝ้าระวังความปลอดภัยแบบ 24/7 ชั่วโมง(SOC) ต้องมีทีมงานหลายช่วงเวลา ซึ่งเป็นต้นทุนที่สูงเกินไปสำหรับหลายองค์กร ด้วยเหตุนี้เอง MDR คือทางลัดที่ช่วยให้คุณมีทีมงานที่มีความเชี่ยวชาญระดับโลกมาใช้ได้ทันที โดยไม่ต้องจ้างและสร้างทีมขึ้นมาเองทั้งหมด โดยเฉพาะทีมนักวิเคราะห์ที่มีประสบการณ์ระดับโลกจาก Bitdefender ภัยคุกคามฉลาดขึ้นทุกวัน แถมยังมี …",
-    "pubDate": "Fri, 04 Sep 2026 06:12:04 +0000",
-    "source": "TechTalk Thai",
-    "category": "Security",
-    "thumbnail": "https://www.techtalkthai.com/wp-content/uploads/2026/09/Bitdefender-MDR-FB-Banner-2-1.png",
-    "readTime": "4 นาที"
-  },
-  {
     "id": "https://it24hrs.com/?p=169669",
     "title": "OpenAI เปิดตัว GPT-6 Astra  ก้าวใหม่สู่ AGI?  ฉลาดและทำงานเองได้มากกว่าเดิม",
     "link": "https://it24hrs.com/2026/openai-gpt-6-astra-ai-computer-use/",
@@ -414,83 +513,6 @@
     "category": "AI",
     "thumbnail": null,
     "readTime": "1 นาที"
-  },
-  {
-    "id": "https://www.techtalkthai.com/?p=169748",
-    "title": "ปรับกลยุทธ์ Enterprise Infrastructure ที่ Symphony Communication มองว่า Public Cloud อาจไม่ใช่คำตอบเดียวเสมอไป",
-    "link": "https://www.techtalkthai.com/eita26-summary-enterprise-infrastructure-rethink-stragetigic-by-symphony-communication/",
-    "content": "องค์กรส่วนใหญ่ที่ตัดสินใจย้ายระบบขึ้น Public Cloud หวังผลด้านความรวดเร็วและความยืดหยุ่น แต่เมื่อเวลาผ่านไปกลับพบปัญหาต้นทุนที่พุ่งสูงขึ้น ควบคู่กับความซับซ้อนในการบริหารจัดการ และความเสี่ยงด้าน Ransomware ที่รุนแรงขึ้น จนทิศทางการขึ้น Public Cloud อาจไม่ใช่คำตอบสุดท้ายในการบริหารจัดการองค์กรในยุคนี้ ภายในงาน Enterprise IT Admin days 2026 ที่จัดโดย TechTalkThai มีคำอธิบายเรื่องนี้จาก คุณชีระวิทย์ ภูริเดชชัยพัฒน์ Cloud Solution Manager จาก Symphony Communication ที่นำเสนอแนวคิดการออกแบบ Infrastructure ที่เน้น Operational Resilience และ Flexibility เพื่อปลดล็อกองค์กรจากข้อจำกัดเดิม ๆ และวางโครงสร้างพื้นฐานที่ตอบโจทย์ความยั่งยืนของธุรกิจดังนี้ ปัญหาบริหารจัดการที่ค่อย ๆ คืบคลานเข้ามา การใช้งาน Public Cloud ไม่ใช่เรื่องผิด แต่องค์กรมักตกลงไปในสภาวะ Lock-in โดยไม่รู้ตัวเมื่อเวลาผ่านไป ปัญหาไม่ได้เกิดขึ้นในวันแรก แต่มันคืบคลานเข้ามาในรูปแบบต่าง ๆ ไม่ว่าจะเป็น Cost …",
-    "pubDate": "Fri, 04 Sep 2026 05:35:38 +0000",
-    "source": "TechTalk Thai",
-    "category": "Security",
-    "thumbnail": "https://www.techtalkthai.com/wp-content/uploads/2026/09/TTT_EITA_Summary_Symphony-FB-Banner.jpg",
-    "readTime": "3 นาที"
-  },
-  {
-    "id": "https://www.techtalkthai.com/?p=169744",
-    "title": "TechTalk Webinar : จาก Prompt สู่ Spec-Driven คู่มือทำงานกับ AI แบบใช้งานได้จริง [18 Sep 2026 – 13.00น.]",
-    "link": "https://www.techtalkthai.com/techtalk-webinar-prompt-to-spec-driven-by-msc-x-aws/",
-    "content": "Metro Connect Systems และ AWS ร่วมกับ TechTalkThai ขอเชิญเหล่า Software Leads, Software Developers, DevOps Engineers ทุกท่าน เข้าร่วมงาน “จาก Prompt สู่ Spec-Driven คู่มือทำงานกับ AI แบบใช้งานจริง” ลองถามตัวคุณว่าการให้ AI เขียนโค้ดใช้เวลา 5 วินาที แต่ต้องมานั่งแก้ความเข้าใจผิด 2 ชั่วโมงคุ้มไหม? ปัญหาอาจจะไม่ใช่ AI ไม่เก่ง แต่ Prompt แค่ 2-3 บรรทัดไม่ได้ครอบคลุมบริบท และมาตรฐานที่คุณอยากได้ ในขณะที่คุณรับ Requirement มาหลายสิบหน้า มารู้จักกับ Spec-Driven Development และ AI DLC แนวคิดที่เปลี่ยนการทำงานกับ AI จาก สั่งแล้วลุ้น เป็น วางแผนแล้วได้ …",
-    "pubDate": "Fri, 04 Sep 2026 05:10:50 +0000",
-    "source": "TechTalk Thai",
-    "category": "AI",
-    "thumbnail": "https://www.techtalkthai.com/wp-content/uploads/2026/09/AWS_Spec_based_Webinar-FB-Banner-V3.png",
-    "readTime": "2 นาที"
-  },
-  {
-    "id": "https://www.techtalkthai.com/?p=169740",
-    "title": "Cloudflare จับมือ OpenAI ใช้โมเดล Daybreak ค้นหาและบล็อกช่องโหว่โค้ด",
-    "link": "https://www.techtalkthai.com/cloudflare-partners-with-openai-daybreak-models-to-find-and-block-code-flaws/",
-    "content": "Cloudflare เปิดให้ใช้งานบริการ Vulnerability Discovery and Remediation ในรูปแบบ early access แล้ววันนี้ โดยเป็นบริการที่ใช้โมเดลด้านความมั่นคงปลอดภัยของ OpenAI เพื่อค้นหาจุดบกพร่องในซอฟต์แวร์ของแอปพลิเคชันลูกค้า พร้อมทั้งสกัดกั้นการโจมตีที่ชายขอบของเครือข่าย บริการนี้ทำงานอยู่ภายใน Cloudflare Managed Defense ซึ่งเป็นบริการศูนย์ปฏิบัติการด้านความมั่นคงปลอดภัยของบริษัท โดยเข้าถึงโมเดล GPT-5.6-Cyber ของ OpenAI ผ่านทาง Daybreak Defense Network ทั้งนี้ Cloudflare จะเริ่มต้นจากการเก็บสแนปช็อตจากคลังข้อมูล Web Assets และไฟร์วอลล์สำหรับเว็บแอปพลิเคชัน เพื่อระบุว่าเส้นทางใดที่กำลังใช้งานอยู่และมีเหตุการณ์ด้านความมั่นคงปลอดภัยใดเกิดขึ้นบ้าง เอเจนต์ลาดตระเวนจะทำการจับคู่เส้นทางการร้องขอเข้ากับส่วนต่าง ๆ ของฐานโค้ด จากนั้นเอเจนต์นักล่าจะทำงานจากแผนผังดังกล่าว โดยโค้ดที่รันอยู่บน Cloudflare Workers จะถูกดึงเข้ามาผ่านทาง Workers Observability การค้นพบทุกรายการจะได้รับการตรวจสอบความถูกต้องก่อนที่จะมีการจัดระดับความเสี่ยง ซึ่งระดับความเสี่ยงจะเพิ่มขึ้นหากหลักฐานในสภาพแวดล้อมการใช้งานจริงแสดงให้เห็นถึงการจราจรหนาแน่นหรือการพยายามสแกนหาจุดอ่อนอย่างต่อเนื่องในเส้นทางที่ได้รับผลกระทบนั้น กระบวนการนี้จะสร้างการแก้ไขออกมา 2 รูปแบบ คือ กฎไฟร์วอลล์แบบกำหนดเอง ซึ่งถูกจำกัดขอบเขตตามวิธีการ เส้นทาง และรายละเอียดการร้องขอที่จำเป็นต่อการเข้าถึงโค้ดที่มีจุดบกพร่อง เพื่อใช้เป็นวิธีแก้ไขชั่วคราวในระหว่างที่นักพัฒนาซอฟต์แวร์กำลังดำเนินการ …",
-    "pubDate": "Fri, 04 Sep 2026 04:50:50 +0000",
-    "source": "TechTalk Thai",
-    "category": "Security",
-    "thumbnail": "https://www.techtalkthai.com/wp-content/uploads/2026/09/Cloudflare-VDR.png",
-    "readTime": "4 นาที"
-  },
-  {
-    "id": "https://www.techtalkthai.com/?p=169722",
-    "title": "SYMPHONY CLOUD ตอกย้ำบทบาท Cloud Infrastructure ของไทยเชื่อมองค์กรสู่ Multi-Cloud อย่างไร้รอยต่อ [Guest Post]",
-    "link": "https://www.techtalkthai.com/symphony-cloud-seamless-multi-cloud-thailand-guest-post/",
-    "content": "บริษัท ซิมโฟนี่ คอมมูนิเคชั่น จำกัด (มหาชน) หรือ SYMPHONY COMMUNICATION ตอกย้ำบทบาทการเป็นผู้ให้บริการ Cloud Infrastructure และโครงข่ายสื่อสารในประเทศไทย ด้วยการพัฒนา SYMPHONY CLOUD พร้อมบริการเชื่อมต่อ Cloud อย่างครบวงจร เพื่อตอบโจทย์องค์กรในยุคที่ต้องบริหารจัดการระบบแบบ Hybrid และ Multi-Cloud ซึ่งความสามารถในการเชื่อมต่อระหว่างระบบภายในองค์กร (On-Premise) และ ระบบ Cloud ทั้ง SYMPHONY Cloud และ Public Cloud ระดับโลกอย่างมีประสิทธิภาพ กลายเป็นหัวใจสำคัญของการดำเนินธุรกิจ   SYMPHONY CLOUD เป็นแพลตฟอร์ม Cloud ที่ตั้งอยู่ภายในประเทศไทย ช่วยให้องค์กรสามารถจัดเก็บและบริหารจัดการข้อมูลได้อย่างมั่นใจ ทั้งในด้าน ความปลอดภัยของข้อมูล (Data Security) การปฏิบัติตามกฎระเบียบ (Compliance) ความมั่นใจในการจัดเก็บข้อมูลภายในประเทศ (Data Sovereignty) พร้อมรองรับการใช้งานระบบสำคัญขององค์กรได้อย่างมีประสิทธิภาพ โดยครอบคลุมตั้งแต่โครงสร้างพื้นฐาน Cloud สำหรับองค์กร …",
-    "pubDate": "Fri, 04 Sep 2026 04:37:52 +0000",
-    "source": "TechTalk Thai",
-    "category": "Security",
-    "thumbnail": "https://www.techtalkthai.com/wp-content/uploads/2026/09/รูปภาพ1.png",
-    "readTime": "3 นาที"
-  },
-  {
-    "id": "https://www.techtalkthai.com/?p=169718",
-    "title": "Upwind ระดมทุน 300 ล้านดอลลาร์ ดันแพลตฟอร์มความมั่นคงปลอดภัยคลาวด์อัตโนมัติ",
-    "link": "https://www.techtalkthai.com/upwind-reels-in-300m-for-its-automated-cloud-security-platform/",
-    "content": "Upwind ระดมทุนเพิ่มเติมอีก 300 ล้านดอลลาร์ หลังจากผ่านไป 8 เดือนนับจากการระดมทุนระดับเก้าหลักรอบก่อนหน้า โดยมี Bessemer และ TCV ผู้สนับสนุนเดิมเป็นผู้นำในการระดมทุนรอบ Series C นี้ ทั้งนี้ CTech รายงานเมื่อวันพุธที่ผ่านมาว่า ยังมีบริษัทอย่าง Salesforce Ventures, Greylock, Craft Ventures และบริษัทอื่น ๆ อีกหลายแห่งเข้าร่วมในรอบนี้ด้วย ปัจจุบัน Upwind มีมูลค่าบริษัทอยู่ที่ 3.8 พันล้านดอลลาร์ ซึ่งเพิ่มขึ้นจากช่วงต้นปีถึง 2 พันล้านดอลลาร์ ความท้าทายหลักประการหนึ่งของการรักษาความปลอดภัยในสภาพแวดล้อมคลาวด์คือการที่สภาพแวดล้อมเหล่านี้มีการเปลี่ยนแปลงอยู่ตลอดเวลา นักพัฒนาซอฟต์แวร์มักจะเพิ่มหรือลบเวิร์กโหลดต่าง ๆ อยู่บ่อยครั้ง ซึ่งทำให้ยากต่อการตรวจสอบให้แน่ใจว่าทรัพย์สินด้านซอฟต์แวร์ทุกรายการปฏิบัติตามนโยบายการคุ้มครองข้อมูล ปัญหานี้ยังรวมไปถึงอินสแตนซ์และบัญชีผู้ใช้งานต่าง ๆ ด้วย Upwind จำหน่ายแพลตฟอร์มที่สามารถทำแผนผังทรัพย์สินในสภาพแวดล้อมคลาวด์ได้โดยอัตโนมัติ โดยจะทำการรีเฟรชข้อมูลทุก ๆ 30 วินาที เพื่อรองรับการเปลี่ยนแปลงของการกำหนดค่าต่าง ๆ หนึ่งในเครื่องมือที่มีประสิทธิภาพที่สุดสำหรับการจัดเก็บข้อมูลเกี่ยวกับสภาพแวดล้อมคลาวด์คือระบบปฏิบัติการ Linux ซึ่งเคอร์เนลของระบบที่ประกอบด้วยส่วนประกอบสำคัญต่าง ๆ …",
-    "pubDate": "Fri, 04 Sep 2026 04:27:06 +0000",
-    "source": "TechTalk Thai",
-    "category": "Security",
-    "thumbnail": "https://www.techtalkthai.com/wp-content/uploads/2026/09/Upwind-logo.png",
-    "readTime": "3 นาที"
-  },
-  {
-    "id": "https://www.techtalkthai.com/?p=169714",
-    "title": "iApp Technology เปิดตัว iApp Image Generation บริการ AI สร้างภาพสัญชาติไทย ชูจุดเด่นใช้ภาษาไทยแบบไม่เพี้ยน และสื่อสารได้จริง",
-    "link": "https://www.techtalkthai.com/iapp-image-generation-first-thai-ai/",
-    "content": "iApp Technology บริษัทพัฒนา AI ของไทย เปิดตัวโมเดล AI สร้างรูปภาพ iApp Image Generation ซึ่งพัฒนาขึ้นเพื่อรองรับภาษาไทยโดยเฉพาะ ชูจุดเด่นความสามารถในการสร้างภาพกราฟิกที่มีข้อความภาษาไทยปรากฏอย่างถูกต้องครบถ้วน ทั้งพยัญชนะ สระ และวรรณยุกต์ เจาะกลุ่มธุรกิจและองค์กรที่ต้องการผลิตสื่อการตลาดและป้ายโฆษณาด้วยความรวดเร็ว ที่ผ่านมา การประยุกต์ใช้ Generative AI สำหรับงานกราฟิกที่มีข้อความภาษาไทยมักประสบปัญหาความบกพร่องของตัวอักษร เนื่องจากโมเดลส่วนใหญ่ในตลาดโลกถูกฝึกฝนด้วยชุดข้อมูลภาษาอังกฤษและภาษาจีนเป็นหลัก ทำให้ AI ทำได้เพียงเลียนแบบรูปทรง แต่ไม่เข้าใจหลักการสะกดคำและตำแหน่งของสระหรือวรรณยุกต์ในภาษาไทย ส่งผลให้ภาพที่ได้ไม่สามารถนำไปใช้งานในเชิงธุรกิจหรือการตลาดได้จริง iApp Image Generation ถูกพัฒนาขึ้นเพื่ออุดช่องโหว่ดังกล่าว โดยให้ความสำคัญกับความถูกต้องของข้อความเป็นอันดับแรก ระบบรองรับการ Prompt ทั้งภาษาไทยและภาษาอังกฤษ พร้อมออปชันในการปรับแต่งที่ตอบโจทย์การใช้งานจริงดังนี้ การระบุข้อความที่ต้องการให้ปรากฏในภาพ (สูงสุด 4 บรรทัด รองรับภาษาไทยและอังกฤษ) ฟอนต์ภาษาไทยที่มีให้เลือกถึง 19 รูปแบบ Aspect Ratio 5 ขนาดมาตรฐาน ระยะเวลาประมวลผลที่รวดเร็วภายในเวลาประมาณ 10 วินาทีต่อภาพ ข้อมูลจากการทดสอบภายในของ iApp ในกลุ่มตัวอย่าง …",
-    "pubDate": "Fri, 04 Sep 2026 04:11:39 +0000",
-    "source": "TechTalk Thai",
-    "category": "Security",
-    "thumbnail": "https://www.techtalkthai.com/wp-content/uploads/2026/09/TTT-95-640x336.jpg",
-    "readTime": "3 นาที"
-  },
-  {
-    "id": "https://www.techtalkthai.com/?p=169710",
-    "title": "Nvidia เปิดตัว PAIR สร้างคลัสเตอร์เอเจนต์ AI ในบ้านได้อย่างง่ายดาย",
-    "link": "https://www.techtalkthai.com/nvidia-pair-makes-it-easy-to-create-a-household-data-center-for-running-agentic-ai-tasks/",
-    "content": "Nvidia กำลังมุ่งเป้าไปที่กลุ่มผู้ใช้งานเอเจนต์ AI ด้วยเครื่องมือทำคลัสเตอร์แบบกระจายศูนย์ในระดับท้องถิ่นตัวใหม่ที่มีชื่อว่า Personal AI Router หรือ PAIR เครื่องมือนี้ช่วยให้ผู้ใช้งานสามารถนำคอมพิวเตอร์ Mac หรือ PC ที่ไม่ได้ใช้งานภายในบ้านมาใช้รันโมเดลภาษาขนาดเล็กตามความต้องการ และช่วยเร่งความเร็วให้กับเวิร์กโหลดของเอเจนต์ AI ด้วยการทำงานร่วมกับเอเจนต์ย่อยต่าง ๆ โดยมีการประกาศเปิดตัวในงาน IFA 2026 ที่กรุงเบอร์ลินในวันนี้ Nvidia อธิบายว่าเมื่อเอเจนต์ AI ในระดับท้องถิ่นได้รับมอบหมายงานให้ดำเนินการ โดยทั่วไปแล้วเอเจนต์เหล่านั้นจะแบ่งงานออกเป็นงานย่อยหลาย ๆ อย่าง ซึ่งต้องทำให้เสร็จสิ้นพร้อมกันเพื่อให้บรรลุเป้าหมายที่ใหญ่กว่า แต่หากงานย่อยเหล่านั้นทั้งหมดถูกประมวลผลโดยแล็ปท็อปหรือคอมพิวเตอร์เครื่องเดียวกัน งานจะเสร็จช้ากว่าการที่เอเจนต์ย่อยแต่ละตัวมีโหนดประมวลผลเฉพาะของตัวเอง Nvidia PAIR มอบหนทางในการเพิ่มความเร็วด้วยการอนุญาตให้เวิร์กโหลดของ AI สามารถกระจายผ่านเครือข่ายภายในบ้านได้ แนวคิดคือหากครัวเรือนมีคอมพิวเตอร์หลายเครื่องที่มีหน่วยประมวลผลกราฟิก (GPU) เครื่องใดก็ตามที่กำลังว่างอยู่ก็สามารถเข้ามาช่วยงานด้านเอเจนต์ที่กำลังดำเนินการอยู่ได้ PAIR ทำงานโดยการพิจารณาว่างานย่อยส่วนใดที่ต้องทำ จากนั้นจึงตัดสินใจว่าจะกระจายงานเหล่านั้นไปยังทรัพยากร GPU ที่มีอยู่อย่างไรเพื่อให้งานเสร็จสิ้นอย่างมีประสิทธิภาพสูงสุด เมื่อเสร็จสิ้นงาน ระบบจะส่งผลลัพธ์กลับไปยังโหนดหลัก ทำให้งานนั้น ๆ สามารถดำเนินการได้รวดเร็วยิ่งขึ้น Nvidia เข้าใจดีว่าคอมพิวเตอร์บนเครือข่ายภายในบ้านจะไม่ได้ว่างอยู่ตลอดเวลา บางครั้งผู้ใช้งานอาจจะใช้ GPU ของตนเพื่อทำกิจกรรมต่าง …",
-    "pubDate": "Fri, 04 Sep 2026 04:04:50 +0000",
-    "source": "TechTalk Thai",
-    "category": "AI",
-    "thumbnail": "https://www.techtalkthai.com/wp-content/uploads/2026/09/Nvidia-PAIR.png",
-    "readTime": "4 นาที"
   },
   {
     "id": "https://it24hrs.com/?p=169645",
@@ -511,28 +533,6 @@
     "pubDate": "Mon, 31 Aug 2026 08:54:41 +0000",
     "source": "IT24Hrs",
     "category": "AI",
-    "thumbnail": null,
-    "readTime": "1 นาที"
-  },
-  {
-    "id": "https://it24hrs.com/?p=169501",
-    "title": "ทุบสถิติโลก! ปล่อยไอโฟนตกจากความสูง 1 แสนฟุต ลงสู่พื้น",
-    "link": "https://it24hrs.com/2026/iphone-drop-100000-feet-world-record/",
-    "content": "ทุบสถิติโลก! ปล่อยไอโฟนใส่เคสตกจากความสูง 1 แสนฟุต (จาก […]\nThe post ทุบสถิติโลก! ปล่อยไอโฟนตกจากความสูง 1 แสนฟุต ลงสู่พื้น appeared first on iT24Hrs by ปานระพี.",
-    "pubDate": "Thu, 27 Aug 2026 18:56:23 +0000",
-    "source": "IT24Hrs",
-    "category": "General",
-    "thumbnail": null,
-    "readTime": "1 นาที"
-  },
-  {
-    "id": "https://it24hrs.com/?p=169471",
-    "title": "Apple เตรียมจัดงาน Apple Event กันยายน 2026 คาดเปิดตัว iPhone 18 Pro กับไอโฟนจอพับ",
-    "link": "https://it24hrs.com/2026/apple-event-2026-iphone-18-pro-foldable-iphone/",
-    "content": "Apple เตรียมจัดงาน Apple Event กันยายน 2026 ภายใต้แนวคิ […]\nThe post Apple เตรียมจัดงาน Apple Event กันยายน 2026 คาดเปิดตัว iPhone 18 Pro กับไอโฟนจอพับ appeared first on iT24Hrs by ปานระพี.",
-    "pubDate": "Thu, 27 Aug 2026 05:33:52 +0000",
-    "source": "IT24Hrs",
-    "category": "General",
     "thumbnail": null,
     "readTime": "1 นาที"
   },
