@@ -1,23 +1,254 @@
 [
   {
+    "id": "local-cybersecurity-101.md",
+    "title": "แนวทางปฏิบัติการตั้งรหัสผ่านให้ปลอดภัยสำหรับบุคลากร",
+    "link": "https://github.com/",
+    "content": "1. รหัสผ่านต้องมีความยาวอย่างน้อย 8 ตัวอักษร\n2. ประกอบด้วยอักษรตัวพิมพ์ใหญ่ ตัวพิมพ์เล็ก ตัวเลข และสัญลักษณ์พิเศษ\n3. ห้ามใช้ข้อมูลส่วนตัว เช่น วันเกิด หรือเบอร์โทรศัพท์\n4. เปลี่ยนรหัสผ่านใหม่ทุกๆ 3-6 เดือนเพื่อความปลอดภัย",
+    "pubDate": "2026-10-03T01:46:50.572Z",
+    "source": "คู่มือภายในองค์กร",
+    "category": "Internal",
+    "thumbnail": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=500&auto=format&fit=crop&q=60"
+  },
+  {
     "id": "local-law-hub.md",
     "title": "คลังกฎหมายและระเบียบที่เกี่ยวข้องกับการปฏิบัติราชการ",
     "link": "https://github.com/",
     "content": "### ⚖️ ศูนย์รวมลิงก์กฎหมายฉบับเต็มและแนวทางปฏิบัติงาน\n\nเพื่อความสะดวกและถูกต้องในการอ้างอิงข้อกฎหมายของเจ้าหน้าที่ในการปฏิบัติราชการ ศูนย์ไอทีได้รวบรวมลิงก์ตรงไปยังระบบสืบค้นกฎหมายของสำนักงานคณะกรรมการกฤษฎีกา และไฟล์ PDF ฉบับราชกิจจานุเบกษาไว้ในจุดเดียว ดังนี้ครับ:\n\n---\n\n### 🛒 1. หมวดการบริหารงานพัสดุและการจัดซื้อจัดจ้าง\n*   **พ.ร.บ. การจัดซื้อจัดจ้างและการบริหารพัสดุภาครัฐ พ.ศ. 2560**\n    *   🔗 [อ่านกฎหมายฉบับเต็ม (เว็บกฤษฎีกา)](https://www.ocs.go.th/)\n    *   📄 [ดาวน์โหลดไฟล์ PDF ฉบับประกาศราชกิจจานุเบกษา](https://www.gprocurement.go.th/wps/portal/egp/Regulation/!ut/p/z1/04_Sj9CPykssy0xPLMnMz0vMAfIjo8zifQ3djQydnQ18_T3dzA0czU0NfANMLQ1MPIz1w8EKDHAARwP9KGL041EQhd_4cP0oNCvCjM2AJgT4OvsHehgYOBtCFeAxoyA3NMIg01ERAHhSDzY!/dz/d5/L0lDUmlTUSEhL3dHa0FKRnNBLzROV3FpQSEhL3Ro/)\n*   **ระเบียบกระทรวงการคลังว่าด้วยการจัดซื้อจัดจ้างและการบริหารพัสดุภาครัฐ พ.ศ. 2560**\n    *   🔗 [อ่านระเบียบฉบับเต็มและกฎกระทรวงที่เกี่ยวข้อง](https://www.gprocurement.go.th/wps/portal/egp/Regulation/Ministry_of_Finance_Regularity/)\n\n---\n\n### 🏢 2. หมวดการปฏิบัติราชการและวิธีพิจารณาทางปกครอง\n*   **พ.ร.บ. วิธีปฏิบัติราชการทางปกครอง พ.ศ. 2539 (และฉบับแก้ไขเพิ่มเติม)**\n    *   🔗 [อ่านกฎหมายฉบับเต็ม (เว็บกฤษฎีกา)](https://www.ocs.go.th/)\n*   **พ.ร.บ. ความรับผิดทางละเมิดของเจ้าหน้าที่ พ.ศ. 2539**\n    *   🔗 [อ่านกฎหมายฉบับเต็ม (เว็บกฤษฎีกา)](https://www.ocs.go.th/)\n*   **พ.ร.บ. การปฏิบัติราชการทางอิเล็กทรอนิกส์ พ.ศ. 2565** *(สำคัญมากสำหรับงานไอทีและบริการประชาชน)*\n    *   🔗 [อ่านกฎหมายฉบับเต็ม (เว็บกฤษฎีกา)](https://www.ocs.go.th/)\n\n---\n\n### 🛡️ 3. หมวดคุ้มครองข้อมูลและความมั่นคงปลอดภัยไซเบอร์\n*   **พ.ร.บ. คุ้มครองข้อมูลส่วนบุคคล พ.ศ. 2562 (PDPA)**\n    *   🔗 [สืบค้นกฎหมายและแนวทางปฏิบัติจาก สคส.](https://www.pdpc.or.th)\n*   **พ.ร.บ. การรักษาความมั่นคงปลอดภัยไซเบอร์ พ.ศ. 2562**\n    *   🔗 [สืบค้นกฎหมายและประกาศจาก สกมช. (NCSA)](https://www.ncsa.or.th/standards/laws)\n*   **พ.ร.บ. ว่าด้วยการกระทำความผิดเกี่ยวกับคอมพิวเตอร์ (ฉบับที่ 2) พ.ศ. 2560**\n    *   🔗 [อ่านกฎหมายฉบับเต็ม (เว็บกฤษฎีกา)](https://www.ocs.go.th/)\n\n---\n\n### 💡 แนะนำการใช้งานสำหรับเจ้าหน้าที่\n> หากต้องการสืบค้นกฎหมายอื่น ๆ เพิ่มเติม นอกเหนือจากรายการข้างต้น สามารถเข้าใช้งานระบบกฎหมายดิจิทัลโดยตรงได้ที่ **[ระบบสืบค้นกฎหมาย สำนักงานคณะกรรมการกฤษฎีกา](https://www.ocs.go.th/)** เพื่อข้อมูลที่อัปเดตและเป็นปัจจุบันที่สุด",
-    "pubDate": "2026-10-02T02:03:15.233Z",
+    "pubDate": "2026-10-03T01:46:50.572Z",
     "source": "ศูนย์รวมกฎหมายภาครัฐ",
     "category": "Law",
     "thumbnail": "https://images.unsplash.com/photo-1589829545856-d10d557cf95f?w=500"
   },
   {
-    "id": "local-cybersecurity-101.md",
-    "title": "แนวทางปฏิบัติการตั้งรหัสผ่านให้ปลอดภัยสำหรับบุคลากร",
-    "link": "https://github.com/",
-    "content": "1. รหัสผ่านต้องมีความยาวอย่างน้อย 8 ตัวอักษร\n2. ประกอบด้วยอักษรตัวพิมพ์ใหญ่ ตัวพิมพ์เล็ก ตัวเลข และสัญลักษณ์พิเศษ\n3. ห้ามใช้ข้อมูลส่วนตัว เช่น วันเกิด หรือเบอร์โทรศัพท์\n4. เปลี่ยนรหัสผ่านใหม่ทุกๆ 3-6 เดือนเพื่อความปลอดภัย",
-    "pubDate": "2026-10-02T02:03:15.232Z",
-    "source": "คู่มือภายในองค์กร",
-    "category": "Internal",
-    "thumbnail": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=500&auto=format&fit=crop&q=60"
+    "id": "151804 at https://www.blognone.com",
+    "title": "NVIDIA DGX Spark ออกรุ่นเล็ก แรม 64GB เริ่มขาย 23 ตุลาคม",
+    "link": "https://www.blognone.com/node/151804",
+    "content": "NVIDIA DGX Spark ออกรุ่นเล็ก แรม 64GB เริ่มขาย 23 ตุลาคม\n\n  \nBody\nNVIDIA ประกาศว่า NVIDIA DGX Spark คอมพิวเตอร์ตั้งโต๊ะชิป GB10 จะออกรุ่นเล็กลงที่มีแรมแบบ unified memory ขนาด 64GB จากเดิมที่มีเฉพาะขนาด 128GB เพื่อทำให้ราคาของเครื่องสามารถเข้าถึงได้มากขึ้น และรองรับผู้ใช้งานที่รันโมเดลรุ่นใหม่ซึ่งใช้ทรัพยากรโลคอลน้อยลง จึงไม่ต้องการแรมจำนวนมาก\nNVIDIA บอกว่า NVIDIA DGX Spark แรม 64GB นี้ รองรับโมเดลระดับ 100B พารามิเตอร์ ผู้ใช้งานยังสามารถนำหลายเครื่องมาต่อกันเป็นคลัสเตอร์เพื่อเพิ่มประสิทธิภาพการทำงานได้ด้วย\nNVIDIA DGX Spark 64GB เริ่มขายตั้งแต่ 23 ตุลาคมเป็นต้นไป ผ่านผู้ผลิตที่เป็นพาร์ตเนอร์ได้แก่ Acer, ASUS, Dell, Gigabyte, HP และ MSI\nที่มา: NVIDIA\narjin\nSat, 03/10/2026 - 07:25",
+    "pubDate": "Sat, 03 Oct 2026 00:25:32 +0000",
+    "source": "Blognone",
+    "category": "AI",
+    "thumbnail": null,
+    "readTime": "2 นาที"
+  },
+  {
+    "id": "151803 at https://www.blognone.com",
+    "title": "Tinder ออกฟีเจอร์ Group Hangouts รวมกลุ่มไปทำกิจกรรม",
+    "link": "https://www.blognone.com/node/151803",
+    "content": "Tinder ออกฟีเจอร์ Group Hangouts รวมกลุ่มไปทำกิจกรรม\n\n  \nBody\nTinder เปิดตัวฟีเจอร์ใหม่ Group Hangouts เพื่อให้ผู้ใช้งานได้ออกไปทำกิจกรรมในชีวิตจริง ซึ่งมากกว่าการแชทหากันระหว่างสองคน โดยผู้ใช้งานสามารถสร้างกิจกรรมและเชิญเพื่อนเข้าร่วมโดยกลุ่มต้องมีสมาชิกอย่างน้อย 3 คน จากนั้นก็สนทนานัดหมายเพื่อไปทำกิจกรรมต่าง ๆ ได้\nTinder อธิบายว่าฟีเจอร์นี้ได้ทดสอบในตลาดออสเตรเลียมาก่อน โดยมองว่าผู้ใช้งานจะรู้สึกดดันน้อยลงเมื่อกิจกรรมต่าง ๆ เริ่มต้นด้วยการไปกับเพื่อน พบว่าผู้ใช้งานฝ่ายหญิงสบายใจกับการใช้งานในรูปแบบนี้มากขึ้น นอกจากนี้ฟีเจอร์ Double Date ที่ให้ผู้ใช้งานนัดเดทแบบ 4 คน 2 คู่ ที่ได้รับความนิยมเพิ่มขึ้นต่อเนื่อง ก็ช่วยยืนยันว่า Group Hangouts จะเป็นที่นิยมในผู้ใช้งาน เพราะมีกิจกรรมโซเชียลมาเสริมนั่นเอง\nฟีเจอร์ Group Hangouts เริ่มเปิดใช้งานทั่วไปกับผู้ใช้งานในสหรัฐอเมริกาและบางประเทศก่อน จากนั้นจะขยายไปทั่วโลกต่อไป\nที่มา: Tinder\narjin\nFri, 02/10/2026 - 23:52",
+    "pubDate": "Fri, 02 Oct 2026 16:52:26 +0000",
+    "source": "Blognone",
+    "category": "General",
+    "thumbnail": null,
+    "readTime": "3 นาที"
+  },
+  {
+    "id": "151802 at https://www.blognone.com",
+    "title": "ไทยก็รอต่อไป - Apple Pay เริ่มให้บริการที่อินเดียแล้ว",
+    "link": "https://www.blognone.com/node/151802",
+    "content": "ไทยก็รอต่อไป - Apple Pay เริ่มให้บริการที่อินเดียแล้ว\n\n  \nBody\nApple Pay ประกาศเริ่มให้บริการในประเทศอินเดียแล้ว โดยเป็นความร่วมมือกับ Axis Bank ธนาคารในอินเดีย ผู้ใช้งานจึงต้องมีบัตรเครดิตของ Axis ก่อนไม่ว่าจะเป็น Visa หรือ Mastercard จึงจะสามารถใช้งานได้ ส่วนจุดชำระเงินแบบ contactless ก็ต้องรองรับ Apple Pay ด้วยเช่นกัน\nการให้บริการ Apple Pay ในอินเดียมีความน่าสนใจเพราะเครือข่ายการชำระเงินที่นิยมมากในอินเดียคือ UPI ที่รัฐบาลให้การสนับสนุน มีส่วนแบ่งประมาณ 84% ของธุรกรรมทั้งหมด ซึ่ง Apple Pay ก็ไม่รองรับ UPI รวมกับบริการที่จำกัดเฉพาะธนาคาร Axis จึงต้องดูต่อไปว่า Apple Pay จะเป็นที่นิยมในอินเดียหรือไม่\nบริการจ่ายเงิน Apple Pay ปัจจุบันให้บริการในหลายประเทศ-เขตปกครองในเอเชียได้แก่ จีน ฮ่องกง ญี่ปุ่น มาเก๊า มาเลเซีย มองโกเลีย ฟิลิปปินส์ สิงคโปร์ เกาหลีใต้ ไต้หวัน เวียดนาม บาห์เรน อิสราเอล อินเดีย จอร์แดน คูเวต โอมาน ปาเลสไตน์ กาตาร์ ซาอุดีอาระเบีย และ UAE\nที่มา: แอปเปิล และ MacRumors\narjin\nFri, 02/10/2026 - 23:50",
+    "pubDate": "Fri, 02 Oct 2026 16:50:42 +0000",
+    "source": "Blognone",
+    "category": "General",
+    "thumbnail": null,
+    "readTime": "3 นาที"
+  },
+  {
+    "id": "151801 at https://www.blognone.com",
+    "title": "DeepMind เปิดตัว SynthID Bio ระบบฝังลายน้ำในผลทำนายโครงสร้างโปรตีนที่มาจาก AI",
+    "link": "https://www.blognone.com/node/151801",
+    "content": "DeepMind เปิดตัว SynthID Bio ระบบฝังลายน้ำในผลทำนายโครงสร้างโปรตีนที่มาจาก AI\n\n  \nBody\nGoogle DeepMind เปิดตัว SynthID Bio ซึ่งเป็นการฝังลายน้ำ (watermark) ในข้อมูลชีววิทยาที่สร้างขึ้นจาก AI อย่างโครงสร้างโปรตีน ที่ใช้ในการทดลองวิจัยต่าง ๆ ช่วยป้องกันความเสี่ยงจากการนำไปเผยแพร่ต่อที่อาจบิดเบือนข้อมูลเทียบกับข้อมูลจริงได้\nการทำงานของ SynthID Bio เป็นการใส่ข้อมูลขนาดเล็กเข้าไปในผลทำนายของ AlphaFold 3 ทำให้เมื่อนำผลลัพธ์ไปรันทดสอบซ้ำก็ช่วยยืนยันได้ว่าเป็นข้อมูลที่สร้างจาก AI รวมถึงมีข้อมูลรายละเอียดการทดสอบติดมาด้วย\nDeepMind บอกว่า SynthID Bio ยังอยู่ในขั้นต้นของการพัฒนา และยังต้องเพิ่มความสามารถเช่น การทนทานต่อการถูกลบลายน้ำ รวมถึงอาจรองรับการแสดงข้อมูลร่วมกับ metadata อื่นด้วย\nที่มา: กูเกิล\narjin\nFri, 02/10/2026 - 23:49",
+    "pubDate": "Fri, 02 Oct 2026 16:49:50 +0000",
+    "source": "Blognone",
+    "category": "AI",
+    "thumbnail": null,
+    "readTime": "2 นาที"
+  },
+  {
+    "id": "151800 at https://www.blognone.com",
+    "title": "Gartner ประเมิน AI Agent ที่องค์กรจ้าง FDE พัฒนาให้ ภายในปี 2028 70% จะถูกเลิกใช้งาน",
+    "link": "https://www.blognone.com/node/151800",
+    "content": "Gartner ประเมิน AI Agent ที่องค์กรจ้าง FDE พัฒนาให้ ภายในปี 2028 70% จะถูกเลิกใช้งาน\n\n  \nBody\nบริษัทวิจัยตลาดธุรกิจไอที Gartner ออกบทวิเคราะห์ประเมินว่า AI Agent ที่องค์กรจ้างเวนเดอร์ให้มี FDE หรือ forward-deployed engineer มาพัฒนาให้โดยเฉพาะสำหรับองค์กรนั้น ๆ ภายในปี 2028 ประมาณ 70% ของ AI Agent เหล่านั้นจะถูกเลิกใช้งานไป\nGartner ให้เหตุผลว่าแม้ FDE จะสามารถสร้าง AI Agent ให้ลูกค้าองค์กรได้ตรงกับที่พวกเขาต้องการ แต่ทั้งหมดเป็นเรื่องในระยะสั้น เพราะเมื่อเวลาผ่านไปโมเดลเหล่านั้นจะมีความท้าทายในการดูแลพัฒนา โดยเฉพาะเมื่อองค์กรไม่ได้จ้าง FDE ต่อ การดูแลเองจึงต้องการทั้งประสบการณ์ความรู้ และต้นทุนที่สูงขึ้นตามเวลา\nคำแนะนำของ Gartner สำหรับองค์กรที่ไม่ต้องการเผชิญปัญหาดังกล่าวคือการใช้ FDE แก้ปัญหาเฉพาะเรื่องเท่านั้น เช่น ปัญหาที่ต้องการประสบการณ์ขั้นสูง, โครงการที่ต้องการผลลัพธ์รวดเร็ว รวมทั้งโครงการนั้นต้องสามารถทำงานร่วมกับระบบปัจจุบันที่ใช้ในองค์กรลูกค้าอยู่แล้วได้ดี\nGartner ไม่ได้ประเมินปัญหา Agentic ในองค์กรเป็นครั้งแรก เมื่อสองปีก่อน Gartner ก็คาดตัวเลขไว้ที่ 40%\nที่มา: Gartner\narjin\nFri, 02/10/2026 - 21:59",
+    "pubDate": "Fri, 02 Oct 2026 14:59:21 +0000",
+    "source": "Blognone",
+    "category": "AI",
+    "thumbnail": null,
+    "readTime": "3 นาที"
+  },
+  {
+    "id": "151799 at https://www.blognone.com",
+    "title": "เปิดตัวโมเดลถอดเสียง MAI-Transcribe-2-Streaming ผิดพลาดต่ำสุดในตลาด, MAI-Voice-2.1 รองรับภาษาไทย",
+    "link": "https://www.blognone.com/node/151799",
+    "content": "เปิดตัวโมเดลถอดเสียง MAI-Transcribe-2-Streaming ผิดพลาดต่ำสุดในตลาด, MAI-Voice-2.1 รองรับภาษาไทย\n\n  \nBody\nMicrosoft AI เปิดตัวโมเดลตระกูล MAI สายเสียงใหม่พร้อมกัน 3 ตัว ดังนี้\nMAI-Transcribe-2-Streaming เป็นโมเดลถอดเสียงพูด สายย่อยของ MAI‑Transcribe‑2 เน้นการถอดเสียงแบบเรียลไทม์ ค่า latency ต่ำที่ประมาณ 100ms รองรับ 60 ภาษา มีอัตราความผิดพลาด 2.5% ต่ำที่สุดในท้องตลาดตอนนี้, ค่าใช้งาน 0.54 ดอลลาร์ต่อเสียงพูด 1 ชั่วโมง\nMAI-Voice-2.1 โมเดลสร้างเสียงพูดเวอร์ชันอัพเกรดจาก MAI-Voice-2 เพิ่มภาษาที่รองรับจาก 15 ภาษาเป็น 23 ภาษา ตอนนี้มีภาษาไทยเรียบร้อยแล้ว, ค่าใช้งาน 22 ดอลลาร์ต่อ 1 ล้านตัวอักษร\nMAI-Voice-2.1-Flash โมเดลเวอร์ชันถูกของ MAI-Voice-2.1 เน้นลูกค้าที่ต้องการสร้างเสียงเยอะๆ และทำงานเร็ว, ค่าใช้งาน 15 ดอลลาร์ต่อ 1 ล้านตัวอักษร\nโมเดลทั้ง 3 ตัวเปิดใช้งานแล้วผ่าน Microsoft Foundry และ OpenRouter\nที่มา - Microsoft\nmk\nFri, 02/10/2026 - 21:02",
+    "pubDate": "Fri, 02 Oct 2026 14:02:05 +0000",
+    "source": "Blognone",
+    "category": "AI",
+    "thumbnail": null,
+    "readTime": "3 นาที"
+  },
+  {
+    "id": "151798 at https://www.blognone.com",
+    "title": "ซัมซุงเปิดตัว Galaxy Tab S12 Ultra และ S12+ เครื่องบางลง ราคาขึ้นเป็น 41,900 บาท",
+    "link": "https://www.blognone.com/node/151798",
+    "content": "ซัมซุงเปิดตัว Galaxy Tab S12 Ultra และ S12+ เครื่องบางลง ราคาขึ้นเป็น 41,900 บาท\n\n  \nBody\nซัมซุงเปิดตัวแท็บเล็ตรุ่นเรือธง Galaxy Tab S ตามรอบประจำปี Galaxy Tab S12 โดยยังแบ่งเป็น 2 รุ่นย่อยคือ\nGalaxy Tab S12 Ultra หน้าจอ 14.6\" 2960 x 1848, แบตเตอรี่ 11,600 mAh, กล้องหลัง 13 MP + 8 MP\nGalaxy Tab S12+ หน้าจอ 12.6\" 2800 x 1752, แบตเตอรี่ 10,600 mAh, กล้องหลัง 13 MP\nแท็บเล็ตทั้งสองรุ่นใช้ชิป MediaTek Dimensity 9500 แรมเริ่มต้น 12GB (รุ่น Ultra มีแบบแรม 16GB ให้เลือก), กันน้ำกันฝุ่น IP68, กล้องหน้า 12MP, ชาร์จเร็ว 45W, ระบบปฏิบัติการ Android 17 ครอบด้วย One UI 9 การันตีอัพเดต 7 เวอร์ชัน, มีปากกา S Pen มาให้ในชุด\nจุดเด่นของ Galaxy Tab S12 ปีนี้คือลดขนาดความบางลงมาที่ 5.1 มิลลิเมตร (รุ่น Ultra) ถือเป็นแท็บเล็ตที่บางที่สุดของซัมซุงแล้ว ส่วนรุ่น S12+ บาง 5.3 มิลลิเมตร\nราคาขายในประเทศไทยมีดังนี้\nGalaxy Tab S12+ รุ่น Wifi ความจุ 12+256 GB ราคา 41,900 บาท\nGalaxy Tab S12+ รุ่น 5G ความจุ 12+256 GB ราคา 46,900 บาท\nGalaxy Tab S12 Ultra รุ่น 5G ความจุ 12+256 GB ราคา 53,900 บาท\nGalaxy Tab S12 Ultra รุ่น 5G ความจุ 12+512 GB ราคา 59,900 บาท\nหากเทียบกับราคาของ Galaxy Tab S11 ที่เริ่มต้น 27,900 บาท ก็เรียกว่าขึ้นมาเกินหมื่นเลยทีเดียว\nในช่วงเปิดตัวจะแถมคีย์บอร์ด Book Cover Keyboard Slim หากซื้อก่อน 8 พฤศจิกายน 2569\nที่มา - Samsung, Samsung Thailand\nmk\nFri, 02/10/2026 - 20:46",
+    "pubDate": "Fri, 02 Oct 2026 13:46:03 +0000",
+    "source": "Blognone",
+    "category": "General",
+    "thumbnail": null,
+    "readTime": "4 นาที"
+  },
+  {
+    "id": "151797 at https://www.blognone.com",
+    "title": "Firefox 157 เริ่มใช้ธีมใหม่ Nova กลับมารองรับ Compact Mode อีกครั้ง",
+    "link": "https://www.blognone.com/node/151797",
+    "content": "Firefox 157 เริ่มใช้ธีมใหม่ Nova กลับมารองรับ Compact Mode อีกครั้ง\n\n  \nBody\nFirefox ออกเวอร์ชัน 157 มีของใหม่สำคัญคือธีมใหม่โค้ดเนม Project Nova ที่เริ่มทดสอบมาตั้งแต่เดือนพฤษภาคม ภาพรวมคือวัตถุต่างๆ ของหน้าจอเบราว์เซอร์ดู \"กลม\" ขึ้น ขอบโค้งมนกว่าเดิม ไอคอนถูกปรับปรุงใช้ชัดเจนทั้งหมด light/dark, มีโหมด compact ลดขนาดการใช้งานพื้นที่, และปรับแต่งชุดสีของธีมได้มากขึ้น\nฟีเจอร์อื่นใน Firefox 157 คือวิดีโอคอลล์ผ่าน WebRTC รองรับการถอดรหัสวิดีโอ AV1 ด้วยฮาร์ดแวร์ได้แล้ว (ของเดิมทำได้เฉพาะซอฟต์แวร์) ช่วยให้ประสิทธิภาพของวิดีโอคอลล์ดีขึ้นบนอุปกรณ์ที่มีตัวถอดรหัส AV1\nที่มา - Mozilla, Mozilla\n\n\n\nmk\nFri, 02/10/2026 - 20:34",
+    "pubDate": "Fri, 02 Oct 2026 13:34:48 +0000",
+    "source": "Blognone",
+    "category": "General",
+    "thumbnail": "https://www.blognone.com/sites/default/files/files-2026/2026-09/nova-compact-mode.webp",
+    "readTime": "2 นาที"
+  },
+  {
+    "id": "151796 at https://www.blognone.com",
+    "title": "OpenAI เลิกจ้าง 3 นักวิจัยความปลอดภัย AI ระบุมีการนำข้อมูลไปให้บริษัทความปลอดภัยภายนอก",
+    "link": "https://www.blognone.com/node/151796",
+    "content": "OpenAI เลิกจ้าง 3 นักวิจัยความปลอดภัย AI ระบุมีการนำข้อมูลไปให้บริษัทความปลอดภัยภายนอก\n\n  \nBody\nข่าวสารวงการ AI วันนี้มาจาก OpenAI โดยบริษัทออกมายืนยันว่าได้เลิกจ้าง (part way) นักวิจัย 3 คน ที่อยู่ในทีมความปลอดภัย AI หลังตรวจสอบพบว่าได้นำข้อมูลที่เป็นความลับของบริษัท ไปเปิดเผยให้หน่วยงานความปลอดภัยด้าน AI ภายนอก ซึ่ง\nทั้งนี้ OpenAI ไม่ได้เปิดเผยรายชื่อนักวิจัยทั้ง 3 คน รวมถึงหน่วยงานความปลอดภัย AI ภายนอกที่มีการนำข้อมูลไปให้\nข้อมูลจาก The Wall Street Journal บอกว่าหนึ่งใน 3 นักวิจัยที่เกี่ยวข้อง ตอนนี้ก็ทำงานเป็นที่ปรึกษาให้ METR หน่วยงานวิจัยความปลอดภัยด้าน AI ที่ OpenAI ร่วมมือในการตรวจสอบความปลอดภัยการทำงานของโมเดล AI ด้วย\nที่มา: The Wall Street Journal\narjin\nFri, 02/10/2026 - 17:23",
+    "pubDate": "Fri, 02 Oct 2026 10:23:35 +0000",
+    "source": "Blognone",
+    "category": "Security",
+    "thumbnail": null,
+    "readTime": "2 นาที"
+  },
+  {
+    "id": "151795 at https://www.blognone.com",
+    "title": "XChat เพิ่มระบบ X Number ให้คนที่ไม่ได้ติดตาม ส่งข้อความหาได้ทันที ข้ามขั้นตอน request",
+    "link": "https://www.blognone.com/node/151795",
+    "content": "XChat เพิ่มระบบ X Number ให้คนที่ไม่ได้ติดตาม ส่งข้อความหาได้ทันที ข้ามขั้นตอน request\n\n  \nBody\nX ยังคงเดินหน้าผลักดันบริการแชท XChat ให้มากขึ้น โดยได้เพิ่มฟีเจอร์ X Number ซึ่งเป็นการสร้างชุดตัวเลขสำหรับแชร์ให้กับคนติดต่อ ทำให้สามารถส่งข้อความ DM หรือโทรเสียงหากันได้ แม้ไม่ได้กดติดตาม (follow) กัน ซึ่งวิธีการดั้งเดิมนั้นต้องส่ง request และได้รับการยอมรับคำขอก่อน\nX บอกว่าวิธีการติดต่อด้วย X Number เป็นทางเลือกที่เพิ่มมา ไม่บังคับว่าต้องใช้ ใครที่สะดวกกับวิธีการเดิมก็ทำได้ต่อไป ไม่มีผลกระทบ ชุดตัวเลขที่สร้างขึ้นนี้ไม่ใช่หมายเลขโทรศัพท์ และเป็นคนละอย่างกับ Chat Safety Number\nหมายเลข X Number สามารถเปลี่ยนแปลงใหม่ได้ (generate) หากผู้ใช้งานต้องการ\nที่มา: Social Media Today\narjin\nFri, 02/10/2026 - 17:21",
+    "pubDate": "Fri, 02 Oct 2026 10:21:54 +0000",
+    "source": "Blognone",
+    "category": "General",
+    "thumbnail": null,
+    "readTime": "2 นาที"
+  },
+  {
+    "id": "https://www.techtalkthai.com/?p=170733",
+    "title": "OpenAI ลงดาบปลดนักวิจัยด้านความปลอดภัยสามราย ข้อหาเปิดเผยข้อมูลลับ",
+    "link": "https://www.techtalkthai.com/openai-dismisses-three-safety-researchers-accused-of-sharing-confidential-material/",
+    "content": "OpenAI ยืนยันว่าได้ดำเนินการไล่นักวิจัยสามคนออกจากบริษัท โดยอ้างว่าบุคคลเหล่านี้จัดการข้อมูลที่ละเอียดอ่อนของบริษัทอย่างไม่เหมาะสม รายงานจาก The Wall Street Journal ระบุว่าทั้งสามคนเป็นนักวิจัยด้านความปลอดภัย ซึ่งถูกกล่าวหาว่าแบ่งปันข้อมูลลับให้กับองค์กรภายนอกที่ดูแลด้านความปลอดภัยของปัญญาประดิษฐ์ โฆษกของ OpenAI กล่าวว่า เราได้ยุติการจ้างงานบุคคลทั้งสามคนเนื่องจากละเมิดนโยบายของบริษัทเกี่ยวกับการเข้าถึงและการจัดการข้อมูลที่ละเอียดอ่อน โดยโฆษกกล่าวเสริมว่าการสอบสวนภายในยืนยันว่าพวกเขาได้ดำเนินการนอกเหนือจากกระบวนการที่บริษัทกำหนดไว้ ซึ่งถือเป็นการทำลายความไว้วางใจอันเป็นสิ่งจำเป็นต่อการทำงานของเรา OpenAI ให้ข้อมูลกับ CBS News ว่าทีมงานด้านความปลอดภัยได้รับสิทธิ์เข้าถึงข้อมูลเชิงลึกภายในที่ต้องอาศัยความไว้วางใจอย่างสูง โดยการสอบสวนพบรูปแบบการประพฤติผิดเกี่ยวกับการจัดการงานวิจัยของบริษัทโดยผู้ที่มีสิทธิ์เข้าถึงข้อมูลลับ ทั้งนี้ไม่มีการเปิดเผยรายชื่อบุคคลทั้งสามหรือชื่อองค์กรภายนอกที่เกี่ยวข้อง และทาง OpenAI ไม่ได้ระบุว่าข้อมูลประเภทใดที่ถูกส่งต่อไป การเลิกจ้างครั้งนี้ไม่ใช่ครั้งแรกที่เกิดขึ้นใน OpenAI โดยบริษัทเคยไล่นักวิจัย Leopold Aschenbrenner และ Pavel Izmailov ออกจากกรณีที่ถูกกล่าวหาว่าทำข้อมูลรั่วไหลในเดือนเมษายน 2024 ซึ่งในเวลาต่อมา Aschenbrenner กล่าวว่าเขาถูกปลดหลังจากแชร์เอกสารด้านความปลอดภัยให้กับนักวิจัยภายนอก ส่วน Jan Leike ซึ่งเป็นผู้ร่วมนำทีม Superalignment ของบริษัท ได้ลาออกในเดือนถัดมาและเขียนข้อความบน X ว่าบริษัทได้ลดทอนความสำคัญของวัฒนธรรมและกระบวนการด้านความปลอดภัยลงและมุ่งเน้นไปที่ผลิตภัณฑ์ที่หวือหวาเป็นหลัก การลาออกและไล่ออกดังกล่าวเกิดขึ้นหลังจากมีเหตุการณ์ต่าง ๆ ที่เกี่ยวข้องกับโมเดลของ OpenAI เองในช่วงหลายเดือนที่ผ่านมา โดยในเดือนกรกฎาคม บริษัทเปิดเผยว่าโมเดลที่กำลังทดสอบได้บุกรุกเข้าไปในโครงสร้างพื้นฐานของ …",
+    "pubDate": "Fri, 02 Oct 2026 09:44:21 +0000",
+    "source": "TechTalk Thai",
+    "category": "Security",
+    "thumbnail": "https://www.techtalkthai.com/wp-content/uploads/2025/11/OpenAI-logo-blossom.png",
+    "readTime": "5 นาที"
+  },
+  {
+    "id": "https://www.techtalkthai.com/?p=170728",
+    "title": "การ์ทเนอร์เปิดคาดการณ์เชิงกลยุทธ์สำคัญในปี 2570 และอนาคต [PR]",
+    "link": "https://www.techtalkthai.com/gartner-top-10-prediction-for-2027-and-beyond-pr/",
+    "content": "การ์ทเนอร์ อิงก์ บริษัทวิจัยและให้คำปรึกษาด้านธุรกิจและเทคโนโลยี ได้เปิดเผยการคาดการณ์กลยุทธ์สำคัญ หรือ Top Strategic Predictions สำหรับปี พ.ศ. 2570 และในอนาคตข้างหน้านี้ โดยครอบคลุม 3 กลุ่มหลัก ได้แก่ 1.Robots Everywhere, 2.Cost to Value และ 3.Unknown Unknowns ดาริล พลัมเมอร์ (Daryl Plummer) รองประธานฝ่ายวิจัยและ Gartner Fellow กล่าวว่า “ระบบมากมายที่เราใช้งานกันอยู่ในปัจจุบันจนกลายเป็นเรื่องปกติ ตั้งแต่บริการสาธารณะ ไปจนถึงซอฟต์แวร์ โมเดลด้านพลังงานและแรงงาน จะถูก AI เปลี่ยนแปลงไปอย่างสิ้นเชิงในทศวรรษหน้า องค์กรที่จะประสบความสำเร็จที่สุดคือองค์กรที่สามารถรักษาสมดุลของการพัฒนานวัตกรรมและมีความรับผิดชอบไปพร้อม ๆ กัน พร้อมสร้างขีดความสามารถที่จำเป็นเพื่อจัดการกับทั้งโอกาสและผลกระทบที่ไม่คาดคิดในโลกที่ขับเคลื่อนด้วย AI“ ผู้นำเทคโนโลยีและธุรกิจจำเป็นอย่างยิ่งที่ต้องประเมินว่า การคาดการณ์สำคัญดังต่อไปนี้ จะส่งผลต่อการปรับกลยุทธ์และการลงทุนในปีหน้าและอนาคตต่อไปได้อย่างไร (ดูรูปที่ 1) การ์ทเนอร์คาดการณ์เชิงกลยุทธ์สำคัญในปี พ.ศ. 2570 และอนาคตข้างหน้า ที่มา: การ์ทเนอร์ …",
+    "pubDate": "Fri, 02 Oct 2026 09:26:16 +0000",
+    "source": "TechTalk Thai",
+    "category": "AI",
+    "thumbnail": "https://www.techtalkthai.com/wp-content/uploads/2026/10/gartnertrendsnextyerpr-640x335.png",
+    "readTime": "3 นาที"
+  },
+  {
+    "id": "https://www.techtalkthai.com/?p=170726",
+    "title": "Salesforce ทุ่ม 2 พันล้านดอลลาร์ ซื้อสตาร์ทอัพ AI วิจัยลูกค้า Listen Labs",
+    "link": "https://www.techtalkthai.com/salesforce-to-acquire-ai-customer-research-startup-listen-labs-in-reported-2b-deal/",
+    "content": "Salesforce ได้ลงนามในข้อตกลงขั้นสุดท้ายเพื่อเข้าซื้อกิจการ Listen Labs สตาร์ทอัพด้านการวิจัยลูกค้าด้วยปัญญาประดิษฐ์ หลังจากมีรายงานว่าทั้งสองบริษัทกำลังอยู่ในระหว่างการเจรจากันเมื่อสามสัปดาห์ก่อน Business Insider เป็นผู้รายงานข่าวการเจรจาดังกล่าวเมื่อวันที่ 9 กันยายน โดยระบุว่ามูลค่าข้อตกลงที่อยู่ระหว่างการหารืออยู่ที่ประมาณ 2 พันล้านดอลลาร์ แม้ว่าทั้งสองบริษัทจะไม่ได้เปิดเผยเงื่อนไขของข้อตกลงก็ตาม Salesforce คาดการณ์ว่าการซื้อกิจการจะเสร็จสิ้นในไตรมาสที่ 4 ของปีงบประมาณ 2027 โดยขึ้นอยู่กับการอนุมัติจากหน่วยงานกำกับดูแล การซื้อ Listen Labs เกิดขึ้นหลังจากที่ Salesforce ได้ตกลงเข้าซื้อกิจการบริษัทระบบอัตโนมัติสำหรับงานบริการลูกค้าอย่าง Fin ไปเมื่อเดือนมิถุนายนด้วยมูลค่าประมาณ 3.6 พันล้านดอลลาร์ Listen Labs พัฒนาเอเจนต์ AI ที่ทำหน้าที่วิจัยลูกค้าแทนมนุษย์ โดย Alfred Wahlforss ผู้ร่วมก่อตั้งและประธานเจ้าหน้าที่บริหารกล่าวในบล็อกโพสต์เมื่อวันพุธที่ผ่านมาเกี่ยวกับข้อตกลงนี้ว่า แพลตฟอร์มของบริษัทในปัจจุบัน “สามารถค้นหาบุคคลที่เหมาะสม สัมภาษณ์ วิเคราะห์สิ่งที่พวกเขาพูด และแม้กระทั่งจำลองพฤติกรรมของพวกเขาได้” Salesforce ระบุว่าเครือข่ายการสรรหาผู้เข้าร่วมวิจัยของสตาร์ทอัพรายนี้เข้าถึงกลุ่มเป้าหมายได้มากกว่า 50 ล้านคน และสามารถทำการสัมภาษณ์ได้ในภาษาต่าง ๆ กว่า 120 ภาษา ส่วนของการจำลองพฤติกรรมนั้นทำงานผ่านระบบแฝดดิจิทัลซึ่ง …",
+    "pubDate": "Fri, 02 Oct 2026 09:12:50 +0000",
+    "source": "TechTalk Thai",
+    "category": "AI",
+    "thumbnail": "https://www.techtalkthai.com/wp-content/uploads/2026/10/Listen-Lab-Salesforce.png",
+    "readTime": "4 นาที"
+  },
+  {
+    "id": "https://techsauce.co/ai/google-deepmind-synthid-bio-protein-watermarking",
+    "title": "Google DeepMind เปิดตัว SynthID Bio ฝังลายน้ำดิจิทัลลงในโปรตีน ที่ AI ออกแบบ ตรวจสอบที่มาได้แม้สังเคราะห์ออกมาเป็นโมเลกุลจริง",
+    "link": "https://techsauce.co/ai/google-deepmind-synthid-bio-protein-watermarking",
+    "content": "Google DeepMind เปิดตัว SynthID Bio ฝังลายน้ำดิจิทัลลงในโปรตีนที่ AI ออกแบบ ตรวจสอบที่มาได้แม้สังเคราะห์เป็นโมเลกุลจริง ทดสอบในหลอดทดลองกับ 3 เป้าหมายแล้วโปรตีนยังทำงานเหมือนเดิม พร้อมฝังลายน้ำไว้ในค่าน้ำหนักของ AlphaFold 3",
+    "pubDate": "Fri, 02 Oct 2026 15:38:51 +0700",
+    "source": "Techsauce",
+    "category": "AI",
+    "thumbnail": "https://storage.googleapis.com/techsauce-prod/ugc/uploads/2026/10/1790929978_SynthID_Bio_800__%281%29.webp",
+    "readTime": "1 นาที"
+  },
+  {
+    "id": "https://www.techtalkthai.com/?p=170722",
+    "title": "IBM เปิดทางองค์กรติดตั้ง IBM Bob แบบ On-Premises ชูโมเดล Agentic AI เจาะกลุ่มข้อมูลความมั่นคงปลอดภัยสูง",
+    "link": "https://www.techtalkthai.com/ibm-bob-agentic-ai-on-prem-launch/",
+    "content": "IBM ประกาศเปิดตัวตัวเลือกการติดตั้งใช้งานแบบ Self-Hosted ให้กับแพลตฟอร์ม IBM Bob เพื่อให้องค์กรธุรกิจสามารถใช้ Agentic AI ในการสร้างและปรับปรุงแอปพลิเคชันได้บนโครงสร้างพื้นฐานของตนเองโดยตรง ตอบโจทย์การใช้งานทั้งแบบ On-Premises, Private Cloud, Sovereign Cloud ไปจนถึงะบบปิดแบบ Air-Gapped โซลูชันนี้เน้นไปที่กลุ่มอุตสาหกรรมที่มีข้อจำกัดด้านกฎระเบียบ หรือมีข้อมูลที่มีความสำคัญสูง ซึ่งไม่สามารถพึ่งพาบริการ AI บนคลาวด์ภายนอกได้ โดย IBM Bob จะขยายขอบเขตจากการเป็นเพียงเครื่องมือสร้างโค้ด สู่การเป็นระบบสร้างและปรับปรุงโครงสร้างซอฟต์แวร์แบบครบวงจร เพราะองค์กรระดับเอนเตอร์ไพรส์จำเป็นต้องใช้ระบบ AI ที่ทำงานอยู่บนระบบที่ควบคุมได้เองทั้งหมด ยิ่งเมื่อต้องจัดการกับข้อมูลและโค้ดที่อยู่ภายใต้การกำกับดูแล การขับเคลื่อนครั้งนี้ช่วยทลายอุปสรรคสำคัญในการประยุกต์ใช้ AI ในระดับองค์กร ซึ่งสอดคล้องกับรายงานของสถาบัน Institute for Business Value (IBV) ของ IBM เมื่อเดือนมิถุนายนที่ผ่านมา ซึ่งระบุว่า ผู้บริหารกว่า 68% มองว่าการปฏิบัติตามข้อกำหนดด้าน Data Residency และ Data Sovereignty ทั่วโลกยังคงเป็นความท้าทายหลัก IBM …",
+    "pubDate": "Fri, 02 Oct 2026 08:38:25 +0000",
+    "source": "TechTalk Thai",
+    "category": "AI",
+    "thumbnail": "https://www.techtalkthai.com/wp-content/uploads/2026/10/TTT-2026-10-02T153350.493-640x336.jpg",
+    "readTime": "3 นาที"
+  },
+  {
+    "id": "https://www.techtalkthai.com/?p=170707",
+    "title": "The Practical Solution เปิดตัว TALLI ระบบ AI Platform เชื่อมโยงข้อมูลธุรกิจองค์กรสู่การวิเคราะห์ข้อมูลด้วย AI",
+    "link": "https://www.techtalkthai.com/the-practical-solution-talli-ai-platform/",
+    "content": "เมื่อวันที่ 17 กันยายน 2026 ที่ผ่านมา ทาง The Practical Solution หรือ TPS ได้จัดงานสัมมนาเปิดตัว TALLI ซึ่งเป็นโซลูชันระบบ AI Platform ที่ทางทีมงาน TPS พัฒนาขึ้นมาเอง เพื่อตอบโจทย์ธุรกิจองค์กรที่ต้องการใช้งาน AI ภายในองค์กรอย่างครบวงจร TPS กับก้าวใหม่ในการเปลี่ยนแปลงจาก Systems Integrator สู่การเป็น Tech Company อย่างเต็มตัว คุณเมธี วิธวาศิริ CTO แห่ง TPS ได้กล่าวเปิดงานด้วยการสรุปถึงทิศทางของ TPS ที่กำลังเปลี่ยนแปลงจากบทบาทของการเป็น Systems Integrator ที่เน้นการออกแบบ, ติดตั้ง และดูแลรักษาระบบ IT สำหรับธุรกิจองค์กรเพียงอย่างเดียว สู่การเป็น Tech Company ที่มีการพัฒนาเทคโนโลยีทางด้าน AI, Data และ Software ของตนเองเพิ่มเติมขึ้นมาด้วย ซึ่งเป็นก้าวใหญ่ที่น่าจับตามองเป็นอย่างมาก …",
+    "pubDate": "Fri, 02 Oct 2026 08:00:05 +0000",
+    "source": "TechTalk Thai",
+    "category": "AI",
+    "thumbnail": "https://www.techtalkthai.com/wp-content/uploads/2026/10/image5.jpg",
+    "readTime": "2 นาที"
+  },
+  {
+    "id": "https://techsauce.co/saucy-thoughts/floating-working-to-survive",
+    "title": "‘Floating’ ทำงานหนักเพื่อเอาตัวรอด เหมือนนกที่ต้องกระพือปีกเพื่อไม่ให้ตัวเองร่วง",
+    "link": "https://techsauce.co/saucy-thoughts/floating-working-to-survive",
+    "content": "คนรุ่นใหม่กำลังอยู่ท่ามกลางความเปลี่ยนแปลงครั้งใหญ่มาก ๆ และเมื่อสูตรชีวิตแบบเก่ามันไม่ได้ผลอย่างที่เคยเป็น มันเลยทำให้หลายคนรู้สึกเหนื่อย กังวล และเริ่มตั้งคำถามว่า ความพยายามทั้งหมดนี้กำลังพาชีวิตเราไปทางไหน",
+    "pubDate": "Fri, 02 Oct 2026 14:53:07 +0700",
+    "source": "Techsauce",
+    "category": "General",
+    "thumbnail": "https://storage.googleapis.com/techsauce-prod/ugc/uploads/2026/10/1790927427_%E2%80%98Floating%E2%80%99_%E0%B8%97%E0%B8%B3%E0%B8%87%E0%B8%B2%E0%B8%99%E0%B8%AB%E0%B8%99%E0%B8%B1%E0%B8%81%E0%B9%80%E0%B8%9E%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B9%80%E0%B8%AD%E0%B8%B2%E0%B8%95%E0%B8%B1%E0%B8%A7%E0%B8%A3%E0%B8%AD%E0%B8%94.webp",
+    "readTime": "1 นาที"
+  },
+  {
+    "id": "https://techsauce.co/news/traffy-fondue-flood-repair-service-bangkok",
+    "title": "5 กระทรวงจับมือ กทม. เปิด ‘Traffy Fondue ซ่อม สร้าง สู้น้ำท่วม’ แจ้งซ่อมบ้าน เครื่องใช้ไฟฟ้า รถ ผ่าน LINE ติดตามได้จนจบงาน",
+    "link": "https://techsauce.co/news/traffy-fondue-flood-repair-service-bangkok",
+    "content": "5 กระทรวงร่วมกับ กทม. เปิด Traffy Fondue ซ่อม สร้าง สู้น้ำท่วม แจ้งขอซ่อมบ้าน ระบบไฟ เครื่องใช้ไฟฟ้า และรถจมน้ำผ่าน LINE @TraffyFondue ระบบส่งเรื่องถึงหน่วยงานที่ช่วยได้ ติดตามได้จนจบงาน นำร่อง 7 จังหวัด",
+    "pubDate": "Fri, 02 Oct 2026 14:43:57 +0700",
+    "source": "Techsauce",
+    "category": "General",
+    "thumbnail": "https://storage.googleapis.com/techsauce-prod/ugc/uploads/2026/10/1790926849_Traffy_Fondue_%E0%B8%8B%E0%B9%88%E0%B8%AD%E0%B8%A1_%E0%B8%AA%E0%B8%A3%E0%B9%89%E0%B8%B2%E0%B8%87_%E0%B8%AA%E0%B8%B9%E0%B9%89%E0%B8%99%E0%B9%89%E0%B8%B3%E0%B8%97%E0%B9%88%E0%B8%A7%E0%B8%A1_800.webp",
+    "readTime": "1 นาที"
+  },
+  {
+    "id": "https://techsauce.co/news/openai-distillation-campaign",
+    "title": "OpenAI ตรวจพบปฏิบัติการ ดึง Reasoning เพื่อเทรน AI แบบไม่ลงทุน พยายามอย่างหนักกว่า 16,000 Requests อ้างผู้อยู่เบื้องหลังอาจมีความเกี่ยวข้องกับ Kimi",
+    "link": "https://techsauce.co/news/openai-distillation-campaign",
+    "content": "OpenAI เพิ่งออกมาประกาศว่า พวกเขาตรวจพบ และได้สกัดกั้นปฏิบัติการหมู่ที่พยายามดึง 'Protected Reasoning' หรือการดึงกระบวนการความคิดภายในของโมเดลออกมา โดยปฏิบัติการครั้งนี้เริ่มตั้งแต่ช่วงต้นเดือนกรกฎาคม ก่อนจะพุ่งขึ้นอย่างมากในช่วงปลายเดือนเดียวกัน",
+    "pubDate": "Fri, 02 Oct 2026 11:50:55 +0700",
+    "source": "Techsauce",
+    "category": "AI",
+    "thumbnail": "https://storage.googleapis.com/techsauce-prod/ugc/uploads/2026/10/1790916664_Keng_%E0%B8%9B%E0%B8%81%E0%B8%82%E0%B9%88%E0%B8%B2%E0%B8%A71200x800_%2854%29.webp",
+    "readTime": "1 นาที"
+  },
+  {
+    "id": "https://techsauce.co/ai/microsoft-mai-transcribe-2-streaming-mai-voice-2-1-launch",
+    "title": "Microsoft AI เปิดตัวโมเดลถอดเสียงเรียลไทม์ Transcribe-2-Streaming และ Voice-2.1 ตรวจจับภาษาและแปลอัตโนมัติ ไม่ต้องรอพูดจบ",
+    "link": "https://techsauce.co/ai/microsoft-mai-transcribe-2-streaming-mai-voice-2-1-launch",
+    "content": "Microsoft AI เปิดตัว MAI-Transcribe-2-Streaming โมเดลถอดเสียงเรียลไทม์ 60 ภาษา ขึ้นอันดับ 1 บน Artificial Analysis พร้อม MAI-Voice-2.1 และรุ่น Flash ที่ให้เสียงเดียวพูดได้ 23 ภาษา สำหรับสร้างเอเจนต์เสียง",
+    "pubDate": "Fri, 02 Oct 2026 11:30:20 +0700",
+    "source": "Techsauce",
+    "category": "AI",
+    "thumbnail": "https://storage.googleapis.com/techsauce-prod/ugc/uploads/2026/10/1790915372_Transcribe-2-Streaming_800.webp",
+    "readTime": "1 นาที"
+  },
+  {
+    "id": "https://techsauce.co/healthtech/transplanted-hearts-adopt-recipient-biological-age",
+    "title": "Harvard พบหัวใจที่ปลูกถ่ายปรับอายุตามเจ้าของใหม่ แก่เร็วขึ้นหรือกลับมาอ่อนเยาว์อยู่ที่อายุผู้รับ",
+    "link": "https://techsauce.co/healthtech/transplanted-hearts-adopt-recipient-biological-age",
+    "content": "งานวิจัยจาก Harvard พบหัวใจที่ปลูกถ่ายปรับอายุทางชีวภาพตามร่างผู้รับ หัวใจอายุน้อยในร่างสูงวัยแก่เร็วขึ้น หัวใจอายุมากในร่างอายุน้อยอ่อนเยาว์ลง อาจช่วยขยายกลุ่มผู้บริจาคหัวใจ",
+    "pubDate": "Fri, 02 Oct 2026 09:24:09 +0700",
+    "source": "Techsauce",
+    "category": "General",
+    "thumbnail": "https://storage.googleapis.com/techsauce-prod/ugc/uploads/2026/10/1790907967_%E0%B8%A7%E0%B8%B4%E0%B8%88%E0%B8%B1%E0%B8%A2_Harvard_800_.webp",
+    "readTime": "1 นาที"
   },
   {
     "id": "https://www.techtalkthai.com/?p=170691",
@@ -40,39 +271,6 @@
     "category": "AI",
     "thumbnail": "https://www.techtalkthai.com/wp-content/uploads/2017/09/amazon_aws_logo_smile_banner-600x300.png",
     "readTime": "2 นาที"
-  },
-  {
-    "id": "151792 at https://www.blognone.com",
-    "title": "WSL Containers เข้าสู่สถานะ GA พร้อมใช้งานจริงแล้ว",
-    "link": "https://www.blognone.com/node/151792",
-    "content": "WSL Containers เข้าสู่สถานะ GA พร้อมใช้งานจริงแล้ว\n\n  \nBody\nไมโครซอฟท์ปล่อย WSL Containers คำสั่งสำหรับรันคอนเทนเนอร์ภายใต้วินโดวส์โดยตรง เป็นรุ่น GA พร้อมใช้งาน จากเดิมที่ต้องการ Docker Desktop หรือติดตั้ง Docker ในลินุกซ์ที่รันใน WSL อีกครั้ง\nตัวสถาปัตยกรรมของ WSL Containers ยังคงเป็น Linux VM แบบเดียวกับ WSL ปกติ แต่ดัดแปลงเพื่อให้ทำงานคอนเทนเนอร์ร่วมกับวินโดวส์ได้โดยตรง เช่น การ mount โฟลเดอร์จากวินโดวส์เข้าไปในคอนเทนเนอร์ การใช้พอร์ตจะเหมือนเป็นการรันโปรแกรมจากวินโดวส์โดยตรง สำหรับลูกค้าองค์กรยังสามารถใช้ Intune และ Windows Defender ร่วมกับ WSL Containers ได้ด้วย\nตอนนี้ฟีเจอร์ต่างๆ ใกล้เคียง docker ปกติมากแล้ว แต่ยังขาดคำสั่ง compose อยู่ โดยไมโครซอฟท์ยืนยันว่าจะมาในรอบต่อไป และทำงานร่วมกับไฟล์ compose.yaml เดิมได้ทันที\nที่มา - Windows Blog\nlew\nFri, 02/10/2026 - 05:47",
-    "pubDate": "Thu, 01 Oct 2026 22:47:10 +0000",
-    "source": "Blognone",
-    "category": "General",
-    "thumbnail": null,
-    "readTime": "2 นาที"
-  },
-  {
-    "id": "151791 at https://www.blognone.com",
-    "title": "Google Japan เปิดตัวต้นแบบคีย์บอร์ดสายพาน ปุ่มกดหมุนวนไปเรื่อย ๆ ทำให้พิมพ์นิ้วเดียวสะดวกขึ้น",
-    "link": "https://www.blognone.com/node/151791",
-    "content": "Google Japan เปิดตัวต้นแบบคีย์บอร์ดสายพาน ปุ่มกดหมุนวนไปเรื่อย ๆ ทำให้พิมพ์นิ้วเดียวสะดวกขึ้น\n\n  \nBody\nกูเกิลประเทศญี่ปุ่นเปิดตัวคีย์บอร์ดต้นแบบประจำปีตามธรรมเนียมที่นำมาทดแทน April Fools ในทุกวันที่ 1 ตุลาคม (101 = เลขมาตรฐานสเป็กคีย์บอร์ด) ซึ่งปีนี้ก็เป็นคีย์บอร์ดลำดับที่ 15 แล้ว (ตัวอย่าง 2021, 2022, 2023, 2024, 2025) โดยปีนี้เป็นคีย์บอร์ดที่ได้แรงบันดาลใจจากซูชิสายพาน เพราะมันคือคีย์บอร์ดสายพาน!\nกูเกิลบอกว่าคีย์บอร์ดดั้งเดิมนั้นออกแบบมาให้ใช้สองมือในการพิมพ์ต่อเนื่อง ทีนี้ถ้าผู้ใช้งานสะดวกพิมพ์แค่มือเดียวหรือนิ้วเดียว บนคีย์บอร์ดแบบเดิมก็ต้องขยับแขนไปมาเยอะมาก จะดีกว่าไหมถ้าคีย์บอร์ดเป็นฝ่ายขยับเข้าหาแทน นี่จึงเป็นที่มาของคีย์บอร์ดสายพานที่ปุ่มกดหมุนวนไปตลอด\nเหมือนเช่นทุกปี กูเกิลโอเพนซอร์สต้นแบบคีย์บอร์ดสายพานนี้ไว้ที่ Github ให้ไปสร้างขึ้นเองต่อได้\nที่มา: กูเกิลญี่ปุ่น\n\narjin\nThu, 01/10/2026 - 19:03",
-    "pubDate": "Thu, 01 Oct 2026 12:03:51 +0000",
-    "source": "Blognone",
-    "category": "General",
-    "thumbnail": null,
-    "readTime": "3 นาที"
-  },
-  {
-    "id": "151790 at https://www.blognone.com",
-    "title": "Salesforce ซื้อกิจการ Listen Labs สตาร์ทอัปพัฒนา AI สำหรับค้นหา Customer Insight",
-    "link": "https://www.blognone.com/node/151790",
-    "content": "Salesforce ซื้อกิจการ Listen Labs สตาร์ทอัปพัฒนา AI สำหรับค้นหา Customer Insight\n\n  \nBody\nSalesforce ประกาศซื้อกิจการ Listen Labs สตาร์ทอัปที่พัฒนาแพลตฟอร์มวิจัยพฤติกรรมลูกค้าด้วย AI รวมถึงสร้างแบบจำลองการตัดสินใจของมนุษย์ ซึ่ง Salesforce บอกว่าดีลนี้จะนำมาเสริมความสามารถแพลตฟอร์มบริหารความสัมพันธ์ลูกค้า (CRM) ให้เข้าใจสิ่งที่ลูกค้าคิดตัดสินใจกระทำได้ดียิ่งกว่าการทำแบบสอบถามวิจัยดั้งเดิม\nAlfred Wahlforss ซีอีโอและผู้ร่วมก่อตั้ง Listen Labs อธิบายว่าทุกธุรกิจต่างอยากฟังความคิดจากลูกค้าทุกคน แต่วิธีที่มีประโยชน์ในการประยุกต์ใช้นั้นมีไม่มาก สิ่งที่บริษัทพัฒนาคือการนำ AI มาเรียนรู้จากสถานการณ์จริง รวมถึงออกแบบโมเดลทดลองว่าหากทำแบบนี้ลูกค้าจะตัดสินใจแบบใดในแต่ละขั้นตอน\nดีลนี้ไม่มีการเปิดเผยมูลค่าอย่างเป็นทางการ แต่มีตัวเลขรายงานว่าอยู่ราว 2 พันล้านดอลลาร์\nที่มา: Salesforce และ Tech Times\narjin\nThu, 01/10/2026 - 18:52",
-    "pubDate": "Thu, 01 Oct 2026 11:52:50 +0000",
-    "source": "Blognone",
-    "category": "AI",
-    "thumbnail": null,
-    "readTime": "3 นาที"
   },
   {
     "id": "https://it24hrs.com/?p=170259",
@@ -229,17 +427,6 @@
     "readTime": "4 นาที"
   },
   {
-    "id": "https://techsauce.co/ai/trump-renames-ai-super-intelligence",
-    "title": "Trump สั่งเปลี่ยนชื่อ AI เป็น ‘Super Intelligence’  มองว่า AI วันนี้ไปไกลกว่าคำว่า Artificial Intelligence",
-    "link": "https://techsauce.co/ai/trump-renames-ai-super-intelligence",
-    "content": "Donald Trump ประธานาธิบดีสหรัฐฯ ลงนามคำสั่งให้รัฐบาลเลิกใช้คำว่า Artificial Intelligence (AI) และหันมาใช้คำว่า 'Super Intelligence' หรือ SI",
-    "pubDate": "Thu, 01 Oct 2026 12:41:07 +0700",
-    "source": "Techsauce",
-    "category": "AI",
-    "thumbnail": "https://storage.googleapis.com/techsauce-prod/ugc/uploads/2026/10/1790832225_Trump_%E0%B8%AA%E0%B8%B1%E0%B9%88%E0%B8%87%E0%B9%80%E0%B8%9B%E0%B8%A5%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B8%99%E0%B8%8A%E0%B8%B7%E0%B9%88%E0%B8%AD_AI_%E0%B9%80%E0%B8%9B%E0%B9%87%E0%B8%99_%E2%80%98Super_Intelligence%E2%80%99.webp",
-    "readTime": "1 นาที"
-  },
-  {
     "id": "https://www.techtalkthai.com/?p=170651",
     "title": "OpenAI Codex เปิดตัวสภาพแวดล้อมคลาวด์ ใช้ซ้ำได้จากทุกอุปกรณ์",
     "link": "https://www.techtalkthai.com/openais-codex-gets-reusable-cloud-environments-that-follow-developers-across-devices/",
@@ -251,17 +438,6 @@
     "readTime": "6 นาที"
   },
   {
-    "id": "https://techsauce.co/news/white-house-accord-super-intelligence-",
-    "title": "Trump และ 6 บริษัท AI ลงนามกติกา Super Intelligence ทุกคนต้องช่วยกันคุม AI ระดับสูง หลังเกิดเหตุการณ์คุมไม่อยู่",
-    "link": "https://techsauce.co/news/white-house-accord-super-intelligence-",
-    "content": "ประธานาธิบดี Donald Trump และผู้บริหารบริษัท AI ชั้นนำของสหรัฐฯ 6 ราย ลงนามใน White House Accord on Super Intelligence ที่ทำเนียบขาว เมื่อวันอังคารที่ 29 กันยายน 2569 ตามเวลาสหรัฐฯ ผู้ลงนามฝั่งบริษัทคือ Sundar Pichai (Google), Dario Amodei",
-    "pubDate": "Thu, 01 Oct 2026 11:26:51 +0700",
-    "source": "Techsauce",
-    "category": "AI",
-    "thumbnail": "https://storage.googleapis.com/techsauce-prod/ugc/uploads/2026/10/1790828707_Keng_%E0%B8%9B%E0%B8%81%E0%B8%82%E0%B9%88%E0%B8%B2%E0%B8%A71200x800_%2814%29.webp",
-    "readTime": "1 นาที"
-  },
-  {
     "id": "https://www.techtalkthai.com/?p=170640",
     "title": "BAYCOMS Cybersecurity Day 2026 : Trust in Autonomous AI ERA",
     "link": "https://www.techtalkthai.com/baycoms-cybersecurity-day-2026-trust-in-autonomous-ai-era/",
@@ -271,17 +447,6 @@
     "category": "Security",
     "thumbnail": "https://www.techtalkthai.com/wp-content/uploads/2026/10/BAYCOMS-2026-Avirut-CEO.jpg",
     "readTime": "3 นาที"
-  },
-  {
-    "id": "https://techsauce.co/ai/google-gemini-4-argon-frontier-model-launch",
-    "title": "Google เปิดตัว Gemini 4 Argon โมเดล AI ระดับแนวหน้า คิดวิเคราะห์ได้ลึกขึ้น ถนัดงานซับซ้อน",
-    "link": "https://techsauce.co/ai/google-gemini-4-argon-frontier-model-launch",
-    "content": "Google เปิดตัว Gemini 4 Argon โมเดลแนวหน้าที่เก่งงานโค้ด การเงิน กฎหมาย และป้องกันภัยไซเบอร์ เอาต์พุตสูงสุด 1 ล้านโทเคน เปิดให้ทีมป้องกันไซเบอร์ใช้ก่อน ราคาเริ่ม 2 ดอลลาร์ต่ออินพุต 1 ล้านโทเคน",
-    "pubDate": "Thu, 01 Oct 2026 10:07:58 +0700",
-    "source": "Techsauce",
-    "category": "Security",
-    "thumbnail": "https://storage.googleapis.com/techsauce-prod/ugc/uploads/2026/10/1790823999_Gemini_4_Argon_800__%281%29.webp",
-    "readTime": "1 นาที"
   },
   {
     "id": "https://www.techtalkthai.com/?p=170624",
@@ -306,17 +471,6 @@
     "readTime": "3 นาที"
   },
   {
-    "id": "https://techsauce.co/news/nitmx-fintech-bootcamp-2026-behind-the-scenes",
-    "title": "BEHIND THE BOOTCAMP: เจาะลึก 7 Modules จาก Payment Infrastructure สู่การปั้น FinTech Talent",
-    "link": "https://techsauce.co/news/nitmx-fintech-bootcamp-2026-behind-the-scenes",
-    "content": "ในโลกการเงิน “กว่าจะปั้น FinTech Talent ขึ้นมาได้ 1 คน” ต้องผ่านอะไรบ้าง? พาเจาะเบื้องหลัง NITMX Fintech Bootcamp 2026: Unlocking the Future of Fintech โปรแกรมบ่มเพาะเชิงลึกครั้งแรกในไทยและ SEA ที่ยกระดับจากการแข่งไอเดีย สู่การเชื่อมนวัตกรรมการเงิ",
-    "pubDate": "Thu, 01 Oct 2026 09:00:00 +0700",
-    "source": "Techsauce",
-    "category": "General",
-    "thumbnail": "https://storage.googleapis.com/techsauce-prod/ugc/uploads/2026/9/1790750098_Fintech.webp",
-    "readTime": "1 นาที"
-  },
-  {
     "id": "https://www.techtalkthai.com/?p=170617",
     "title": "Run Oracle Your Way [Guest Post]",
     "link": "https://www.techtalkthai.com/mfec-oracle-database-platform-run-oracle-your-way-guest-post/",
@@ -326,149 +480,6 @@
     "category": "AI",
     "thumbnail": "https://www.techtalkthai.com/wp-content/uploads/2026/10/Cover-TTT-MFEC-ORACLE-640x335.png",
     "readTime": "2 นาที"
-  },
-  {
-    "id": "151789 at https://www.blognone.com",
-    "title": "Ubisoft รวมทีมสร้างเกมยิงตระกูล Tom Clancy มาอยู่ใต้ Massive Entertainment",
-    "link": "https://www.blognone.com/node/151789",
-    "content": "Ubisoft รวมทีมสร้างเกมยิงตระกูล Tom Clancy มาอยู่ใต้ Massive Entertainment\n\n  \nBody\nUbisoft ประกาศชื่อสตูดิโอแห่งที่สองตาม ระบบใหม่ Creative House ที่แยก 5 บ้าน รับผิดชอบเกม 5 ประเภท โดยสตูดิโอ Creative House 1 คือ Vantage Studios รับผิดชอบแฟรนไชส์ดังๆ Assassin's Creed, Far Cry, Rainbow Six\nวันนี้ Creative House 2 ประกาศชื่อแล้วคือ Massive Entertainment มีฐานมาจากสตูดิโอเกมสวีเดนที่รับผิดชอบแฟรนไชส์ Tom Clancy’s The Division โดยจะดึงทีมที่รับผิดชอบเกมยิง Tom Clancy สายอื่น ได้แก่ Ghost Recon (พัฒนาโดย Ubisoft Paris) และ Splinter Cell (พัฒนาโดย Ubisoft Toronto) เข้ามาอยู่ภายใต้โครงสร้างใหม่ และใช้โลโก้ใหม่ของสตูดิโอด้วย (เท่ากับว่ามี Tom Clancy ทุกเกมยกเว้น Rainbow Six)\nนอกจากนี้ Massive Entertainment โฉมใหม่ ยังจะได้ สตูดิโอ Amazon Games Montreal เดิมที่ Ubisoft ซื้อกิจการมาตอนปลายปี 2025 เป็นเกมแฟรนไชส์ใหม่ชื่อ March of Giants เกมแนว MOBA 4v4 เข้ามาร่วมด้วย\nเท่ากับว่า Massive Entertainment โฉมใหม่ในระบบ Creative House 2 มีสตูดิโอใน 4 เมืองคือ Montréal, Paris, Sweden, Toronto ส่วนหัวหน้าสตูดิโอเป็น Christoph Hartmann ผู้ร่วมก่อตั้ง 2K Games (ภายใต้ Take-Two) หนึ่งในทีมสร้าง GTA 3 ภาคแรก และอดีตผู้บริหารของ Amazon Games มารับตำแหน่งเป็น General Manager\nที่มา - Massive Entertainment, Ubisoft\nmk\nThu, 01/10/2026 - 07:57",
-    "pubDate": "Thu, 01 Oct 2026 00:57:58 +0000",
-    "source": "Blognone",
-    "category": "General",
-    "thumbnail": null,
-    "readTime": "4 นาที"
-  },
-  {
-    "id": "151788 at https://www.blognone.com",
-    "title": "เปิดตัว Gemini 4 Argon เอาชนะโมเดลคู่แข่งได้เกือบหมด แก้ปัญหาเขียนโค้ดไม่เก่งได้แล้ว",
-    "link": "https://www.blognone.com/node/151788",
-    "content": "เปิดตัว Gemini 4 Argon เอาชนะโมเดลคู่แข่งได้เกือบหมด แก้ปัญหาเขียนโค้ดไม่เก่งได้แล้ว\n\n  \nBody\nกูเกิลเปิดตัวโมเดลรุ่นใหญ่ Gemini 4 Argon ตามที่เคยพูดไว้ก่อนหน้านี้ โดยการกลับมาครั้งนี้ของ Gemini สามารถเอาชนะโมเดลคู่แข่งทั้ง GPT-6 Astra และ Claude Fable 5.1 ได้ในเกือบทุกการทดสอบ\nสิ่งที่เป็นจุดอ่อนที่สุดของโมเดลตระกูล Gemini คือเรื่องโค้ดดิ้ง (และเป็นเหตุให้ Gemini Pro 3.5 ออกไม่ได้ตามเป้า) คราวนี้กลับมาด้วยคะแนนเบนช์มาร์ค\nDeepSWE v1.1 ที่ 77.9% เอาชนะโมเดลที่ดีที่สุดก่อนหน้านี้คือ GPT-6 Astra ทำไว้ 74.1% กับ Claude Opus 5.5 ทำไว้ 74.2%\nVibe Code Bench ทำได้ 91.9% เทียบกับ Claude Fable 5.1 ทำไว้ 90.3%\nส่วน FrontierSWE กับ Terminal-bench ยังแพ้ GPT-6 Astra และ Claude Opus 5.5 ตามลำดับ\nกูเกิลบอกว่าใช้ Gemini 4 Argon สำหรับงานเขียนโค้ดภายในมาสักระยะแล้ว มีทั้งงานแปลงโค้ด C/C++ เดิมมาเป็น Rust จำนวนระดับ 8 แสนบรรทัด และแปลงโค้ด Rust มาเป็นโค้ด Single Instruction, Multiple Data (SIMD) ทำให้ประสิทธิภาพดีขึ้น 2.7 เท่า\n\n\nส่วนความสามารถด้านความปลอดภัยไซเบอร์ก็ทำได้ดีกว่า Gemini 3.8 Flash Cyber ที่เป็นโมเดลเฉพาะทาง มีคะแนน CWE-bench v1 ที่ 68% เท่ากับ Grok 4.7 และ GPT-6 Astra โดยตอนนี้โมเดล Gemini 4 ถูกนำมาใช้งานจริงกับงานของ Wiz บริษัทความปลอดภัยที่กูเกิลซื้อกิจการมา\nนอกจากเรื่องเขียนโค้ดแล้ว Gemini 4 ยังทำคะแนนได้ดีในงานสายอื่นๆ เช่น งานด้านเศรษฐศาสตร์ การเงิน กฎหมาย ความเข้าใจภาพ ชาร์ท วิดีโอ\nอีกจุดที่ Gemini 4 ปรับปรุงขึ้นจากเดิมคือ การใช้งานหน่วยความจำ ที่ปรับแต่งให้เหมาะสมกับศูนย์ข้อมูลของกูเกิลมากกว่าเดิม สามารถลดหน่วยความจำรวมลงได้ 300 TiB (นับเฉพาะตัวโมเดล) และในภาพรวมน่าจะลดลงได้ 500 TiB ถึง 1 PiB\nGemini 4 ยังขยายปริมาณ output token ขึ้นมาจาก 64k token เป็น 1M token ถือว่าเพิ่มเข้ามาแบบก้าวกระโดด แถมในช่วงแรกที่เปิดตัวจะลดราคาให้ 50% ลงมาเหลือ 2 ดอลลาร์ต่อ 1 ล้าน token (input) และ 10 ดอลลาร์ต่อ 1 ล้าน token (หมดช่วงเปิดตัวแล้วจะขึ้นราคาสองเท่า) เรียกว่าตั้งใจตั้งราคามาดึงคนกลับไปใช้ Gemini กันสุดๆ\nคุณสมบัติดีขึ้นมากขนาดนี้ ข้อจำกัดเดียวของ Gemini 4 Argon ในตอนนี้คือยังไม่เปิดให้คนทั่วไปใช้งาน เปิดเฉพาะผู้เชี่ยวชาญด้านความปลอดภัยไซเบอร์ที่เข้าโครงการ Fairwind Program ก่อนเพื่อให้มั่นใจว่าโมเดลมีความปลอดภัยมากพอ หลังจากนั้นจึงจะปล่อยผ่าน API และลูกค้ากลุ่ม Google AI Ultra\nที่มา - Google\nmk\nThu, 01/10/2026 - 06:21",
-    "pubDate": "Wed, 30 Sep 2026 23:21:52 +0000",
-    "source": "Blognone",
-    "category": "Security",
-    "thumbnail": "https://www.blognone.com/sites/default/files/files-2026/2026-09/gemini_4_cyber_evals_deepswe.gif",
-    "readTime": "6 นาที"
-  },
-  {
-    "id": "https://www.techtalkthai.com/?p=170614",
-    "title": "Google เผยรายงานเทรนด์ช่องโหว่ยุค AI ชี้ช่องโหว่ที่ AI ค้นพบเป็น RCE สูงถึง 50%",
-    "link": "https://www.techtalkthai.com/google-report-ai-discovered-vulnerabilities-half-are-rce/",
-    "content": "Google Threat Intelligence Group (GTIG) ออกรายงานเทรนด์การค้นพบและการโจมตีช่องโหว่ในยุค AI ชี้ว่าช่องโหว่ที่คาดว่าถูกค้นพบด้วย AI นำไปสู่ Remote Code Execution (RCE) สูงถึง 50% เทียบกับ 26% ของช่องโหว่โดยรวมทั้งอุตสาหกรรม ขณะที่การโจมตีที่เพิ่มขึ้นในปี 2026 มาจากการเปลี่ยนช่องโหว่ n-day เป็นอาวุธได้เร็วขึ้น ไม่ใช่การพุ่งขึ้นของ Zero-day รายงานฉบับนี้วิเคราะห์ช่องโหว่ที่ถูกเปิดเผยระหว่างเดือนมกราคม 2025 ถึงสิงหาคม 2026 พบว่าจำนวน CVE ต่อเดือนเพิ่มขึ้นเท่าตัว จาก 5,045 รายการในเดือนมกราคม 2026 เป็น 10,740 รายการในเดือนสิงหาคม ส่วนการโจมตีช่องโหว่จริงเพิ่มขึ้นจากเฉลี่ย 10.5 รายการต่อเดือนในปี 2025 เป็น 18 รายการต่อเดือน อย่างไรก็ตาม GTIG เตือนว่าตัวเลขดิบไม่ได้สะท้อนความเสี่ยงตามสัดส่วน เพราะนโยบายออกเลข CVE แบบอัตโนมัติของ CVE Numbering …",
-    "pubDate": "Wed, 30 Sep 2026 22:16:12 +0000",
-    "source": "TechTalk Thai",
-    "category": "Security",
-    "thumbnail": "https://www.techtalkthai.com/wp-content/uploads/2025/02/researchers-find-whoami-can-attack-amazon-ec2-instances-allowing-code-execution-640x335.jpg",
-    "readTime": "2 นาที"
-  },
-  {
-    "id": "https://www.techtalkthai.com/?p=170612",
-    "title": "Cisco เตือนช่องโหว่ Zero-day บน Catalyst SD-WAN Manager ถูกใช้โจมตีจริงแล้ว",
-    "link": "https://www.techtalkthai.com/cisco-catalyst-sdwan-manager-zero-day-authentication-bypass-exploited/",
-    "content": "Cisco ออกประกาศเตือนช่องโหว่ Zero-day ระดับ Critical บน Catalyst SD-WAN Manager ที่เปิดให้ผู้โจมตีจากระยะไกลเรียกใช้ API ด้วยสิทธิ์ระดับผู้ดูแลระบบได้โดยไม่ต้อง login และยืนยันว่ามีการโจมตีเกิดขึ้นจริงแล้ว Cisco เผยแพร่ security advisory แจ้งเตือนช่องโหว่ CVE-2026-76504 บน Cisco Catalyst SD-WAN Manager ระบบที่องค์กรใช้บริหารจัดการเครือข่าย SD-WAN ของ Cisco ช่องโหว่อยู่ในส่วนของ API ที่จัดการ login session และมีค่า CVSS 9.8 จาก 10 จัดอยู่ในระดับ Critical หน่วยงาน PSIRT ของ Cisco ระบุว่าพบการโจมตีจริงตั้งแต่เดือนกันยายน 2026 ระหว่างที่ทีม TAC ดูแลกรณีสนับสนุนลูกค้ารายหนึ่ง จึงเป็นช่องโหว่ Zero-day ที่ถูกใช้โจมตีตั้งแต่ก่อนมีแพตช์ โดยประกาศไม่ได้เปิดเผยจำนวนผู้เสียหายหรือผู้อยู่เบื้องหลัง ต้นเหตุคือ …",
-    "pubDate": "Wed, 30 Sep 2026 22:11:49 +0000",
-    "source": "TechTalk Thai",
-    "category": "Security",
-    "thumbnail": "https://www.techtalkthai.com/wp-content/uploads/2026/01/cisco-vulnerability-alert-banner-2026-640x357.png",
-    "readTime": "2 นาที"
-  },
-  {
-    "id": "151786 at https://www.blognone.com",
-    "title": "[ลือ] Apple เตรียมเปิดตัวจอสมาร์ทโฮมสินค้าใหม่ พร้อม Apple TV, HomePod mini อัปเกรด 13 ตุลาคมนี้",
-    "link": "https://www.blognone.com/node/151786",
-    "content": "[ลือ] Apple เตรียมเปิดตัวจอสมาร์ทโฮมสินค้าใหม่ พร้อม Apple TV, HomePod mini อัปเกรด 13 ตุลาคมนี้\n\n  \nBody\nMark Gurman แห่ง Bloomberg คนเดิม มีรายงานล่าสุดเกี่ยวกับจอสมาร์ทโฮมควบคุมอุปกรณ์ในบ้านของแอปเปิล ที่มีข่าวมานานแต่ก็ยังไม่เปิดตัวสักที โดยข้อมูลใหม่เขาบอกว่าแอปเปิลกำหนดเปิดตัวสินค้านี้ในวันที่ 13 ตุลาคม รวมทั้งสินค้าอื่นที่เป็นอุปกรณ์ภายในบ้าน\nข้อมูลสเป็กจอสมาร์ทโฮมล่าสุดที่ Gurman บอกคือหน้าจอมีขนาด 6 นิ้ว ปรับการใช้งานได้ทั้งแบบตั้งโต๊ะหรือแขวนผนัง มีกล้อง FaceTime ด้านหน้า, มีไมโครโฟน-ลำโพงที่ฐาน, ขอบจอใหญ่เหมือน iPad รุ่นแรก ๆ, ไม่มีแบตเตอรี่ในตัว ต้องเสียบปลั๊กตลอดเวลา, ไม่มีปุ่มปรับระดับเสียง, ไม่มีปุ่มปิด-เปิดจอ ภาพรวมของหน้าจอนี้ทำให้เขานึกถึง iMac G4 ที่หน้าจอใหญ่และฐานด้านล่างเล็ก ๆ\nสินค้าที่จะเปิดตัวพร้อมกันในวันนั้นคือ Apple TV รุ่นใหม่ และ HomePod mini รุ่นใหม่ โดยทั้งสองสินค้านี้ไม่ได้เปลี่ยนแปลงการออกแบบภายนอก เป็นการอัปเกรดฮาร์ดแวร์ด้านใน โดยทั้งหมดแอปเปิลจะเน้นนำเสนอความสามารถการทำงานร่วมกับ Siri AI ใหม่ ซึ่งเป็นสาเหตุให้สินค้ากลุ่มนี้เลื่อนเปิดตัวมานานนับปีนั่นเอง\nที่มา: Bloomberg\narjin\nThu, 01/10/2026 - 01:05",
-    "pubDate": "Wed, 30 Sep 2026 18:05:00 +0000",
-    "source": "Blognone",
-    "category": "AI",
-    "thumbnail": null,
-    "readTime": "3 นาที"
-  },
-  {
-    "id": "151787 at https://www.blognone.com",
-    "title": "NVIDIA ประกาศแผนซื้อหุ้นคืนครั้งใหญ่ วงเงิน 1.5 แสนล้านดอลลาร์",
-    "link": "https://www.blognone.com/node/151787",
-    "content": "NVIDIA ประกาศแผนซื้อหุ้นคืนครั้งใหญ่ วงเงิน 1.5 แสนล้านดอลลาร์\n\n  \nBody\nNVIDIA ประกาศแผนซื้อหุ้นคืนจากนักลงทุนด้วยวงเงินเพิ่มเติมถึง 150,000 ล้านดอลลาร์ สูงสุดในประวัติศาสตร์ของตลาดหุ้นสหรัฐ โดยสถิติก่อนหน้านี้คือแอปเปิลที่ประกาศวงเงิน 110,000 ล้านดอลลาร์ ในปี 2024 เมื่อรวมกับวงเงินที่ประกาศก่อนหน้านี้ทำให้ NVIDIA มีแผนซื้อหุ้นคืนรวม 235,000 ล้านดอลลาร์\nNVIDIA คาดว่าการซื้อหุ้นคืนรวมทั้งหมดจะเสร็จสิ้นภายในปีการเงินบริษัท 2028\nการซื้อหุ้นคืนเป็นหนึ่งในวิธีการบริหารจัดการสินทรัพย์ของบริษัท เพราะทำให้จำนวนหุ้นของบริษัทลดลง ผลตอบแทนต่อจำนวนหุ้นจึงสูงขึ้น สะท้อนกลับไปได้ที่ราคาหุ้น ขณะเดียวกันยังเป็นการเพิ่มทางเลือกจ่ายผลตอบแทนให้ผู้ถือหุ้น รวมถึงส่งสัญญาณว่าราคาหุ้นปัจจุบันในมุมมองบริษัทนั้นยังมีราคาไม่สูงจนบริษัทยังนำเงินสดมาซื้อหุ้นเองได้ด้วย\nJensen Huang ซีอีโอ NVIDIA บอกว่าการเติบโตที่เกี่ยวข้องกับ AI ทำให้บริษัทมีกระแสเงินสดเพียงพอสำหรับการลงทุนในเทคโนโลยีต่าง ๆ และยังสามารถคืนผลตอบแทนกับผู้ถือหุ้นได้ด้วย\nที่มา: NVIDIA\narjin\nThu, 01/10/2026 - 00:22",
-    "pubDate": "Wed, 30 Sep 2026 17:22:52 +0000",
-    "source": "Blognone",
-    "category": "AI",
-    "thumbnail": null,
-    "readTime": "3 นาที"
-  },
-  {
-    "id": "151785 at https://www.blognone.com",
-    "title": "[ไม่ยืนยัน] ซีอีโอใหม่ Apple กำหนดเป้าหมาย มีสินค้าสู่ตลาดเร็วขึ้น ไม่ต้องรองานประจำปี ลีนองค์กรให้การตัดสินใจเร็วขึ้น",
-    "link": "https://www.blognone.com/node/151785",
-    "content": "[ไม่ยืนยัน] ซีอีโอใหม่ Apple กำหนดเป้าหมาย มีสินค้าสู่ตลาดเร็วขึ้น ไม่ต้องรองานประจำปี ลีนองค์กรให้การตัดสินใจเร็วขึ้น\n\n  \nBody\nมีรายงานจาก Mark Gurman แห่ง Bloomberg คนเดิม เกี่ยวกับการปรับโครงสร้างบริหารของแอปเปิลในยุคซีอีโอ John Ternus ซึ่งมีประเด็นสำคัญคือ\nออกสินค้าใหม่ถี่มากขึ้น ไม่ต้องรอรอบเปิดตัวต้นปี-กลางปี-ปลายปี แบบเดิม\nมีสินค้าใหม่ออกมาสู่ตลาดเร็วขึ้นตลอดปี กล้าทดลองตลาดมากขึ้นตามยุคสมัยของ AI\nลดลำดับขั้นขององค์กร เพื่อให้การตัดสินใจและดำเนินการเร็วขึ้น\nนอกจากนี้ Ternus ยังพูดถึงการปรับโครงสร้างจำนวนพนักงานให้เหมาะสมมากขึ้น ซึ่งเป็นไปตามข่าวก่อนหน้านี้ทั้งการปลดพนักงานฝ่าย VR และ Fitness+ รวมถึงการทำเงินจากธุรกิจ Services ให้มากขึ้น ซึ่งมีข่าวก่อนหน้านี้ว่าเป็นสาเหตุให้ Phil Schiller ลาออกจากการดูแล App Store\nที่มา: Bloomberg\narjin\nWed, 30/09/2026 - 23:16",
-    "pubDate": "Wed, 30 Sep 2026 16:16:48 +0000",
-    "source": "Blognone",
-    "category": "AI",
-    "thumbnail": null,
-    "readTime": "2 นาที"
-  },
-  {
-    "id": "151784 at https://www.blognone.com",
-    "title": "เป็นทางการแล้ว! Donald Trump ลงนามคำสั่งเปลี่ยนคำเรียก Artificial Intelligence เป็น Super Intelligence",
-    "link": "https://www.blognone.com/node/151784",
-    "content": "เป็นทางการแล้ว! Donald Trump ลงนามคำสั่งเปลี่ยนคำเรียก Artificial Intelligence เป็น Super Intelligence\n\n  \nBody\nประธานาธิบดี Donald Trump ลงนามคำสั่งบริหาร (executive order) ให้หน่วยงานของรัฐบาลสหรัฐเปลี่ยนคำเรียก AI หรือ Artificial Intelligence มาเป็น Super Intelligence ใช้ตัวย่อ SI ตามที่เขาได้ประกาศในที่ประชุมใหญ่สหประชาชาติเมื่อสัปดาห์ที่แล้ว โดยให้เหตุผลว่า AI รุ่นใหม่มีความสามารถที่ไม่ใช่แค่การเลียนแบบมนุษย์แล้ว แต่เป็นการขยายความสามารถของมนุษย์\nคำสั่งนี้ระบุให้หน่วยงานของรัฐทั้งหมดใช้คำว่า Super Intelligence ในการสื่อสารที่เกี่ยวข้อง และหยุดใช้คำว่า Artificial Intelligence ทันที อย่างไรก็ตามคำสั่งไม่มีผลกับกฎหมายที่เกี่ยวข้องที่ใช้คำว่า AI ไปแล้ว ให้ต้องแก้ไขตามทันที รวมถึงคำสั่งในอดีตก็ไม่ต้องตามแก้ไขให้เป็น SI ด้วย ทั้งนี้คำสั่งของ Trump ระบุให้หน่วยงานที่เกี่ยวข้องกำหนดนิยามของคำว่า SI ในระดับรัฐบาลด้วยให้แล้วเสร็จภายใน 60 วัน\nในวันเดียวกัน Trump ได้เชิญผู้บริหารบริษัทเทคโนโลยีรายใหญ่ด้าน AISI มาหารือที่ทำเนียบขาว และลงนามข้อตกลงด้าน Super Intelligence ซึ่งรายชื่อที่ลงนามมี Sundar Pichai (Google), Dario Amodei (Anthropic), Mark Zuckerberg (Meta), Greg Brockman (OpenAI) และ Elon Musk (XAI) โดยมีคนตั้งข้อสังเกตว่าชื่อประเทศสหรัฐอเมริกาสะกดผิด แต่ยังไม่มีความเห็นออกมาจากทำเนียบขาว\nGreat to meet today with @POTUS, @JDVance, @SpeakerJohnson and Administration + tech leaders. Important conversation and we signed today the White House Accord on Super Intelligence.As I shared today, Google has invested hundreds of billions in the last two years alone, with… pic.twitter.com/04EirBfyUX\n— Sundar Pichai (@sundarpichai) September 30, 2026\n\nที่มา: TechRepublic, TechCrunch, The White House\narjin\nWed, 30/09/2026 - 22:52",
-    "pubDate": "Wed, 30 Sep 2026 15:52:14 +0000",
-    "source": "Blognone",
-    "category": "AI",
-    "thumbnail": null,
-    "readTime": "5 นาที"
-  },
-  {
-    "id": "https://techsauce.co/news/cherdchai-boonchoochauy-sirimet-leepagorn-new-ceo-gpsc-irpc-oct-2026",
-    "title": "ปตท. ตั้ง เชิดชัย บุญชูช่วย นั่ง CEO GPSC  ศิริเมธ ลี้ภากรณ์ ขึ้นแท่น CEO IRPC  มีผล 1 ต.ค. เป็นต้นไป",
-    "link": "https://techsauce.co/news/cherdchai-boonchoochauy-sirimet-leepagorn-new-ceo-gpsc-irpc-oct-2026",
-    "content": "กลุ่ม ปตท. เปลี่ยนตัวผู้บริหารระดับสูง 2 ตำแหน่ง มีผลวันที่ 1 ตุลาคม 2569 ได้แก่ ประธานเจ้าหน้าที่บริหาร (CEO) ของ บมจ. โกลบอล เพาเวอร์ ซินเนอร์ยี่ (GPSC), CEO และกรรมการผู้จัดการใหญ่ของ บมจ. ไออาร์พีซี (IRPC)",
-    "pubDate": "Wed, 30 Sep 2026 19:33:03 +0700",
-    "source": "Techsauce",
-    "category": "General",
-    "thumbnail": "https://storage.googleapis.com/techsauce-prod/ugc/uploads/2026/9/1790771475_ptt--12.webp",
-    "readTime": "1 นาที"
-  },
-  {
-    "id": "https://techsauce.co/news/chanamas-sasnanand-ptt-cfo",
-    "title": "PTT ตั้ง ชนมาศ ศาสนนันทน์ เป็น CFO คนใหม่ มีผล 1 ต.ค. 2569",
-    "link": "https://techsauce.co/news/chanamas-sasnanand-ptt-cfo",
-    "content": "บริษัท ปตท. จำกัด (มหาชน) หรือ PTT แจ้งตลาดหลักทรัพย์แห่งประเทศไทย (SET) ว่าแต่งตั้ง คุณชนมาศ ศาสนนันทน์ เป็นประธานเจ้าหน้าที่บริหารการเงิน ผู้รับผิดชอบสูงสุดในสายงานบัญชีและการเงิน (CFO) ของบริษัท มีผลตั้งแต่วันที่ 1 ตุลาคม 2569 ต่อจาก คุณภัทรลดา สง",
-    "pubDate": "Wed, 30 Sep 2026 19:04:37 +0700",
-    "source": "Techsauce",
-    "category": "General",
-    "thumbnail": "https://storage.googleapis.com/techsauce-prod/ugc/uploads/2026/9/1790769832_ptt-2.webp",
-    "readTime": "1 นาที"
-  },
-  {
-    "id": "https://www.techtalkthai.com/?p=170607",
-    "title": "Alibaba ส่ง Qwen Intelligence เสริมพลัง Agentic Smartphone ยุคถัดไป [PR]",
-    "link": "https://www.techtalkthai.com/alibaba-qwen-intelligence-for-future-agentic-smartphone-pr/",
-    "content": "Alibaba เปิดตัว Qwen Intelligence ซึ่งเป็นโซลูชันแบบเอเจนติกครบวงจรที่ออกแบบมาเพื่อช่วยให้ผู้ผลิตสมาร์ตโฟนนำความสามารถด้าน agentic AI มาใช้ในอุปกรณ์ที่เป็นแบรนด์ของตน ออเนอร์ (HONOR) ผู้ผลิตสมาร์ตโฟนระดับโลก เป็นพันธมิตรรายแรกที่นำ Qwen Intelligence ไปใช้ และกำลังร่วมพัฒนาโมเดลเฉพาะทาง รวมถึงโซลูชันสำหรับสมาร์ตโฟนที่ขับเคลื่อนด้วย AI (AI smartphones) เจเนอเรชันถัดไปอุปกรณ์กลุ่มแรกของ HONOR ที่นำ Qwen Intelligence ไปผสานรวมกับระบบอัจฉริยะของเครื่อง คือ สมาร์ตโฟน Magic9 Series รุ่นใหม่ ซึ่งเปิดตัวไปเมื่อวันที่ 28 กันยายน และ HONOR Robot Phone แพลตฟอร์มนี้เปิดตัวในงาน Apsara Conference ที่เมืองหางโจว ครอบคลุมทุกส่วนงาน ตั้งแต่โมเดลพื้นฐานที่ปรับแต่งมาสำหรับโทรศัพท์มือถือ ไปจนถึงเอเจนต์พร้อมใช้งาน ช่วยให้ผู้ผลิตโทรศัพท์มีองค์ประกอบพื้นฐานในการสร้างอุปกรณ์อัจฉริยะได้เอง นายสตีเวน ฮอย หัวหน้าฝ่าย Qwen Mobile AI ของ Token Foundry …",
-    "pubDate": "Wed, 30 Sep 2026 09:06:43 +0000",
-    "source": "TechTalk Thai",
-    "category": "AI",
-    "thumbnail": "https://www.techtalkthai.com/wp-content/uploads/2026/09/qwenintelligence-640x335.png",
-    "readTime": "3 นาที"
-  },
-  {
-    "id": "https://www.techtalkthai.com/?p=170603",
-    "title": "Agentic AI จาก “ผู้ช่วย” สู่ “ผู้ลงมือทำ” โจทย์ใหม่คือสร้าง AI ที่องค์กรไว้วางใจ [PR]",
-    "link": "https://www.techtalkthai.com/manageengine-agentic-ai-from-assistants-to-workers-pr/",
-    "content": "ManageEngine ชี้ AI ในองค์กรกำลังก้าวสู่ยุค Agentic AI ที่สามารถเข้าใจบริบท ประสานงาน และดำเนินการบนระบบ IT ได้มากขึ้น ขณะที่ความสำเร็จไม่ได้วัดจากจำนวน AI ที่นำมาใช้ แต่จากความสามารถในการเชื่อม AI เข้ากับ Workflow และกระบวนการทางธุรกิจ ภายใต้ Governance, Visibility และ Human Oversight ที่เหมาะสม AI Assistants กำลังเปลี่ยนผ่านจากการเป็นเครื่องมือที่ช่วยตอบคำถาม สรุปข้อมูล และจัดทำคำแนะนำ ไปสู่ Agentic AI ที่สามารถเข้าใจบริบท ประสานงานหลายขั้นตอน และดำเนินการที่ได้รับอนุมัติแล้วโดยอัตโนมัติภายในสภาพแวดล้อมด้านไอที ความเปลี่ยนแปลงนี้ทำให้ความได้เปรียบของ AI ในองค์กรไม่ได้อยู่ที่ความสามารถในการ “รู้” เพียงอย่างเดียว แต่กำลังขยับไปสู่ความสามารถในการ “ลงมือทำ” ได้อย่างปลอดภัย โดยความท้าทายสำคัญคือการเปลี่ยนข้อมูลเชิงลึกที่ AI สร้างขึ้นให้กลายเป็นการดำเนินการที่องค์กรสามารถไว้วางใจได้ ณัฐวิชช์ ว่องสิทธิโรจน์ Regional Technical Head, ManageEngine กล่าวว่า …",
-    "pubDate": "Wed, 30 Sep 2026 08:47:11 +0000",
-    "source": "TechTalk Thai",
-    "category": "AI",
-    "thumbnail": "https://www.techtalkthai.com/wp-content/uploads/2026/09/manageengineinterviewpr-640x335.png",
-    "readTime": "3 นาที"
-  },
-  {
-    "id": "https://www.techtalkthai.com/?p=170600",
-    "title": "SK Telecom จับมือ KISTI ใช้ Digital Twin จำลองเครือข่าย Quantum ก่อนติดตั้งจริง ลดต้นทุนโครงสร้างพื้นฐานยุคใหม่",
-    "link": "https://www.techtalkthai.com/sk-telecom-kisti-digital-twin-quantum-key-distribution/",
-    "content": "SK Telecom ร่วมมือกับ Korea Institute of Science and Technology Information (KISTI) ในการพัฒนาระบบ Digital Twin สำหรับจำลองและทดสอบเครือข่าย Quantum Key Distribution (QKD) ก่อนเริ่มติดตั้งอุปกรณ์จริงในพื้นที่หน้างาน เพื่อลดปัญหาด้านต้นทุนและเพิ่มประสิทธิภาพการออกแบบโครงสร้างพื้นฐานเครือข่ายความปลอดภัยขั้นสูง โดยระบบดังกล่าวได้เปิดตัวอย่างเป็นทางการในปีนี้ เทคโนโลยี Quantum Key Distribution (QKD) ทำงานโดยใช้สัญญาณควอนตัมเพื่อสร้างและแจก Cryptographic Key ที่มีความปลอดภัยสูง แต่ข้อจำกัดสำคัญของระบบเครือข่ายควอนตัมขึ้นอยู่กับสภาพแวดล้อมการใช้งาน ไม่ว่าจะเป็นระยะทางระหว่างไซต์งาน, ระดับ Optical Loss รวมถึงความไวของอุปกรณ์รับสัญญาณ เมื่อติดตั้งอุปกรณ์จริงลงพื้นที่แล้ว การปรับแต่งค่าสถาปัตยกรรมจะทำได้ยากและมีค่าใช้จ่ายมหาศาล ดังนี้การมีระบบ Digital Twin จึงช่วยย้ายกระบวนการทดสอบทั้งหมดขึ้นมาอยู่บนสภาพแวดล้อมจำลองแบบเสมือนจริง โดยกลไกหลักของระบบเกิดจากการนำ Quantum Key Manager ของ SK Telecom เข้ามาเชื่อมต่อโดยตรงกับซอฟต์แวร์จำลองเครือข่าย QKD ที่พัฒนาโดย KISTI โดยมีกระบวนการทำงานดังนี้ …",
-    "pubDate": "Wed, 30 Sep 2026 03:17:08 +0000",
-    "source": "TechTalk Thai",
-    "category": "Security",
-    "thumbnail": "https://www.techtalkthai.com/wp-content/uploads/2026/09/TTT-2026-09-30T101447.770-640x336.jpg",
-    "readTime": "3 นาที"
   },
   {
     "id": "https://www.beartai.com/?p=1508373",
@@ -535,17 +546,6 @@
     "category": "General",
     "thumbnail": "https://www.beartai.com/wp-content/uploads/2026/09/web-cover-Neuralink-600x250.png",
     "readTime": "4 นาที"
-  },
-  {
-    "id": "151712 at https://www.blognone.com",
-    "title": "KBTG Techtopia: Human of Tomorrow งานรวมแนวคิดที่นำให้ \"มนุษย์ของวันพรุ่งนี้\" เป็นนายของ AI ที่ทำงานที่ AI ทดแทนไม่ได้",
-    "link": "https://www.blognone.com/node/151712",
-    "content": "KBTG Techtopia: Human of Tomorrow งานรวมแนวคิดที่นำให้ \"มนุษย์ของวันพรุ่งนี้\" เป็นนายของ AI ที่ทำงานที่ AI ทดแทนไม่ได้\n\n  \nBody\nงาน KBTG Techtopiaนับเป็นปีที่สี่แล้วที่ทาง KBTG ได้จัดงานสัมมนาด้านเทคโนโลยีที่ให้เผยแพร่ความรู้ทั้งด้านเทคโนโลยีอย่างเข้มข้น ไปพร้อมกับการแลกเปลี่ยนมุมมองต่างๆ ทั้งความเปลี่ยนแปลงในอุตสาหกรรม, กฎหมาย, และสังคม ให้ทั้งคนทำงานและผู้สนใจในความเปลี่ยนแปลงของโลกได้มาแลกเปลี่ยนกัน นับจากงานที่จัดปีแรกเมื่อปี 2023 ในสำนักงานของ KBTG เองมาถึงปีนี้ทาง KBTG ขยายพื้นที่จนมาจัดการที่ศูนย์ประชุมแห่งชาติสิริกิติ์ พื้นที่ในงานใหญ่ขึ้น มีเวทีต่างๆ บรรยายและแลกเปลี่ยนขนานให้เลือกพูดคุยและรับฟังได้ตลอดเวลา\n\n\nนับจากปี 2023 หลังการเปิดตัว ChatGPT งาน KBTG Techtopia นำเสนอแนวทางว่าเราจะปรับตัวในโลกยุคต่อจากนี้ได้อย่างไร โดยงานปีนี้เริ่มเปิดตัวจากภาพใหญ่ของประเทศจากคุณศุภจี สุธรรมพันธุ์ รองนายกรัฐมนตรีและรัฐมนตรีว่าการกระทรวงพาณิชย์ ที่แสดงให้เห็นความท้าทายของโลกยุคต่อไปที่ไทยกำลังเผชิญกับภาวะเติบโตต่ำเพียง 1.9% และกลุ่มผู้ได้ประโยชน์กลับเป็นธุรกิจขนาดใหญ่เป็นหลัก\nพี่ต้อม วรนุช เดชะไกศยะ Executive Chairman ของ KBTG แบ่งปันมุมมอง Human of Tomorrow มองถึงความเปลี่ยนแปลงของการทำงานในยุคต่อไป ว่าเราเคยได้เห็นความเปลี่ยนแปลงที่รุนแรงในไทยมาแล้วและผ่านมาได้ โดยยก 2 รอบใหญ่ๆ คือ วิกฤติเศรษฐกิจเมื่อปี 2540 หรือวิกฤติต้มยำกุ้งที่สถาบันการเงินล้มจำนวนมาก\nทำให้เราเรียนรู้ว่าแม้จะเกิดวิกฤติ แต่หากมี Resilience สามารถลดให้เล็กลงแต่ฟื้นกลับมาได้ และอีกครั้งคือการปรับตัวจากกระแสโมบายที่ธุรกรรมต่างๆ กลายเป็นบริการดิจิทัลภายในเวลาไม่นาน และหลายคนอาจจะไม่คิดว่าจะมาได้ไกลขนาดนี้\nในมุมมองของพี่ต้อม กระแส AI ในตอนนี้เป็นความท้าทายที่ไม่มีใครรู้ว่าจะรับมือมันได้อย่างไร โดยความเสี่ยงเกิดขึ้นหลายด้านพร้อมกันทั้งด้านเทคโนโลยีและความเป็นตัวตนของมนุษย์ในยุคหลัง AI นี้ พี่ต้อมมอง 6 ด้านที่เราต้องปรับตัวให้เข้ากับยุคหลังจากนี้\n\nการปรับตัวสู่ Digital Workforce ที่ทำงานร่วมกับ AI ได้อย่างเต็มที่ ไม่ใช่แค่การถามตอบกับ AI แต่ให้ AI ทำงานร่วมกับเราอย่างเต็มตัว เช่นใน KBTG มีการพัฒนา Multi-Agent Platform ที่ชื่อ AthenaMind ทำงานร่วมพนักงาน KBTG โดยมี Agent ที่เตรียมไว้ 24 รูปแบบ มีการใช้งานถึง 90% ของพนักงาน KBTG เอง แนวทางการใช้ AI ทำงานร่วมกับนักพัฒนาต่อเนื่องช่วยลดต้นทุนได้ถึง 15% ภายในปี 2028\nวางการควบคุม AI แต่ต้น มีการควบคุมทั้งระดับข้อมูลที่มีความถูกต้องน่าเชื่อถือ, การทำงานต่างๆ ของ Agent มีการควบคุมจากมนุษย์ในจุดที่จำเป็น, และการใช้งานมีการควบคุมดูแล แนวเหล่านี้ KBTG มีแพลตฟอร์ม เช่น Sai Jai ระบบประเมิน AI, Aegis ระบบ Guardrail ป้องกันการทำงานนอกกรอบ, หรือ AI Playground พื้นที่ทดลองแอปพลิเคชันใหม่ๆ ใน KBTG\nจัดการความเสี่ยงของ AI ไม่ว่าจะเป็นการหลอน หรือการลำเอียงอคติ โดยมนุษย์ต้องเป็นผู้ตรวจสอบความถูกต้อง\nเตรียมพร้อมการ Reskill ที่ภายในปี 2030 นี้จะมีแรงงานถึง 39% ต้องการการ Reskill ใหม่ ความเปลี่ยนแปลงนี้เป็นโอกาสสำหรับการสร้างงานใหม่ๆ ที่เกิดความสร้างสรรค์ไปพร้อมกัน จุดเด่นของไทยเองในช่วงที่ผ่านมาเรามีการใช้งาน AI เพิ่มขึ้นอย่างรวดเร็ว ภายในธนาคารกสิกรไทยเอง ก็มีการใช้งานรูปแบบต่างๆ จำนวนมาก ทั้งการถามตอบข้อมูลความรู้ภายใน, การให้คำปรึกษาแก่ลูกค้ากลุ่มต่างๆ, การประมวลผลเอกสาร, หรือการประมวลผลเสียง\nปล่อยให้งานซ้ำๆ เป็นหน้าที่ของ AI และยกงานที่ต้องการ \"หัวใจ\" ให้มนุษย์ ทั้งงานที่ต้องการความเข้าอกเข้าใจ ความสร้างสรรค์ และการประสานระหว่างมนุษย์\nใช้ AI อย่างมีการควบคุม เพราะ AI ทุกวันนี้มีความสามารถมาก เราไม่สามารถปล่อยให้มีการทดลองโดยไม่มีการควบคุมแล้วหวังว่าจะไปแก้ไขภายหลัง การใช้ AI ต้องมีนโยบายชัดเจนว่า AI ทำหน้าที่อะไร และมนุษย์มีความรับผิดชอบอย่างไรบ้าง และสุดท้าย AI ต้องไม่มีอำนาจเหนือการตัดสินใจของมนุษย์\nคุณศุภจีระบุถึงแนวทางที่ไทยต้องปรับตัว 5 แนวทาง มองเป็นกรอบ 5D ได้แก่ De-dependence ลดการพึ่งพาบางตลาดเป็นหลัก และเจรจา FTA กับตลาดใหม่ๆ เพิ่มเติม, Diversification กระจายรายได้สู่ธุรกิจ SME ให้มากขึ้น, Decarbonization ปรับตัวรับมือการเปลี่ยนแปลงสภาพภูมิอากาศพร้อมๆ กับการเตรียมพร้อมมาตรฐานกฎระบบการค้าโลก, Demographic รองรับภาวะประชากรลดลงต่อเนื่อง, Digital & Technology เทคโนโลยีที่เข้ามาทำให้ธุรกิจต้องปรับตัวเพื่อสร้างความแตกต่าง\nการปรับตัวเหล่านี้ภาครัฐต้องปรับแนวทางการทำงาน เน้นการสร้างคน ปรับโครงสร้าง ไปพร้อมกับการวางกรอบกติกาในเรื่องที่เกี่ยวข้องเสียใหม่ เชื่อมโยงการทำงานของหน่วยงานต่างๆ เข้าด้วยกัน และดึงดูดผู้เชี่ยวชาญให้เข้ามาทำงานมากขึ้น\n\nงานสัมมนายังมีหัวข้อที่น่าสนจำนวนมากใจ เช่น หัวข้อ Algebra of Luck ของคุณโจ้-ธนา เธียรอัจฉริยะ ที่แบ่งปันมุมมองการเตรียมความพร้อมในการรับมือกับความเปลี่ยนแปลงในยุคนี้ โดยระบุถึงข้อจำกัดของ AI ที่ขาดความเป็นมนุษย์ แต่ทำงานอยู่บนข้อมูลและตรรกะเป็นหลัก\nแม้มันจะมีความเก่งกาจอย่างมากจนเราสู้ได้ยาก แต่หากเรามีความใส่ใจต่องานจนมีความคราฟท์ แม้จะมีความไม่สมบูรณ์อยู่ก็เป็นงานที่แสดงความเป็นมนุษย์และมีคุณค่า และในความเป็นมนุษย์เรายังเชื่อมถึงกันด้วยความสัมพันธ์ ทำงานร่วมกันอย่างมีความเข้าอกเข้าใจ\nอีกหัวข้อหนึ่งคือการประเด็นของกฏหมายกับการใช้งาน AI โดย คุณกฤติยาณี บูรณตรีเวทย์ พาร์ตเนอร์จาก Baker & McKenzie Thailand และคุณวสุพล ธารกกาญจน์ รองกรรมการผู้จัดการ สายงานการตลาดและปฏิบัติการ ที่ร่วมแบ่งปันมุมมองของกฏหมายในโลกยุค AI ที่มีประเด็นใหม่ๆ เพิ่มเข้ามา แม้ว่าเราจะใช้งาน AI มากขึ้นเรื่อยๆ จนหลายครั้งมันเหมือนเพื่อนร่วมงานอีกคนหนึ่ง\nแต่ในความเป็นจริงแล้วกฎหมายก็ยังระบุให้บุคคลเป็นผู้รับผิดชอบ ประเด็นทางกฎหมายในหลายประเทศเป็นแนวทาง เช่น การประดิษฐ์สิ่งต่างๆ ก็ยังต้องระบุชื่อบุคคลเป็นผู้ประดิษฐ์ ไม่สามารถใช้ AI เป็นผู้ประดิษฐ์ได้ การใช้งาน AI ในส่วนสำคัญจึงต้องมีการออกแบบให้รัดกุม และต้องมีการใช้ human-in-the-loop ให้มนุษย์เข้าตรวจสอบและตัดสินใจก่อนที่จะให้ AI ลงมือ\nภายในงานยังมีไฮไลท์อื่นๆ อีกมากมาย ทั้ง Community Circles และบูธจาก KBTG กระจายรอบงาน\n\nนอกจากเวทีหลักที่เน้นถึงการปรับตัวในโลกยุคต่อไป ทั้งความท้าทายในการปรับตัวของคนทำงาน, การปรับตัวของกฎหมายในโลกยุค AI เวทีย่อยยังมีเนื้อหาตั้งแต่ด้านเทคนิค เช่น การรับมือความปลอดภัยไซเบอร์ในโลกยุคใหม่และเทคโนโลยีควอนตัม, การวางโครงสร้างพื้นฐาน AI ที่จำเป็นต่อองค์กรต่างๆ, หรือการวิเคราะห์ถึงความสามารถในการแข่งขันของประเทศไทย\nทีมงาน Blognone ได้เข้าฟังบรรยายในงานจำนวนมาก และพบว่า KBTG Techtopia เป็นงานที่มีเนื้อหาหลากหลายให้ผู้เข้าร่วมได้เลือกรับฟังตลอดช่วงเวลาร่วมงาน หรือหากมีบางเวลาที่การบรรยายไม่ตรงความสนใจของผู้ร่วมงานนักก็ยังมีบูธจากผู้ร่วมงานให้เข้ามาพูดคุยได้กันได้จำนวนมาก\n\nบูธในงาน KBTG นำเอาบริการในเครือและประสบการณ์ภายในธนาคารมาแชร์ให้ผู้ร่วมงาน เช่น กระบวนการดูแลการใช้งาน AI ในธนาคารกสิกรไทยที่มีกรอบการดูแลให้น้ำหนักระหว่างการรับเครื่องมือใหม่ๆ เข้ามาใช้งาน กับการดูแลความปลอดภัยและจำกัดความเสี่ยง ประสบการณ์การใช้ AI อ่านเอกสารเพื่อช่วยปรับการทำงานในธนาคารให้เป็นระบบอัตโนมัติ\nOrbix ศูนย์ซื้อขายสินทรัพย์ดิจิทัลที่มีจุดเด่นคือความน่าเชื่อถือสูง มีกระบวนการตรวจสอบภายในที่ได้มาตรฐานจากการทำงานแบบเดียวกับธนาคาร ขณะที่ทีมงาน KX พาบริษัท AINUโซลูชั่นด้าน AI สำหรับการเงินธนาคารตลอดจนประกันภัยมาโชว์ โดยบริการเหล่านี้กลายเป็นเครื่องมือให้บริการที่เคยต้องรอเจ้าหน้าที่ทำงานออนไลน์ได้อย่างเต็มที่ เช่น บริการช่วยเคลมประกันที่ทำให้เราไม่ต้องรอเจ้าหน้าที่เคลมมาดูสถานที่เกิดเหตุ แต่สามารถวิดีโอคอลกับเจ้าหน้าที่และซอฟต์แวร์ของ AINU จะช่วยทำให้กระบวนการเคลมเป็นไปอย่างรวดเร็ว อีกทั้งยังมี MeowJot  แอปจดรายจ่ายอัตโนมัติจากสลิปโอนเงินและบัตรเครดิต ที่ช่วยให้คนทั่วไปสามารถวิเคราะห์รายรับรายจ่ายได้อย่างละเอียด ทำให้รู้ตัวว่ามีรูรั่วทางการเงินไปที่จุดใดบ้าง พร้อมทั้งฟีเจอร์ใหม่ MeowDoo ไฮไลท์ข้อมูลการใช้จ่ายแต่ละเดือน ในรูปแบบการทำนายดวงการเงิน\n\nส่วนสุดท้ายของงานเป็นเป้าหมายของหลายคนคือเวิร์คชอปแบบลงมือทำจริงในห้องเรียนยาว 2 ชั่วโมงเต็ม นับเป็นส่วนที่ได้รับความสนใจอย่างสูง และลงทะเบียนเต็มอย่างรวดเร็ว ภายในงานเราจะเห็นคนต่อคิวเข้าห้องเวิร์คชอปเหล่านี้เมื่อถึงรอบใหม่อย่างเนืองแน่น และหัวข้อเวิร์คชอปก็มีความหลากหลาย ตั้งแต่การเขียนโค้ดใน Google AI Studio จาก Google Developer Group, การปรับโค้ดให้ทันสมัยจาก IBM, หรือการพัฒนาด้วย AI จาก AWS, ไปจนถึงการดูแลความปลอดภัย AI จาก Splunk, การสร้าง AI Agent บนสมาร์ตโฟน จาก MAKE by KBank, การออกแบบบริการ AI ให้ปลอดภัยต่อสุขภาพจิตจาก MIT Media Lab, และการสร้างความเชื่อใจต่อกันในแบบที่ AI ให้ไม่ได้จาก house of wisdom\nความเปลี่ยนแปลงของเทคโนโลยีและสังคมจาก AI เป็นสิ่งที่เราเห็นได้ชัดในทุกวันที่ AI มีการพัฒนาไป แม้ตอนนี้เราจะไม่มีสูตรสำเร็จว่าเราต้องรับมือความเปลี่ยนแปลงนี้อย่างไร แต่งาน KBTG Techtopia ก็รวมเอาข้อเสนอ ข้อควรระวัง ความรู้ทั้งเชิงกฎหมายและเชิงเทคนิค มานำเสนอในงานเดียวกันจนทำให้ผู้ร่วมงานน่าจะได้แนวคิดใหม่ๆ ในการปรับตัวรับมือความเปลี่ยนแปลงครั้งนี้ไปได้และพร้อมกับมันมากยิ่งขึ้น\nsponsored\nTue, 22/09/2026 - 15:30",
-    "pubDate": "Tue, 22 Sep 2026 08:30:26 +0000",
-    "source": "Blognone",
-    "category": "Security",
-    "thumbnail": "https://www.blognone.com/sites/default/files/files-2026/2026-09/KBTG/image7.jpg",
-    "readTime": "20 นาที"
   },
   {
     "id": "https://www.beartai.com/?p=1506949",
