@@ -1,45 +1,375 @@
 [
   {
-    "id": "local-cybersecurity-101.md",
-    "title": "แนวทางปฏิบัติการตั้งรหัสผ่านให้ปลอดภัยสำหรับบุคลากร",
-    "link": "https://github.com/",
-    "content": "1. รหัสผ่านต้องมีความยาวอย่างน้อย 8 ตัวอักษร\n2. ประกอบด้วยอักษรตัวพิมพ์ใหญ่ ตัวพิมพ์เล็ก ตัวเลข และสัญลักษณ์พิเศษ\n3. ห้ามใช้ข้อมูลส่วนตัว เช่น วันเกิด หรือเบอร์โทรศัพท์\n4. เปลี่ยนรหัสผ่านใหม่ทุกๆ 3-6 เดือนเพื่อความปลอดภัย",
-    "pubDate": "2026-10-08T02:35:29.211Z",
-    "source": "คู่มือภายในองค์กร",
-    "category": "Internal",
-    "thumbnail": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=500&auto=format&fit=crop&q=60"
-  },
-  {
     "id": "local-law-hub.md",
     "title": "คลังกฎหมายและระเบียบที่เกี่ยวข้องกับการปฏิบัติราชการ",
     "link": "https://github.com/",
     "content": "### ⚖️ ศูนย์รวมลิงก์กฎหมายฉบับเต็มและแนวทางปฏิบัติงาน\n\nเพื่อความสะดวกและถูกต้องในการอ้างอิงข้อกฎหมายของเจ้าหน้าที่ในการปฏิบัติราชการ ศูนย์ไอทีได้รวบรวมลิงก์ตรงไปยังระบบสืบค้นกฎหมายของสำนักงานคณะกรรมการกฤษฎีกา และไฟล์ PDF ฉบับราชกิจจานุเบกษาไว้ในจุดเดียว ดังนี้ครับ:\n\n---\n\n### 🛒 1. หมวดการบริหารงานพัสดุและการจัดซื้อจัดจ้าง\n*   **พ.ร.บ. การจัดซื้อจัดจ้างและการบริหารพัสดุภาครัฐ พ.ศ. 2560**\n    *   🔗 [อ่านกฎหมายฉบับเต็ม (เว็บกฤษฎีกา)](https://www.ocs.go.th/)\n    *   📄 [ดาวน์โหลดไฟล์ PDF ฉบับประกาศราชกิจจานุเบกษา](https://www.gprocurement.go.th/wps/portal/egp/Regulation/!ut/p/z1/04_Sj9CPykssy0xPLMnMz0vMAfIjo8zifQ3djQydnQ18_T3dzA0czU0NfANMLQ1MPIz1w8EKDHAARwP9KGL041EQhd_4cP0oNCvCjM2AJgT4OvsHehgYOBtCFeAxoyA3NMIg01ERAHhSDzY!/dz/d5/L0lDUmlTUSEhL3dHa0FKRnNBLzROV3FpQSEhL3Ro/)\n*   **ระเบียบกระทรวงการคลังว่าด้วยการจัดซื้อจัดจ้างและการบริหารพัสดุภาครัฐ พ.ศ. 2560**\n    *   🔗 [อ่านระเบียบฉบับเต็มและกฎกระทรวงที่เกี่ยวข้อง](https://www.gprocurement.go.th/wps/portal/egp/Regulation/Ministry_of_Finance_Regularity/)\n\n---\n\n### 🏢 2. หมวดการปฏิบัติราชการและวิธีพิจารณาทางปกครอง\n*   **พ.ร.บ. วิธีปฏิบัติราชการทางปกครอง พ.ศ. 2539 (และฉบับแก้ไขเพิ่มเติม)**\n    *   🔗 [อ่านกฎหมายฉบับเต็ม (เว็บกฤษฎีกา)](https://www.ocs.go.th/)\n*   **พ.ร.บ. ความรับผิดทางละเมิดของเจ้าหน้าที่ พ.ศ. 2539**\n    *   🔗 [อ่านกฎหมายฉบับเต็ม (เว็บกฤษฎีกา)](https://www.ocs.go.th/)\n*   **พ.ร.บ. การปฏิบัติราชการทางอิเล็กทรอนิกส์ พ.ศ. 2565** *(สำคัญมากสำหรับงานไอทีและบริการประชาชน)*\n    *   🔗 [อ่านกฎหมายฉบับเต็ม (เว็บกฤษฎีกา)](https://www.ocs.go.th/)\n\n---\n\n### 🛡️ 3. หมวดคุ้มครองข้อมูลและความมั่นคงปลอดภัยไซเบอร์\n*   **พ.ร.บ. คุ้มครองข้อมูลส่วนบุคคล พ.ศ. 2562 (PDPA)**\n    *   🔗 [สืบค้นกฎหมายและแนวทางปฏิบัติจาก สคส.](https://www.pdpc.or.th)\n*   **พ.ร.บ. การรักษาความมั่นคงปลอดภัยไซเบอร์ พ.ศ. 2562**\n    *   🔗 [สืบค้นกฎหมายและประกาศจาก สกมช. (NCSA)](https://www.ncsa.or.th/standards/laws)\n*   **พ.ร.บ. ว่าด้วยการกระทำความผิดเกี่ยวกับคอมพิวเตอร์ (ฉบับที่ 2) พ.ศ. 2560**\n    *   🔗 [อ่านกฎหมายฉบับเต็ม (เว็บกฤษฎีกา)](https://www.ocs.go.th/)\n\n---\n\n### 💡 แนะนำการใช้งานสำหรับเจ้าหน้าที่\n> หากต้องการสืบค้นกฎหมายอื่น ๆ เพิ่มเติม นอกเหนือจากรายการข้างต้น สามารถเข้าใช้งานระบบกฎหมายดิจิทัลโดยตรงได้ที่ **[ระบบสืบค้นกฎหมาย สำนักงานคณะกรรมการกฤษฎีกา](https://www.ocs.go.th/)** เพื่อข้อมูลที่อัปเดตและเป็นปัจจุบันที่สุด",
-    "pubDate": "2026-10-08T02:35:29.211Z",
+    "pubDate": "2026-10-09T02:49:53.332Z",
     "source": "ศูนย์รวมกฎหมายภาครัฐ",
     "category": "Law",
     "thumbnail": "https://images.unsplash.com/photo-1589829545856-d10d557cf95f?w=500"
   },
   {
-    "id": "151849 at https://www.blognone.com",
-    "title": "Anthropic เปิดตัว Claude Haiku 5.5 ลดราคา 90% เหลือเท่า GPT-6 Luna",
-    "link": "https://www.blognone.com/node/151849",
-    "content": "Anthropic เปิดตัว Claude Haiku 5.5 ลดราคา 90% เหลือเท่า GPT-6 Luna\n\n  \nBody\nAnthropic อัปเดตโมเดลรุ่นถูกที่สุด Claude Haiku เป็นเวอร์ชัน 5.5 หลังจากไม่ได้อัปเดตมานานถึงหนึ่งปีเต็ม โดยชูความสามารถว่าใกล้เคียง Claude Sonnet 5.5 แต่ราคาถูกลงหลายเท่าตัว\nผลทดสอบงานบางส่วน เช่น OSWorld 2.1 แสดงต้นทุนต่องานของ Haiku 5.5 อยู่ที่ 0.07-0.61 ดอลลาร์ เทียบกับ Sonnet 5.5 ที่อยู่ในช่วง 0.68-5.73 ดอลลาร์ ขณะที่ผลทดสอบชุดใหม่ๆ เช่น Terminal Bench 4.0 ตัว Haiku 5.5 ยังทำคะแนนเกาะกลุ่มกับโมเดลรุ่นใหญ่กว่าได้ เทียบกับ Haiku 4.5 ที่ทำไม่ได้เลยแม้แต่คะแนนเดียว\nค่าดัชนีของ Artificial Analysis ระบุว่า Haiku 5.5 มีระดับความสามารถระหว่าง Kimi K3 และ GLM-5.3 Flash นำหน้า Gemini 3.8 Flash ทำให้ต้นทุนการใช้งานของ Haiku 5.5 ถูกที่สุดในกลุ่มระดับเดียวกัน\nทาง Anthropic ตั้งราคา Haiku 5.5 เป็นสองระดับ คือ 0.1/0.5 ดอลลาร์สำหรับพรอมต์ที่สั้นกว่าแสนโทเค็น และ 0.5/2.5 ดอลลาร์สำหรับพรอมต์ที่ยาวกว่านั้น วางขายพร้อมกัน ทั้ง AWS, Google Cloud, และ Azure\nที่มา - Anthropic\nlew\nThu, 08/10/2026 - 07:59",
-    "pubDate": "Thu, 08 Oct 2026 00:59:55 +0000",
+    "id": "local-cybersecurity-101.md",
+    "title": "แนวทางปฏิบัติการตั้งรหัสผ่านให้ปลอดภัยสำหรับบุคลากร",
+    "link": "https://github.com/",
+    "content": "1. รหัสผ่านต้องมีความยาวอย่างน้อย 8 ตัวอักษร\n2. ประกอบด้วยอักษรตัวพิมพ์ใหญ่ ตัวพิมพ์เล็ก ตัวเลข และสัญลักษณ์พิเศษ\n3. ห้ามใช้ข้อมูลส่วนตัว เช่น วันเกิด หรือเบอร์โทรศัพท์\n4. เปลี่ยนรหัสผ่านใหม่ทุกๆ 3-6 เดือนเพื่อความปลอดภัย",
+    "pubDate": "2026-10-09T02:49:53.331Z",
+    "source": "คู่มือภายในองค์กร",
+    "category": "Internal",
+    "thumbnail": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=500&auto=format&fit=crop&q=60"
+  },
+  {
+    "id": "https://www.techtalkthai.com/?p=171015",
+    "title": "ขอเชิญร่วมงาน Webinar “NEXT Move: Cybersecurity for the AI EraRethink Security, Redefine Protection” โดย Tangerine และ Palo Alto Networks [Guest Post]",
+    "link": "https://www.techtalkthai.com/tangerine-paloalto-webinar-next-move-cybersecurity-for-the-ai-era-guest-post/",
+    "content": "🚨 AI เปลี่ยนวิธีทำงาน แล้ว Cybersecurity ขององค์กรคุณพร้อมหรือยัง? ภัยคุกคามในยุค AI กำลัง เร็วขึ้น ฉลาดขึ้น และซับซ้อนขึ้น ขณะเดียวกันการใช้งาน Generative AI ภายในองค์กรก็เพิ่มความเสี่ยงด้าน Data Leakage, Shadow AI และการเข้าถึงข้อมูลสำคัญขององค์กร Tangerine x Palo Alto Networks ขอเชิญเข้าร่วม Webinar ฟรี 📅 12 พฤศจิกายน 2026🕑 14:00 – 15:30 น.💻 Google Meet🎟️ เข้าร่วมฟรี https://www.tangerine.co.th/webinar-cybersecurity-in-the-ai-era/ 🔐 NEXT Move: Cybersecurity for the AI Era: Rethink Security, Redefine Protection พบกับการอัปเดต AI-driven …",
+    "pubDate": "Fri, 09 Oct 2026 02:23:37 +0000",
+    "source": "TechTalk Thai",
+    "category": "Security",
+    "thumbnail": "https://s.w.org/images/core/emoji/17.0.2/72x72/1f6a8.png",
+    "readTime": "2 นาที"
+  },
+  {
+    "id": "https://www.techtalkthai.com/?p=171011",
+    "title": "Google Cloud เปิดตัว Gemini agent เอเจนต์ AI สำหรับงานองค์กร รองรับโมเดล Gemini และ Claude",
+    "link": "https://www.techtalkthai.com/google-cloud-launches-gemini-agent-for-enterprise-supports-claude/",
+    "content": "Google Cloud เปิดตัว Gemini agent ในงาน Gemini at Work 2026 ซึ่งเป็นเอเจนต์ AI ตัวเดียวที่รวมการตอบคำถาม งาน knowledge work การสร้างภาพและสื่อ ไปจนถึงการเขียนและรันโค้ดไว้ใน prompt box และ API เดียว พร้อมระบบ identity, governance และการควบคุมค่าใช้จ่ายสำหรับองค์กร Google Cloud ระบุว่าในปีที่ผ่านมามีลูกค้าเกือบ 500 รายที่ประมวลผลมากกว่า 1 ล้านล้าน token ต่อราย ปัจจุบันลูกค้าเกือบ 80% ใช้ผลิตภัณฑ์ AI ของ Google Cloud และเกือบ 90% ของบริษัทใน Fortune 100 ใช้ Gemini Enterprise แนวคิดของ Gemini agent คือผู้ใช้งานกำหนดเป้าหมายแทนการสั่งทีละขั้น …",
+    "pubDate": "Thu, 08 Oct 2026 21:56:34 +0000",
+    "source": "TechTalk Thai",
+    "category": "AI",
+    "thumbnail": "https://www.techtalkthai.com/wp-content/uploads/2019/08/google-cloud-banner-2019-600x300.png",
+    "readTime": "2 นาที"
+  },
+  {
+    "id": "https://www.techtalkthai.com/?p=171010",
+    "title": "GitHub นำโมเดล AI เสริม Push Protection ตรวจจับ Secret ที่ไม่มีรูปแบบก่อนรั่วเข้าสู่ Repository",
+    "link": "https://www.techtalkthai.com/github-ai-model-push-protection-detect-unstructured-secrets/",
+    "content": "GitHub เปิดตัว classifier ที่พัฒนาบน ModernBERT ร่วมกับ Microsoft Applied Sciences เพื่อขยาย Push Protection ให้ครอบคลุม secret ที่ไม่มีรูปแบบเฉพาะ เช่น รหัสผ่านฐานข้อมูลภายในองค์กร โดยประเมินผลได้ในเวลาไม่ถึง 2 มิลลิวินาที และอาจเพิ่มจำนวน secret ที่ป้องกันได้มากกว่า 2 เท่า GitHub ระบุว่าปัจจุบัน 1 ใน 3 ของ pull request บน GitHub มี AI agent เข้ามาเกี่ยวข้อง เพิ่มขึ้นจากไม่ถึง 1 ใน 10 เมื่อปีก่อน ขณะที่ secret ใหม่ปรากฏในโค้ดสาธารณะราว 2 วินาทีต่อครั้ง และเพิ่มขึ้นเท่าตัวทุกปีต่อเนื่องมา 3 ปี อย่างไรก็ตาม จากข้อมูล 9 …",
+    "pubDate": "Thu, 08 Oct 2026 21:53:00 +0000",
+    "source": "TechTalk Thai",
+    "category": "AI",
+    "thumbnail": "https://www.techtalkthai.com/wp-content/uploads/2026/04/github_bg_banner-640x336.jpg",
+    "readTime": "2 นาที"
+  },
+  {
+    "id": "151860 at https://www.blognone.com",
+    "title": "Apple เตรียมเปิดตัวสินค้าใหม่ธีม \"Welcome home\" คืนวันที่ 13 ตุลาคมนี้",
+    "link": "https://www.blognone.com/node/151860",
+    "content": "Apple เตรียมเปิดตัวสินค้าใหม่ธีม \"Welcome home\" คืนวันที่ 13 ตุลาคมนี้\n\n  \nBody\nGreg Joswiak หัวหน้าฝ่ายการตลาดของแอปเปิลโพสต์ประกาศว่าแอปเปิลจะเปิดตัวสินค้าใหม่ในธีม \"Welcome home\" คืนวันที่ 13 ตุลาคม 2026 ตามเวลาในไทย ตรงตามข่าวลือก่อนหน้านี้\nเนื่องจากแอปเปิลใช้ธีมเกี่ยวกับ Home จึงคาดว่าสินค้าที่เตรียมเปิดตัวจะเป็นกลุ่มสมาร์ทโฮม ซึ่งตามข่าวลือก่อนหน้านี้มีทั้งสินค้าใหม่ จอควบคุมอุปกรณ์สมาร์ทโฮมที่คล้าย HomePod+iPad ส่วนสินค้าอัปเกรดได้แก่ Apple TV 4K และ HomePod mini 2 ไปจนถึงสินค้าสมาร์ทโฮมภายใต้แบรนด์ LG ที่เพิ่งมีข่าวออกมา\nทั้งนี้แอปเปิลไม่ได้ระบุเวลาของการแถลงข่าว จึงอาจเป็นการปล่อยวิดีโอสินค้าหรือออกจดหมายข่าวเท่านั้น ขณะที่ MKBHD ก็บอกว่าเขาได้รับเชิญไปงาน Apple Experience ที่จัดวันเดียวกันในนิวยอร์ก โดยตรงกับเวลาไทยคือ 2 ทุ่ม\nที่มา: 9to5Mac\narjin\nFri, 09/10/2026 - 03:11",
+    "pubDate": "Thu, 08 Oct 2026 20:11:52 +0000",
+    "source": "Blognone",
+    "category": "General",
+    "thumbnail": null,
+    "readTime": "2 นาที"
+  },
+  {
+    "id": "151859 at https://www.blognone.com",
+    "title": "OpenAI เผยแพร่บทพิสูจน์คณิตศาสตร์รวดเดียวกว่า 700 รายการ แต่เริ่มถอนบางส่วนออกแล้ว",
+    "link": "https://www.blognone.com/node/151859",
+    "content": "OpenAI เผยแพร่บทพิสูจน์คณิตศาสตร์รวดเดียวกว่า 700 รายการ แต่เริ่มถอนบางส่วนออกแล้ว\n\n  \nBody\nOpenAI เผยแพร่บทพิสูจน์ทฤษฎีคณิตศาสตร์รวดเดียวถึง 722 รายการ แบ่งเป็นกลุ่มปัญหา 377 กลุ่ม ปัญหาบางข้อเกี่ยวกับวงการคอมพิวเตอร์โดยตรง เช่น การหาขอบเขตใหม่ของ Big-O ในการคูณแมทริกซ์ แต่ล่าสุดก็ต้องถอนรายงานบางส่วนและแก้ไขรายงานที่อ้างอิงถึงบทความเหล่านั้น\nทาง OpenAI อาศัยการหาปัญหาคณิตศาสตร์ที่ยังไม่ถูกแก้ 4,000 ปัญหาไปให้โมเดลใหม่ที่ยังไม่ได้ปล่อยออกมาลองแก้ บทพิสูจน์จำนวนมากเหล่านี้หากใช้นักคณิตศาสตร์ทำงานจริงๆ ก็น่าจะใช้เวลาหลายปีทำให้การเผยแพร่ครั้งนี้น่าจะเปลี่ยนแนวทางการทำงานของนักคณิตศาสตร์ในอนาคตไปอย่างชัดเจน\nอย่างไรก็ตาม บทความที่เผยแพร่ออกมายังมีระดับความสมบูรณ์ต่างกันไป บางบทพิสูจน์มีโค้ดภาษา Lean แนบมาด้วย แม้จะมีโค้ด Lean แต่บางส่วนก็ยังดูมีปัญหาที่ต้องปรับแก้ ล่าสุดทาง OpenAI ก็ตรวจพบความผิดพลาดในรายงาน 3 ฉบับที่ต้องถอนออก และมีการปรับแก้อีก 14 ฉบับ แต่กระนั้นรายงานอื่นก็ยังคงน่าศึกษาและตรวจสอบกันต่อไป\nที่มา - OpenAI\nlew\nFri, 09/10/2026 - 00:15",
+    "pubDate": "Thu, 08 Oct 2026 17:15:58 +0000",
     "source": "Blognone",
     "category": "AI",
     "thumbnail": null,
     "readTime": "3 นาที"
   },
   {
-    "id": "151848 at https://www.blognone.com",
-    "title": "เปิดตัว Surface Laptop Ultra พลัง RTX Spark ราคาเริ่มต้น 2,599 ดอลลาร์",
-    "link": "https://www.blognone.com/node/151848",
-    "content": "เปิดตัว Surface Laptop Ultra พลัง RTX Spark ราคาเริ่มต้น 2,599 ดอลลาร์\n\n  \nBody\nไมโครซอฟท์เปิดตัว Surface Laptop Ultra อย่างเป็นทางการ หลัง โชว์ข้อมูลชุดแรกไปเมื่อเดือนมิถุนายน โดยใช้คำนิยามว่าเป็น \"Surface ที่ทรงพลังที่สุด\" (most powerful Surface devices ever)\nSurface Laptop Ultra ใช้ชิป NVIDIA RTX Spark เช่นเดียวกับโน้ตบุ๊กสายเดียวกันของค่ายอื่น (ข้างในเป็น Grace + Blackwell + แรม Unified Memory สูงสุด 128GB) สิ่งที่เป็นของใหม่เพิ่มเข้ามาคือ\nระบบระบายความร้อนแบบใหม่ ไมโครซอฟท์บอกว่ารองรับความร้อนได้เยอะกว่าเดิม 2.5 เท่าเทียบกับ Surface รุ่นอื่น ในขนาดบอดี้เครื่องที่หนาเพียง 18 mm\nหน้าจอ PixelSense Ultra ที่สว่างขึ้นกว่าเดิม และมีความสว่าง HDR สูงสุดในบรรดาโน้ตบุ๊กที่ขายในตลาด สูงกว่า MacBook Pro M5 ถึง 25%\nพอร์ต Magnetic Connect เป็น USB-C แบบแม่เหล็กตัวแรก\nกลุ่มเป้าหมายของ Surface Ultra คือคนที่ต้องการรัน AI แบบ local ไม่ว่าจะเป็นสายโปรแกรมมิ่ง วิศวกรรม ครีเอทีฟ โดยที่ยังรองรับทั้ง ecosystem ทั้งฝั่ง Windows และ CUDA ไมโครซอฟท์ยังปรับปรุง Windows ให้รองรับฟีเจอร์ Hybrid Intelligence ให้โมเดลในเครื่อง-บนคลาวด์ ทำงานต่อเนื่องกันได้ดีขึ้นด้วย\nราคาเริ่มต้นที่ 2,599 ดอลลาร์ (ประมาณ 9 หมื่นบาท) วางขาย 16 ตุลาคม 2026 ในช่วงแรกมีโปรโมชั่นหากนำ MacBook Pro มาแลก จะได้ส่วนลดสูงสุด 1,000 ดอลลาร์ด้วย\nที่มา - Microsoft\n\nmk\nThu, 08/10/2026 - 07:22",
-    "pubDate": "Thu, 08 Oct 2026 00:22:00 +0000",
+    "id": "151857 at https://www.blognone.com",
+    "title": "Elon Musk บอก Grok Bot จะทำงานโดยเลือกโมเดล AI ที่ดีที่สุดสำหรับคำถามนั้น ไม่จำกัดว่าต้องเป็น Grok",
+    "link": "https://www.blognone.com/node/151857",
+    "content": "Elon Musk บอก Grok Bot จะทำงานโดยเลือกโมเดล AI ที่ดีที่สุดสำหรับคำถามนั้น ไม่จำกัดว่าต้องเป็น Grok\n\n  \nBody\nElon Musk ซีอีโอ SpaceX โพสต์ข้อความว่า Grok Bot บริการ AI Agent ของ SpaceXAI จะทำงานโดยเลือกใช้โมเดลจากค่ายต่าง ๆ ให้ได้ผลลัพธ์ดีที่สุดตามคำสั่งของผู้ใช้งาน ไม่จำกัดว่าต้องเป็นโมเดล Grok ของบริษัท\nโมเดล AI จากค่ายต่าง ๆ ที่ Musk ระบุถึงได้แก่ Claude Opus 5.5, MidJourney, Suno และ API ชั้นนำค่ายอื่น (ส่วนบางค่ายที่ไม่มีก็ละไว้ในฐานที่เข้าใจ) ส่วนการตัดสินใจเลือกใช้โมเดลนั้น Musk อธิบายว่าคำถามที่ไม่ยากจะใช้โมเดลขนาดเล็กทำงานได้รวดเร็ว ส่วนคำถามที่คำตอบซับซ้อนก็จะใช้โมเดลขนาดใหญ่\nประกาศนี้อาจไม่ได้สื่อว่า SpaceXAI (หรือ SI?) จะเปลี่ยนบทบาทไม่พัฒนาโมเดล Grok ของตนเองแล้ว เพราะหากมองในอีกด้าน Anthropic เจ้าของโมเดล Claude ก็เป็นหนึ่งในลูกค้าศูนย์ข้อมูลของ SpaceXAI ด้วยเช่นกัน\nที่มา: Gizmodo\narjin\nThu, 08/10/2026 - 19:08",
+    "pubDate": "Thu, 08 Oct 2026 12:08:03 +0000",
+    "source": "Blognone",
+    "category": "AI",
+    "thumbnail": null,
+    "readTime": "3 นาที"
+  },
+  {
+    "id": "151858 at https://www.blognone.com",
+    "title": "กูเกิลเปิดตัว Playground สั่ง AI สร้างเกมเบราว์เซอร์, เตรียมขยายไปยังเกม Unity",
+    "link": "https://www.blognone.com/node/151858",
+    "content": "กูเกิลเปิดตัว Playground สั่ง AI สร้างเกมเบราว์เซอร์, เตรียมขยายไปยังเกม Unity\n\n  \nBody\nกูเกิลเปิดตัว Playground แพลตฟอร์มที่เปิดให้ผู้ใช้เข้ามาสร้างเกมด้วย AI และแชร์ให้คนอื่นเล่นได้ง่ายๆ ผ่านเบราว์เซอร์\nวิธ๊การใช้งานคือสั่งผ่าน prompt ตรงๆ ได้เลย โดยมีตัวเลือกให้เล็กน้อยว่าต้องการกราฟิก 2D/3D และเป็นเกมสำหรับเล่นกี่คน เมื่อสร้างเกมเสร็จแล้วก็ส่งลิงก์ให้เพื่อนเล่นผ่านเบราว์เซอร์ได้เลย ฝั่งผู้เล่นจะใช้บัญชี Google Play Games สำหรับการเล่นเกมด้วยกันหลายคน เช่น จับคู่เล่น หรือ จัดลำดับ leaderboard\nประเด็นที่น่าสนใจคือ Playground จะไม่ถูกจำกัดแต่เกมแบบเว็บเบราว์เซอร์ เพราะกูเกิลกำลังร่วมมือกับ Unity สร้างบริการสร้างเกมด้วย AI ลักษณะเดียวกันชื่อ Unity Spark แล้วได้ผลลัพธ์ออกมาเป็นเกมที่ใช้เอนจิน Unity เลย\nPlayground เปิดให้ใช้งานแล้วภายใต้แบรนด์ Google Labs เพื่อบ่งบอกว่ายังเป็นบริการแนวทดลอง และยังจำกัดเฉพาะผู้ใช้ในสหรัฐอเมริกาเท่านั้น\nที่มา - Google, Unity\n\n\nmk\nThu, 08/10/2026 - 18:58",
+    "pubDate": "Thu, 08 Oct 2026 11:58:28 +0000",
+    "source": "Blognone",
+    "category": "AI",
+    "thumbnail": "https://www.blognone.com/sites/default/files/files-2026/2026-10/google-playground-prompt.webp",
+    "readTime": "3 นาที"
+  },
+  {
+    "id": "https://www.techtalkthai.com/?p=170936",
+    "title": "[TechTalkThai Report] เจาะลึกงาน Qwen Conference Thailand 2026: เมื่อ Alibaba Cloud พลิกโฉมองค์กรไทยสู่ยุค Agentic AI อย่างเต็มรูปแบบ",
+    "link": "https://www.techtalkthai.com/techtalkthai-report-qwen-conference-thailand-2026/",
+    "content": "บรรยากาศภายในห้องแกรนด์บอลรูมของโรงแรม Centara Grand, Central World เมื่อวันที่ 4 กันยายน 2026 ที่ผ่านมา เต็มไปด้วยความคึกคักและเสียงฮือฮาจากเหล่านักพัฒนา ผู้เชี่ยวชาญ และผู้บริหารระดับสูงที่มารวมตัวกันในงาน Qwen Conference Thailand 2026 ภายใต้ธีม “Accelerating Thailand’s AI-Native Future” งานสัมมนาระดับแฟล็กชิปจาก Alibaba Cloud ประเทศไทยในครั้งนี้ ไม่ได้มาเพื่อพูดถึงแค่ทฤษฎีหรือวิสัยทัศน์ แต่มาเพื่อพิสูจน์ให้เห็นว่า “ยุคที่ AI ทำงานแทนมนุษย์ได้จริง” ได้เดินทางมาถึงแล้ว ทีมงาน TechTalkThai ขอพาทุกท่านร่วมดำดิ่งลงไปในทุกมิติของงานแบบนั่งอยู่ติดขอบเวที เดินเข้าสู่ยุค AI-Native – เมื่อ AI ก้าวออกจากหน้าจอสู่โลกแห่งความจริง งานเริ่มต้นขึ้นอย่างทรงพลังด้วยคำกล่าวเปิดงานของ คุณ Andy Lee (VP of International Business and GM for Southeast Asia Region, …",
+    "pubDate": "Thu, 08 Oct 2026 11:49:55 +0000",
+    "source": "TechTalk Thai",
+    "category": "AI",
+    "thumbnail": "https://www.techtalkthai.com/wp-content/uploads/2026/10/TTT-Qwen-Conference-Thailand-2026.png",
+    "readTime": "2 นาที"
+  },
+  {
+    "id": "151856 at https://www.blognone.com",
+    "title": "ChatGPT อัปเดตอินเทอร์เฟซ Intelligent UI ให้ผู้ใช้งานเข้าใจคำตอบที่ซับซ้อนได้ง่ายขึ้นแบบ Multimedia",
+    "link": "https://www.blognone.com/node/151856",
+    "content": "ChatGPT อัปเดตอินเทอร์เฟซ Intelligent UI ให้ผู้ใช้งานเข้าใจคำตอบที่ซับซ้อนได้ง่ายขึ้นแบบ Multimedia\n\n  \nBody\nOpenAI อัปเดต ChatGPT โดยปรับปรุงการแสดงผลสำหรับผู้ใช้งานในรูปแบบที่คำตอบเป็นภาพกับสื่อผสมผสานมากขึ้น เรียกรวมว่า Intelligent UI ทำงานบนโมเดลใหม่ GPT-6\nการแสดงผลคำตอบบนอินเทอร์เฟซแบบใหม่นี้ ไม่ได้มีแค่รูปภาพที่มากขึ้น แต่มาในรูปคำตอบที่ผู้ใช้งานสามารถกดโต้ตอบได้สำหรับบางคำถาม ซึ่ง OpenAI บอกว่าเป้าหมายของอินเทอร์เฟซใหม่นี้เพื่อช่วยให้ผู้ใช้งานเรียนรู้สิ่งที่ซับซ้อนได้ง่ายขึ้น (ตามตัวอย่างในคลิป เช่นคู่มือที่อธิบายยาวเป็นตัวหนังสือ)\nGPT-6 ที่แสดงผลบนอินเทอร์เฟซใหม่ Intelligent UI นี้ เริ่มอัปเดตให้ผู้ใช้งาน ChatGPT Plus, Pro และ Enterprise ทั่วโลก ตั้งแต่วันนี้ จากนั้นอีกหนึ่งวัน จะอัปเดตให้ผู้ใช้งานแบบฟรีและ Go ต่อไป ส่วนโมเดลย่อย (Sol กับ Luna) ที่เลือกใช้ก็เป็นไปตามแผนที่สมัครใช้งาน\nที่มา: OpenAI\n\narjin\nThu, 08/10/2026 - 18:36",
+    "pubDate": "Thu, 08 Oct 2026 11:36:28 +0000",
+    "source": "Blognone",
+    "category": "AI",
+    "thumbnail": null,
+    "readTime": "3 นาที"
+  },
+  {
+    "id": "https://www.techtalkthai.com/?p=170998",
+    "title": "บทเรียน AI มูลค่า 33 ล้านบาท! Datadog ชี้ทำไมธุรกิจไทยต้องมองเห็นทั้งต้นทุน ประสิทธิภาพ และความเสี่ยง [PR]",
+    "link": "https://www.techtalkthai.com/datadog-33-millions-baht-ai-lesson-pr/",
+    "content": "รู้หรือไม่ว่าในระยะเวลาเพียง 2 ปี องค์กรไทยได้นำ AI มาใช้งานเพิ่มขึ้นมากกว่า 3 เท่า แต่โจทย์สำคัญลำดับถัดไป คือการทำให้การใช้ AI ที่เพิ่มมากขึ้นอย่างรวดเร็วนี้สามารถสร้างมูลค่าทางธุรกิจที่สามารถวัดผลได้อย่างเป็นรูปธรรม ผลสำรวจความพร้อมการประยุกต์ใช้เทคโนโลยีปัญญาประดิษฐ์ขององค์กรไทยในประเทศไทยปี 2569  ซึ่งจัดทำโดยศูนย์เทคโนโลยีอิเล็กทรอนิกส์และคอมพิวเตอร์แห่งชาติ (NECTEC) ภายใต้ สวทช. พบว่า 53.7% ขององค์กรจำนวน 574 แห่งที่เข้าร่วมการสำรวจ มีการนำ AI มาใช้งานแล้ว เพิ่มขึ้นจาก 17.8% ในปี 2567 อย่างไรก็ตาม มีเพียง 13.6% เท่านั้นที่สามารถวัดผลลัพธ์เชิงบวกจากการลงทุนได้อย่างชัดเจน โดยส่วนใหญ่เป็นผลลัพธ์ด้านการลดต้นทุนและลดระยะเวลาในการทำงาน ข้อมูลดังกล่าวสะท้อนให้เห็นถึงช่องว่างสำคัญระหว่างการนำ AI มาใช้ กับการบริหารจัดการ AI ให้ทำงานได้อย่างมีประสิทธิภาพ เพราะ AI อาจยิ่งเพิ่มแรงกดดันด้านต้นทุน ความน่าเชื่อถือของระบบ และความมั่นคงปลอดภัย ซึ่งเป็นความท้าทายที่องค์กรต้องเผชิญอยู่แล้วภายในสภาพแวดล้อมทางเทคโนโลยีของแต่ละแห่ง เมื่อการใช้งาน AI ขยายตัว องค์กรจึงจำเป็นต้องเข้าใจมากกว่าเพียงว่า “กำลังใช้ AI มากน้อยเพียงใด” แต่ต้องสามารถมองเห็นด้วยว่า …",
+    "pubDate": "Thu, 08 Oct 2026 11:29:06 +0000",
+    "source": "TechTalk Thai",
+    "category": "AI",
+    "thumbnail": "https://www.techtalkthai.com/wp-content/uploads/2026/10/datadogmillionaipr-640x335.png",
+    "readTime": "3 นาที"
+  },
+  {
+    "id": "https://www.techtalkthai.com/?p=170990",
+    "title": "Synology ชี้ 3 มิติความพร้อมของธุรกิจไทย เพื่อเปลี่ยน AI ให้เป็นผลลัพธ์ทางธุรกิจ [PR]",
+    "link": "https://www.techtalkthai.com/synology-transform-ai-to-business-result-pr/",
+    "content": "แอนโทนี่ หยาง (Antoine Yang) หัวหน้าภูมิภาคเอเชียตะวันออกเฉียงใต้ บริษัท ซินโนโลจี้ จำกัด (Synology Inc.) กล่าวว่า AI กำลังขยับจากการเลือกเครื่องมือสู่การพิสูจน์ผลลัพธ์ทางธุรกิจ ความสำเร็จจึงขึ้นอยู่กับความสามารถขององค์กรในการจัดเก็บ เข้าถึง ปกป้อง และนำข้อมูลมาใช้ได้ทันต่อการตัดสินใจ “AI จะสร้างผลตอบแทนได้เมื่อข้อมูลพร้อมระบบรองรับWorkload ได้เต็มประสิทธิภาพและธุรกิจกลับมาดำเนินงานได้เร็วเมื่อเกิดเหตุทั้งสามเรื่องต้องเดินหน้าไปพร้อมกับการนำAI มาใช้” แอนโทนี่หยางกล่าว Data Infrastructure เร่งผลลัพธ์ AI และควบคุมต้นทุน ผลสำรวจ The Synology 2026 Southeast Asia Business AI Transformation Survey พบว่า 86% ของผู้ตอบแบบสำรวจในประเทศไทยเห็นว่า AI-ready Infrastructure มีความสำคัญต่อ Workflow และ Productivity แต่มีเพียง 31.3% ที่มองว่า “สำคัญมาก” ตัวเลขนี้ชี้ว่าองค์กรไทยเห็นความจำเป็นของโครงสร้างพื้นฐานแล้ว แต่ยังต้องจัดลำดับการลงทุนให้พร้อมก่อนขยาย AI ในวงกว้าง ด้านความพร้อมของข้อมูลยังเป็นโจทย์หลัก …",
+    "pubDate": "Thu, 08 Oct 2026 11:10:15 +0000",
+    "source": "TechTalk Thai",
+    "category": "AI",
+    "thumbnail": "https://www.techtalkthai.com/wp-content/uploads/2026/10/synologyprpun-640x335.png",
+    "readTime": "3 นาที"
+  },
+  {
+    "id": "151855 at https://www.blognone.com",
+    "title": "Samsung รายงานผลประกอบการเบื้องต้นไตรมาส 3/2026 ทำสถิติสูงสุดอีกไตรมาส ตามความต้องการหน่วยความจำ",
+    "link": "https://www.blognone.com/node/151855",
+    "content": "Samsung รายงานผลประกอบการเบื้องต้นไตรมาส 3/2026 ทำสถิติสูงสุดอีกไตรมาส ตามความต้องการหน่วยความจำ\n\n  \nBody\nซัมซุงรายงานผลประกอบการเบื้องต้นของไตรมาสที่ 3 ปี 2026 คาดรายได้รวมที่ประมาณ 195 ล้านล้านวอน เพิ่มขึ้นมากกว่าสองเท่าจากช่วงเดียวกันในปีก่อน และคาดการณ์กำไรจากการดำเนินงาน (Operating Profit) ที่ประมาณ 107.40 ล้านล้านวอน ซึ่งเพิ่มขึ้นเกือบเก้าเท่า โดยซัมซุงจะรายงานผลประกอบการพร้อมรายละเอียดตามกลุ่มธุรกิจในวันที่ 29 ตุลาคม\nตัวเลขนี้ทำให้ผลประกอบการไตรมาส 3/2026 ของซัมซุงจะทำสถิติสูงสุดต่อเนื่องอีกไตรมาสทั้งรายได้และกำไรจากการดำเนินงาน\nปัจจัยหลักที่ทำให้ตัวเลขเติบโตสูงยังคงมาจากธุรกิจหน่วยความจำตามความต้องการโครงสร้างพื้นฐาน AI ที่ยังอยู่ในระดับที่สูง\nที่มา: Reuters\narjin\nThu, 08/10/2026 - 17:45",
+    "pubDate": "Thu, 08 Oct 2026 10:45:30 +0000",
+    "source": "Blognone",
+    "category": "AI",
+    "thumbnail": null,
+    "readTime": "2 นาที"
+  },
+  {
+    "id": "151854 at https://www.blognone.com",
+    "title": "TSMC รายงานรายได้ไตรมาส 3/2026 ทำสถิติใหม่อีกไตรมาส เพิ่มขึ้น 50% จากปีก่อน",
+    "link": "https://www.blognone.com/node/151854",
+    "content": "TSMC รายงานรายได้ไตรมาส 3/2026 ทำสถิติใหม่อีกไตรมาส เพิ่มขึ้น 50% จากปีก่อน\n\n  \nBody\nTSMC รายงานตัวเลขรายได้ของไตรมาสที่ 3 ปี 2026 ทำสถิติใหม่สูงสุดต่อเนื่องที่ 1.49 ล้านล้านดอลลาร์ไต้หวัน เพิ่มขึ้นจากช่วงเดียวกันในปีก่อน 50% และสูงกว่าที่นักวิเคราะห์ประเมินไว้เฉลี่ยที่ 1.46 ล้านล้านดอลลาร์ไต้หวัน\nตัวเลขที่ TSMC รายงานยังแยกรายได้ในระดับรายเดือนด้วย โดยเฉพาะของเดือนกันยายนเพิ่มขึ้น 54.6% เป็น 5.12 แสนล้านดอลลาร์ไต้หวัน\nTSMC กำหนดวันรายงานผลประกอบการที่มีรายละเอียดตามส่วนธุรกิจและตัวเลขกำไรสุทธิ ในวันที่ 15 ตุลาคม\nที่มา: Reuters\narjin\nThu, 08/10/2026 - 17:44",
+    "pubDate": "Thu, 08 Oct 2026 10:44:13 +0000",
+    "source": "Blognone",
+    "category": "General",
+    "thumbnail": null,
+    "readTime": "2 นาที"
+  },
+  {
+    "id": "https://it24hrs.com/?p=170413",
+    "title": "OpenAI เปิดตัว Intelligent UI พร้อมเปิดให้ใช้ GPT-6 ฟรีแล้ว",
+    "link": "https://it24hrs.com/2026/gpt-6-chatgpt-free-intelligent-ui/",
+    "content": "OpenAI เปิดตัว Intelligent UI ซึ่งเป็นฟีเจอร์ใหม่ที่ช่ว […]\nThe post OpenAI เปิดตัว Intelligent UI พร้อมเปิดให้ใช้ GPT-6 ฟรีแล้ว appeared first on iT24Hrs by ปานระพี.",
+    "pubDate": "Thu, 08 Oct 2026 10:01:15 +0000",
+    "source": "IT24Hrs",
+    "category": "AI",
+    "thumbnail": null,
+    "readTime": "1 นาที"
+  },
+  {
+    "id": "https://techsauce.co/video/tfb-bci-technology",
+    "title": "จาก Mouse สู่ Mind เมื่อสมองกำลังกลายเป็น Interface ใหม่ของโลกเทคโนโลยี | Tech for Biz EP.65",
+    "link": "https://techsauce.co/video/tfb-bci-technology",
+    "content": "จาก Keyboard, Mouse, Touchscreen และ Voice วันนี้เทคโนโลยีกำลังก้าวไปสู่การควบคุมคอมพิวเตอร์ด้วย ‘ความคิด’ ผ่าน Brain-Computer Interface หรือ BCI",
+    "pubDate": "Thu, 08 Oct 2026 17:00:00 +0700",
+    "source": "Techsauce",
+    "category": "General",
+    "thumbnail": null,
+    "readTime": "1 นาที"
+  },
+  {
+    "id": "https://www.techtalkthai.com/?p=170977",
+    "title": "SUMMIT AUTO SEATS เปิดโครงการ SUMMIT NEXGEN ERP เดินหน้าสู่ Smart Factory ร่วมกับ NEXUS [Guest Post]",
+    "link": "https://www.techtalkthai.com/summit-auto-seats-launches-nexgen-erp-smart-factory-with-nexus-guest-post/",
+    "content": "บริษัท ซัมมิท โอโตซีทอินดัสตรี จำกัด (SUMMIT AUTO SEATS) เดินหน้าสู่เป้าหมาย Smart Factory ด้วยการเริ่มโครงการ “SUMMIT NEXGEN ERP” พร้อมนำ SAP S/4HANA Cloud, Public Edition มาใช้เป็นระบบบริหารจัดการองค์กรหลัก โดยร่วมกับ NEXUS ในฐานะพาร์ทเนอร์ผู้ให้คำปรึกษาและวางระบบ เพื่อเชื่อมโยงข้อมูลและกระบวนการสำคัญของธุรกิจบนมาตรฐานเดียวกัน และสร้าง Digital Backbone รองรับการเติบโตและการเปลี่ยนแปลงของธุรกิจในอนาคต จากผู้ผลิตชิ้นส่วนยานยนต์สู่ Smart Factory ด้วย Digital Backboneเบื้องหลังรถยนต์หนึ่งคันไม่ได้มีเพียงชื่อของผู้ผลิตรถยนต์ที่อยู่บนตัวรถ แต่ยังประกอบด้วยความเชี่ยวชาญของผู้ผลิตชิ้นส่วนจำนวนมาก ซึ่งต้องทำงานร่วมกันภายใต้มาตรฐานด้านคุณภาพ ความแม่นยำ และการส่งมอบที่ตรงเวลา บริษัท ซัมมิท โอโตซีทอินดัสตรี จำกัด (SUMMIT AUTO SEATS) บริษัทผู้ผลิตชิ้นส่วนรถยนต์ ที่เติบโตขึ้นมาเป็นกำลังสำคัญของห่วงโซ่อุปทานยานยนต์ จากจุดเริ่มต้นของธุรกิจผลิตเบาะและชิ้นส่วนตกแต่งภายในรถยนต์เมื่อปี 1972 สู่กลุ่มบริษัทผู้ผลิตที่มีความสามารถด้านการออกแบบ วิศวกรรม และการผลิตชิ้นส่วนทั้งภายใน และภายนอกรถยนต์ บริษัทชั้นนำของไทย …",
+    "pubDate": "Thu, 08 Oct 2026 09:31:43 +0000",
+    "source": "TechTalk Thai",
+    "category": "General",
+    "thumbnail": "https://www.techtalkthai.com/wp-content/uploads/2026/10/Cover-TTT-9-640x335.png",
+    "readTime": "3 นาที"
+  },
+  {
+    "id": "https://techsauce.co/saucy-thoughts/conicle-skills-skills-mismatch",
+    "title": "รู้จัก Conicle Skills แพลตฟอร์มพัฒนาทักษะคน พร้อมคุยกับซีอีโอถึงวิกฤต Skills Mismatch ที่กำลังขยายวงกว้าง",
+    "link": "https://techsauce.co/saucy-thoughts/conicle-skills-skills-mismatch",
+    "content": "คุณปูนเริ่มด้วยการชี้ให้เห็นว่าหัวจักรสำคัญที่ขับเคลื่อนเศรษฐกิจ ไม่ว่าจะในระดับประเทศหรือระดับองค์กร คือ ‘คน’ แต่ปัญหาที่กำลังเกิดขึ้นอย่างรุนแรงในขณะนี้คือ ทักษะหรือความรู้ของคนทำงานกำลังหมดอายุเร็วขึ้นกว่าที่เคย",
+    "pubDate": "Thu, 08 Oct 2026 16:13:21 +0700",
+    "source": "Techsauce",
+    "category": "General",
+    "thumbnail": "https://storage.googleapis.com/techsauce-prod/ugc/uploads/2026/9/1788511523_Conicle_Skills.webp",
+    "readTime": "1 นาที"
+  },
+  {
+    "id": "https://techsauce.co/news/meta-ai-ad-detection-illegal-content",
+    "title": "Meta อัปเกรดระบบ AI ตรวจจับแอดโฆษณา ตามเช็ก ‘ลิงก์ปลายทาง’ เพื่อดักจับโฆษณาที่ชี้นำไปสู่เนื้อหาผิดกฎหมาย",
+    "link": "https://techsauce.co/news/meta-ai-ad-detection-illegal-content",
+    "content": "Meta ได้อัปเกรดระบบ AI สำหรับตรวจจับโฆษณาให้ฉลาดขึ้นไปอีกขั้น จากเดิมที่เคยสแกนดูแค่ภาพหรือข้อความหน้าโฆษณา ตอนนี้ AI จะตามเข้าไปเช็กถึงลิงก์ปลายทางด้วย เพื่อดักจับโฆษณาที่แอบแฝงนำทางไปสู่เนื้อหาผิดกฎหมาย โดยเฉพาะพวกสื่อล่วงละเมิดทางเพศเด็ก",
+    "pubDate": "Thu, 08 Oct 2026 16:06:03 +0700",
+    "source": "Techsauce",
+    "category": "AI",
+    "thumbnail": "https://storage.googleapis.com/techsauce-prod/ugc/uploads/2026/10/1791450188_%E0%B8%A1%E0%B8%B5%E0%B8%99_800_-_2026-10-08T155743.570.webp",
+    "readTime": "1 นาที"
+  },
+  {
+    "id": "151853 at https://www.blognone.com",
+    "title": "แรมเตรียมแพงขึ้นอีก สหภาพแรงงาน Micron ในไต้หวันเห็นชอบให้นัดหยุดงาน",
+    "link": "https://www.blognone.com/node/151853",
+    "content": "แรมเตรียมแพงขึ้นอีก สหภาพแรงงาน Micron ในไต้หวันเห็นชอบให้นัดหยุดงาน\n\n  \nBody\nสหภาพแรงงานโรงงานชิปของบริษัท Micron ในเมือง Taoyuan ผ่านมติให้สามารถนัดหยุดงานได้ หลังไม่สามารถเจรจาส่วนแบ่งกำไรกับบริษัทได้สำเร็จ\nสมาชิกสหภาพทั้งหมด 2,258 ราย ออกเสียงให้นัดหยุดงาน 1,994 ราย ทำให้มติผ่านอย่างชัดเจน โดยข้อเรียกร้องของสหภาพ คือโบนัสพิเศษเป็นจำนวน 83 เดือนของฐานเงินเดือน และส่วนแบ่งกำไร 15% หลังจากนี้ โดยก่อนหน้านี้บริษัทได้ยื่นข้อเสนอโบนัส 68 เดือนแต่สหภาพไม่เห็นชอบ\nข้อเรียกร้องของพนักงาน Micron คล้ายกับข้อเรียกร้องของ SK Hynix และ Samsung ก่อนหน้านี้ที่สหภาพเรียกร้องส่วนแบ่งกำไรระยะยาวสิบปี แทนที่จะเป็นการเรียกร้องปีต่อปี โดยกระแสข่าวการเรียกร้องผลตอบแทนในเกาหลีใต้ทำให้อัตราการเป็นสมาชิกสหภาพในไต้หวันเพิ่มขึ้นอย่างรวดเร็ว นอกจากโรงงานในเมือง Taoyuan แล้ว โรงงานของ Micron ในเมือง Taichung ก็อยู่ระหว่างเจรจาเช่นกัน โดยหากเจรจาไม่สำเร็จก็อาจจะมีการลงคะแนนนัดหยุดงานเช่นนี้อีก\nการอนุมัตินัดหยุดงานครั้งนี้ไม่ได้ระบุวันที่จะหยุดงานโดยตรง แต่ให้อำนาจตัวแทนสหภาพนัดวันอีกครั้ง ทางประธานสหภาพระบุว่าอาจจะส่ง SMS เพื่อแจ้งนัดหยุดงานแบบทันที\nMicron เป็นหนึ่งในสามผู้ผลิตแรมหลักของโลก มีส่วนแบ่งตลาดรวม 24% ตามหลัง SK Hynix (25%) และ Samsung (38%) แม้จะมี CXMT จากจีนเข้ามาแบ่งตลาดไปแต่ก็มีส่วนแบ่งเพียง 10%\nที่มา - The Straits Times, CW.com.tw\nlew\nThu, 08/10/2026 - 14:59",
+    "pubDate": "Thu, 08 Oct 2026 07:59:50 +0000",
+    "source": "Blognone",
+    "category": "General",
+    "thumbnail": null,
+    "readTime": "4 นาที"
+  },
+  {
+    "id": "https://techsauce.co/ai/google-playground-ai-game-creation-platform",
+    "title": "Google เปิดตัว Playground แพลตฟอร์มสร้างเกมด้วย AI แค่ Prompt ก็ได้เกม ไม่ต้องเขียนโค้ด",
+    "link": "https://techsauce.co/ai/google-playground-ai-game-creation-platform",
+    "content": "Google เปิดตัว Playground แพลตฟอร์มทดลองจาก Google Labs ให้ทุกคนสร้างเกมด้วย AI แค่พิมพ์บอก ไม่ต้องเขียนโค้ด เล่นและแชร์ได้บนเบราว์เซอร์ พร้อมเตรียมเชื่อม Unity Spark ต่อยอดสู่เกม 3D ระดับมืออาชีพ",
+    "pubDate": "Thu, 08 Oct 2026 14:26:16 +0700",
+    "source": "Techsauce",
+    "category": "AI",
+    "thumbnail": "https://storage.googleapis.com/techsauce-prod/ugc/uploads/2026/10/1791444080_Google_%E0%B9%80%E0%B8%9B%E0%B8%B4%E0%B8%94%E0%B8%95%E0%B8%B1%E0%B8%A7_Playground__800.webp",
+    "readTime": "1 นาที"
+  },
+  {
+    "id": "https://techsauce.co/ai/google-synthid-free-ai-checker",
+    "title": "Google เปิด synthid.com ให้ใช้ฟรี เช็กง่าย ๆ รูป-วิดีโอ-เสียง ชิ้นไหนมาจาก AI",
+    "link": "https://techsauce.co/ai/google-synthid-free-ai-checker",
+    "content": "Google เปิดตัว synthid.com ให้คนทั่วไปใช้งานได้ฟรี ตรวจจับรูปภาพ วิดีโอ และเสียงจาก AI ได้ง่าย ๆ ด้วยระบบลายน้ำดิจิทัล",
+    "pubDate": "Thu, 08 Oct 2026 14:12:23 +0700",
+    "source": "Techsauce",
+    "category": "AI",
+    "thumbnail": "https://storage.googleapis.com/techsauce-prod/ugc/uploads/2026/10/1791443428_%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B8%8D%E0%B9%88%E0%B8%B2%E0%B8%AD%E0%B8%A2%E0%B9%88%E0%B8%B2%E0%B8%A2%E0%B8%B8%E0%B9%88%E0%B8%87_%E0%B8%9B%E0%B8%81%E0%B8%82%E0%B9%88%E0%B8%B2%E0%B8%A71200x800_%28100%29.webp",
+    "readTime": "1 นาที"
+  },
+  {
+    "id": "https://www.techtalkthai.com/?p=170947",
+    "title": "[VDO] เจาะลึก HPE Metro AI Vision | เปลี่ยนภาพเป็น Data วิเคราะห์ข้อมูลแบบ Real-time",
+    "link": "https://www.techtalkthai.com/vdo-hpe-metro-ai-vision-2/",
+    "content": "ไม่ใช่แค่ “กล้องวงจรปิด” แต่คือการเปลี่ยน ภาพจากหน้างานให้กลายเป็น Data และ Action แบบ Real-time ด้วยการผสาน Metro AI Vision เข้ากับขุมพลังการประมวลผลจาก HPE Metro AI Vision ถูกออกแบบมาเพื่อโจทย์ภาคการผลิตโดยเฉพาะ — ประมวลผลรวดเร็ว แม่นยำ และรองรับวัตถุที่ตรวจจับได้ยากไม่ว่าจะเป็นพื้นผิวสะท้อนแสง วัตถุโค้งมน หรือชิ้นงานที่มีรายละเอียดซับซ้อน พร้อมแนวคิด No-Code AI Vision ช่วยให้สร้างและปรับ AI Model ได้ง่ายขึ้น โดย ใช้จำนวนภาพสำหรับ Training น้อย ลดเวลาในการพัฒนาและช่วยให้เริ่มต้นใช้งานได้รวดเร็ว   4 Use Cases ที่ AI Vision ช่วยโรงงานได้Quality Inspection — ตรวจสอบคุณภาพและ Defect ของสินค้าSmart Counting — นับจำนวนและตรวจสอบความถูกต้อง (Fast …",
+    "pubDate": "Thu, 08 Oct 2026 06:26:07 +0000",
+    "source": "TechTalk Thai",
+    "category": "AI",
+    "thumbnail": null,
+    "readTime": "2 นาที"
+  },
+  {
+    "id": "151852 at https://www.blognone.com",
+    "title": "Windows 11 เพิ่มฟีเจอร์ Hybrid Intelligence เชื่อมต่อโมเดลในเครื่อง-บนคลาวด์",
+    "link": "https://www.blognone.com/node/151852",
+    "content": "Windows 11 เพิ่มฟีเจอร์ Hybrid Intelligence เชื่อมต่อโมเดลในเครื่อง-บนคลาวด์\n\n  \nBody\nไมโครซอฟท์เพิ่มฟีเจอร์ใหม่ของ Windows 11 ชื่อว่า Hybrid Intelligence เป็นการเชื่อมโมเดล AI แบบรันภายในเครื่อง (on-device) ให้ทำงานกับโมเดล AI ที่รันผ่านคลาวด์ได้ดีขึ้น\nแกนหลักของฟีเจอร์นี้คือ Microsoft Execution Containers (MXC) เป็นเทคโนโลยีที่นำ agent ไปรันใน sandbox หรือ container เพื่อจำกัดสิทธิด้านความปลอดภัย กำหนดไฟล์ที่ agent สามารถเข้าถึงได้ โดยเบื้องหลังรองรับ container หลากหลายประเภท เช่น WSLc, ProcessContainer, Windows Sandbox หรือแม้กระทั่งการรันใน VM แบบดั้งเดิม เทคโนโลยี MXC ยังใช้ได้กับระบบปฏิบัติการอื่น เช่น ลินุกซ์ (bubblewrap, LXC) หรือ แมค (Seatbelt) ได้ด้วย\nไมโครซอฟท์ได้พันธมิตรมาร่วมสนับสนุน MXC จำนวนมาก ตอนนี้ agent ที่รันได้แล้วคือ OpenAI Codex, GitHub Copilot, OpenClaw, Replit, LM Studio, NVIDIA OpenShell, Unsloth AI ส่วนผู้ยิ่งใหญ่รายอื่นอย่าง Claude Code และ Hermes ก็ประกาศรองรับแล้ว\n\n\nการใช้งาน Hybrid Intelligence รองรับในแอพหลายตัว เช่น Copilot ตัวใหม่ที่มีฟีเจอร์ Autopilot, Microsoft Agent 365 สำหรับงานฝั่งองค์กร หรือถ้าเป็นงานที่เน้นเขียนโค้ด ไมโครซอฟท์ออก โมเดล MAI-Code-1.1-Flash ที่รัน local ในเครื่องสเปกสูงหน่อยมาให้ แต่ก็มีทางเลือกอื่นให้ด้วย คือ  NVIDIA Nemotron 70B เวอร์ชันบีบอัดให้ใช้แรม 20GB และ DeepSeek V4 Flash ขนาด 284B\nเมื่อโมเดลในเครื่องเริ่มไม่พอใจใช้งาน ก็สามารถเชื่อมต่อไปยังโมเดลบนคลาวด์ผ่าน GitHub HydraFusion ที่นิยามด้วยเองว่าเป็น multi-model orchestration ทำหน้าที่จัดเส้นทาง (routing) ไปยังโมเดลตามเงื่อนไขที่กำหนดไว้ให้อัตโนมัติ\nก่อนหน้านี้ HydraFusion รองรับเฉพาะการสลับโมเดลบนคลาวด์ แต่ตอนนี้รองรับการทำงานแบบ on-device แล้ว และจะถูกผนวกเข้ามาสู่  GitHub Copilot app, GitHub Copilot CLI, Visual Studio Code ภายในเดือนตุลาคมนี้\n\nฟีเจอร์ Hybrid Intelligence ออกแบบมาสำหรับพีซีที่สามารถรัน AI แบบ local ได้ เช่น Copilot+ PC ที่มี NPU, พีซีกลุ่มที่ใช้ชิป RTX Spark หรือถ้าเงินเหลือๆ จะใช้กับ DGX Station ก็ได้เช่นกัน\nที่มา - Microsoft, Microsoft\nmk\nThu, 08/10/2026 - 13:20",
+    "pubDate": "Thu, 08 Oct 2026 06:20:31 +0000",
+    "source": "Blognone",
+    "category": "Security",
+    "thumbnail": "https://www.blognone.com/sites/default/files/files-2026/2026-10/mxc_oat-1024x576.png",
+    "readTime": "5 นาที"
+  },
+  {
+    "id": "https://www.techtalkthai.com/?p=170791",
+    "title": "[VDO] HPE Private Cloud AI (PCAI) เปลี่ยนองค์กรให้พร้อมใช้ AI ได้อย่างรวดเร็ว และทรงประสิทธิภาพ",
+    "link": "https://www.techtalkthai.com/vdo-hpe-metro-ai-vision/",
+    "content": "การปรับใช้ AI ในองค์กรจะไม่ใช่ปัญหาอีกต่อไป เพราะ HPE Private Cloud AI (PCAI) แพลตฟอร์ม AI แบบ Turn-Key ที่รวมทุกอย่างไว้ในที่เดียว ทั้งฮาร์ดแวร์, ซอฟต์แวร์ และเครื่องมือบริหารจัดการที่พร้อมใช้งานได้ทันที ราวกับการ Plug and Play บนเครื่องคอมพิวเตอร์ทั่วไป ในมุมประสิทธิภาพ HPE PCAI เกิดจากความร่วมมือระหว่าง HPE และ Nvidia ผสานความเชี่ยวชาญด้านฮาร์ดแวร์เข้ากับเทคโนโลยี GPU และระบบ AI ของ Nvidia ช่วยลดระยะเวลาในการพัฒนาโปรเจกต์ AI ให้องค์กรเห็นผลลัพธ์ทางธุรกิจได้เร็วขึ้นอย่างมาก   จุดเด่นสำคัญของ PCAI คือการออกแบบขนาดระบบแบบ S, M, L ให้เลือกใช้ตามความต้องการ โดยไม่ต้องคำนวณสเปก CPU หรือ RAM เอง และยังมีชุดเริ่มต้นขนาดเล็กสำหรับองค์กรที่ต้องการทดลองใช้งานก่อนลงทุนเต็มรูปแบบ ทั้งหมดบริหารจัดการผ่าน HPE GreenLake …",
+    "pubDate": "Thu, 08 Oct 2026 06:07:34 +0000",
+    "source": "TechTalk Thai",
+    "category": "AI",
+    "thumbnail": null,
+    "readTime": "2 นาที"
+  },
+  {
+    "id": "https://it24hrs.com/?p=170400",
+    "title": "Microsoft เปิดตัว Surface Laptop Ultra และ Dev Box ชูพลัง Local AI และ USB-C แม่เหล็กเครื่องแรกของโลก",
+    "link": "https://it24hrs.com/2026/microsoft-surface-laptop-ultra-rtx-spark-dev-box/",
+    "content": "Microsoft เปิดตัว Surface Laptop Ultra และ Surface RTX  […]\nThe post Microsoft เปิดตัว Surface Laptop Ultra และ Dev Box ชูพลัง Local AI และ USB-C แม่เหล็กเครื่องแรกของโลก appeared first on iT24Hrs by ปานระพี.",
+    "pubDate": "Thu, 08 Oct 2026 06:07:19 +0000",
+    "source": "IT24Hrs",
+    "category": "AI",
+    "thumbnail": null,
+    "readTime": "1 นาที"
+  },
+  {
+    "id": "151851 at https://www.blognone.com",
+    "title": "ไมโครซอฟท์เปิดราคามินิพีซี Surface RTX Spark Dev Box ที่ 5,599 ดอลลาร์",
+    "link": "https://www.blognone.com/node/151851",
+    "content": "ไมโครซอฟท์เปิดราคามินิพีซี Surface RTX Spark Dev Box ที่ 5,599 ดอลลาร์\n\n  \nBody\nนอกจาก โน้ตบุ๊ก Surface Laptop Ultra พลัง RTX Spark ไมโครซอฟท์ก็ประกาศวางขายฮาร์ดแวร์อีกตัวคือ มินิพีซี Surface RTX Spark Dev Box มาพร้อมกัน ที่ราคาแพงกว่าเท่าตัวคือ 5,999 ดอลลาร์ (ประมาณ  2 แสนบาท)\nสเปกของ Surface RTX Spark Dev Box ใช้ชิป NVIDIA RTX Spark รุ่นท็อปสุดคือ RTX Spark N1X มี 6144-core GPU และ 20-core CPU แรม 128GB LPDDR5x (ส่วน Surface Ultra ตัวล่างสุด ราคาเริ่มต้น 2,599 ดอลลาร์ เป็น 5120-core GPU และ 18-core CPU แรม 24GB หากเลือกสเปกชิปและแรมเท่ากัน Surface Laptop Ultra จะราคาแพงกว่าคือ 5,899 ดอลลาร์)\nสเปกอื่นคือ สตอเรจ 2TB แบบถอดเปลี่ยนได้, พอร์ต 2 x USB-C, DisplayPort 2.1, HDMI 2.1b, USB-A, Ethernet 10 Gbps, ช่องเสียบหูฟัง 3.5mm, รองรับ Wi-Fi 7 และ Bluetooth Core 5.4, น้ำหนักเครื่อง 1.997 กิโลกรัม\nความพิเศษอีกอย่างของ Surface RTX Spark Dev Box คือ ใช้ระบบปฏิบัติการ Windows 11 เวอร์ชันพิเศษ Project Zenith ปรับแต่งมาเพื่อการเขียนโค้ดด้วย AI เป็นการเฉพาะ มีเครื่องมือต่างๆ ที่จำเป็น เช่น Visual Studio Code, Git, GitHub CLI, GitHub Copilot, WSL, Python, Node ติดตั้งมาให้เรียบร้อยแล้ว\nสินค้าจะส่งในเดือนพฤศจิกายน ต้องสั่งซื้อผ่าน ช่องทางออนไลน์ของ Microsoft.com เท่านั้น\nที่มา - Microsoft\n\nmk\nThu, 08/10/2026 - 13:02",
+    "pubDate": "Thu, 08 Oct 2026 06:02:30 +0000",
     "source": "Blognone",
     "category": "AI",
     "thumbnail": null,
     "readTime": "4 นาที"
+  },
+  {
+    "id": "https://www.techtalkthai.com/?p=170939",
+    "title": "Microsoft เปิดตัว Surface รุ่นใหม่ ใช้ชิป Nvidia RTX Spark ชูจุดขาย On-Device AI รัน Local บน Windows 11 เจาะกลุ่มนักพัฒนา",
+    "link": "https://www.techtalkthai.com/microsoft-surface-laptop-ultra-rtx-spark-windows-11/",
+    "content": "Microsoft เปิดตัว Surface รุ่นใหม่ที่ใช้ชิป Nvidia RTX Spark ต่อยอดจากข้อตกลงร่วมกับ Nvidia และพาร์ตเนอร์ผู้ผลิตพีซีเมื่อเดือนมิถุนายนที่ผ่านมา ชูการประมวลผล Local AI และเตรียมพร้อมรับเวิร์กโหลดระดับ AI Agent บน Windows 11 โดยตรง โดยมี Surface Laptop Ultra เป็นรุ่นเรือธง แบ่งเป็น 2 รุ่นย่อย ราคา 2,600 ดอลลาร์สหรัฐ ในรุ่นเริ่มต้น และในรุ่นประสิทธิภาพสูงจะมีราคาสูงสุดที่ 5,900 ดอลลาร์ นอกจากนี้ Microsoft ยังเปิดตัวเวิร์กสเตชันสำหรับการพัฒนาโดยเฉพาะอย่าง Surface RTX Spark Dev Box ราคาเริ่มต้น 6,000 ดอลลาร์สหรัฐ ติดตั้งชุดเครื่องมือพัฒนาซอฟต์แวร์มาแบบพร้อมใช้งานทั้ง VS Code, GitHub Copilot CLI, Windows Subsystem for …",
+    "pubDate": "Thu, 08 Oct 2026 05:32:52 +0000",
+    "source": "TechTalk Thai",
+    "category": "AI",
+    "thumbnail": "https://www.techtalkthai.com/wp-content/uploads/2026/10/TTT-2026-10-08T123108.647-640x336.jpg",
+    "readTime": "2 นาที"
+  },
+  {
+    "id": "https://techsauce.co/ai/openai-gpt-6-intelligent-ui",
+    "title": "รู้จัก Intelligent UI ใน GPT-6 กราฟ แผนที่ ปุ่ม ฟอร์ม รวมอยู่ในแชตเดียว",
+    "link": "https://techsauce.co/ai/openai-gpt-6-intelligent-ui",
+    "content": "OpenAI ปล่อย GPT-6 ให้ผู้ใช้ ChatGPT ทุกระดับรวมถึงผู้ใช้ฟรี พร้อม Intelligent UI ที่ตอบด้วยกราฟ แผนที่ ปุ่ม และสร้างเครื่องมือให้ใช้ในแชตได้ทันที ตอบไปคิดไปได้ และเริ่มตอบเร็วขึ้น 44% เมื่อต้องค้นเว็บ",
+    "pubDate": "Thu, 08 Oct 2026 12:05:32 +0700",
+    "source": "Techsauce",
+    "category": "AI",
+    "thumbnail": "https://storage.googleapis.com/techsauce-prod/ugc/uploads/2026/10/1791435754_Intelligent_UI__800.webp",
+    "readTime": "1 นาที"
+  },
+  {
+    "id": "https://www.beartai.com/?p=1509740",
+    "title": "เปิดตัว Garmin Approach S72 สมาร์ตวอตช์กอล์ฟเรือธง ชูเซนเซอร์วิเคราะห์วงสวิง ควบคู่ฟีเจอร์สุขภาพและลำโพงในตัว",
+    "link": "https://www.beartai.com/tech/gadget/1509740/",
+    "content": "การ์มิน (Garmin) เปิดตัวสมาร์ตวอตช์กอล์ฟรุ่นเรือธง Approach S72 โดยอัปเกรดเซนเซอร์และฟังก์ชันการวิเคราะห์การเล่นกอล์ฟเชิงลึก ควบคู่กับการนำฟีเจอร์ด้านสุขภาพและการใช้งานทั่วไป ตัวเรือนใช้วัสดุกรอบไทเทเนียมและกระจกแซฟไฟร์ มีให้เลือก 2 ขนาดหน้าปัด คือ 43 มม. และ 47 มม. พร้อมหน้าจอแสดงผลแบบ AMOLED และสายผ้า ComfortFit ข้อมูลอินไซต์จากผู้ใช้งานสมาร์ตวอตช์ตระกูล Approach ในประเทศไทยระบุว่า ผู้เล่นกอล์ฟมีการบันทึกกิจกรรมวิ่งและเดินเพิ่มขึ้น 49% และ 41% ตามลำดับ ส่งผลให้แนวทางการพัฒนาในรุ่นนี้เน้นการเชื่อมโยงสมรรถภาพทางกายเข้ากับการเล่นกอล์ฟมากขึ้น โดยรุ่น 47 มม. ใช้งานต่อเนื่องสูงสุด 20 ชั่วโมงในโหมด GPS สำหรับออกรอบ และสูงสุด 16 วันในโหมดสมาร์ตวอตช์ทั่วไป ในด้านฟังก์ชันการวิเคราะห์การเล่นและการเชื่อมต่อ ตัวอุปกรณ์ได้รับการอัปเกรดความสามารถสำคัญดังนี้: ในด้านสุขภาพและการติดตามกิจกรรมประจำวัน Approach S72 ยังคงติดตั้งชุดเซนเซอร์พื้นฐานสำหรับการวัดความแปรปรวนของอัตราการเต้นของหัวใจ (HRV), การประเมินพลังงานคงเหลือของร่างกาย (Body Battery), การตรวจจับความเครียด และการติดตามคุณภาพการนอนหลับขั้นสูง เพื่อประเมินความพร้อมของร่างกายก่อนลงสนาม โดยมีกำหนดวางจำหน่ายในประเทศไทยวันที่ […]\nThe post เปิดตัว Garmin Approach S72 สมาร์ตวอตช์กอล์ฟเรือธง ชูเซนเซอร์วิเคราะห์วงสวิง ควบคู่ฟีเจอร์สุขภาพและลำโพงในตัว appeared first on BT beartai.",
+    "pubDate": "Thu, 08 Oct 2026 04:18:34 +0000",
+    "source": "Beartai",
+    "category": "General",
+    "thumbnail": "https://www.beartai.com/wp-content/uploads/2026/10/Garmin_ApproachS72_0-600x315.jpg",
+    "readTime": "4 นาที"
+  },
+  {
+    "id": "https://techsauce.co/saucy-thoughts/krating-poonpol-unbeatable-book-launch",
+    "title": "บทเรียนไร้พ่ายจากชีวิตจริงของ ‘กระทิง พูนผล’ ในหนังสือ Unbeatable",
+    "link": "https://techsauce.co/saucy-thoughts/krating-poonpol-unbeatable-book-launch",
+    "content": "จนกว่าจะถึงความตาย ความพ่ายแพ้เป็นแค่เรื่องในใจ” กระทิง พูนผล เปิดตัวหนังสือ 'UNBEATABLE' ถอดบทเรียนล้มแล้วลุก สู่คู่มือ How-To พีระมิด 3 ระดับ บ่มเพาะจิตใจผู้ชนะสู้โลกผันผวน",
+    "pubDate": "Thu, 08 Oct 2026 11:02:14 +0700",
+    "source": "Techsauce",
+    "category": "General",
+    "thumbnail": "https://storage.googleapis.com/techsauce-prod/ugc/uploads/2026/10/1791431929_%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B8%8D%E0%B9%88%E0%B8%B2%E0%B8%AD%E0%B8%A2%E0%B9%88%E0%B8%B2%E0%B8%A2%E0%B8%B8%E0%B9%88%E0%B8%87_%E0%B8%9B%E0%B8%81%E0%B8%82%E0%B9%88%E0%B8%B2%E0%B8%A71200x800_%2899%29.webp",
+    "readTime": "1 นาที"
+  },
+  {
+    "id": "https://techsauce.co/news/mktcon2026-ai-search-brand-marketing-insights",
+    "title": "เมื่อ AI ช่วยลูกค้าเลือก แบรนด์ต้องทำอย่างไรให้ถูกเลือก แกะเทคนิคการตลาดที่ควรรู้ จากงาน MKTCON2026",
+    "link": "https://techsauce.co/news/mktcon2026-ai-search-brand-marketing-insights",
+    "content": "6 โจทย์การตลาดที่นำไปใช้ต่อได้ จากเวที MKTCON2026 ตั้งแต่พฤติกรรมผู้บริโภค AI Search ไปจนถึงการเปลี่ยนข้อมูลเป็นยอดขาย",
+    "pubDate": "Thu, 08 Oct 2026 09:42:08 +0700",
+    "source": "Techsauce",
+    "category": "AI",
+    "thumbnail": "https://storage.googleapis.com/techsauce-prod/ugc/uploads/2026/10/1791426439_mktcon2026-body-0-1200x800.webp",
+    "readTime": "1 นาที"
+  },
+  {
+    "id": "https://techsauce.co/ai/anthropic-claude-haiku-5-5-launch-cheaper-faster",
+    "title": "เปิดตัว Claude Haiku 5.5 โมเดลเล็กของ Anthropic ที่เร็วที่สุด",
+    "link": "https://techsauce.co/ai/anthropic-claude-haiku-5-5-launch-cheaper-faster",
+    "content": "Anthropic เปิดตัว Claude Haiku 5.5 โมเดลเล็กที่เร็วที่สุด ต้นทุนต่ำกว่า Haiku 4.5 ราว 75% คะแนนใช้คอมพิวเตอร์พุ่งเป็น 72.4% พร้อมลดต้นทุน Sonnet 5.5 ราว 20% และแจกเครดิต API ให้สมาชิก Max และ Team",
+    "pubDate": "Thu, 08 Oct 2026 09:28:08 +0700",
+    "source": "Techsauce",
+    "category": "AI",
+    "thumbnail": "https://storage.googleapis.com/techsauce-prod/ugc/uploads/2026/10/1791426416_Haiku_5.5_800.webp",
+    "readTime": "1 นาที"
   },
   {
     "id": "https://www.techtalkthai.com/?p=170932",
@@ -75,17 +405,6 @@
     "readTime": "2 นาที"
   },
   {
-    "id": "151847 at https://www.blognone.com",
-    "title": "กูเกิลเปิดตัว SynthID Detector ตรวจรูปว่าสร้างด้วย AI หรือไม่ ตรวจรูปจาก OpenAI ได้",
-    "link": "https://www.blognone.com/node/151847",
-    "content": "กูเกิลเปิดตัว SynthID Detector ตรวจรูปว่าสร้างด้วย AI หรือไม่ ตรวจรูปจาก OpenAI ได้\n\n  \nBody\nกูเกิลเปิดตัว SynthID Detector หน้าเว็บสำหรับตรวจสอบรูป เสียง วิดีโอ ว่าสร้างด้วย AI หรือไม่ โดยรองรับรูปที่สร้างจากบริการ AI ของกูเกิลเอง และจากพาร์ทเนอร์คือ OpenAI, NVIDIA, Kakao และในเร็วๆ นี้จะมีแอปเปิลด้วย\nหน้าเว็บ SynthID Detector เป็นเพียงช่องทางหนึ่งของกูเกิลที่ใช้ตรวจสอบรูป AI เท่านั้น ช่องทางอื่นที่ใช้ได้ยังมี แอพ Gemini หรือผ่าน Google Search กับ Chrome ก็ได้เช่นกัน\nฝั่ง OpenAI เองก็มีหน้าเว็บสำหรับตรวจสอบรูปภาพชื่อ OpenAI Verify\nที่มา - Google\n\nmk\nWed, 07/10/2026 - 21:22",
-    "pubDate": "Wed, 07 Oct 2026 14:22:22 +0000",
-    "source": "Blognone",
-    "category": "AI",
-    "thumbnail": "https://www.blognone.com/sites/default/files/files-2026/2026-10/synth-id.jpg",
-    "readTime": "2 นาที"
-  },
-  {
     "id": "https://it24hrs.com/?p=170390",
     "title": "Tesla ปล่อย Halloween Mode ให้รถ Tesla แกล้งคนใกล้ๆได้ พร้อมเสียงหลอนรับฮาโลวีน",
     "link": "https://it24hrs.com/2026/tesla-halloween-mode-2026/",
@@ -93,19 +412,8 @@
     "pubDate": "Wed, 07 Oct 2026 13:09:47 +0000",
     "source": "IT24Hrs",
     "category": "General",
-    "thumbnail": null,
+    "thumbnail": "https://it24hrs.com/wp-content/uploads/2026/10/tesla-halloween-mode-2026-d01.mp4",
     "readTime": "1 นาที"
-  },
-  {
-    "id": "151846 at https://www.blognone.com",
-    "title": "Spotify ขยายบริการหนังสือเสียง Audiobooks ไปยังลูกค้าทั่วโลกรวมทั้งประเทศไทย ภายในปีนี้",
-    "link": "https://www.blognone.com/node/151846",
-    "content": "Spotify ขยายบริการหนังสือเสียง Audiobooks ไปยังลูกค้าทั่วโลกรวมทั้งประเทศไทย ภายในปีนี้\n\n  \nBody\nSpotify ประกาศว่าบริการหนังสือเสียงหรือ Audiobooks จะขยายไปยังลูกค้า Spotify ทั่วโลกกว่า 180 ประเทศ รวมทั้งประเทศไทย โดยจะครอบคลุมทั้งหมดภายในปีนี้\nAudiobooks ของ Spotify เริ่มให้บริการในสหรัฐอเมริกามาตั้งแต่ปี 2022 จากนั้นจึงขยายมาเป็น 22 ประเทศ โดยมีเฉพาะหนังสือเสียงภาษาอังกฤษ ส่วนการขยายตลาดไปทั่วโลกนี้ Spotify บอกว่าหนังสือเสียงจะมีให้เลือกมากกว่า 120 ภาษา มีหนังสือให้เลือกมากกว่า 350,000 เรื่อง\nการฟังหนังสือเสียงสำหรับลูกค้า Spotify จะมีหลายรูปแบบขึ้นอยู่กับประเทศที่ให้บริการ ซึ่ง Spotify บอกว่ามีทั้งให้ลูกค้า Premium ปัจจุบัน ได้โควต้า 12 ชั่วโมงต่อเดือน, แบบสมัครแพ็คเกจ Audiobooks+ เพิ่มเติม ซึ่งจะใช้รูปแบบนี้ในเอเชีย และแบบ Direct คือซื้อหนังสือเสียงเป็นรายการไปเลย\nที่มา: Spotify\narjin\nWed, 07/10/2026 - 19:54",
-    "pubDate": "Wed, 07 Oct 2026 12:54:00 +0000",
-    "source": "Blognone",
-    "category": "General",
-    "thumbnail": null,
-    "readTime": "3 นาที"
   },
   {
     "id": "https://www.techtalkthai.com/?p=170912",
@@ -163,50 +471,6 @@
     "readTime": "1 นาที"
   },
   {
-    "id": "151845 at https://www.blognone.com",
-    "title": "Google อัปเดต Nano Banana 2.1 พื้นฐาน Gemini 3.6 Flash ออกแบบภาพได้ดีขึ้น",
-    "link": "https://www.blognone.com/node/151845",
-    "content": "Google อัปเดต Nano Banana 2.1 พื้นฐาน Gemini 3.6 Flash ออกแบบภาพได้ดีขึ้น\n\n  \nBody\nกูเกิลอัปเดตโมเดล AI สำหรับสร้างรูปภาพ Nano Banana 2.1 ซึ่งเป็นโมเดลย่อยในตระกูล Gemini 3 มีพื้นฐานจากโมเดล Gemini 3.6 Flash รองรับอินพุทสูงสุด 1M โทเค็น ทั้งแบบข้อความและรูปภาพ\nกูเกิลบอกว่าเมื่อเทียบกับ Nano Banana 2 โมเดลใหม่เวอร์ชัน 2.1 มีความสามารถที่มากขึ้นทั้งการออกแบบภาพ, การแก้ไขเฉพาะพื้นที่, การรักษารายละเอียดต้นแบบ และภาพผลลัพธ์ที่เป็นธรรมชาติมากขึ้น ทั้งนี้คะแนนทดสอบที่กูเกิลนำเสนอเป็นการเทียบกับ Nano Banana รุ่นก่อนหน้าทั้งหมด\nกูเกิลบอกว่า Nano Banana 2.1 ยังมีสิ่งที่ต้องปรับปรุงอีกหลายอย่าง เช่น ข้อความที่มีขนาดตัวอักษรเล็ก, ปัญหาการเข้าใจทิศทางซ้าย-ขวา, การเรียกใช้ข้อมูลความรู้ขั้นสูง เป็นต้น\nNano Banana 2.1 เริ่มใช้งานได้แล้ววันนี้ในทุกช่องทางทั้ง แอป Gemini, Google AI Studio, Gemini API, AI Mode ใน Search และอื่น ๆ\nที่มา: กูเกิล\narjin\nWed, 07/10/2026 - 17:35",
-    "pubDate": "Wed, 07 Oct 2026 10:35:00 +0000",
-    "source": "Blognone",
-    "category": "AI",
-    "thumbnail": null,
-    "readTime": "3 นาที"
-  },
-  {
-    "id": "151838 at https://www.blognone.com",
-    "title": "อั้นไม่ไหว? Raspberry Pi ขึ้นราคาบอร์ดแรม 2GB ประมาณ 420 บาท หลังตรึงราคามาตั้งแต่รอบแรก",
-    "link": "https://www.blognone.com/node/151838",
-    "content": "อั้นไม่ไหว? Raspberry Pi ขึ้นราคาบอร์ดแรม 2GB ประมาณ 420 บาท หลังตรึงราคามาตั้งแต่รอบแรก\n\n  \nBody\nRaspberry Pi ผ่านการขึ้นราคาเนื่องจากราคาแรมพุ่งสูงมาแล้ว 2 รอบ (รอบที่ 1, รอบที่ 2) แต่ที่ผ่านมาก็พอจะตรึงราคารุ่นที่แรมน้อย (เช่น 1GB หรือ 2GB) เอาไว้ที่ระดับราคาเดิมได้อยู่\nแต่เมื่อวันที่ 1 ต.ค. ที่ผ่านมา ทาง Raspberry Pi ได้ประกาศว่าไม่สามารถตรึงราคาไว้ได้อีกต่อไป และได้ทำการขึ้นราคา Raspberry Pi 4 และ 5 รุ่น 2GB ขึ้น 12.50 ดอลลาร์ (ประมาณ 420 บาท) เป็น 67.50 ดอลลาร์ และ 77.50 ดอลลาร์ ตามลำดับ (ราคาไทยอ้างอิงตาม Cytron อยู่ที่ 2,578 บาท และ 2,960 บาท ตามลำดับ แต่ขึ้นว่าของหมดทั้งคู่)\nในขณะที่ Raspberry Pi 4 และ 5 รุ่น 1 GB ยังตรึงราคาไว้ได้อยู่และไม่ได้ขึ้นราคา รวมทั้ง Compute Module 4 และ 5 รุ่น 2 GB ก็ไม่ได้ขึ้นราคาเช่นกัน (ซึ่งน่าสนใจ เนื่องจาก Compute Module 4 และ 5 ไม่ได้ต่างจาก Raspberry Pi 4 และ 5 (ตามลำดับ) มากขนาดนั้น แต่ผู้เขียนเดาว่าอาจจะเป็นการตรึงราคาเพื่อช่วยผู้ใช้เชิงพานิชย์ซึ่งมักจะใช้ Compute Module มากกว่า)\nเช่นเดียวกับครั้งที่ผ่านมา Raspberry Pi เชิญชวนให้ผู้ใช้พิจารณาความต้องการของตนเองว่ารุ่นเก่าหรือรุ่นที่แรมน้อยกว่าเพียงพอต่อความต้องการหรือไม่ (Raspberry Pi เคยบอกไว้ว่ารุ่นเก่าๆ จะใช้แรม LPDDR2 ซึ่งมีสต๊อกไว้พอสมควร) และระบุว่าเมื่อสถานการณ์คลี่คลาย ก็พร้อมที่จะปรับราคาลง\nแต่สิ่งที่ต่างออกไปจากกระประกาศครั้งที่แล้ว นั่นคือการที่ Raspberry Pi เชิญชวนให้ผู้ใช้ซื้อผลิตภัณฑ์จากตัวแทนจำหน่ายอย่างเป็นทางการเท่านั้น (ประเทศไทยจะมีของ Cytron และ GLOBALByte) เพื่อป้องกัน \"ร้านหิ้ว\" ขึ้นราคา และเพื่อป้องกัน \"สินค้าไม่ตรงปก\" แต่ส่วนตัวผู้เขียนเชื่อว่าอาจเกี่ยวข้องกับกรณีล่าสุดที่มีผู้ใช้พบว่า Raspberry Pi ล็อคไม่ให้สลับชิปแรมที่มีความจุไม่ตรงกับที่ติดมากับบอร์ด ซึ่ง Raspberry Pi ชี้แจงว่าเกิดจากมีพ่อค้าหัวหมอซื้อ Raspberry Pi ที่มีแรมความจุต่ำแล้วนำมาสลับชิปที่มีความจุสูงเอง การใส่คำเตือนนี้จึงอาจจะเป็นการย้ำจุดยืนดังกล่าวนั่นเอง\nที่มา: Raspberry Pi, ราคาอ้างอิงจาก Cytron (1, 2)\npeat_psuwit\nWed, 07/10/2026 - 17:01",
-    "pubDate": "Wed, 07 Oct 2026 10:01:00 +0000",
-    "source": "Blognone",
-    "category": "General",
-    "thumbnail": null,
-    "readTime": "5 นาที"
-  },
-  {
-    "id": "151844 at https://www.blognone.com",
-    "title": "[ลือ] Apple ร่วมมือกับ LG เตรียมออกสินค้าสมาร์ทโฮมหลายอย่าง โดยใช้แบรนด์ LG",
-    "link": "https://www.blognone.com/node/151844",
-    "content": "[ลือ] Apple ร่วมมือกับ LG เตรียมออกสินค้าสมาร์ทโฮมหลายอย่าง โดยใช้แบรนด์ LG\n\n  \nBody\nข่าวลือแอปเปิลประจำวันโดย Mark Gurman แห่ง Bloomberg คนเดิม บอกว่าแอปเปิลกำลังร่วมมือกับ LG เพื่อพัฒนาสินค้ากลุ่มอุปกรณ์เชื่อมต่อในบ้าน ตามแผนการยกเครื่องสมาร์ทโฮม, HomeKit และสินค้าใหม่หน้าจอควบคุมอุปกรณ์ในบ้านตามที่มีข่าวก่อนหน้านี้\nGurman บอกว่าความร่วมมือของแอปเปิลกับ LG นี้ จะมีสินค้าหลายอย่าง เช่น กริ่งประตู, เทอร์โมสตัท, กลอนประตูอัจฉริยะ, กล้องวงจรปิด ฯลฯ โดยทั้งหมดใช้แบรนด์ LG ในการทำตลาด และทาง LG จะรับผิดชอบส่วนการผลิตกับการสนับสนุนหลังการขาย ซึ่งทำให้แอปเปิลออกสินค้าได้หลายอย่างพร้อมกันสำหรับสมาร์ทโฮม โดยรับผิดชอบส่วนการออกแบบ และส่วนการเชื่อมต่อเป็นหลัก\nรายงานบอกว่า LG กำลังยื่นเอกสารขออนุมัติสินค้ากลุ่มนี้กับหน่วยงานกำกับดูแล จึงคาดว่าแม้สินค้าจะเปิดตัวภายในเดือนนี้ตามข่าวลือ แต่ก็ต้องใช้เวลาระยะหนึ่งจึงจะเริ่มวางขายได้\nที่มา: Bloomberg\narjin\nWed, 07/10/2026 - 17:00",
-    "pubDate": "Wed, 07 Oct 2026 10:00:00 +0000",
-    "source": "Blognone",
-    "category": "General",
-    "thumbnail": null,
-    "readTime": "3 นาที"
-  },
-  {
-    "id": "https://techsauce.co/news/thailand-japan-investment-forum-2026-boi",
-    "title": "“เอกนิติ-บีโอไอ” ผนึกพันธมิตรไทย–ญี่ปุ่น ชูสร้างการเติบโตร่วมกันอย่างยั่งยืน",
-    "link": "https://techsauce.co/news/thailand-japan-investment-forum-2026-boi",
-    "content": "บีโอไอผนึก JETRO ตลาดหลักทรัพย์ฯ EXIM BANK กรุงศรี และ SMBC จัด Thailand–Japan Investment Forum 2026 นักลงทุนร่วมกว่า 700 ราย ชูความร่วมมือไทย–ญี่ปุ่นด้าน AI พลังงานสะอาด และโครงการ BOI to IPO สู่การเติบโตอย่างยั่งยืน",
-    "pubDate": "Wed, 07 Oct 2026 16:59:02 +0700",
-    "source": "Techsauce",
-    "category": "AI",
-    "thumbnail": "https://storage.googleapis.com/techsauce-prod/ugc/uploads/2026/10/1791367522_cover-800.webp",
-    "readTime": "1 นาที"
-  },
-  {
     "id": "https://www.techtalkthai.com/?p=170896",
     "title": "Mistral เปิดตัว Mistral Large 4 แบบโอเพนซอร์ส พร้อมรายละเอียดโรดแมป AI",
     "link": "https://www.techtalkthai.com/mistral-launches-open-source-mistral-large-4-details-ai-roadmap/",
@@ -216,28 +480,6 @@
     "category": "Security",
     "thumbnail": "https://www.techtalkthai.com/wp-content/uploads/2026/06/Mistral-logo.png",
     "readTime": "3 นาที"
-  },
-  {
-    "id": "151843 at https://www.blognone.com",
-    "title": "กูเกิลเปิดตัว EmbeddingGemma 2 โมเดลขนาดเล็กรัน On-device คุณภาพดีขึ้น",
-    "link": "https://www.blognone.com/node/151843",
-    "content": "กูเกิลเปิดตัว EmbeddingGemma 2 โมเดลขนาดเล็กรัน On-device คุณภาพดีขึ้น\n\n  \nBody\nกูเกิลเปิดตัว EmbeddingGemma 2 โมเดลขนาดเล็กสำหรับรันในอุปกรณ์แบบ on-device โดยต่อยอดมาจาก EmbeddingGemma ที่เปิดตัวในเดือนกันยายน 2025\nEmbeddingGemma 2 มีฐานมาจาก Gemma 4 มีขนาดพารามิเตอร์ 740M (ใหญ่ขึ้นจากเวอร์ชัน 1 ที่ขนาด 308M) แต่สามารถปิดบางโหมดให้เหลือแต่ text-only จนเหลือขนาด 270M แล้วเลือกเปิดเพิ่มเฉพาะส่วน vision (170M) กับ audio (300M) ได้ กูเกิลบอกว่าโมเดลนี้ถูกใช้งานจริงใน Pixel 11 โดยใช้แรมเพียง 191MB สำหรับโหมด text-only และ 567MB ถ้าเปิดครบทุกโหมด (multimodal)\nจุดเด่นของ EmbeddingGemma 2 คือคุณภาพของคำตอบที่ทำได้ดี ทั้งข้อความ เขียนโค้ด เสียง และรูปภาพ ได้คะแนนเบนช์มาร์คระดับสูงใกล้เคียงกับโมเดลที่ขนาดใหญ่กว่ามันมาก ถือว่าเป็นโมเดลที่ทำคะแนนในกลุ่มนำ เมื่อเทียบกับโมเดลขนาดต่ำกว่า 1B ด้วยกัน\nEmbeddingGemma 2 มีขนาด context window ที่ 8K เพิ่มขึ้นสี่เท่าจากเวอร์ชันแรก สามารถประมวลผลภาพ 29 ภาพ หรือวิดีโอ 58 เฟรมได้ในคราวเดียว นอกจากนี้การที่มันพัฒนาต่อมาจาก Gemma 4 ทำให้สามารถรัน 2 โมเดลควบคู่กันไปใน pipeline เดียวกัน คือ EmbeddingGemma 2 บนเครื่องปลายทาง และ Gemma 4 บนคลาวด์ เนื่องจากใช้  text tokenizer และ audio encoder ตัวเดียวกัน\nโมเดลเปิดให้ใช้งานแล้วบน  Hugging Face และ Kaggle\nที่มา - Google\n\n\nmk\nWed, 07/10/2026 - 15:00",
-    "pubDate": "Wed, 07 Oct 2026 08:00:07 +0000",
-    "source": "Blognone",
-    "category": "General",
-    "thumbnail": "https://www.blognone.com/sites/default/files/files-2026/2026-09/massive_text_embedding_benchmark.width-1000.format-webp.webp",
-    "readTime": "4 นาที"
-  },
-  {
-    "id": "https://techsauce.co/saucy-thoughts/incubation-effect-taking-breaks-solve-problems",
-    "title": "ทำไมการ 'พักสมอง' ถึงช่วยแก้ปัญหาได้ รู้จัก Incubation Effect ที่บอกว่าบางคำตอบอาจมาตอนที่ไม่ได้นึกถึง",
-    "link": "https://techsauce.co/saucy-thoughts/incubation-effect-taking-breaks-solve-problems",
-    "content": "คิดงานไม่ออก สมองตื้อ ลองลุกไปพักก่อน รู้จัก Incubation Effect ปรากฏการณ์ทางจิตวิทยาที่อธิบายว่าทำไมคำตอบมักโผล่มาตอนเราไม่ได้คิดถึงมัน",
-    "pubDate": "Wed, 07 Oct 2026 14:38:23 +0700",
-    "source": "Techsauce",
-    "category": "General",
-    "thumbnail": "https://storage.googleapis.com/techsauce-prod/ugc/uploads/2026/10/1791358539_%E0%B8%A1%E0%B8%B5%E0%B8%99_800_-_2026-10-07T142406.709.webp",
-    "readTime": "1 นาที"
   },
   {
     "id": "https://www.techtalkthai.com/?p=170893",
@@ -262,160 +504,6 @@
     "readTime": "4 นาที"
   },
   {
-    "id": "https://techsauce.co/ai/google-embeddinggemma-2-multimodal-embedding-model",
-    "title": "Google เปิดตัวโมเดลค้นหาใหม่ ‘EmbeddingGemma 2’ ค้นได้ทั้งข้อความ โค้ด ภาพ วิดีโอ เสียง ในโมเดลเดียว",
-    "link": "https://techsauce.co/ai/google-embeddinggemma-2-multimodal-embedding-model",
-    "content": "Google เปิดตัว EmbeddingGemma 2 โมเดล Open-weight ขนาดไม่ถึง 1 พันล้านพารามิเตอร์ ค้นหาได้ทั้งข้อความ โค้ด ภาพ วิดีโอ และเสียงในพื้นที่เวกเตอร์เดียว เลือกโหลดได้ 4 ขนาด เก่งโค้ดขึ้น 14% และลดพื้นที่เก็บได้ถึง 6 เท่า",
-    "pubDate": "Wed, 07 Oct 2026 12:53:36 +0700",
-    "source": "Techsauce",
-    "category": "General",
-    "thumbnail": "https://storage.googleapis.com/techsauce-prod/ugc/uploads/2026/10/1791351834_EmbeddingGemma_2_800.webp",
-    "readTime": "1 นาที"
-  },
-  {
-    "id": "https://techsauce.co/ai/google-nano-banana-2-1-image-search-ai",
-    "title": "Google เปิดตัว Nano Banana 2.1 AI วาดรูปสุดแม่น ดึงข้อมูล Google Image Search ก่อนวาด",
-    "link": "https://techsauce.co/ai/google-nano-banana-2-1-image-search-ai",
-    "content": "Google DeepMind เปิดตัว Nano Banana 2.1 AI วาดรูปและแก้ภาพรุ่นใหม่! ชูไฮไลต์ค้นข้อมูลจริงจาก Google Image Search ก่อนเรนเดอร์ แม่นยำขึ้น ภาพตรงปก",
-    "pubDate": "Wed, 07 Oct 2026 12:33:41 +0700",
-    "source": "Techsauce",
-    "category": "AI",
-    "thumbnail": "https://storage.googleapis.com/techsauce-prod/ugc/uploads/2026/10/1791350984_%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B8%8D%E0%B9%88%E0%B8%B2%E0%B8%AD%E0%B8%A2%E0%B9%88%E0%B8%B2%E0%B8%A2%E0%B8%B8%E0%B9%88%E0%B8%87_%E0%B8%9B%E0%B8%81%E0%B8%82%E0%B9%88%E0%B8%B2%E0%B8%A71200x800_%2898%29.webp",
-    "readTime": "1 นาที"
-  },
-  {
-    "id": "https://www.techtalkthai.com/?p=170887",
-    "title": "Anthropic ผนวก Project Glasswing เข้า Cyber Verification Program ขยายเป็น 3 ระดับ",
-    "link": "https://www.techtalkthai.com/anthropic-folds-project-glasswing-into-an-expanded-three-tier-cyber-verification-program/",
-    "content": "Anthropic ได้ขยายโปรแกรม Cyber Verification Program เป็น 3 ระดับการเข้าถึงสำหรับทีมงานด้านความมั่นคงปลอดภัยที่ผ่านการตรวจสอบ โดยในแต่ละระดับที่สูงขึ้นจะมีข้อจำกัดในการทำงานด้านความมั่นคงปลอดภัยทางไซเบอร์ที่ลดลง การปรับปรุงครั้งนี้มีเป้าหมายเพื่อแก้ไขข้อจำกัดที่ Anthropic ใส่ไว้ในผลิตภัณฑ์ของตน เนื่องจากบริษัทมองว่าความมั่นคงปลอดภัยทางไซเบอร์เป็นเทคโนโลยีแบบใช้งานได้สองทาง โมเดลที่เปิดให้ใช้งานทั่วไปจึงมีตัวจำแนกประเภทที่เข้มงวดซึ่งจะปิดกั้นงานด้านไซเบอร์ส่วนใหญ่ เมื่อ Claude Opus 5.5 เปิดตัวในวันที่ 22 กันยายน งานด้านความมั่นคงปลอดภัยส่วนใหญ่ที่ส่งไปยังโมเดลดังกล่าวจึงถูกเปลี่ยนเส้นทางไปใช้ Opus 4.8 รุ่นเก่าแทน พร้อมกันนี้ Anthropic ได้นำ Project Glasswing เข้ามารวมไว้ในโปรแกรมดังกล่าวด้วย โดยนับตั้งแต่เดือนเมษายนที่ผ่านมา Glasswing ได้เปิดโอกาสให้องค์กรที่ดูแลรักษาซอฟต์แวร์ที่สำคัญสามารถเข้าถึง Claude Mythos ได้ และ Anthropic ได้ขยายโครงการนี้ไปยังองค์กรอื่น ๆ อีก 150 แห่งในเดือนมิถุนายน ขณะนี้ Claude Opus 5.5, Claude Sonnet 5.5 และ Claude Mythos 5.1 …",
-    "pubDate": "Wed, 07 Oct 2026 05:29:50 +0000",
-    "source": "TechTalk Thai",
-    "category": "Security",
-    "thumbnail": "https://www.techtalkthai.com/wp-content/uploads/2026/10/Anthropic-security.png",
-    "readTime": "3 นาที"
-  },
-  {
-    "id": "https://techsauce.co/ai/claude-google-workspace-integration",
-    "title": "Anthropic เปิดตัว ‘Claude for Google Workspace’ ดึงพลัง AI สู่ Docs, Sheets และ Slides",
-    "link": "https://techsauce.co/ai/claude-google-workspace-integration",
-    "content": "Anthropic เปิดตัว Claude ใน Google Workspace แบบ Public Beta ช่วยเขียนสูตร Sheets, ล้างข้อมูลด้วย Python, แก้ Docs ฟอร์แมตไม่พัง และจัด Slides อัตโนมัติ",
-    "pubDate": "Wed, 07 Oct 2026 11:17:38 +0700",
-    "source": "Techsauce",
-    "category": "AI",
-    "thumbnail": "https://storage.googleapis.com/techsauce-prod/ugc/uploads/2026/10/1791346397_%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B8%8D%E0%B9%88%E0%B8%B2%E0%B8%AD%E0%B8%A2%E0%B9%88%E0%B8%B2%E0%B8%A2%E0%B8%B8%E0%B9%88%E0%B8%87_%E0%B8%9B%E0%B8%81%E0%B8%82%E0%B9%88%E0%B8%B2%E0%B8%A71200x800_%2897%29.webp",
-    "readTime": "1 นาที"
-  },
-  {
-    "id": "https://techsauce.co/ai/chinese-ai-agent-fleet-tencent-cloud-alibaba-amap",
-    "title": "AI อ้างตัวเป็น Claude แต่ตัวจริงคือ ‘โมเดลจีน’ ขบวนการ AI Agent จีน รันบน Tencent นักวิจัยพบแอบไปดูดข้อมูลจาก Alibaba",
-    "link": "https://techsauce.co/ai/chinese-ai-agent-fleet-tencent-cloud-alibaba-amap",
-    "content": "นักวิจัยพบ 'Agent Fleet' จีนบนคลาวด์ Tencent ดึงข้อมูลทางเข้าสถานที่ 216 แห่งจากแผนที่ Amap ของ Alibaba กว่า 2,000 ครั้ง เลี่ยงระบบกันบอท และบางตัวอ้างว่าเป็น Claude ทั้งที่ผลวิเคราะห์ชี้ว่าเป็นโมเดลจีน",
-    "pubDate": "Wed, 07 Oct 2026 10:38:59 +0700",
-    "source": "Techsauce",
-    "category": "AI",
-    "thumbnail": "https://storage.googleapis.com/techsauce-prod/ugc/uploads/2026/10/1791343253_AI_%E0%B8%AD%E0%B9%89%E0%B8%B2%E0%B8%87%E0%B8%95%E0%B8%B1%E0%B8%A7%E0%B9%80%E0%B8%9B%E0%B9%87%E0%B8%99_Claude_800.webp",
-    "readTime": "1 นาที"
-  },
-  {
-    "id": "https://techsauce.co/saucy-thoughts/servant-leader-why-selfless-bosses-win-teams",
-    "title": "รู้จัก Servant Leader ทำไม ‘หัวหน้าที่ไม่มองแค่ตัวเอง’ ถึงซื้อใจคนในทีมได้",
-    "link": "https://techsauce.co/saucy-thoughts/servant-leader-why-selfless-bosses-win-teams",
-    "content": "อำนาจเปลี่ยนคนเป็นหัวหน้าได้มากกว่าที่เราคิด มีนักจิตวิทยาอีกท่านหนึ่งที่ศึกษาเรื่องนี้ พบว่าพอคนเรามีอำนาจก็มักจะไปโฟกัสแต่เรื่องผลลัพธ์และพยายามคุมทุกอย่างจนเผลอมองคนในทีมเป็นแค่ ‘เครื่องมือ’ ปั่นยอดให้เข้าเป้า",
-    "pubDate": "Wed, 07 Oct 2026 10:24:39 +0700",
-    "source": "Techsauce",
-    "category": "General",
-    "thumbnail": "https://storage.googleapis.com/techsauce-prod/ugc/uploads/2026/10/1791343173_%E0%B8%97%E0%B8%B3%E0%B9%84%E0%B8%A1_%E2%80%98%E0%B8%AB%E0%B8%B1%E0%B8%A7%E0%B8%AB%E0%B8%99%E0%B9%89%E0%B8%B2%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B9%84%E0%B8%A1%E0%B9%88%E0%B8%A1%E0%B8%AD%E0%B8%87%E0%B9%81%E0%B8%84%E0%B9%88%E0%B8%95%E0%B8%B1%E0%B8%A7%E0%B9%80%E0%B8%AD%E0%B8%87%E2%80%99_%E0%B8%96%E0%B8%B6%E0%B8%87%E0%B8%8B%E0%B8%B7%E0%B9%89%E0%B8%AD%E0%B9%83%E0%B8%88%E0%B8%84%E0%B8%99%E0%B9%83%E0%B8%99%E0%B8%97%E0%B8%B5%E0%B8%A1%E0%B9%84%E0%B8%94%E0%B9%89.webp",
-    "readTime": "1 นาที"
-  },
-  {
-    "id": "https://www.techtalkthai.com/?p=170884",
-    "title": "Google ซื้อพลังงานนิวเคลียร์ 890 เมกะวัตต์จาก Constellation เดินหน้า AI Data Center เต็มรูปแบบ",
-    "link": "https://www.techtalkthai.com/google-constellation-nuclear-power-ai-datacenter/",
-    "content": "Google จับมือ Constellation Energy เซ็นสัญญาซื้อขายไฟฟ้าพลังงานนิวเคลียร์เป็นเวลา 20 ปี กำลังการผลิต 890 เมกะวัตต์ เพื่อป้อนให้กับระบบนิเวศ Data Center ด้าน AI ที่กำลังขยายตัวอย่างต่อเนื่อง พร้อมปลดล็อกงบลงทุนให้ Constellation ทุ่มงบกว่า 4.3 พันล้านดอลลาร์สหรัฐ ยกระดับและปรับปรุงเตาปฏิกรณ์นิวเคลียร์ 11 หน่วย ใน 6 โรงไฟฟ้าครอบคลุมรัฐอิลลินอยส์ นิวเจอร์ซีย์ และเพนซิลเวเนีย ข้อตกลงนี้จะนำพลังงานนิวเคลียร์เข้าสู่โครงข่ายไฟฟ้า PJM Interconnection ซึ่งส่งพลังงานให้ประชากรราว 67 ล้านคนใน 13 รัฐแถบมิดแอตแลนติกและมิดเวสต์ โดยการปรับปรุงโรงไฟฟ้าจะประกอบด้วยการติดตั้งกังหันไอน้ำรุ่นใหม่, เครื่องกำเนิดไอน้ำ และระบบควบคุมดิจิทัล ทั้งนี้ทั้งสองบริษัทยังได้ทำสัญญาเพิ่มเติมระยะเวลา 15 ปี เพื่อจัดซื้อพลังงานอีก 2,700 เมกะวัตต์จากโรงไฟฟ้าที่มีอยู่เดิมของ Constellation นอกจากด้านพลังงานแล้ว ข้อตกลงนี้ยังขยายผลไปสู่บริการคลาวด์ เมื่อ Constellation ได้ลงนามสัญญา 5 ปี เลือกใช้งานบริการ …",
-    "pubDate": "Wed, 07 Oct 2026 02:37:06 +0000",
-    "source": "TechTalk Thai",
-    "category": "AI",
-    "thumbnail": "https://www.techtalkthai.com/wp-content/uploads/2026/10/TTT-2026-10-07T093117.319-640x336.jpg",
-    "readTime": "3 นาที"
-  },
-  {
-    "id": "https://www.techtalkthai.com/?p=170795",
-    "title": "From Store to Core: Huawei x MFEC กับแนวทางสร้าง Smart Retail Infrastructure สำหรับธุรกิจค้าปลีกไทย [Guest Post]",
-    "link": "https://www.techtalkthai.com/huawei-mfec-smart-retail-infrastructure-c-guest-post/",
-    "content": "“Smart Retail ไม่ได้เริ่มจากสิ่งที่ลูกค้ามองเห็นหน้าร้าน แต่เริ่มจากการทำให้เทคโนโลยีตั้งแต่ Store ถึง Core ทำงานร่วมกัน เพื่อสร้างประสบการณ์ที่ดีขึ้นและรองรับการเติบโตของธุรกิจ” การสร้าง Smart Retail ไม่ได้เริ่มจากการเลือกว่าจะนำเทคโนโลยีอะไรเข้ามาใช้ แต่เริ่มจากการมองว่า ประสบการณ์ที่ต้องการมอบให้ลูกค้าต้องอาศัยระบบใดทำงานร่วมกัน ตั้งแต่อุปกรณ์หน้าร้าน เครือข่ายระหว่างสาขา ไปจนถึงระบบข้อมูลเบื้องหลังไม่ว่าจะเป็นการตรวจสอบสินค้าข้ามสาขา การใช้สิทธิสมาชิก หรือการสั่งซื้อออนไลน์แล้วรับสินค้าที่ร้าน ล้วนเกิดจากการทำงานร่วมกันของอุปกรณ์ Application, Network และ Data Infrastructure นี่คือแนวคิด “From Store to Core” เริ่มจากบริการและ Business Requirement ก่อนออกแบบย้อนกลับมายัง Technology Architecture ตั้งแต่หน้าร้าน การเชื่อมต่อระหว่างสาขา ไปจนถึงระบบข้อมูลส่วนกลาง ด้วยความเชี่ยวชาญในการให้คำปรึกษา ออกแบบ ติดตั้ง และดูแล Infrastructure MFEC จึงนำ Technology ของ Huawei เข้ามาประกอบเป็น Architecture ที่เหมาะกับบริบทและระบบเดิมของแต่ละองค์กร เพื่อให้ Smart …",
-    "pubDate": "Wed, 07 Oct 2026 02:19:20 +0000",
-    "source": "TechTalk Thai",
-    "category": "General",
-    "thumbnail": "https://www.techtalkthai.com/wp-content/uploads/2026/10/Cover-TTT-Cover-640x335.png",
-    "readTime": "3 นาที"
-  },
-  {
-    "id": "https://www.techtalkthai.com/?p=170775",
-    "title": "ingfah ผู้ให้บริการ AI Voicebot สัญชาติไทย ได้รับการรับรอง ISO/IEC 27001 และ ISO/IEC 20000-1 จาก BSI พร้อมเปิด Roadmap สู่ SOC 2 และ ISO 42001 [Guest Post]",
-    "link": "https://www.techtalkthai.com/ingfah-thai-ai-voicebot-receives-iso-iec-27001-20000-1-guest-post/",
-    "content": "เมื่อองค์กรเลือกนำ AI มาดูแลลูกค้า คำถามสำคัญคือ ระบบนั้นมีความน่าเชื่อถือได้แค่ไหน และผู้ให้บริการรายนั้นผ่านเกณฑ์ประเมินความปลอดภัยของฝ่ายไอทีและฝ่ายจัดซื้อหรือไม่ ล่าสุด ingfah (อิงฟ้า) แพลตฟอร์ม AI Voicebot สัญชาติไทยที่พัฒนาโดยทีมงานบริษัท 100X ประกาศว่าได้รับการรับรองมาตรฐานสากล 2 รายการจาก BSI (British Standards Institution) 🏆 ได้แก่ ✅ ISO/IEC 27001:2022 มาตรฐานระบบบริหารความมั่นคงปลอดภัยสารสนเทศ (Information Security Management System) ✅ ISO/IEC 20000-1:2018 มาตรฐานระบบบริหารบริการเทคโนโลยีสารสนเทศ (IT Service Management System) ขอบเขตการรับรองและความหมายของสองมาตรฐาน ขอบเขตการรับรองครอบคลุมการให้บริการของแพลตฟอร์ม AI Voicebot จาก ingfah นั้นครอบคลุมทั้งการพัฒนาซอฟต์แวร์และระบบโครงสร้างพื้นฐานที่เกี่ยวข้อง โดยมาตรฐานแรก (ISO/IEC 27001:2022) มุ่งเน้นความปลอดภัยของข้อมูล 🔐 ส่วนมาตรฐานที่สอง (ISO/IEC 20000-1:2018) ให้ความสำคัญกับการบริหารงานบริการอย่างเป็นระบบ …",
-    "pubDate": "Wed, 07 Oct 2026 02:16:07 +0000",
-    "source": "TechTalk Thai",
-    "category": "Security",
-    "thumbnail": "https://s.w.org/images/core/emoji/17.0.2/72x72/1f3c6.png",
-    "readTime": "3 นาที"
-  },
-  {
-    "id": "151842 at https://www.blognone.com",
-    "title": "Anthropic เปิดตัว Claude for Google Workspace",
-    "link": "https://www.blognone.com/node/151842",
-    "content": "Anthropic เปิดตัว Claude for Google Workspace\n\n  \nBody\nAnthropic เปิดตัว Claude for Google Workspace หรือ Claude เวอร์ชันควบคุมการทำงานของ Google Docs, Sheets, Slides ลักษณะเดียวกับ Claude for Microsoft 365 ที่เปิดตัวไปตอนต้นปี\nรูปแบบการใช้งาน Claude for Google Workspace มี 2 ทาง\nส่วนขยาย (extension) ของ Google Workspace เปิดขึ้นมาใน sidebar ของหน้าจอ Google Docs, Sheets, Slides อยากได้อะไรก็พิมพ์ prompt สั่งได้เลย\nตัวเชื่อมต่อ (connector) กับ Google Workspace เปลี่ยนข้างมาสั่งงานได้จากในหน้าเว็บ Claude แทน สั่งสร้างและแก้ไขไฟล์ของ Google Workspace ได้จากหน้าจอ Claude\nฟีเจอร์นี้เปิดใช้งานแล้วสำหรับลูกค้า Claude แพ็กเกจจ่ายเงินทุกราย\nที่มา - Anthropic\n\nmk\nWed, 07/10/2026 - 07:16",
-    "pubDate": "Wed, 07 Oct 2026 00:16:40 +0000",
-    "source": "Blognone",
-    "category": "AI",
-    "thumbnail": null,
-    "readTime": "2 นาที"
-  },
-  {
-    "id": "151841 at https://www.blognone.com",
-    "title": "[ลือ] MacBook Pro จอ OLED จะมีน้ำหนักเบาลงมา จากการออกแบบใหม่ เริ่มขายภายในปีนี้",
-    "link": "https://www.blognone.com/node/151841",
-    "content": "[ลือ] MacBook Pro จอ OLED จะมีน้ำหนักเบาลงมา จากการออกแบบใหม่ เริ่มขายภายในปีนี้\n\n  \nBody\nนอกจากเรื่องซีอีโอ John Ternus ในจดหมายข่าวของ Mark Gurman แห่ง Bloomberg ยังพูดถึงแผนการออก MacBook Pro รุ่นใหม่ที่ใช้จอ OLED ด้วย โดย Gurman บอกว่า MacBook Pro นี้ได้ยกเครื่องการออกแบบภายในใหม่ ลดจำนวนชิ้นส่วน ทำให้พกพาได้ง่ายขึ้นน้ำหนักเบาลงอย่างรู้สึกได้ถึงความต่าง แถมความบางเครื่องก็ลดลงด้วย\nMacBook Pro รุ่นจอ 14 นิ้ว ที่ขายอยู่ปัจจุบันมีน้ำหนัก 1.55 กิโลกรัม ส่วน MacBook Air และ MacBook Neo หนักประมาณ 1.23 กิโลกรัม\nGurman บอกว่า MacBook Pro จอ OLED นี้ คาดว่าจะเปิดตัวในเดือนตุลาคมหรือพฤศจิกายนนี้ เพราะแอปเปิลเริ่มทดสอบการใช้งานทั่วไปด้วย macOS 27.2 เบต้า แล้ว\nที่มา: Bloomberg\narjin\nWed, 07/10/2026 - 07:12",
-    "pubDate": "Wed, 07 Oct 2026 00:12:02 +0000",
-    "source": "Blognone",
-    "category": "General",
-    "thumbnail": null,
-    "readTime": "2 นาที"
-  },
-  {
-    "id": "https://www.techtalkthai.com/?p=170865",
-    "title": "Dell ขยาย AI Data Platform เพิ่ม Semantic Layer และ Knowledge Graph ป้อน Context ให้ AI Agent",
-    "link": "https://www.techtalkthai.com/dell-ai-data-platform-semantic-layer-knowledge-graph-ai-agents/",
-    "content": "Dell ขยายความสามารถของ Dell AI Data Platform ด้วย Unified Semantic Layer, Enterprise Knowledge Graph และ Knowledge Agents เพื่อให้ทุกแอปพลิเคชันและ AI Agent ในองค์กรมองข้อมูลชุดเดียวกันด้วยความหมายเดียวกัน พร้อมปรับปรุงความเร็วในการประมวลผลข้อมูลและความปลอดภัยในชั้น storage Dell ระบุว่าคอขวดของการนำ AI ไปใช้ในระดับองค์กรส่วนใหญ่ไม่ได้อยู่ที่ตัวโมเดล แต่อยู่ที่ข้อมูลที่กระจายอยู่ในไฟล์ ฐานข้อมูล บริการ cloud และระบบต่าง ๆ หลายแห่ง ซึ่งไม่เคยถูกติด label เชื่อมโยง หรือจัดระเบียบให้เครื่องอ่านเข้าใจได้ ผลที่ตามมาคือ Agent ต้องเสีย token ไปกับการประกอบคำตอบที่ควรมีอยู่แล้วขึ้นมาใหม่ ตามมาด้วยต้นทุนที่สูงขึ้นและผลลัพธ์ที่เชื่อถือได้น้อยลง Dell AI Data Platform ซึ่งเป็นรากฐานด้านข้อมูลของ Dell AI Factory จึงเพิ่มความสามารถใหม่ 3 อย่างเพื่อตอบคำถามพื้นฐาน 2 …",
-    "pubDate": "Tue, 06 Oct 2026 19:55:51 +0000",
-    "source": "TechTalk Thai",
-    "category": "Security",
-    "thumbnail": "https://www.techtalkthai.com/wp-content/uploads/2026/01/ai-artificial-intelligence-data-analytics-artificial-intelligence-processes-customer-behavior-patterns-predict-marketing-trends-optimize-business-decisions-1-640x426.jpg",
-    "readTime": "2 นาที"
-  },
-  {
-    "id": "https://www.techtalkthai.com/?p=170866",
-    "title": "Atlassian เตือนช่องโหว่ Critical บน Data Center เปิดให้อ่านไฟล์ได้โดยไม่ต้อง Authentication",
-    "link": "https://www.techtalkthai.com/atlassian-data-center-arbitrary-file-access-vulnerability-urgent-patch/",
-    "content": "Atlassian ออกคำเตือนให้ผู้ดูแลระบบอัปเดตผลิตภัณฑ์ตระกูล Data Center โดยด่วน หลังพบช่องโหว่ระดับ Critical ที่เปิดให้ผู้โจมตีอ่านไฟล์บนระบบได้โดยไม่ต้องผ่าน authentication ช่องโหว่ CVE-2026-21589 เป็นช่องโหว่ประเภท Arbitrary File Access ที่มีคะแนน CVSS 9.3 จัดอยู่ในระดับ Critical โดย Atlassian เป็นผู้ประเมินคะแนนตามมาตรฐาน CVSS 4.0 ด้วยทีมงานภายในเอง ผลกระทบครอบคลุมทุกเวอร์ชันของ Bitbucket Data Center, Confluence Data Center, Jira Software Data Center, Jira Service Management Data Center, Bamboo Data Center, Crowd Data Center รวมถึง Crucible และ Fisheye ตามประกาศด้านความปลอดภัย ที่บริษัทเผยแพร่ออกมา ผู้โจมตีที่ไม่ผ่านการ …",
-    "pubDate": "Tue, 06 Oct 2026 19:53:57 +0000",
-    "source": "TechTalk Thai",
-    "category": "Security",
-    "thumbnail": "https://www.techtalkthai.com/wp-content/uploads/2024/01/techtalkthai_2022_security_breach_shutterstock-640x389.jpg",
-    "readTime": "2 นาที"
-  },
-  {
-    "id": "https://www.techtalkthai.com/?p=170867",
-    "title": "OpenAI เริ่มฝัง Watermark ในข้อความที่สร้างโดย ChatGPT และ Codex ในสหภาพยุโรป ตาม EU AI Act",
-    "link": "https://www.techtalkthai.com/openai-watermark-chatgpt-codex-text-eu-ai-act/",
-    "content": "OpenAI เริ่มฝัง watermark แบบมองไม่เห็นลงในข้อความที่สร้างโดย ChatGPT และ Codex สำหรับผู้ใช้งานในสหภาพยุโรป เพื่อให้สอดคล้องกับข้อกำหนดด้านความโปร่งใสของ EU AI Act โดยจะทยอยเปิดใช้งานในอีกไม่กี่สัปดาห์ข้างหน้า กฎด้านความโปร่งใสของ EU AI Act กำหนดให้ผู้พัฒนา AI ต้องทำเครื่องหมายกำกับเนื้อหาที่สร้างด้วย AI ในรูปแบบที่ระบบอื่นสามารถตรวจสอบได้ โดยมีผลบังคับใช้ตั้งแต่วันที่ 2 สิงหาคม OpenAI ระบุว่าจะทยอยเปิด watermark ให้ผู้ใช้งาน ChatGPT และ Codex ที่เข้าเกณฑ์ทุกแพ็กเกจ แต่จำกัดเฉพาะในสหภาพยุโรปเท่านั้น ขณะที่นักพัฒนาที่ใช้ API ของ OpenAI ทั่วโลกสามารถเปิดใช้งานกับบางโมเดลได้แล้ว โดยค่าเริ่มต้นจะปิดไว้ ทั้งนี้ บริษัทระบุว่ายังไม่ได้กำหนดให้ text watermarking เป็นค่าเริ่มต้นในระดับโลกตั้งแต่ช่วงเปิดตัว Watermark ดังกล่าวไม่ใช่สัญลักษณ์ที่มองเห็นได้ แต่ทำงานด้วยการปรับการเลือกใช้คำของโมเดลอย่างละเอียด จนเกิดเป็นรูปแบบที่ผู้อ่านสังเกตไม่ได้แต่เครื่องมือตรวจจับอ่านออก และเนื่องจากร่องรอยนี้ฝังอยู่ในตัวคำ จึงติดไปกับข้อความเมื่อมีการคัดลอกและวาง OpenAI ยังเผยแพร่รายงานทางเทคนิคของวิธีการนี้ในชื่อ textGrain ซึ่งจัดทำร่วมกับนักวิจัยจาก …",
-    "pubDate": "Tue, 06 Oct 2026 19:52:32 +0000",
-    "source": "TechTalk Thai",
-    "category": "AI",
-    "thumbnail": "https://www.techtalkthai.com/wp-content/uploads/2023/04/openAI-banner-640x360.jpeg",
-    "readTime": "3 นาที"
-  },
-  {
     "id": "https://www.beartai.com/?p=1509530",
     "title": "ภาครัฐ-เอกชนเคาะแนวทางเก็บค่าธรรมเนียมนักท่องเที่ยวต่างชาติ 450 บาท ชงบอร์ดท่องเที่ยวและ ครม. เล็งสร้างรายได้กองทุน 8,000 ล้านบาทต่อปี",
     "link": "https://www.beartai.com/life/trends/1509530/",
@@ -423,7 +511,7 @@
     "pubDate": "Tue, 06 Oct 2026 13:57:25 +0000",
     "source": "Beartai",
     "category": "Security",
-    "thumbnail": "https://www.beartai.com/wp-content/uploads/2026/10/Travel-Cover-600x315.jpg",
+    "thumbnail": "https://www.beartai.com/wp-content/uploads/2026/10/TravelFee-600x250.jpeg",
     "readTime": "5 นาที"
   },
   {
@@ -449,28 +537,6 @@
     "readTime": "3 นาที"
   },
   {
-    "id": "https://techsauce.co/news/agoda-boi-bangkok-tech-talent-hub",
-    "title": "Agoda ใช้กรุงเทพฯ เป็นสำนักงานภูมิภาคใหญ่ที่สุดของบริษัท และเป็นฐานพัฒนาเทคโนโลยี จ้างงานในไทยกว่า 4,500 คน",
-    "link": "https://techsauce.co/news/agoda-boi-bangkok-tech-talent-hub",
-    "content": "บีโอไอเปิดเผยหลังเยี่ยมชมและหารือกับผู้บริหาร Agoda ที่ One Bangkok เมื่อวันที่ 6 ตุลาคม 2569 ว่าบริษัทใช้กรุงเทพฯ เป็นที่ตั้งสำนักงานภูมิภาคแห่งใหญ่ที่สุดของ Agoda ทั่วโลก และเป็นศูนย์พัฒนาเทคโนโลยีระดับนานาชาติ",
-    "pubDate": "Tue, 06 Oct 2026 16:31:33 +0700",
-    "source": "Techsauce",
-    "category": "General",
-    "thumbnail": "https://storage.googleapis.com/techsauce-prod/ugc/uploads/2026/10/1791278956_boi-agoda-2.webp",
-    "readTime": "1 นาที"
-  },
-  {
-    "id": "https://www.techtalkthai.com/?p=170851",
-    "title": "Tenable Webinar : พลิกโฉมระบบป้องกันแบบ Prompt AI สู่การทำงานแบบ Agentic ด้วย Tenable Hexa AI [28 ต.ค. 2569 — 14.00น.]",
-    "link": "https://www.techtalkthai.com/tenable-webinar-tenable-hexa-ai-102026/",
-    "content": "Tenable ขอเชิญ IT Manager, IT Security Consultant, SecOps, Network Operation, IT security operation, System Engineer, IT Admin และผู้สนใจทุกท่านเข้าร่วมงานสัมมนาออนไลน์ในหัวข้อ “พลิกโฉมระบบป้องกันแบบ Prompt AI สู่การทำงานแบบ Agentic ด้วย Tenable Hexa AI”  จะมีประโยชน์อะไรหาก AI ในระบบ Security ของคุณได้แค่ตอบและแนะนำ จะดีกว่าไหมหากระบบป้องกันจะทำงานได้เองอัตโนมัติตลอด 24 ชั่วโมง ลด MTTR จากหลายเดือนเหลือแค่ไม่กี่นาที นี่คือสิ่งที่เกิดขึ้นเมื่อ Exposure Management ทำงานด้วยตัวเองได้ มารู้จักกับ Tenable Hexa AI เครื่องยนต์ Agentic AI ใน Tenable One โดยงานจะจัดขึ้นใน วันพุธที่ 28 …",
-    "pubDate": "Tue, 06 Oct 2026 09:21:11 +0000",
-    "source": "TechTalk Thai",
-    "category": "Security",
-    "thumbnail": "https://www.techtalkthai.com/wp-content/uploads/2026/10/Tenable-102026-FB-Banner.jpg",
-    "readTime": "2 นาที"
-  },
-  {
     "id": "https://it24hrs.com/?p=170365",
     "title": "Instagram พัฒนา Read-Only Mode โหมดสำหรับแอบส่องคนอื่น ป้องกันเผลอกดถูกใจ",
     "link": "https://it24hrs.com/2026/instagram-read-only-mode/",
@@ -480,39 +546,6 @@
     "category": "General",
     "thumbnail": null,
     "readTime": "1 นาที"
-  },
-  {
-    "id": "https://www.techtalkthai.com/?p=170848",
-    "title": "กลับมาอีกครั้ง! กับงาน HKTDC Entrepreneur Day (Eday) 2026 | 19 – 20 พฤศจิกายน 2569 ณ Hong Kong Convention and Exhibition Centre",
-    "link": "https://www.techtalkthai.com/hktdc-entrepreneur-day-eday-2026-guestpost/",
-    "content": "เปิดประตูสู่โอกาสใหม่สำหรับ Startup และผู้ประกอบการ SMEs ที่ต้องการต่อยอดไอเดียธุรกิจ พบกับเทคโนโลยี นวัตกรรม และสินค้าแห่งอนาคต พร้อมโอกาสสร้างเครือข่ายทางธุรกิจในงาน Entrepreneur Day 2026  19–20 พฤศจิกายน 2569 Hong Kong Convention and Exhibition Centre (HKCEC) ภายใต้ธีม “Where Start-up Dreams Take Flight” ภายในงานพบกับกิจกรรมที่น่าสนใจมากมาย ไม่ว่าจะเป็น การจัดแสดงเทคโนโลยีและสินค้านวัตกรรม กิจกรรมจับคู่เจรจาธุรกิจ(Business Matching) เปิดโอกาสพบคู่ค้าและพันธมิตรใหม่ กิจกรรมสัมมนาและแลกเปลี่ยนมุมมองจากผู้เชี่ยวชาญในแวดวงธุรกิจและสตาร์ทอัพ โอกาสสร้างเครือข่าย พร้อมต่อยอดไอเดียสู่โอกาสทางธุรกิจในระดับนานาชาติ หากคุณเป็น Startup หรือ SME ที่กำลังมองหา แรงบันดาลใจ นวัตกรรม พันธมิตร และโอกาสทางธุรกิจใหม่ๆ งานนี้ไม่ควรพลาด! แล้วพบกันที่ HKTDC Entrepreneur Day 2026 ลงทะเบียนเข้าร่วมงานฟรี! : https://bit.ly/3L6vyEw รายละเอียดเพิ่มเติม : https://bit.ly/3IV3C62",
-    "pubDate": "Tue, 06 Oct 2026 08:30:49 +0000",
-    "source": "TechTalk Thai",
-    "category": "General",
-    "thumbnail": "https://www.techtalkthai.com/wp-content/uploads/2026/10/E-Day-1200x628-1-640x335.jpg",
-    "readTime": "3 นาที"
-  },
-  {
-    "id": "https://techsauce.co/pr-news/boi-ltr-visa-attracts-12000-foreigners",
-    "title": "บีโอไอ เผย 4 ปี LTR Visa ดึงต่างชาติคุณภาพสูงเข้าไทย ได้ 1.2 หมื่นคน สร้างมูลค่าเศรษฐกิจ  กว่า 4 หมื่นล้านบาท",
-    "link": "https://techsauce.co/pr-news/boi-ltr-visa-attracts-12000-foreigners",
-    "content": "บีโอไอ เผยผลสำเร็จวีซ่า LTR ครบ 4 ปี ดึงชาวต่างชาติคุณภาพสูงจากทั่วโลกเข้าไทยกว่า 12,000 คน สร้างมูลค่าเพิ่มทางเศรษฐกิจกว่า 43,000 ล้านบาท",
-    "pubDate": "Tue, 06 Oct 2026 15:19:35 +0700",
-    "source": "Techsauce",
-    "category": "General",
-    "thumbnail": "https://storage.googleapis.com/techsauce-prod/ugc/uploads/2026/10/1791274676_%E0%B8%A1%E0%B8%B5%E0%B8%99_800_-_2026-10-06T151519.842.webp",
-    "readTime": "1 นาที"
-  },
-  {
-    "id": "https://www.techtalkthai.com/?p=170845",
-    "title": "Namespace ระดมทุน 42 ล้านดอลลาร์ ดันคลาวด์ประมวลผลเพื่อนักพัฒนา",
-    "link": "https://www.techtalkthai.com/namespace-raises-42m-to-build-out-developer-focused-compute-cloud/",
-    "content": "Namespace Labs สตาร์ทอัพด้านโครงสร้างพื้นฐานสำหรับนักพัฒนาซึ่งก่อตั้งขึ้นในเมืองซูริค ประเทศสวิตเซอร์แลนด์ ประกาศการระดมทุนรอบ Series B มูลค่า 42 ล้านดอลลาร์ ที่นำโดย Scale Venture Partners เพื่อมอบโครงสร้างพื้นฐานด้านการประมวลผลประสิทธิภาพสูงให้แก่นักพัฒนาเพื่อเร่งความเร็วของงานวิศวกรรมซอฟต์แวร์ การระดมทุนรอบนี้ยังมีผู้เข้าร่วมลงทุนรายอื่น ได้แก่ NEA, 20VC, Essence, Burst Capital และ Susa Ventures โดยเกิดขึ้นเพียงเจ็ดเดือนหลังจากที่บริษัทเพิ่งปิดรอบ Series A ซึ่งนำโดย NEA ไป ส่งผลให้ยอดระดมทุนรวมของบริษัทอยู่ที่ 65 ล้านดอลลาร์ Namespace ก่อตั้งขึ้นในปี 2022 โดย Hugo Santos อดีตวิศวกรของ Google นำเสนอชุดคำสั่งประมวลผลเฉพาะทางสำหรับนักพัฒนาที่สามารถรันเอเจนต์ปัญญาประดิษฐ์ เครื่องมือสำหรับนักพัฒนา ระบบรวมโค้ดอัตโนมัติ การสร้างคอนเทนเนอร์ การทดสอบ และอื่น ๆ ได้ด้วยความเร็วสูง สิ่งนี้ช่วยให้วิศวกรซอฟต์แวร์สามารถดำเนินการผ่านวงจรชีวิตการพัฒนาซอฟต์แวร์ได้รวดเร็วยิ่งขึ้น เนื่องจากระบบประมวลผลเบื้องหลังสามารถรองรับความต้องการที่เพิ่มขึ้นได้ ในขณะที่เอเจนต์ AI เริ่มแพร่หลายมากขึ้นในการเขียนโค้ด …",
-    "pubDate": "Tue, 06 Oct 2026 07:39:25 +0000",
-    "source": "TechTalk Thai",
-    "category": "AI",
-    "thumbnail": "https://www.techtalkthai.com/wp-content/uploads/2026/10/Namespace-SeriesB.png",
-    "readTime": "3 นาที"
   },
   {
     "id": "https://it24hrs.com/?p=170304",
@@ -537,17 +570,6 @@
     "readTime": "1 นาที"
   },
   {
-    "id": "https://it24hrs.com/?p=170251",
-    "title": "กทม. เปิดเกณฑ์เยียวยาน้ำท่วม ยื่นออนไลน์ได้ ไม่ต้องใช้ใบแจ้งความ",
-    "link": "https://it24hrs.com/2026/bangkok-flood-relief-online-application-2026/",
-    "content": "กรุงเทพมหานครเปิดรายละเอียดการช่วยเหลือผู้ประสบภัยน้ำท่ […]\nThe post กทม. เปิดเกณฑ์เยียวยาน้ำท่วม ยื่นออนไลน์ได้ ไม่ต้องใช้ใบแจ้งความ appeared first on iT24Hrs by ปานระพี.",
-    "pubDate": "Thu, 01 Oct 2026 09:26:02 +0000",
-    "source": "IT24Hrs",
-    "category": "General",
-    "thumbnail": null,
-    "readTime": "1 นาที"
-  },
-  {
     "id": "https://www.beartai.com/?p=1508373",
     "title": "จากไวรัล รถญี่ปุ่นลุยน้ำได้มากกว่ารถยุโรปจริงไหม ? ",
     "link": "https://www.beartai.com/tech/features/1508373/",
@@ -557,17 +579,6 @@
     "category": "General",
     "thumbnail": "https://www.beartai.com/wp-content/uploads/2026/09/EU-JP-cars-cover-web-600x222.jpg",
     "readTime": "4 นาที"
-  },
-  {
-    "id": "https://it24hrs.com/?p=170196",
-    "title": "สดช. เดินหน้าขับเคลื่อนจริยธรรม AI ประเทศไทย เตรียมพร้อมรับเทคโนโลยีแห่งอนาคต",
-    "link": "https://it24hrs.com/2026/thailand-ai-ethics-guideline-free-2026/",
-    "content": "สำนักงานคณะกรรมการดิจิทัลเพื่อเศรษฐกิจและสังคมแห่งชาติ […]\nThe post สดช. เดินหน้าขับเคลื่อนจริยธรรม AI ประเทศไทย เตรียมพร้อมรับเทคโนโลยีแห่งอนาคต appeared first on iT24Hrs by ปานระพี.",
-    "pubDate": "Tue, 29 Sep 2026 07:31:17 +0000",
-    "source": "IT24Hrs",
-    "category": "AI",
-    "thumbnail": null,
-    "readTime": "1 นาที"
   },
   {
     "id": "https://www.beartai.com/?p=1507380",
@@ -733,16 +744,5 @@
     "category": "General",
     "thumbnail": "https://www.beartai.com/wp-content/uploads/2026/07/Cover-web_denza-z9gt-600x250.jpg",
     "readTime": "4 นาที"
-  },
-  {
-    "id": "https://www.beartai.com/?p=1501228",
-    "title": "AI ราคาที่ต้องจ่าย ถ้าอยากไปให้ไกลกว่า ?",
-    "link": "https://www.beartai.com/tech/features/1501228/",
-    "content": "ใคร ๆ ก็พูดว่า AI กำลังเข้ามาเปลี่ยนโลก ทั้งแย่งงาน และทั้งมุมที่จะมาช่วยมนุษย์ก้าวข้ามองค์ความรู้ที่เราไม่เคยไปถึงมาก่อน ซึ่งถ้าหันไปมองรอบตัว คนไทยปรับตัวกันเก่งมาก ตั้งแต่ภาค SMEs ที่ใช้ AI คิดคอนเซปต์ร้าน, ครูที่ใช้ช่วยออกแบบบทเรียน, ไปจนถึงภาคเกษตรกรรม แต่มีความจริงข้อหนึ่งที่เราต้องยอมรับตรง ๆ “อยากได้ AI ที่ฉลาดกว่า คิดได้เร็วกว่า ก็ต้องยอมจ่าย ?” จริงอยู่ที่ AI เวอร์ชันฟรีช่วยเราได้ แต่ถ้าอยากได้งานที่คม ลึก และเร็วเพื่อสร้างโอกาสและความสามารถในการแข่งขัน การเข้าถึง AI ที่เก่งกว่า เร็วกว่า และทำได้เยอะกว่า เป็นทางเลือกที่เลี่ยงได้ยาก ลองคิดดูว่าในขณะที่คนอื่นวิ่งและมีแรงเหลือ แต่เราเดิน เพราะข้อจำกัดด้านต้นทุน นั่นอาจทำให้เราถึงเส้นชัยช้า หรืออาจไม่ถึงเลย ริชาร์ด บอลด์วิน (Richard E. Baldwin) ศาสตราจารย์และนักเศรษฐศาสตร์ระดับโลกบอกไว้ว่า “AI จะไม่มาแทนที่มนุษย์ แต่คนที่ใช้ AI จะมาแทนที่คนที่ไม่ได้ใช้” แม้จะเป็นการสะท้อนช่องว่างระหว่างคนใช้และไม่ใช้ AI แต่ก็พอให้เห็นภาพของความต่างของความพร้อมของเครื่องมือและโอกาสของคน […]\nThe post AI ราคาที่ต้องจ่าย ถ้าอยากไปให้ไกลกว่า ? appeared first on BT beartai.",
-    "pubDate": "Wed, 27 May 2026 13:01:22 +0000",
-    "source": "Beartai",
-    "category": "AI",
-    "thumbnail": "https://www.beartai.com/wp-content/uploads/2026/05/AI-Pro-600x250.jpg",
-    "readTime": "3 นาที"
   }
 ]
