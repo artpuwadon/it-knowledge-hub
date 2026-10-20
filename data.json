@@ -1,23 +1,232 @@
 [
   {
+    "id": "local-cybersecurity-101.md",
+    "title": "แนวทางปฏิบัติการตั้งรหัสผ่านให้ปลอดภัยสำหรับบุคลากร",
+    "link": "https://github.com/",
+    "content": "1. รหัสผ่านต้องมีความยาวอย่างน้อย 8 ตัวอักษร\n2. ประกอบด้วยอักษรตัวพิมพ์ใหญ่ ตัวพิมพ์เล็ก ตัวเลข และสัญลักษณ์พิเศษ\n3. ห้ามใช้ข้อมูลส่วนตัว เช่น วันเกิด หรือเบอร์โทรศัพท์\n4. เปลี่ยนรหัสผ่านใหม่ทุกๆ 3-6 เดือนเพื่อความปลอดภัย",
+    "pubDate": "2026-10-20T01:38:00.614Z",
+    "source": "คู่มือภายในองค์กร",
+    "category": "Internal",
+    "thumbnail": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=500&auto=format&fit=crop&q=60"
+  },
+  {
     "id": "local-law-hub.md",
     "title": "คลังกฎหมายและระเบียบที่เกี่ยวข้องกับการปฏิบัติราชการ",
     "link": "https://github.com/",
     "content": "### ⚖️ ศูนย์รวมลิงก์กฎหมายฉบับเต็มและแนวทางปฏิบัติงาน\n\nเพื่อความสะดวกและถูกต้องในการอ้างอิงข้อกฎหมายของเจ้าหน้าที่ในการปฏิบัติราชการ ศูนย์ไอทีได้รวบรวมลิงก์ตรงไปยังระบบสืบค้นกฎหมายของสำนักงานคณะกรรมการกฤษฎีกา และไฟล์ PDF ฉบับราชกิจจานุเบกษาไว้ในจุดเดียว ดังนี้ครับ:\n\n---\n\n### 🛒 1. หมวดการบริหารงานพัสดุและการจัดซื้อจัดจ้าง\n*   **พ.ร.บ. การจัดซื้อจัดจ้างและการบริหารพัสดุภาครัฐ พ.ศ. 2560**\n    *   🔗 [อ่านกฎหมายฉบับเต็ม (เว็บกฤษฎีกา)](https://www.ocs.go.th/)\n    *   📄 [ดาวน์โหลดไฟล์ PDF ฉบับประกาศราชกิจจานุเบกษา](https://www.gprocurement.go.th/wps/portal/egp/Regulation/!ut/p/z1/04_Sj9CPykssy0xPLMnMz0vMAfIjo8zifQ3djQydnQ18_T3dzA0czU0NfANMLQ1MPIz1w8EKDHAARwP9KGL041EQhd_4cP0oNCvCjM2AJgT4OvsHehgYOBtCFeAxoyA3NMIg01ERAHhSDzY!/dz/d5/L0lDUmlTUSEhL3dHa0FKRnNBLzROV3FpQSEhL3Ro/)\n*   **ระเบียบกระทรวงการคลังว่าด้วยการจัดซื้อจัดจ้างและการบริหารพัสดุภาครัฐ พ.ศ. 2560**\n    *   🔗 [อ่านระเบียบฉบับเต็มและกฎกระทรวงที่เกี่ยวข้อง](https://www.gprocurement.go.th/wps/portal/egp/Regulation/Ministry_of_Finance_Regularity/)\n\n---\n\n### 🏢 2. หมวดการปฏิบัติราชการและวิธีพิจารณาทางปกครอง\n*   **พ.ร.บ. วิธีปฏิบัติราชการทางปกครอง พ.ศ. 2539 (และฉบับแก้ไขเพิ่มเติม)**\n    *   🔗 [อ่านกฎหมายฉบับเต็ม (เว็บกฤษฎีกา)](https://www.ocs.go.th/)\n*   **พ.ร.บ. ความรับผิดทางละเมิดของเจ้าหน้าที่ พ.ศ. 2539**\n    *   🔗 [อ่านกฎหมายฉบับเต็ม (เว็บกฤษฎีกา)](https://www.ocs.go.th/)\n*   **พ.ร.บ. การปฏิบัติราชการทางอิเล็กทรอนิกส์ พ.ศ. 2565** *(สำคัญมากสำหรับงานไอทีและบริการประชาชน)*\n    *   🔗 [อ่านกฎหมายฉบับเต็ม (เว็บกฤษฎีกา)](https://www.ocs.go.th/)\n\n---\n\n### 🛡️ 3. หมวดคุ้มครองข้อมูลและความมั่นคงปลอดภัยไซเบอร์\n*   **พ.ร.บ. คุ้มครองข้อมูลส่วนบุคคล พ.ศ. 2562 (PDPA)**\n    *   🔗 [สืบค้นกฎหมายและแนวทางปฏิบัติจาก สคส.](https://www.pdpc.or.th)\n*   **พ.ร.บ. การรักษาความมั่นคงปลอดภัยไซเบอร์ พ.ศ. 2562**\n    *   🔗 [สืบค้นกฎหมายและประกาศจาก สกมช. (NCSA)](https://www.ncsa.or.th/standards/laws)\n*   **พ.ร.บ. ว่าด้วยการกระทำความผิดเกี่ยวกับคอมพิวเตอร์ (ฉบับที่ 2) พ.ศ. 2560**\n    *   🔗 [อ่านกฎหมายฉบับเต็ม (เว็บกฤษฎีกา)](https://www.ocs.go.th/)\n\n---\n\n### 💡 แนะนำการใช้งานสำหรับเจ้าหน้าที่\n> หากต้องการสืบค้นกฎหมายอื่น ๆ เพิ่มเติม นอกเหนือจากรายการข้างต้น สามารถเข้าใช้งานระบบกฎหมายดิจิทัลโดยตรงได้ที่ **[ระบบสืบค้นกฎหมาย สำนักงานคณะกรรมการกฤษฎีกา](https://www.ocs.go.th/)** เพื่อข้อมูลที่อัปเดตและเป็นปัจจุบันที่สุด",
-    "pubDate": "2026-10-19T00:54:54.631Z",
+    "pubDate": "2026-10-20T01:38:00.614Z",
     "source": "ศูนย์รวมกฎหมายภาครัฐ",
     "category": "Law",
     "thumbnail": "https://images.unsplash.com/photo-1589829545856-d10d557cf95f?w=500"
   },
   {
-    "id": "local-cybersecurity-101.md",
-    "title": "แนวทางปฏิบัติการตั้งรหัสผ่านให้ปลอดภัยสำหรับบุคลากร",
-    "link": "https://github.com/",
-    "content": "1. รหัสผ่านต้องมีความยาวอย่างน้อย 8 ตัวอักษร\n2. ประกอบด้วยอักษรตัวพิมพ์ใหญ่ ตัวพิมพ์เล็ก ตัวเลข และสัญลักษณ์พิเศษ\n3. ห้ามใช้ข้อมูลส่วนตัว เช่น วันเกิด หรือเบอร์โทรศัพท์\n4. เปลี่ยนรหัสผ่านใหม่ทุกๆ 3-6 เดือนเพื่อความปลอดภัย",
-    "pubDate": "2026-10-19T00:54:54.630Z",
-    "source": "คู่มือภายในองค์กร",
-    "category": "Internal",
-    "thumbnail": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=500&auto=format&fit=crop&q=60"
+    "id": "https://www.techtalkthai.com/?p=171347",
+    "title": "Anthropic เผยพนักงานระดับ Junior ลดลง ใช้เวลาประชุมมากขึ้นหลังปรับการทำงานรอบ AI",
+    "link": "https://www.techtalkthai.com/anthropic-report-fewer-junior-hires-more-meetings-ai-workflow/",
+    "content": "Anthropic เผยรายงานการเปลี่ยนแปลงของพนักงานภายในองค์กร พบสัดส่วนการจ้างพนักงานสายเทคนิคระดับ Junior ลดลงจาก 27% เหลือ 9% นับตั้งแต่ต้นปี 2025 ขณะที่เวลาประชุมต่อพนักงานเพิ่มขึ้น 20% เมื่อเทียบกับปีก่อน Anthropic ออกรายงานด้านการจ้างงานภายในบริษัท โดยมองว่าแนวโน้มที่เกิดขึ้นภายในองค์กรอาจเป็นสัญญาณบ่งชี้ว่า AI จะเปลี่ยนรูปแบบการจัดองค์กร การจ้างงาน และความต้องการแรงงานในระบบเศรษฐกิจอย่างไร เนื่องจากบริษัทได้ปรับ workflow ให้ทำงานร่วมกับ AI อย่างเต็มรูปแบบแล้ว แม้องค์กรอื่นอาจไม่ได้นำ AI มาใช้ในระดับหรือรูปแบบเดียวกัน แต่รายงานฉบับนี้ก็ช่วยให้เห็นภาพการทำงานภายใน Anthropic ในปัจจุบัน ตัวเลขสำคัญที่รายงานระบุ นับตั้งแต่ช่วงต้นปี 2025 มีดังนี้ สัดส่วนพนักงานระดับ Junior ในฝ่ายเทคนิคลดลงจาก 21% เหลือ 14% สัดส่วนพนักงานใหม่สายเทคนิคที่เป็นระดับ Junior ลดลงจาก 27% เหลือ 9% สัดส่วนทีมเทคนิคต่อพนักงานทั้งหมดลดลงจาก 61% เหลือ 56% จากการขยายตัวของฝ่ายธุรกิจตามขนาดบริษัท และเครื่องมือ coding ที่ช่วยให้พนักงานสายที่ไม่ใช่เทคนิคสร้างซอฟต์แวร์ได้เอง …",
+    "pubDate": "Mon, 19 Oct 2026 22:10:49 +0000",
+    "source": "TechTalk Thai",
+    "category": "AI",
+    "thumbnail": "https://www.techtalkthai.com/wp-content/uploads/2021/08/52_Generic_TabS7_Business-meeting-600x401.jpg",
+    "readTime": "3 นาที"
+  },
+  {
+    "id": "https://www.techtalkthai.com/?p=171346",
+    "title": "OpenCode Console ถูกเจาะระบบ อาจทำให้ API Key ของ OpenAI, Anthropic และ Google รั่วไหล",
+    "link": "https://www.techtalkthai.com/opencode-console-breach-may-expose-openai-anthropic-google-api-keys/",
+    "content": "OpenCode เปิดเผยว่าผู้บุกรุกสามารถเข้าถึงระบบ legacy ของบริษัทได้ในคืนวันที่ 16 ตุลาคม ส่งผลให้ API Key ของผู้ให้บริการ AI ภายนอกที่ผู้ใช้งานบันทึกไว้ใน OpenCode Console อาจรั่วไหล พร้อมแนะนำให้ผู้ใช้งานที่ได้รับผลกระทบ revoke key ทันที Console เป็นบริการแบบ hosted ที่เป็นทางเลือกเสริมของ OpenCode โดย workspace สามารถบันทึก key ของ OpenAI, Anthropic หรือ Google ไว้ จากนั้น Console จะใช้ key ดังกล่าวเรียกใช้งานโมเดลแทน ทำให้สมาชิกในทีมใช้โมเดลได้โดยไม่ต้องเห็น key จริง ผู้ใช้งานที่ได้รับผลกระทบคิดเป็น 1.4% ของผู้ใช้งาน Console ทั้งหมด ซึ่งทุกรายเชื่อมต่อกับผู้ให้บริการภายนอกไว้ OpenCode ได้ส่งอีเมลหัวข้อ “Action Required: Potential provider key …",
+    "pubDate": "Mon, 19 Oct 2026 22:08:44 +0000",
+    "source": "TechTalk Thai",
+    "category": "AI",
+    "thumbnail": "https://www.techtalkthai.com/wp-content/uploads/2020/01/ttt_2020_hacked_1-supimol_kumying-600x313.jpg",
+    "readTime": "2 นาที"
+  },
+  {
+    "id": "151960 at https://www.blognone.com",
+    "title": "เอเจนต์ Gemini 4 Argon เล่น Minecraft จบใน 27 ชั่วโมง ไม่ต้องใช้มนุษย์ช่วย",
+    "link": "https://www.blognone.com/node/151960",
+    "content": "เอเจนต์ Gemini 4 Argon เล่น Minecraft จบใน 27 ชั่วโมง ไม่ต้องใช้มนุษย์ช่วย\n\n  \nBody\nGoogle DeepMind โชว์งานวิจัยการใช้เอเจนต์ 4 ตัวที่รันโมเดล Gemini 4 Argon ท้าทายตัวเองด้วยการมอบโจทย์ข้อเดียวคือให้เล่น Minecraft จนเอาชนะบอสตัวสุดท้าย Ender Dragon ได้\nสิ่งที่ DeepMind ทำคือใช้เอเจนต์ Gemini 4 Argon รุ่นมาตรฐาน ตัวเดียวกับที่ใช้เขียนโค้ดทั่วไป ไม่ต้องใช้เอเจนต์รุ่นที่คัสตอมมาเพื่อ Minecraft (แต่เคยอ่านข้อมูล Minecraft มาบ้างในตอนเทรน) อีกทั้งไม่ได้กำหนดบทบาทให้เอเจนต์แต่ละตัวเลย ปล่อยให้สื่อสารกันเองผ่านแชท (แต่มี shared memory ร่วมกัน) ให้วางแผนกันเอง เขียนโค้ดกันเอง ดีบั๊กกันเอง\nเงื่อนไขอีกข้อคือ เอเจนต์เหล่านี้ไม่สามารถควบคุมเกม Minecraft ได้โดยตรง แต่ใช้วิธีสั่งการ Minecraft ผ่านการเขียนโค้ดแทน (เช่น เดินไปตำแหน่งที่กำหนด แล้วขุดแร่เหล็กทุกอันในรัศมี 16 บล็อค) ผ่านไลบรารีชื่อ Mineflayer ที่เปิดให้โปรแกรมภายนอกอ่านค่าสถานะในเกมได้\nผลคือเอเจนต์ 4 ตัวนี้ลองผิดลองถูกกันอยู่นาน 27 ชั่วโมง เขียนโปรแกรมใช้กันเอง 2,783 โปรแกรม และเอาชนะ Ender Dragon ได้สำเร็จ (สู้ไปคืนชีพไป 69 รอบ)\nทีมวิจัยของ DeepMind บอกว่าโจทย์การเล่น Minecraft ถือเป็นโจทย์ที่ท้าทายมากกว่าการเล่นโกะหรือ StarCraft ในอดีต เพราะโลกใน Minecraft สร้างมาแบบสุ่ม ดังนั้นเอเจนต์ต้องวางแผนร่วมกันเป็นขั้นเป็นตอน จำนวนหลายพันขั้นตอน เรียนรู้จากความผิดพลาดตลอดเวลา\nสิ่งที่น่าสนใจคือเมื่อสู้แพ้ Ender Dragon แล้วเอเจนต์จดบทเรียนเอาไว้เพื่อใช้ในการต่อสู้รอบหน้า จนกระทั่งมีเอเจนต์ตัวหนึ่งสังเกตเห็นว่ามีคริสตัลใช้รักษาพลังของ Ender Dragon ได้ จึงขุดดินมาก่อเพื่อไต่ไปบนหอคอยที่มีคริสตัล แล้วไล่ทุบคริสตัลไปทีละอัน\nFour Gemini 4 Argon agents beat Minecraft from scratch in 27 hours.\n\nOperating in a sandbox using only code and text, they wrote 2,783 programs, divided up jobs over chat, shared notes, and debugged errors together - all with no human help ↓\n— Google DeepMind (@GoogleDeepMind) October 16, 2026\n\n\n          \nmk\nMon, 19/10/2026 - 22:00",
+    "pubDate": "Mon, 19 Oct 2026 15:00:48 +0000",
+    "source": "Blognone",
+    "category": "AI",
+    "thumbnail": null,
+    "readTime": "5 นาที"
+  },
+  {
+    "id": "151959 at https://www.blognone.com",
+    "title": "Anthropic บริจาคหุ้น 5% ให้กองทุนเพื่อประโยชน์สาธารณะ ผู้ก่อตั้ง-พนักงาน จะร่วมด้วย",
+    "link": "https://www.blognone.com/node/151959",
+    "content": "Anthropic บริจาคหุ้น 5% ให้กองทุนเพื่อประโยชน์สาธารณะ ผู้ก่อตั้ง-พนักงาน จะร่วมด้วย\n\n  \nBody\nAnthropic ออกมาสัญญาว่าจะแบ่งหุ้น 5% ของบริษัทให้กองทุนเพื่อสาธารณประโยชน์ Anthropic Public Benefit Fund ที่เพิ่งตั้งใหม่ และจะเพิ่มให้อีกทีละ 2% ทุกครั้งที่มูลค่าของบริษัทเพิ่มขึ้นเกิน 50% ตามมูลค่าพื้นฐาน\nตัวบริษัท Anthropic จดทะเบียนเป็นบริษัทเพื่อสาธาณประโยชน์หรือ public benefit corporation ความแตกต่างคือยังต้องแสวงหากำไรอยู่ ในอดีตที่ผ่านมา Anthropic ใช้วิธีแบ่งเงินบางส่วนมาเพื่อสาธารณะ เช่น กันเงินให้ 200 ล้านดอลลาร์วิจัยผลกระทบของ AI ต่อตลาดแรงงาน แต่ยิ่ง AI พัฒนาเร็วขึ้น ก็อาจจำเป็นต้องใช้วิธีการที่ต่างไป ซึ่งก็คือ public benefit fund\nAnthropic บอกว่าด้วยโครงสร้างหุ้นแบบนี้ ยิ่งตัวบริษัทเติบโตขึ้นเท่าไร หุ้นของบริษัทจะถูกโอนเข้ากองทุนเพื่อสาธารณประโยชน์มากขึ้นเท่านั้น เป็นการเติบโตแบบเดียวกับบริษัทเทคโนโลยีที่ยิ่งโตเยอะ ผู้บริหารยิ่งได้ผลตอบแทนสูง แต่ Anthropic เลือกให้เงินเพื่อประโยชน์สาธารณะแทน\nAnthropic ยังเปิดเผยว่า กลุ่มผู้ก่อตั้งบริษัทสัญญาว่าจะบริจาคหุ้น 80% ของตัวเอง และพนักงานประมาณครึ่งบริษัทก็เสนอตัวเข้าโครงการบริจาคหุ้นด้วย ถ้านับรวมทั้งหมดแล้วจะมีหุ้นประมาณ 80% จากทุกกลุ่ม (บริษัท ผู้ก่อตั้ง พนักงาน) บริจาคเพื่อเป็นประโยชน์ต่อสาธารณะ ส่วนรายละเอียดอื่นๆ จะเปิดเผยตามมาในอนาคต\nมูลค่าอย่างเป็นทางการของ Anthropic นับจาก การระดมทุนรอบล่าสุดในเดือนพฤษภาคม อยู่ที่ 9.65 แสนล้านดอลลาร์ แปลว่าหุ้น 5% จะมีมูลค่า 4.82 หมื่นล้านดอลลาร์ (1.6 ล้านล้านบาท) ถ้านำหุ้นทั้ง 20% มาคิดด้วยจะมีมูลค่า 1.93 แสนล้านดอลลาร์ (6.5 ล้านล้านบาท)   ส่วนมูลค่าตอน IPO เข้าตลาดหุ้น คาดกันว่าจะอยู่ราว 1.5 ล้านล้านดอลลาร์\nที่มา - Anthropic\nmk\nMon, 19/10/2026 - 21:43",
+    "pubDate": "Mon, 19 Oct 2026 14:43:20 +0000",
+    "source": "Blognone",
+    "category": "AI",
+    "thumbnail": null,
+    "readTime": "4 นาที"
+  },
+  {
+    "id": "https://techsauce.co/news/depa-8-thai-digital-startups-slush-2026",
+    "title": "ดีอี-ดีป้า เตรียมนำ 8 ดิจิทัลสตาร์ทอัพไทยแสดงศักยภาพในงาน Slush 2026",
+    "link": "https://techsauce.co/news/depa-8-thai-digital-startups-slush-2026",
+    "content": "กระทรวงดีอี โดยดีป้า เตรียมนำ 8 ดิจิทัลสตาร์ทอัพไทยตัวแทนประเทศไปแสดงศักยภาพในงาน Slush 2026 ระหว่างวันที่ 18–19 พฤศจิกายนนี้ ที่กรุงเฮลซิงกิ ฟินแลนด์",
+    "pubDate": "Mon, 19 Oct 2026 21:25:49 +0700",
+    "source": "Techsauce",
+    "category": "General",
+    "thumbnail": "https://storage.googleapis.com/techsauce-prod/ugc/uploads/2026/10/1792419945_depa-slush-2026-800.webp",
+    "readTime": "1 นาที"
+  },
+  {
+    "id": "https://www.techtalkthai.com/?p=171334",
+    "title": "เลอโนโวชูกลยุทธ์ Hybrid AI ยกระดับธุรกิจไทยด้วยเทคโนโลยีครบวงจร ต่อยอดวิสัยทัศน์สู่การใช้งานจริง [Press Release]",
+    "link": "https://www.techtalkthai.com/lenovo-hybrid-ai-strategy-pr-2026/",
+    "content": "ขณะที่ภาคธุรกิจทั่วไทยมุ่งเปลี่ยนผ่านจากการทดลองใช้ AI สู่การนำไปใช้งานจริง เลอโนโวได้จัดแสดงอุปกรณ์ โครงสร้างพื้นฐาน โซลูชัน และบริการ ที่ขับเคลื่อนด้วย AI เพื่อช่วยให้ภาคธุรกิจเปลี่ยนวิสัยทัศน์สู่การปฏิบัติงานจริง นำโดยแนวคิดของเลอโนโวอย่าง Smarter AI for All ที่จะช่วยให้องค์กรเปลี่ยนแนวคิดและเป้าหมายด้าน AI สู่การใช้งานจริง เพื่อเพิ่มประสิทธิภาพและความคล่องตัวในการดำเนินงาน เปิดโอกาสใหม่ ๆ สำหรับการเติบโตทางธุรกิจ สำหรับประเทศไทยยังคงเดินหน้าในการนำ AI และเทคโนโลยีเข้ามาใช้เป็นส่วนสำคัญในการดำเนินงานอย่างต่อเนื่อง โดยภาคธุรกิจมีแนวโน้มที่จะนำ AI มาใช้ประโยชน์ภายในองค์กรมากขึ้น เพื่อยกระดับประสิทธิภาพการทำงานและเสริมสร้างขีดความสามารถในการแข่งขัน โดยพิจารณาปัจจัยด้านราคา ผลตอบแทนจากการลงทุน ความปลอดภัย และความสาารถในการทำงาน ท่ามกลางบริบทดังกล่าว กลยุทธ์ Hybrid AI ของเลอโนโวได้รวบรวม Personal AI ที่ให้มากกว่าความอัจฉริยะ พร้อมประสบการณ์การใช้งานแบบไร้รอยต่อสำหรับผู้ใช้งานรายบุคคลและ AI สำหรับองค์กร ที่จะช่วยเปลี่ยนข้อมูลธรรมดาให้เป็นข้อมูลเชิงลึกและสร้างมูลค่าทางธุรกิจ คุณวรพจน์ ถาวรวรรณ, กรรมการผู้จัดการ, เลอโนโว ประจำประเทศไทยและภูมิภาคอินโดจีน กล่าวว่า “สำหรับภาคธุรกิจไทย วันนี้โอกาสจาก AI ไม่ได้จำกัดอยู่เพียงการทดลองใช้งานอีกต่อไป …",
+    "pubDate": "Mon, 19 Oct 2026 10:51:01 +0000",
+    "source": "TechTalk Thai",
+    "category": "Security",
+    "thumbnail": "https://www.techtalkthai.com/wp-content/uploads/2026/10/คุณวรพจน์-ถาวรวรรณ_Lenovo_1200x800.jpg",
+    "readTime": "3 นาที"
+  },
+  {
+    "id": "https://techsauce.co/video/symphony-communication-submarinecable-ai-datacenter",
+    "title": "ถอดรหัสโครงสร้างพื้นฐานที่กุมชะตา AI โลก | Exec Insight EP.101",
+    "link": "https://techsauce.co/video/symphony-communication-submarinecable-ai-datacenter",
+    "content": "ถอดรหัสโครงสร้างพื้นฐานที่กุมชะตา AI โลก เมื่อ AI ไม่ได้ทำงานอยู่แค่บนอากาศ แต่ถูกขับเคลื่อนด้วย \"โครงสร้างพื้นฐาน\" ระดับมหาศาลที่ซ่อนอยู่เบื้องหลัง!",
+    "pubDate": "Mon, 19 Oct 2026 17:00:00 +0700",
+    "source": "Techsauce",
+    "category": "AI",
+    "thumbnail": null,
+    "readTime": "1 นาที"
+  },
+  {
+    "id": "https://techsauce.co/news/bot-sme-credit-portal",
+    "title": "ธปท. เตรียมเปิด SME Credit Portal จับคู่ SME กับแบงก์ คาดเปิด ธ.ค. 2569",
+    "link": "https://techsauce.co/news/bot-sme-credit-portal",
+    "content": "ธปท. เตรียมเปิด SME Credit Portal เว็บกลางจับคู่ SME ที่ต้องการสินเชื่อกับสถาบันการเงิน หลังสินเชื่อ SME ติดลบต่อเนื่อง 16 ไตรมาส คาดเปิดภายในเดือนธันวาคม 2569",
+    "pubDate": "Mon, 19 Oct 2026 16:13:57 +0700",
+    "source": "Techsauce",
+    "category": "General",
+    "thumbnail": "https://storage.googleapis.com/techsauce-prod/ugc/uploads/2026/10/1792401206_image-1792401196316.webp",
+    "readTime": "1 นาที"
+  },
+  {
+    "id": "https://techsauce.co/news/bdms-rbh-invest-gnpt-170m-55-percent",
+    "title": "BDMS ลงทุนเพิ่มใน GNPT 170 ล้านบาท ถือหุ้นเพิ่มจาก 19.9% เป็น 55% GNPT ขึ้นเป็นบริษัทย่อย",
+    "link": "https://techsauce.co/news/bdms-rbh-invest-gnpt-170m-55-percent",
+    "content": "BDMS แจ้ง ตลท. ว่า RBH บริษัทย่อยที่ถือหุ้น 100% จองซื้อหุ้นเพิ่มทุน GNPT 170 ล้านบาท สัดส่วนถือหุ้นจะเพิ่มจาก 19.9% เป็น 55% และ GNPT จะเป็นบริษัทย่อย",
+    "pubDate": "Mon, 19 Oct 2026 15:52:09 +0700",
+    "source": "Techsauce",
+    "category": "General",
+    "thumbnail": "https://storage.googleapis.com/techsauce-prod/ugc/uploads/2026/10/1792399917_image-1792399901225.webp",
+    "readTime": "1 นาที"
+  },
+  {
+    "id": "https://techsauce.co/tech-and-biz/cp-axtra-enterprise-lab-ai-retail-talent",
+    "title": "เมื่อ Retail ต้องคิดใหม่ คุยกับถิรายุ ทรงเวชเกษม ถึง AI คนรุ่นใหม่ และอนาคตของคนทำงานค้าปลีก",
+    "link": "https://techsauce.co/tech-and-biz/cp-axtra-enterprise-lab-ai-retail-talent",
+    "content": "หลังเวที Enterprise Lab World Student Pitch ASEAN Edition ในงาน Techsauce Global Summit 2026 จบลง Techsauce ได้สัมภาษณ์ คุณถิรายุ ทรงเวชเกษม Chief Digital Officer ของ CP AXTRA ในฐานะ Co-host ของ Enterprise Lab",
+    "pubDate": "Mon, 19 Oct 2026 15:06:13 +0700",
+    "source": "Techsauce",
+    "category": "AI",
+    "thumbnail": "https://storage.googleapis.com/techsauce-prod/ugc/uploads/2026/9/1790575479_cpaxtra-3.webp",
+    "readTime": "1 นาที"
+  },
+  {
+    "id": "https://www.techtalkthai.com/?p=171328",
+    "title": "MFEC ชวน เจาะลึก 3 ผลิตภัณฑ์ AI จาก Tencent Cloud: TokenHub, WorkBuddy และ CodeBuddy — องค์กรไทยควรเริ่มต้นจากตัวไหน? [Guest Post]",
+    "link": "https://www.techtalkthai.com/mfec-ai-tencent-cloud-tokenhub-workbuddy-codebuddy/",
+    "content": "TokenHub = แพลตฟอร์มแบบรวมศูนย์ ที่รวบรวม LLM หลายตัวไว้ด้วยกัน เข้าถึงได้ผ่าน API เดียว และคิดค่าบริการตามจำนวนโทเค็นที่ใช้งานจริง WorkBuddy = AI Agent บนเดสก์ท็อปที่สั่งงานได้ผ่านแอปแชทที่มีอยู่แล้ว เช่น Microsoft Teams, LINE, Slack, Telegram และ Discord CodeBuddy = ผู้ช่วยเขียนโค้ดที่ให้ใช้งานได้ทั้งแบบ Plugin, IDE และ CLI สำหรับทีมพัฒนา ทั้งสามผลิตภัณฑ์แตกต่างกันที่กลุ่มผู้ใช้งาน : TokenHub เหมาะกับทีมโครงสร้างพื้นฐาน และทีม DataWorkBuddy เหมาะกับทีมธุรกิจ และผู้ใช้งานรายบุคคล CodeBuddy เหมาะกับทีมพัฒนา ทำไมเรื่องนี้จึงสำคัญ ในช่วงสองปีที่ผ่านมา AI ได้พัฒนาจากของเล่นไว้ทดลอง กลายเป็นเครื่องมือที่องค์กรต้องมี อย่างไรก็ตาม ปัญหาที่หลายองค์กรกำลังเผชิญไม่ใช่ว่าจะใช้ AI หรือไม่ แต่คือจะเริ่มต้นจากตรงไหน เพราะแต่ละเครื่องมือมีหน้าที่แตกต่างกัน บางตัวทำงานอยู่ในระดับโมเดล บางตัวอยู่ในระดับแอปพลิเคชัน และบางตัวอยู่ในระดับผู้ใช้งานปลายทาง …",
+    "pubDate": "Mon, 19 Oct 2026 07:46:58 +0000",
+    "source": "TechTalk Thai",
+    "category": "AI",
+    "thumbnail": "https://www.techtalkthai.com/wp-content/uploads/2026/10/Pic1-640x387.png",
+    "readTime": "3 นาที"
+  },
+  {
+    "id": "https://techsauce.co/tech-and-biz/marbella-spain-silicon-valley-europe",
+    "title": "ทำไมสเปนดัน 'มาร์เบยา' เป็น Silicon Valley แห่งยุโรป",
+    "link": "https://techsauce.co/tech-and-biz/marbella-spain-silicon-valley-europe",
+    "content": "มาร์เบยา (Marbella) เมืองตากอากาศของมหาเศรษฐีในสเปน กำลังเปลี่ยนโฟกัสมาดึงนักลงทุน ผู้ประกอบการ และคนสายเทคฯ ให้ย้ายมาตั้งรกราก หวังปั้น Costa del Sol เป็น Silicon Valley แห่งยุโรป",
+    "pubDate": "Mon, 19 Oct 2026 14:02:33 +0700",
+    "source": "Techsauce",
+    "category": "General",
+    "thumbnail": "https://storage.googleapis.com/techsauce-prod/ugc/uploads/2026/10/1792393321_%E0%B8%A1%E0%B8%B5%E0%B8%99_800_-_2026-10-19T135930.421.webp",
+    "readTime": "1 นาที"
+  },
+  {
+    "id": "151958 at https://www.blognone.com",
+    "title": "จีนร่างข้อบังคับ ห้ามส่งออก AI ความสามารถสูง",
+    "link": "https://www.blognone.com/node/151958",
+    "content": "จีนร่างข้อบังคับ ห้ามส่งออก AI ความสามารถสูง\n\n  \nBody\nกระทรวงพาณิชย์และกระทรวงวิทยาศาสตร์และเทคโนโลยีออกร่างประกาศร่วม เตรียมจำกัดการส่งออกเทคโนโลยีขั้นสูงหลายรายการ โดยเทคโนโลยีปัญญาประดิษฐ์กลายเป็นเทคโนโลยีกลุ่มใหญ่ที่ถูกสั่งห้าม หรือจำกัดการส่งออกในประกาศนี้\nตัวอย่างรายการที่ถูกสั่งห้ามส่งออก เช่น\nAI โจมตีระบบ: AI ที่เขียนโค้ดสำหรับโจมตีระบบโดยเฉพาะ มีความสามารถในการเจาะระบบได้มากกว่า 60% ในระบบที่มีการป้องกันหลายชั้น, 85% ในระบบที่มีการป้องกันด้วยซอฟต์แวร์ยอดนิยม ตลอดจนระบบที่มีความสามารถเจาะทะลุ sandbox, หลบเลี่ยงการตรวจจับ\nAI ที่ฝึกด้วยข้อมูลภายในของจีน\nAI ทางการทหารหรือความมั่นคง\nตัวอย่างรายการที่จำกัดการส่งออก เช่น\nAI โจมตีระบบที่มีความสามารถรองลงมา: ทำคะแนนเจาะระบบได้เกิน 75% สามารถเชื่อมโยงช่องโหว่เข้าด้วยกัน, หรือสามารถค้นพบช่องโหว่ด้วยตนเอง\nAI จดจำเสียงความแม่นยำสูง: จับเสียงได้ถูกต้อง 99.1% ขึ้นไป และมีอัตราการผิดพลาดน้อยกว่า 0.01%\nAI ความสามารถสูง: ใช้ข้อมูลฝึกที่สำคัญสำหรับจีนเอง, มีขนาดใหญ่เกิน 2T, และใช้พลังฝึกเกิน 1026 FLOPS\nนอกจากนี้ยังมีเทคโนโลยีอื่นๆ เช่น เทคโนโลยีผลิตชิป, เทคโนโลยีเน็ตเวิร์ก, ยีนบำบัด, เทคโนโลยีวัสดุศาสตร์\nแนวทางนี้อาจจะสร้างข้อจำกัดในการเปิดโมเดลในอนาคต ทุกวันนี้บริษัท AI จีนจำนวนมากเปิดโมเดลสู่สาธารณะแม้เป็นโมเดลประสิทธิภาพสูง เช่น Kimi K3 มีขนาดถึง 2.8T การขีดเส้นที่ 2T จึงทำให้เหลือโมเดล เช่น DeepSeek V4 Pro (1.6T)\nที่มา - MOFCOM.gov.cn\nlew\nMon, 19/10/2026 - 14:00",
+    "pubDate": "Mon, 19 Oct 2026 07:00:37 +0000",
+    "source": "Blognone",
+    "category": "Security",
+    "thumbnail": null,
+    "readTime": "4 นาที"
+  },
+  {
+    "id": "151956 at https://www.blognone.com",
+    "title": "YouTrip ล่มในสิงคโปร์และไทย ล็อกอินได้แต่จ่ายเงินไม่ได้",
+    "link": "https://www.blognone.com/node/151956",
+    "content": "YouTrip ล่มในสิงคโปร์และไทย ล็อกอินได้แต่จ่ายเงินไม่ได้\n\n  \nBody\nYouTrip บริการบัตรเดบิตแบบหลายสกุลเงินมีปัญหาในสิงคโปร์และไทย ส่งผลให้ไม่สามารถเปิดบัตร, เติมเงิน, ตลอดจนการถอนเงินผ่านตู้เอทีเอ็มล่ม\nตอนนี้บริการที่ใช้งานได้เหลือเพียงการล็อกอินเว็บ, การสมัครสมาชิกใหม่, และการดูรายละเอียดบัตรเท่านั้น สำหรับในสิงคโปร์บริการ eSIM ก็ยังทำงานได้อยู่\nYouTrip ให้บริการใน 4 ประเทศ ได้แก่ ไทย, สิงคโปร์, ออสเตรเลีย, และมาเลเซีย ตอนนี้มีเพียงมาเลเซียเท่านั้นที่ใช้งานได้ต่อเนื่อง\nที่มา - status.you.co\nlew\nMon, 19/10/2026 - 12:11",
+    "pubDate": "Mon, 19 Oct 2026 05:11:33 +0000",
+    "source": "Blognone",
+    "category": "General",
+    "thumbnail": null,
+    "readTime": "2 นาที"
+  },
+  {
+    "id": "https://www.techtalkthai.com/?p=171312",
+    "title": "AIS Business พลิกมุมคิด ยกระดับ IT องค์กรยุคใหม่ ตอบรับเทรนด์ AI Shift ด้วย IT Infrastructure ที่พร้อมรองรับ AI ได้อย่างมั่นใจ",
+    "link": "https://www.techtalkthai.com/ais-business-ai-shift-it-infrastructure/",
+    "content": "ท่ามกลางความร้อนแรงของเทคโนโลยี AI ที่เปิดตัวใหม่ไม่เว้นวัน ทำให้ธุรกิจองค์กรทั่วโลกรวมถึงไทยนั้นต่างตื่นตัวเป็นอย่างมากกับกระแสการมาของ AI ที่เริ่มสามารถนำมาใช้งานจริงได้ในภาคธุรกิจองค์กรยิ่งกว่าที่เคย อย่างไรก็ดี หลายองค์กรเองนั้นก็ยังคงติดกับดักในการลงทุนเดินหน้ากลยุทธ์ด้าน AI ที่ถึงแม้จะมีบทความหรือคลิปสอนการประยุกต์ใช้งาน AI อยู่มากมาย แต่เมื่อนำแนวคิดเหล่านั้นมาใช้งานจริงในธุรกิจองค์กรแล้ว กลับไม่ได้ผลลัพธ์อย่างที่คาดหวัง ในบทความนี้ AIS Business จะพาทุกท่านมาร่วมเจาะลึกถึงกับดักของโครงการ AI และวิสัยทัศน์ที่เหมาะสมต่อการวางกลยุทธ์ด้าน AI ให้ธุรกิจองค์กรนำไปใช้งานจริงอย่างได้ผล พร้อมนำเสนอถึงตัวอย่างกรณีศึกษาโครงการด้าน AI ที่ประสบความสำเร็จของ AIS เพื่อให้ทุกท่านได้เรียนรู้เป็นแนวทางกันครับ กับดัก Enterprise AI: AI สำหรับการใช้งานในกลุ่มบุคคลทั่วไปนั้น ไม่เหมือนกับโครงการ AI สำหรับใช้งานในภาคธุรกิจองค์กร ข้อสังเกตหนึ่งที่น่าสนใจซึ่งธุรกิจองค์กรไทยหลายแห่งกำลังเผชิญอยู่นั้นก็คือ การที่ธุรกิจองค์กรหลายแห่ง เมื่อเริ่มเห็นความเป็นไปได้ของ AI จากการนำเสนอเนื้อหาในสื่อหลากหลายรูปแบบจนเริ่มเกิดความสนใจ แต่เมื่อนำแนวทางเดียวกันไปปรับใช้ในองค์กรแล้วผลลัพธ์กลับไม่เป็นไปดังที่คาดหวัง จึงเกิดเป็นคำถามจากผู้บริหารว่า “ทำไมโครงการด้าน AI จึงไม่ประสบความสำเร็จ?” AIS Business ได้เล็งเห็นว่าประเด็นดังกล่าวนี้ได้กลายเป็น “กับดักทาง AI” ของธุรกิจองค์กรไทยจำนวนมากในปัจจุบัน ซึ่งในมุมมองของ AIS Business ในฐานะที่มีประสบการณ์ในโครงการทางด้าน …",
+    "pubDate": "Mon, 19 Oct 2026 05:00:03 +0000",
+    "source": "TechTalk Thai",
+    "category": "AI",
+    "thumbnail": "https://www.techtalkthai.com/wp-content/uploads/2026/10/image5-1.jpg",
+    "readTime": "4 นาที"
+  },
+  {
+    "id": "https://techsauce.co/news/toyota-boi-hilux-fcev-hydrogen-pickup",
+    "title": "บีโอไอไฟเขียว โตโยต้า ลงทุนเพิ่ม 1,490 ล้านบาท ขึ้นไลน์ผลิต รถปิกอัพไฮโดรเจน รายแรกในไทย",
+    "link": "https://techsauce.co/news/toyota-boi-hilux-fcev-hydrogen-pickup",
+    "content": "บีโอไออนุมัติส่งเสริมโตโยต้า มอเตอร์ ประเทศไทย ลงทุน 1,490 ล้านบาท ผลิตรถปิกอัพไฮโดรเจน FCEV รุ่น New Hilux ที่บ้านโพธิ์ กำลังผลิต 3,000 คันต่อปี คาดเริ่มธันวาคม 2570",
+    "pubDate": "Mon, 19 Oct 2026 11:59:17 +0700",
+    "source": "Techsauce",
+    "category": "General",
+    "thumbnail": "https://storage.googleapis.com/techsauce-prod/ugc/uploads/2026/10/1792385483_toyota-boi-hilux-fcev-hydrogen-pickup-body-1-2400x1600.webp",
+    "readTime": "1 นาที"
+  },
+  {
+    "id": "https://www.techtalkthai.com/?p=171284",
+    "title": "จับตากระแสจ้างงาน IT ในสหรัฐฯ หลังองค์กรเร่งรับมือความเสี่ยง จริยธรรม และต้นทุน AI พุ่ง",
+    "link": "https://www.techtalkthai.com/it-job-trend-sep-2026/",
+    "content": "ตลาดแรงงาน IT ส่งสัญญาณฟื้นตัวชัดเจนและเริ่มปรับสมดุลใหม่ รายงาน Dice Jobs Report ประจำเดือนกันยายน 2026 เผยยอดประกาศรับสมัครงานสายเทคโนโลยีปรับตัวเพิ่มขึ้นต่อเนื่องหลังผ่านช่วงชะลอตัวในเดือนสิงหาคม ส่งผลให้ภาพรวมความต้องการจ้างงาน IT เติบโตขึ้น 17% เมื่อเทียบกับช่วงเดียวกันของปีก่อนหน้า สะท้อนให้เห็นว่า องค์กรไม่ได้ชะลอการลงทุนเรื่องคน แต่กำลังต้องการคนเหล่านั้นไปปรับใช้ AI ได้จริง รายงานฉบับดังกล่าวระบุว่า ความต้องการคน IT ในสาย AI และ ML พุ่งสูงขึ้นถึง 88% จากช่วงเวลาเดียวกันของปีก่อน ซึ่งเติบโตเร็วกว่าค่าเฉลี่ยของตำแหน่งงาน IT ทั่วไปเกือบ 5 เท่า นอกจากนี้เมื่อพนักงานนำเครื่องมือ AI เข้ามาใช้ในกระบวนการทำงานจนกลายเป็นเรื่องปกติ องค์กรต่าง ๆ จึงเริ่มตระหนักถึงเรื่องความเสี่ยง และต้นทุน จนการจ้างงานเริ่มหมุนไปที่กลุ่ม Cybersecurity และ FinOps รวมถึง Governance มากขึ้น ขณะเดียวกันองค์กรยังต้องการผู้เชี่ยวชาญเข้ามากำกับดูแลด้าน Responsible & Ethical AI พร้อมวางสถาปัตยกรรมป้องกันภัยคุกคามรูปแบบใหม่ …",
+    "pubDate": "Mon, 19 Oct 2026 04:01:33 +0000",
+    "source": "TechTalk Thai",
+    "category": "Security",
+    "thumbnail": "https://www.techtalkthai.com/wp-content/uploads/2026/10/TTT-2026-10-19T105648.065-640x336.jpg",
+    "readTime": "3 นาที"
+  },
+  {
+    "id": "https://www.techtalkthai.com/?p=171291",
+    "title": "Menlo Security Webinar: “Beyond Detection Part 2 ก้าวข้ามการตรวจจับ สู่การป้องกันไฟล์ด้วย CDR รับมือภัยคุกคามยุค AI” [12 พ.ย. | 14:00 น.]",
+    "link": "https://www.techtalkthai.com/menlo-security-webinar-beyond-detection-part-2-beyond-detection-part-2-when-the-sandbox-is-not-enough-the-next-era-of-file-security/",
+    "content": "Menlo Security ร่วมกับ 3T Sky ขอเชิญผู้บริหารไอที, CISO และผู้เชี่ยวชาญด้าน Cybersecurity เข้าร่วมงานสัมมนาออนไลน์ “Beyond Detection Part 2: When the Sandbox Is Not Enough – The Next Era of File Security” เพื่อทำความรู้จัก CDR (Content Disarm & Reconstruction) ชั้นการป้องกันที่จะเข้ามาเติมเต็ม Sandbox พร้อมชม Demo จากสถานการณ์จริง ในวันที่ 12 พ.ย. 2026 เริ่ม 14:00 น. ผ่านช่องทาง Zoom Webinar ทุกวันนี้ไฟล์ไหลเข้าองค์กรจากหลายช่องทาง ทั้งไฟล์แนบในอีเมล เอกสารที่ลูกค้าอัปโหลด หรือแม้แต่ไฟล์ที่ส่งให้ AI ประมวลผล หลายองค์กรพึ่งพา …",
+    "pubDate": "Mon, 19 Oct 2026 03:59:17 +0000",
+    "source": "TechTalk Thai",
+    "category": "Security",
+    "thumbnail": "https://www.techtalkthai.com/wp-content/uploads/2026/10/Menlo-3TSky.png",
+    "readTime": "2 นาที"
+  },
+  {
+    "id": "https://www.techtalkthai.com/?p=171285",
+    "title": "Dell Pro Essential PC คอมพิวเตอร์คู่ใจธุรกิจ ทำงานมั่นใจในทุกวัน ประสิทธิภาพที่ตอบโจทย์งานประจำวัน พร้อมตัวเลือกสเปกให้เหมาะสมกับองค์กร [Guest Post]",
+    "link": "https://www.techtalkthai.com/dellthailand-dell-pro-essential-pc-guest-post/",
+    "content": "ในยุคที่ทุกธุรกิจต้องขับเคลื่อนด้วยความเร็ว ความเสถียรของอุปกรณ์คอมพิวเตอร์ในออฟฟิศคือปัจจัยสำคัญที่จะมองข้ามไม่ได้! Dell Pro Essential PC Series ถูกออกแบบมาเพื่อตอบโจทย์องค์กรยุคใหม่ที่ต้องการคอมพิวเตอร์ประสิทธิภาพสูง ทนทาน มีระบบความปลอดภัยระดับสถาบัน และประหยัดงบประมาณได้อย่างมีประสิทธิภาพ ครั้งนี้ Dell Technologies มาพร้อม 2 รูปทรงตอบโจทย์ 2 สไตล์การทำงาน ให้คุณเลือกใช้ตามความเหมาะสมของพื้นที่และเวิร์กโหลด: 🏛️ 1. Dell Pro Tower Essential (QVT1260) — ขุมพลังเต็มพิกัด ขยายได้ไร้ขีดจำกัด สำหรับแผนกที่ต้องประมวลผลหนัก งานคำนวณ จัดการฐานข้อมูล หรือต้องการอัปเกรดฮาร์ดแวร์ในอนาคต Maximum Expandability: เคสทรง Tower ขนาดมาตรฐาน รองรับการอัปเกรด RAM, Storage และการ์ดจอเพิ่มได้อย่างยืดหยุ่น Optimal Airflow: ระบบระบายความร้อนที่ออกแบบมาเป็นพิเศษ เพื่อการทำงานต่อเนื่องตลอด 24/7 โดยที่เครื่องไม่ร้อน ไม่ค้าง Full Connectivity: พอร์ตเชื่อมต่อครบครัน รองรับอุปกรณ์ต่อพ่วงฝั่งองค์กรได้ทุกรูปแบบ 📐 …",
+    "pubDate": "Mon, 19 Oct 2026 03:21:39 +0000",
+    "source": "TechTalk Thai",
+    "category": "Security",
+    "thumbnail": "https://www.techtalkthai.com/wp-content/uploads/2026/10/AD-SIS-1200x628-px-TTT-2.jpg",
+    "readTime": "3 นาที"
   },
   {
     "id": "151955 at https://www.blognone.com",
@@ -64,6 +273,17 @@
     "readTime": "2 นาที"
   },
   {
+    "id": "https://techsauce.co/ai/volker-rath-cloudflare-govware-2026-interview-zero-trust-ai-agents",
+    "title": "คุยกับ Volker Rath Field CISO ของ Cloudflare เมื่อ Agent ทำพลาด ใครต้องรับผิด?",
+    "link": "https://techsauce.co/ai/volker-rath-cloudflare-govware-2026-interview-zero-trust-ai-agents",
+    "content": "Volker Rath Field CISO ของ Cloudflare ชี้ AI ทำให้ระบบป้องกันเดิมได้ผลน้อยลง องค์กรต้องใช้ Zero Trust เปลี่ยนทีม Security จากตำรวจเป็นวิศวกร เขียนนโยบายเป็นโค้ด และระบุให้ชัดว่าใครเป็นเจ้าของความเสี่ยงของ AI Agent",
+    "pubDate": "Mon, 19 Oct 2026 07:05:02 +0700",
+    "source": "Techsauce",
+    "category": "Security",
+    "thumbnail": "https://storage.googleapis.com/techsauce-prod/ugc/uploads/2026/10/1792367884_Volker_Rath_800.webp",
+    "readTime": "1 นาที"
+  },
+  {
     "id": "151951 at https://www.blognone.com",
     "title": "Windows Photos ยกเครื่องครั้งใหญ่ เขียนใหม่เป็นเนทีฟ ทำงานเร็วขึ้น เปิด HEIC, WebP, SVG ได้",
     "link": "https://www.blognone.com/node/151951",
@@ -97,28 +317,6 @@
     "readTime": "3 นาที"
   },
   {
-    "id": "151949 at https://www.blognone.com",
-    "title": "เคส iPhone Duo รุ่นโพลีคาร์บอเนตของ Apple ใช้วิธีประกอบเข้ากับโทรศัพท์ด้วยแถบกาว",
-    "link": "https://www.blognone.com/node/151949",
-    "content": "เคส iPhone Duo รุ่นโพลีคาร์บอเนตของ Apple ใช้วิธีประกอบเข้ากับโทรศัพท์ด้วยแถบกาว\n\n  \nBody\nแอปเปิลเริ่มจัดส่งเคส iPhone Duo ที่เป็นของแอปเปิลเองให้กับลูกค้าล่วงหน้าแล้ว ก่อนที่ iPhone Duo จะเริ่มจัดส่งในสัปดาห์หน้า (ส่วนในไทยพบว่าต้องรอ 2-3 สัปดาห์) ซึ่งมีรายงานน่าสนใจว่าเคสนี้มีแถบกาวไว้ติดกับตัวเครื่อง\nแอปเปิลมีเคส iPhone Duo ขายตอนนี้สองรุ่นคือ เคส iPhone Duo วัสดุโพลีคาร์บอเนต ราคา 2,790 บาท และเคส iPhone Duo Folio พร้อมขาตั้งที่เป็นผ้า TechWoven ราคา 4,490 บาท โดยคนที่ได้รับเคสมาแล้วล่วงหน้า พบว่าเคสรุ่นราคาถูกกว่าที่เป็นโพลีคาร์บอเนต มีแถบกาวด้านใน ซึ่งต้องลอกออกเพื่อติดตามแนวขอบของโทรศัพท์ อย่างไรก็ตามในเว็บไซต์แอปเปิลเองก็อธิบายการใช้เคสนี้ว่า \"มาพร้อมแม่เหล็กในตัวที่สามารถประกบเข้ากับ iPhone Duo ได้อย่างลงตัว\" ก็ต้องรอดูว่าในไทยเคสจะเป็นแบบใดกันแน่\nส่วนเคสรุ่น Folio ที่มีขาตั้ง ใช้การยึดกับโทรศัพท์ด้วยแม่เหล็กจึงไม่มีปัญหากวนใจนี้\nเพิ่มเติม: เคสของสมาร์ทโฟนจอพับค่ายอื่นก็มีแบบที่ใช้แถบกาวเช่นกัน ซึ่งอธิบายได้ว่าเป็นไปตามลักษณะของอุปกรณ์\nที่มา: 9to5Mac\n@DylanMcD8 both sides too https://t.co/t9aWxm8B8A\n— Parker Ortolani (@ParkerOrtolani) October 16, 2026\n\n\n          \narjin\nSun, 18/10/2026 - 15:44",
-    "pubDate": "Sun, 18 Oct 2026 08:44:45 +0000",
-    "source": "Blognone",
-    "category": "General",
-    "thumbnail": null,
-    "readTime": "3 นาที"
-  },
-  {
-    "id": "151948 at https://www.blognone.com",
-    "title": "ไมโครซอฟท์บอก Windows 11 ตอบสนองเร็วขึ้น 20%, ทำงานบนอุปกรณ์แรม 8GB ได้ดีขึ้น",
-    "link": "https://www.blognone.com/node/151948",
-    "content": "ไมโครซอฟท์บอก Windows 11 ตอบสนองเร็วขึ้น 20%, ทำงานบนอุปกรณ์แรม 8GB ได้ดีขึ้น\n\n  \nBody\nไมโครซอฟท์อัพเดตความคืบหน้าของ แผนปรับปรุงคุณภาพ Windows 11 ที่ประกาศไว้ในเดือนมีนาคม ว่าแก้ไขให้ Windows 11 ตอบสนองเร็วขึ้นสูงสุด 20% (up to 20% more responsive) จากการปรับปรุงจุดต่างๆ เช่น Search, Start Menu, Taskbar, File Explorer\nปัจจัยสำคัญคือปรับปรุงการใช้หน่วยความจำให้กินทรัพยากรน้อยลง ทำงานบนเครื่องที่มีแรม 8GB ได้ดีขึ้น ระบบใช้แรมน้อยลงสูงสุด 2GB (ใกล้เคียงกับที่ผู้ใช้บางคนวัดผลได้) ตัวอย่างการทำงานบนเครื่องแรม 8GB คือโหลด widget เฉพาะตอนใช้งานเท่านั้น ประหยัดแรมลงได้ 200MB เฉพาะในส่วนนี้\nการปรับปรุงส่วนอื่นๆ ของ Windows ในช่วงที่ผ่านมา ได้แก่ การปรับปรุง Start Menu และ Taskbar ให้ปรับแต่งได้มากขึ้น, Windows Update ที่รีบูตน้อยลง, แก้บั๊ก Bluetooth ให้ทำงานเสถียรขึ้น เชื่อมต่อหูฟังไร้สายเร็วขึ้น\nไมโครซอฟท์ยังพูดถึงฟีเจอร์ใหม่ของ Windows 11 ที่ทยอยปล่อยออกมา ดังนี้\nWindows Search เวอร์ชันใหม่\nPhone Link เพิ่มฟีเจอร์รันแอพ Android บนหน้าจอ Windows, เปิดไฟล์มือถือใน File Explorer\nแอพ Photos เวอร์ชันใหม่ รวมภาพจากหลายๆ แหล่ง (เช่น OneDrive, มือถือ) เข้ามาในแอพเดียว และมี Editor ตัวใหม่ทำงานเร็วขึ้น\nฝั่งเกมมิ่ง เพิ่ม เทคนิค Advanced Shader Delivery (ASD) ช่วยลดระยะเวลาการโหลดเกมครั้งแรก\nแอพจดบันทึกตัวใหม่ Microsoft Ink Canvas ใช้ AI ช่วยแปลงภาพ-ข้อความ\nที่มา - Microsoft\nmk\nSun, 18/10/2026 - 15:10",
-    "pubDate": "Sun, 18 Oct 2026 08:10:55 +0000",
-    "source": "Blognone",
-    "category": "AI",
-    "thumbnail": null,
-    "readTime": "4 นาที"
-  },
-  {
     "id": "https://techsauce.co/ai/jack-clark-per-jacobsson-lecture-ai-progress-th",
     "title": "Jack Clark แห่ง Anthropic บอกเวที IMF-World Bank ว่าเรามีเวลาเตรียมตัวรับความก้าวหน้าของ AI ไม่ถึงหนึ่งทศวรรษ",
     "link": "https://techsauce.co/ai/jack-clark-per-jacobsson-lecture-ai-progress-th",
@@ -127,61 +325,6 @@
     "source": "Techsauce",
     "category": "AI",
     "thumbnail": "https://storage.googleapis.com/techsauce-prod/ugc/uploads/2026/10/1792306799_jackclark-body-1b-2400x1600.webp",
-    "readTime": "1 นาที"
-  },
-  {
-    "id": "151947 at https://www.blognone.com",
-    "title": "Ken Kutaragi บอกเข้าใจแฟนๆ PlayStation เรื่องแผ่นเกม มันเป็นเรื่องทางจิตใจ",
-    "link": "https://www.blognone.com/node/151947",
-    "content": "Ken Kutaragi บอกเข้าใจแฟนๆ PlayStation เรื่องแผ่นเกม มันเป็นเรื่องทางจิตใจ\n\n  \nBody\nKen Kutaragi บิดาผู้ให้กำเนิด PlayStation ให้สัมภาษณ์กับเว็บเกม VGC ในประเด็นความไม่พอใจของแฟนๆ PlayStation ต่อ นโยบายเลิกขายเกมแบบแผ่นของโซนี่\nKutaragi บอกว่าเข้าใจหัวอกเกมเมอร์ที่มองว่า การเป็นเจ้าของแผ่นเกมคือการเป็นเจ้าของเกม แต่ในอุปกรณ์ชนิดอื่นที่เชื่อมต่อเน็ต เช่น สมาร์ทโฟน ก็ไม่มีใครคิดแบบนั้น เขาบอกว่านี่เป็นเรื่องทางใจล้วนๆ เพราะไม่มีเหตุผลทางธุรกิจที่จำเป็นต้องมีแผ่นเกมอีกต่อไป\nKutaragi บอกว่าเขาไม่ใช่ซีอีโอของ PlayStation แล้ว แต่ก็ยังเข้าใจวิธีคิดแบบซีอีโออยู่ เขาบอกว่าโซนี่ยุคนี้มีคนนอกวงการเข้ามาทำงานด้วยเยอะ เช่น คนจาก Gaikai (PlayStation Now ในปัจจุบัน) หรือมาจากธุรกิจสตรีมมิ่ง จึงเข้าใจได้ว่าคนเหล่านี้มองเครื่อง PlayStation เป็นแค่เทอร์มินัลเชื่อมต่อเน็ต ไม่ใช่เครื่องเล่นเกมแบบในอดีต ซึ่งเป็นมุมมองที่ขัดแย้งกับเหล่าเกมเมอร์\nเขายังย้อนความหลังตอนออก PS2 ใหม่ๆ มีคนถามเขาว่าขั้นถัดไปของ PlayStation คืออะไร ซึ่งเขาตอบว่า \"ทุกอย่างจะรวมเข้ากับเครือข่าย\" ซึ่งตอนนี้มันเกิดขึ้นจริงแล้ว\nเขายังกังวลเรื่องฮาร์ดแวร์ราคาแพงขึ้นเรื่อยๆ แม้สถาปัตยกรรมคอนโซลจะถูกหลอมรวมเข้ากับพีซี แต่พีซีก็แพงขึ้นจนเกือบซื้อรถได้แล้ว ซึ่งเป็นสิ่งที่น่ากังวล และเป็นโจทย์ของบริษัทเกมที่จะต้องหาทางออกในเรื่องนี้ เช่น การใช้ AI และคลาวด์ เพื่อให้เราไม่จำเป็นต้องเล่นเกมผ่านคอนโซลอีกต่อไป แต่ก็ทิ้งท้ายว่านี่ไม่ใช่ความเห็นของซีอีโอ PlayStation นะ\nที่มา - VGC\nmk\nSun, 18/10/2026 - 13:41",
-    "pubDate": "Sun, 18 Oct 2026 06:41:04 +0000",
-    "source": "Blognone",
-    "category": "AI",
-    "thumbnail": null,
-    "readTime": "4 นาที"
-  },
-  {
-    "id": "151946 at https://www.blognone.com",
-    "title": "[ลือ] Accenture เริ่มจำกัดปริมาณการใช้ Claude ของพนักงาน เหลือ 29 ดอลลาร์ต่อเดือน",
-    "link": "https://www.blognone.com/node/151946",
-    "content": "[ลือ] Accenture เริ่มจำกัดปริมาณการใช้ Claude ของพนักงาน เหลือ 29 ดอลลาร์ต่อเดือน\n\n  \nBody\nเว็บไซต์ 404 Media รายงานข่าววงในของ Accenture บริษัทที่ปรึกษาด้านไอทีรายใหญ่ของโลก ว่าตอนนี้เริ่มจำกัดปริมาณการใช้ Claude ของพนักงานที่ 29 ดอลลาร์ต่อคนต่อเดือน จากที่ก่อนหน้านี้มีพนักงานบางคนใช้ Claude เป็นมูลค่าถึง 1,000 ดอลลาร์ต่อเดือน\n404 Media อ้างว่าเห็นอีเมลภายในของ Accenture หัวข้อ Claude Enterprise Usage ซึ่งนโยบายใหม่เริ่มมีผลตั้งแต่วันที่  ตุลาคม อย่างไรก็ตาม ตัวเลข 29 ดอลลาร์ ถือเป็นตัวเลขมาตรฐานที่ Accenture จ่ายให้พนักงานเป็นรายหัวเท่านั้น แต่พนักงานยังสามารถไปของบค่า Claude เพิ่มเติมจากงบทีมหรืองบโครงการ (ศัพท์ของบริษัทคือ Work Breakdown Structure หรือ WBS) เพิ่มเติมได้\nปัญหาเรื่องค่าใช้จ่ายด้าน AI ที่พุ่งสูงขึ้นส่งผลให้บริษัทต่างๆ เริ่มหาวิธีประหยัดค่าใช้จ่ายลง ก่อนหน้านี้มีข่าวว่า Microsoft และ Meta เริ่มจำกัดการใช้ Claude แต่ก็มีทางเลือกคือให้มาใช้โมเดลของบริษัทเอง\nที่มา - 404 Media\nmk\nSun, 18/10/2026 - 13:32",
-    "pubDate": "Sun, 18 Oct 2026 06:32:03 +0000",
-    "source": "Blognone",
-    "category": "AI",
-    "thumbnail": null,
-    "readTime": "3 นาที"
-  },
-  {
-    "id": "https://techsauce.co/saucy-thoughts/richard-ireland-govware-2026-interview",
-    "title": "คุยกับ Richard Ireland CEO ของ GovWare พร้อมคำถามที่โรงพยาบาลไทยต้องมอง",
-    "link": "https://techsauce.co/saucy-thoughts/richard-ireland-govware-2026-interview",
-    "content": "Richard Ireland CEO ของ GovWare เล่าว่าทำไมธีม GovWare 2026 ยึดหลักการเดิมท่ามกลางความเร็วของ Agentic AI พร้อมบทเรียนสำหรับธนาคาร โรงพยาบาล และการรับมือมิจฉาชีพข้ามพรมแดนของไทย",
-    "pubDate": "Sat, 17 Oct 2026 19:24:45 +0700",
-    "source": "Techsauce",
-    "category": "AI",
-    "thumbnail": "https://storage.googleapis.com/techsauce-prod/ugc/uploads/2026/10/1792239110_Richard_Ireland_800.webp",
-    "readTime": "1 นาที"
-  },
-  {
-    "id": "https://techsauce.co/news/bangkok-dialogue-notes-5-ideas-imf-world-bank-2026",
-    "title": "สรุป 5 แนวคิด Bangkok Dialogue Notes จากเวที IMF-World Bank ที่ไทยอยากส่งต่อให้โลก",
-    "link": "https://techsauce.co/news/bangkok-dialogue-notes-5-ideas-imf-world-bank-2026",
-    "content": "ดร.เอกนิติ นิติทัณฑ์ประภาศ เผยแพร่ Bangkok Dialogue Notes สรุปข้อคิดจากการประชุม IMF-World Bank 2026 ที่กรุงเทพฯ 5 แนวคิด พร้อมวางบทบาทไทยเป็น Trusted Connector ผู้เชื่อมโยงที่โลกไว้วางใจ",
-    "pubDate": "Sat, 17 Oct 2026 16:26:38 +0700",
-    "source": "Techsauce",
-    "category": "General",
-    "thumbnail": "https://storage.googleapis.com/techsauce-prod/ugc/uploads/2026/10/1792228926_bangkok-dialogue-notes-body-1-2400x1600.webp",
-    "readTime": "1 นาที"
-  },
-  {
-    "id": "https://techsauce.co/news/imfc-2026-bangkok-global-economy-resilience",
-    "title": "โลกยังไม่ล้ม แต่ยืนบนฐานที่ร้าว  IMFC สรุปโจทย์เศรษฐกิจโลก เตือนอย่าชะล่าใจต่อหนี้ สงคราม  และความเหลื่อมล้ำจาก AI",
-    "link": "https://techsauce.co/news/imfc-2026-bangkok-global-economy-resilience",
-    "content": "เศรษฐกิจโลกผ่านแรงกระแทกรอบล่าสุดมาได้ดีกว่าที่คาด แต่เวทีปิดการประชุมคณะกรรมการการเงินและการเงินระหว่างประเทศ หรือ IMFC ที่กรุงเทพฯ ชวนให้มองลึกกว่าตัวเลขการเติบโต เพราะกันชนทางการคลังและพลังงานกำลังลดลง หนี้ยังสูง และผลประโยชน์จาก AI ไม่ได้กระจายไป",
-    "pubDate": "Sat, 17 Oct 2026 14:38:29 +0700",
-    "source": "Techsauce",
-    "category": "AI",
-    "thumbnail": "https://storage.googleapis.com/techsauce-prod/ugc/uploads/2026/10/1792222683_1.webp",
     "readTime": "1 นาที"
   },
   {
@@ -207,17 +350,6 @@
     "readTime": "2 นาที"
   },
   {
-    "id": "https://techsauce.co/video/ai-energy-datacenter",
-    "title": "จากสงครามชิปสู่สงครามไฟฟ้า เมื่อ Big Tech ต้องหาไฟให้ AI เอง | Tech for Biz EP.66",
-    "link": "https://techsauce.co/video/ai-energy-datacenter",
-    "content": "Data Center ต้องใช้ไฟปริมาณมหาศาลและทำงานตลอด 24 ชั่วโมง ขณะที่การสร้างโรงไฟฟ้า สายส่ง และ Grid ใหม่ต้องใช้เวลาหลายปี จนบริษัทอย่าง Microsoft, Google, Amazon, Meta และ NVIDIA เริ่มทำสัญญาซื้อไฟระยะยาว จับมือกับบริษัทพลังงาน และลงทุนใน Nuclear, Renewa",
-    "pubDate": "Fri, 16 Oct 2026 17:00:00 +0700",
-    "source": "Techsauce",
-    "category": "AI",
-    "thumbnail": null,
-    "readTime": "1 นาที"
-  },
-  {
     "id": "https://www.techtalkthai.com/?p=171272",
     "title": "งาน Telecoms World Asia 2026 กลับมาจัดที่กรุงเทพฯ อีกครั้ง ในขณะที่อุตสาหกรรมโทรคมนาคมในเอเชียกำลังเผชิญโจทย์ท้าทายครั้งสำคัญ [PR]",
     "link": "https://www.techtalkthai.com/telecoms-world-asia-2026-pr/",
@@ -227,39 +359,6 @@
     "category": "General",
     "thumbnail": "https://www.techtalkthai.com/wp-content/uploads/2026/10/telecoms.png",
     "readTime": "4 นาที"
-  },
-  {
-    "id": "https://techsauce.co/ai/jack-clark-anthropic-ai-global-economy",
-    "title": "Anthropic เล่าอะไรเรื่อง AI บนเวที IMF ในไทยวันนี้ ?",
-    "link": "https://techsauce.co/ai/jack-clark-anthropic-ai-global-economy",
-    "content": "สรุปประเด็นเด็ด 50 นาที Jack Clark ผู้ร่วมก่อตั้ง Anthropic บนเวทีระดับโลก เจาะลึกวิธีรื้อองค์กรยุค AI กฎหมายกำกับดูแล และอนาคตตลาดแรงงานที่เปลี่ยนไป",
-    "pubDate": "Fri, 16 Oct 2026 16:10:44 +0700",
-    "source": "Techsauce",
-    "category": "AI",
-    "thumbnail": "https://storage.googleapis.com/techsauce-prod/ugc/uploads/2026/10/1792141686_%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B8%8D%E0%B9%88%E0%B8%B2%E0%B8%AD%E0%B8%A2%E0%B9%88%E0%B8%B2%E0%B8%A2%E0%B8%B8%E0%B9%88%E0%B8%87_%E0%B8%9B%E0%B8%81%E0%B8%82%E0%B9%88%E0%B8%B2%E0%B8%A71200x800_-_2026-10-16T131803.427.webp",
-    "readTime": "1 นาที"
-  },
-  {
-    "id": "https://techsauce.co/saucy-thoughts/fed-chair-kevin-warsh-ai-inflation-imf",
-    "title": "บทเรียนจาก 148 วันของ Kevin Warsh ประธานธนาคารกลางสหรัฐฯ AI จะทำให้เศรษฐกิจผลิตได้มากขึ้น แต่เส้นทางไปถึงนั้น ‘ขรุขระมาก’",
-    "link": "https://techsauce.co/saucy-thoughts/fed-chair-kevin-warsh-ai-inflation-imf",
-    "content": "Kevin Warsh ประธาน Fed ร่วมวง Fireside Chat กับ Kristalina Georgieva บนเวที IMF ที่กรุงเทพฯ ชี้ AI คือการเปลี่ยนแปลงทางเศรษฐกิจครั้งใหญ่ที่สุดในชีวิต ที่จะดันความต้องการขึ้นก่อนเพิ่มกำลังผลิต พร้อมเล่าบทเรียน 148 วันแรก",
-    "pubDate": "Fri, 16 Oct 2026 15:30:35 +0700",
-    "source": "Techsauce",
-    "category": "AI",
-    "thumbnail": "https://storage.googleapis.com/techsauce-prod/ugc/uploads/2026/10/1792139006_Kevin_Warsh__800_%282%29.webp",
-    "readTime": "1 นาที"
-  },
-  {
-    "id": "https://techsauce.co/ai/ai-regulation-f1-night-no-brakes",
-    "title": "AI อาจเป็น F1 กลางคืนที่อาจไม่มีเบรก ภาพที่ Jack Clark ผู้ร่วมก่อตั้ง Anthropic เล่าถึงการกำกับ AI บนเวที IMF-World Bank",
-    "link": "https://techsauce.co/ai/ai-regulation-f1-night-no-brakes",
-    "content": "ผมคิดว่าสถานการณ์แย่กว่าที่คุณอธิบายไว้อีก (AI) มันเหมือนการแข่งขัน F1 ตอนกลางคืน และรถอาจไม่มีเบรกด้วยซ้ำ",
-    "pubDate": "Fri, 16 Oct 2026 14:22:07 +0700",
-    "source": "Techsauce",
-    "category": "AI",
-    "thumbnail": "https://storage.googleapis.com/techsauce-prod/ugc/uploads/2026/10/1792135240_Test_%E0%B8%9B%E0%B8%81%E0%B8%82%E0%B9%88%E0%B8%B2%E0%B8%A7_1200x800_%285%29.webp",
-    "readTime": "1 นาที"
   },
   {
     "id": "https://www.techtalkthai.com/?p=171269",
@@ -293,17 +392,6 @@
     "category": "AI",
     "thumbnail": "https://www.techtalkthai.com/wp-content/uploads/2026/10/Nvidia-Nemotron-3.5-Super-VL.png",
     "readTime": "3 นาที"
-  },
-  {
-    "id": "https://techsauce.co/news/imf-worldbank-2026-bangkok-summary",
-    "title": "สรุป 2 มุมมองผู้นำ IMF และ World Bank บนเวทีกรุงเทพฯ",
-    "link": "https://techsauce.co/news/imf-worldbank-2026-bangkok-summary",
-    "content": "สรุป 2 มุมมองเศรษฐกิจโลกจาก IMF และ World Bank ในงานประชุมใหญ่กรุงเทพฯ 2026: รับมือความเสี่ยง AI, หนี้พุ่ง, Bond Yield สูง และโจทย์ใหญ่สร้างงาน 1,200 ล้านตำแหน่ง",
-    "pubDate": "Fri, 16 Oct 2026 12:14:56 +0700",
-    "source": "Techsauce",
-    "category": "AI",
-    "thumbnail": "https://storage.googleapis.com/techsauce-prod/ugc/uploads/2026/10/1792127613_%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B8%8D%E0%B9%88%E0%B8%B2%E0%B8%AD%E0%B8%A2%E0%B9%88%E0%B8%B2%E0%B8%A2%E0%B8%B8%E0%B9%88%E0%B8%87_%E0%B8%9B%E0%B8%81%E0%B8%82%E0%B9%88%E0%B8%B2%E0%B8%A71200x800_-_2026-10-16T120433.082.webp",
-    "readTime": "1 นาที"
   },
   {
     "id": "https://www.techtalkthai.com/?p=171263",
@@ -380,94 +468,6 @@
     "source": "TechTalk Thai",
     "category": "Security",
     "thumbnail": "https://www.techtalkthai.com/wp-content/uploads/2026/10/Harmonic-Security-logo.png",
-    "readTime": "4 นาที"
-  },
-  {
-    "id": "https://www.techtalkthai.com/?p=171225",
-    "title": "Grok Voice 3.0 จาก SpaceXSI คะแนนนำ OpenAI และ Google บนดัชนี Speech-to-Speech",
-    "link": "https://www.techtalkthai.com/grok-voice-3-0-from-spacexsi-outscores-openai-and-google-on-speech-to-speech-index/",
-    "content": "SpaceXSI บริษัทปัญญาประดิษฐ์ของ Elon Musk ซึ่งเดิมรู้จักกันในชื่อ xAI ได้เปิดตัว Grok Voice 3.0 โมเดลเวอร์ชันใหม่สำหรับประมวลผลเสียงพูดเป็นเสียงพูด (Speech-to-Speech) ซึ่งเป็นหัวใจสำคัญของ Voice Agent API ของบริษัท SpaceXSI กำลังนำเสนอโมเดลนี้ให้กับภาคธุรกิจที่ต้องจัดการงานด้านบริการลูกค้าและสายการขายด้วยเอเจนต์เสียง โดยบริษัททดสอบอิสระอย่าง Artificial Analysis ได้จัดอันดับให้โมเดลนี้เป็นที่หนึ่งในกลุ่มโมเดลประเภทเดียวกัน ทั้งนี้ Artificial Analysis ซึ่งใช้เกณฑ์การจัดอันดับจากการทดสอบด้านการให้เหตุผล ความสำเร็จในการทำงาน และผลโหวตจากผู้ฟังในรูปแบบการทดสอบแบบอำพรางได้ให้คะแนน Grok Voice 3.0 อยู่ที่ 86.9 บนดัชนี Speech-to-Speech Index บนดัชนีเดียวกัน GPT-Live-1 ของ OpenAI ซึ่งทดสอบโดยใช้โมเดล GPT-6 Astra ในการให้เหตุผล ได้คะแนนไป 83.2 ในขณะที่ Gemini 3.8 Live ของ Google ทำคะแนนได้ 82.6 …",
-    "pubDate": "Thu, 15 Oct 2026 07:26:30 +0000",
-    "source": "TechTalk Thai",
-    "category": "AI",
-    "thumbnail": "https://www.techtalkthai.com/wp-content/uploads/2026/10/Grok-Voice-3.png",
-    "readTime": "2 นาที"
-  },
-  {
-    "id": "https://www.techtalkthai.com/?p=171221",
-    "title": "Modal สตาร์ทอัพคลาวด์ AI ระดมทุน 750 ล้านดอลลาร์ ด้วยมูลค่าบริษัท 1.57 หมื่นล้านดอลลาร์",
-    "link": "https://www.techtalkthai.com/ai-cloud-startup-modal-raises-750m-at-15-75b-valuation/",
-    "content": "Modal Labs ผู้ให้บริการโครงสร้างพื้นฐานปัญญาประดิษฐ์ ประกาศว่าบริษัทระดมทุนในระยะปลายได้จำนวน 750 ล้านดอลลาร์ Accel เป็นผู้นำในการระดมทุนรอบ Series D ครั้งนี้ โดยมี Kleiner Perkins และนักลงทุนเดิมของ Modal อีกหกรายเข้าร่วมด้วย ปัจจุบันบริษัทมีมูลค่าอยู่ที่ 1.57 หมื่นล้านดอลลาร์ ซึ่งสูงขึ้นจากมูลค่าหลังการระดมทุนรอบที่แล้วเมื่อเดือนพฤษภาคมมากกว่า 3 เท่า การเพิ่มขึ้นของมูลค่าสะท้อนให้เห็นถึงการเติบโตอย่างรวดเร็วของ Modal โดยบริษัทระบุว่ารายได้ต่อปีเพิ่มขึ้นมากกว่า 3 เท่านับจากการระดมทุนรอบเดือนพฤษภาคมจนมากกว่า 1 พันล้านดอลลาร์แล้ว รายได้เกือบหนึ่งในสามของ Modal มาจาก Sandboxes ซึ่งเป็นบริการคลาวด์ที่มีคอนเทนเนอร์ที่ได้รับการปรับแต่งมาเพื่อเวิร์กโหลด AI นักพัฒนาสามารถใช้คอนเทนเนอร์เหล่านี้เป็นสภาพแวดล้อมสำหรับการฝึกสอนโมเดล นอกจากนี้ บริการดังกล่าวยังรองรับการรันเอเจนต์ AI และโค้ดที่เอเจนต์สร้างขึ้นได้อีกด้วย Modal ระบุว่า Sandboxes มีความสามารถในการจัดเตรียมคอนเทนเนอร์ได้หลายหมื่นรายการต่อวินาที ความสามารถในการขยายตัวดังกล่าวเกิดขึ้นได้เพราะระบบจัดการโครงสร้างพื้นฐานหรือตัวจัดตารางเวลาที่สร้างขึ้นมาโดยเฉพาะ โดยตัวจัดตารางเวลานี้จะทำการประมวลผลคำขอจัดเตรียมคอนเทนเนอร์แบบขนานผ่านเซิร์ฟเวอร์หลายเครื่องเพื่อเร่งความเร็วในการทำงาน Modal ระบุว่าบริษัทสามารถรันคอนเทนเนอร์พร้อมกันได้ถึง 1 ล้านรายการในการทดสอบภายในเมื่อไม่นานมานี้ Sandboxes ที่โฮสต์เอเจนต์ AI บางครั้งจะเชื่อมต่อกับคอนเทนเนอร์ชุดที่สองหรือ …",
-    "pubDate": "Thu, 15 Oct 2026 06:59:06 +0000",
-    "source": "TechTalk Thai",
-    "category": "AI",
-    "thumbnail": "https://www.techtalkthai.com/wp-content/uploads/2026/10/Modal-logo.png",
-    "readTime": "4 นาที"
-  },
-  {
-    "id": "https://www.techtalkthai.com/?p=171209",
-    "title": "ขอเชิญทุกท่านเข้าร่วมงาน “COHESITY x YIPINTSOI NEXT : Resilience Everywhere & Data Security Event”",
-    "link": "https://www.techtalkthai.com/cohesity-x-yipintsoi-next-resilience-everywhere-data-security-event/",
-    "content": "Cohesity ขอเชิญ CIO, CTO, COO, IT Security, Security Consultant และ ผู้สนใจในสายไอทีทุกท่านเข้าร่วมงาน “COHESITY x YIPINTSOI NEXT : Resilience Everywhere & Data Security Event” เพื่ออัปเดตแนวทางด้าน Cyber Resilience และ Data Security ล่าสุด พร้อมเรียนรู้เทคโนโลยีและกรณีศึกษาที่จะช่วยให้องค์กรของท่านสามารถปกป้องข้อมูล ฟื้นตัวจากเหตุการณ์ Ransomware ได้อย่างรวดเร็ว และลดความเสี่ยงจากข้อมูลในยุค AI โดยงานจะจัดขึ้นใน วันพุธที่ 18 พฤศจิกายน 2026 เวลา 12.00 – 16.30น. ณ Grande Centre Point Terminal 21 (แผนที่ : https://maps.app.goo.gl/E5dPHwM9RngdKDxj8 ) รายละเอียดงาน …",
-    "pubDate": "Thu, 15 Oct 2026 03:54:14 +0000",
-    "source": "TechTalk Thai",
-    "category": "Security",
-    "thumbnail": "https://www.techtalkthai.com/wp-content/uploads/2026/10/Cohesity-x-Yipintsoi-FB-Banner.png",
-    "readTime": "2 นาที"
-  },
-  {
-    "id": "https://www.techtalkthai.com/?p=171203",
-    "title": "Anthropic เตือนภัย AI Worms มีความเสี่ยงระบาดข้ามอุปกรณ์ IoT ยึดระบบ Smart Home อัตโนมัติ",
-    "link": "https://www.techtalkthai.com/anthropic-ai-worms/",
-    "content": "Anthropic ออกโรงเตือนภัยคุกคามไซเบอร์ระลอกใหม่ โดยชี้ว่าโมเดลและเอเจนต์ AI ที่ฉลาดขึ้นเรื่อย ๆ อาจพัฒนาไปสู่สภาวะ AI Worms ที่มีความสามารถในการขยายพันธุ์และแพร่กระจายตัวเองข้ามโครงข่ายอุปกรณ์ IoT ภายในบ้านและองค์กร เช่น เตาอบ, โทรทัศน์ ไปจนถึงเครื่องตัดหญ้าอัตโนมัติ โดยไม่ต้องอาศัยการสั่งการจากมนุษย์ ซึ่งอาจกลายเป็นวิกฤตความมั่นคงปลอดภัยที่ควบคุมได้ยากในอนาคตอันใกล้ นักวิจัยของ Anthropic ระบุผ่านรายงานวิจัยล่าสุดว่า หากขีดความสามารถของ AI ยังคงพัฒนาในอัตราเร่งเช่นนี้ อีกไม่กี่เดือนข้างหน้าเราอาจได้เห็นเอเจนต์ AI เริ่มแพร่กระจายตัวแบบ Computer Worms โดยเปรียบเทียบการลุกลามระยะแรกบนอุปกรณ์ที่มีช่องโหว่ว่ามีลักษณะคล้าย Digital Slime Mold ที่ค่อย ๆ ซึมลึกและขยายวงกว้างอย่างเงียบ ๆ ยิ่งอุปกรณ์ IoT เริ่มมีจำนวนมากขึ้นในช่วง 10 กว่าปีที่ผ่านมา ข้อดีของมันกลายเป็นจุดอ่อนของโครงสร้างความปลอดภัยดิจิทัล เพราะด้วยการแข่งขันเรื่องราคาทำให้ผู้ผลิตละเลยเรื่องการติดตั้งระบบป้องกันพื้นฐาน รวมถึงการแข่งขันที่ดุเดือดยังทำให้ผู้ผลิตบางรายปิดตัวลง และไม่มีการปล่อยแพตช์อัปเดต อีกทั้งฝั่งผู้ใช้เองยังละเลยที่จะไม่เปลี่ยนรหัสผ่าน หรือปล่อยให้เชื่อมต่ออินเทอร์เน็ตต่อไปแม้ไม่มีการใช้งาน ถึงในอดีตอุปกรณ์เหล่านี้จะเป็นเป้าหมายของการโจมตีอยู่แล้ว แต่การเข้ามาของ AI และความสามารถในการเขียนโค้ดอัตโนมัติ ทำให้นักวิจัยเริ่มเห็นสัญญาณของเอเจนต์ AI ที่เข้ามาช่วยแฮกเกอร์เขียนสคริปต์ …",
-    "pubDate": "Thu, 15 Oct 2026 02:49:25 +0000",
-    "source": "TechTalk Thai",
-    "category": "Security",
-    "thumbnail": "https://www.techtalkthai.com/wp-content/uploads/2026/10/TTT-2026-10-15T094720.075-640x336.jpg",
-    "readTime": "4 นาที"
-  },
-  {
-    "id": "https://www.techtalkthai.com/?p=171191",
-    "title": "บริหาร Cloud, Edge และ AI ให้เป็นเรื่องง่ายด้วย Dell Automation Platform [Guest Post]",
-    "link": "https://www.techtalkthai.com/dell-manage-cloud-edge-and-ai-with-dell-automation-platform-guest-post/",
-    "content": "ในช่วงที่โครงสร้าง IT ขององค์กรกำลังเปลี่ยนผ่านสู่ยุคของ Cloud, Edge และ AI ความท้าทายสำคัญไม่ใช่เพียงการเลือกเทคโนโลยีที่เหมาะสม แต่คือการบริหารจัดการระบบทั้งหมดให้ทำงานร่วมกันได้อย่างมีประสิทธิภาพ และสอดคล้องกับทิศทางธุรกิจ SiS ในฐานะ Distributor ของ Dell Technologies มุ่งมั่นนำโซลูชันที่ผ่านการออกแบบและพิสูจน์แล้วมาช่วยให้องค์กรลดความซับซ้อนในการบริหาร IT Infrastructure เพิ่มความคล่องตัวและความพร้อมในการเติบโตระยะยาว วันนี้ เราขอแนะนำ Dell Automation Platform แพลตฟอร์มใหม่จาก Dell ที่ช่วยรวมการบริหาร Cloud, Edge และ AI ไว้ในศูนย์กลางเดียว ด้วยระบบอัตโนมัติอัจฉริยะ ทำไม Dell Automation Platform จึงตอบโจทย์องค์กรยุคนี้ Dell Automation Platform คือแพลตฟอร์มซอฟต์แวร์สำหรับ บริหารและทำงานให้อัตโนมัติ บนโครงสร้างพื้นฐานไอทีของ Dell แบบศูนย์กลาง ช่วยให้องค์กรสามารถ ติดตั้ง (deploy), ดูแล (manage) และขยาย (scale) โซลูชันสำคัญอย่าง …",
-    "pubDate": "Thu, 15 Oct 2026 01:56:04 +0000",
-    "source": "TechTalk Thai",
-    "category": "AI",
-    "thumbnail": "https://www.techtalkthai.com/wp-content/uploads/2026/10/AD-SIS-1200x628-px-scaled.jpg",
-    "readTime": "3 นาที"
-  },
-  {
-    "id": "https://www.techtalkthai.com/?p=171186",
-    "title": "Cisco เตือนช่องโหว่ Critical บน Secure Email Gateway ถูกใช้โจมตีจริง เปิดทางรันคำสั่งระดับ root",
-    "link": "https://www.techtalkthai.com/cisco-secure-email-gateway-critical-flaw-actively-exploited-root/",
-    "content": "Cisco เตือนช่องโหว่ Critical CVE-2026-76519 บน Secure Email Gateway ที่กำลังถูกใช้โจมตีจริง ผู้โจมตีสามารถส่งอีเมลแนบไฟล์ที่สร้างขึ้นเป็นพิเศษผ่าน gateway เพื่อเขียนไฟล์ลงระบบปฏิบัติการของอุปกรณ์ และอาจรันคำสั่งด้วยสิทธิ์ root ได้โดยไม่ต้องยืนยันตัวตน Cisco ระบุใน security advisory ว่าช่องโหว่ CVE-2026-76519 มีคะแนน CVSS 9.8 โดยค้นพบจากการสแกนความปลอดภัยภายในของ Cisco เอง และพบการโจมตีจริงในเดือนตุลาคม 2026 อุปกรณ์ที่ได้รับผลกระทบต้องเข้าเงื่อนไขครบทั้ง 2 ข้อ คือเปิดใช้งาน File Reputation service ซึ่งเป็นส่วนหนึ่งของฟีเจอร์ Advanced Malware Protection (AMP) และผูกไว้กับ mail policy และใช้ Content Scanner Tools เวอร์ชันต่ำกว่า 25.3.0.5525 ทั้งนี้ครอบคลุมทั้ง gateway แบบ physical และ …",
-    "pubDate": "Wed, 14 Oct 2026 23:05:09 +0000",
-    "source": "TechTalk Thai",
-    "category": "Security",
-    "thumbnail": "https://www.techtalkthai.com/wp-content/uploads/2026/01/cisco-vulnerability-alert-banner-2026-640x357.png",
-    "readTime": "2 นาที"
-  },
-  {
-    "id": "https://www.techtalkthai.com/?p=171187",
-    "title": "SolarWinds เปิดตัว Avior ระบบ Agentic AI แบบ Goal-Oriented สำหรับงาน IT Operations ในองค์กร",
-    "link": "https://www.techtalkthai.com/solarwinds-avior-goal-oriented-agentic-ai-it-operations/",
-    "content": "SolarWinds เปิดตัว Avior ระบบ agentic AI แบบ standalone ที่ทำงานตามเป้าหมาย (goal-oriented) สำหรับสภาพแวดล้อม IT ที่มีความสำคัญสูง โดยช่วยให้ทีม IT กำหนดเป้าหมาย ประสานงาน agent เฉพาะทาง และติดตามผลลัพธ์ที่วัดได้ครอบคลุมทั้งระบบ hybrid Avior ทำงานบน SolarWinds Platform และออกแบบมาเพื่อรับงาน first-line เช่น การวินิจฉัยปัญหาจากมุมมองของผู้ดูแลระบบ และการทำ root cause analysis ข้ามผลิตภัณฑ์และสภาพแวดล้อมต่างๆ ระบบผสานความสามารถของ AI เข้ากับ deterministic execution framework ที่ดำเนินการตามเป้าหมายที่กำหนดไว้ล่วงหน้าภายใต้ guardrail, ขั้นตอนการอนุมัติ และ workflow ที่ตรวจสอบย้อนหลังได้ SolarWinds ระบุว่าแนวทางนี้ช่วยลดความไม่แน่นอนของผลลัพธ์ ซึ่งในสภาพแวดล้อม IT ที่มีความสำคัญสูงอาจกลายเป็นความเสี่ยงและต้นทุนในรูปของ downtime ภาระด้าน audit และเวลาของวิศวกรอาวุโส …",
-    "pubDate": "Wed, 14 Oct 2026 23:05:06 +0000",
-    "source": "TechTalk Thai",
-    "category": "AI",
-    "thumbnail": "https://www.techtalkthai.com/wp-content/uploads/2026/10/SolarWinds_Blog_-_Avior_Announcement_Original-file-640x350.webp",
-    "readTime": "2 นาที"
-  },
-  {
-    "id": "https://www.techtalkthai.com/?p=171181",
-    "title": "เน็ตแอพ ยกระดับองค์กรยุคใหม่ สู่ Hybrid Multi-Cloud ขับเคลื่อนนวัตกรรมได้ทุกที่อย่างไร้รอยต่อ [PR]",
-    "link": "https://www.techtalkthai.com/netapp-hybrid-multi-cloud-pr/",
-    "content": "เน็ตแอพ® (NASDAQ: NTAP) บริษัทผู้ให้บริการโครงสร้างพื้นฐานข้อมูลอัจฉริยะ ประกาศเปิดตัวขีดความสามารถใหม่ด้าน Hybrid Multi-Cloud พร้อมระบบควบคุมอัตโนมัติ ช่วยให้องค์กรมีความยืดหยุ่นและประสิทธิภาพสูงสุดในการรองรับทุกเวิร์กโหลด พร้อมช่วยให้องค์กรนำกลยุทธ์ด้านข้อมูลสมัยใหม่มาใช้งานได้อย่างมีประสิทธิภาพมากขึ้น ทั้งบนระบบภายในองค์กร (On-Premises) และคลาวด์ พร้อมคำนึงถึงอธิปไตยของข้อมูล การกำกับดูแล และการควบคุมการใช้ทรัพยากร ปัจจุบันแอปพลิเคชันระดับองค์กรและเวิร์กโหลดด้าน AI มีการทำงานครอบคลุมบนสภาพแวดล้อมที่หลากหลายมากขึ้น ตั้งแต่ระบบภายในองค์กร (On-Premises) คลาวด์สาธารณะ (Public Clouds) คลาวด์ในเขตอธิปไตยเฉพาะ (Sovereign Regions) ไปจนถึงสถาปัตยกรรม AI Factory ที่กำลังเกิดขึ้น ส่งผลให้องค์กรต้องการมากกว่าโครงสร้างพื้นฐานที่ยืดหยุ่น แต่ยังต้องมีรูปแบบการดำเนินงานที่สอดคล้องกัน เพื่อรองรับความต้องการด้านการประมวลผลที่เพิ่มขึ้นอย่างรวดเร็ว พร้อมรองรับข้อกำหนดด้านการกำกับดูแล ความต่อเนื่องในการดำเนินงาน ประสิทธิภาพ และการควบคุมข้อมูลให้เป็นไปตามข้อกำหนดของแต่ละพื้นที่ ในขณะเดียวกัน การบริหารจัดการที่ยังอาศัยคนดำเนินการ เครื่องมือที่แยกส่วน และกลยุทธ์ด้านข้อมูลที่ขาดการเชื่อมโยง อาจส่งผลให้องค์กรดำเนินงานและพัฒนานวัตกรรมล่าช้า เพิ่มความเสี่ยงในการดำเนินงาน และทำให้ควบคุมต้นทุนได้ยากขึ้นเมื่อการใช้งานขยายตัวในระดับองค์กร Sandeep Singh รองประธานอาวุโสและผู้จัดการทั่วไป ฝ่าย Platform ของ เน็ตแอพ กล่าวว่า “สถาปัตยกรรมระบบจัดเก็บข้อมูลเป็นตัวกำหนดว่าแต่ละเวิร์กโหลดจะทำงานอย่างไร ลูกค้าไม่ควรต้องเลือกระหว่างประสิทธิภาพและความสามารถในการควบคุมระบบจากโครงสร้างพื้นฐานภายในองค์กร …",
-    "pubDate": "Wed, 14 Oct 2026 11:21:40 +0000",
-    "source": "TechTalk Thai",
-    "category": "AI",
-    "thumbnail": "https://www.techtalkthai.com/wp-content/uploads/2026/10/netappcropr-640x335.png",
     "readTime": "4 นาที"
   },
   {
