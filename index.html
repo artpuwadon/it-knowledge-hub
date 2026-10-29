@@ -108,6 +108,9 @@
                         <button onclick="switchCategory('Security')" id="tab-Security" class="w-full text-left px-3 py-2.5 rounded-xl font-medium text-sm transition cursor-pointer text-slate-600 hover:bg-slate-100">
                             🛡️ Cyber Security
                         </button>
+                        <button onclick="switchCategory('Threat')" id="tab-Threat" class="w-full text-left px-3 py-2.5 rounded-xl font-medium text-sm transition cursor-pointer text-slate-600 hover:bg-slate-100 flex items-center gap-2">
+                            🚨 ภัยคุกคามทางไซเบอร์
+                        </button>
                         <button onclick="switchCategory('Law')" id="tab-Law" class="w-full text-left px-3 py-2.5 rounded-xl font-medium text-sm transition cursor-pointer text-slate-600 hover:bg-slate-100">
                             ⚖️ กฎหมาย & ระเบียบ
                         </button>
@@ -248,7 +251,10 @@
                     if (selectedCat === 'general') return itemCat.includes('general') || itemCat.includes('ทั่วไป');
                     if (selectedCat === 'law') return itemCat.includes('law') || itemCat.includes('กฎหมาย');
                     if (selectedCat === 'info') return itemCat.includes('info') || itemCat.includes('สรุป');
-
+                    // เพิ่มการเช็กหมวด Threat ใน filterAndDisplay()
+                    if (selectedCat === 'threat' || selectedCat === 'ภัยคุกคามทางไซเบอร์') {
+                        return itemCat.includes('threat') || itemCat.includes('ภัยคุกคาม') || itemCat.includes('แรนซัมแวร์');
+                    }
                     return itemCat === selectedCat || itemCat.includes(selectedCat);
                 });
             }
