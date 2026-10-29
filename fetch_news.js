@@ -53,18 +53,15 @@ const SECURITY_KEYWORDS = [
 ];
 
 function detectCategory(title, content, defaultCategory) {
-    // 🛡️ ถ้าระบุหมวดหมู่เฉพาะเจาะจงมาแล้ว (เช่น Security หรือ ภัยคุกคามทางไซเบอร์) ให้ยึดตามนั้นทันที
     if (defaultCategory === 'Security' || defaultCategory === 'ภัยคุกคามทางไซเบอร์') {
         return defaultCategory;
     }
 
     const textToTest = `${title || ''} ${content || ''}`.toLowerCase();
 
-    // 🛡️ ตรวจหาคีย์เวิร์ด Security จากฟีดทั่วไป
     const isSecurity = SECURITY_KEYWORDS.some(k => textToTest.includes(k));
     if (isSecurity) return 'Security';
 
-    // 🤖 ตรวจหาคีย์เวิร์ด AI
     const isAI = AI_KEYWORDS.some(k => textToTest.includes(k)) || /\bai\b/i.test(textToTest);
     if (isAI) return 'AI';
     
@@ -98,7 +95,6 @@ function readLocalKnowledge() {
     files.forEach(file => {
         if (path.extname(file) === '.md') {
             const filePath = path.join(knowledgeDir, file);
-            
             const contentRaw = fs.readFileSync(filePath, 'utf-8');
             const content = contentRaw.replace(/^\uFEFF/, '').trim(); 
             
@@ -144,6 +140,34 @@ function readLocalKnowledge() {
     return localArticles;
 }
 
+// ⏱️ ฟังก์ชันคำนวณเวลาอ่าน
+function calculateReadTime(text) {
+    if (!text) return '1 นาที';
+    const cleanText = text.replace(/<[^>]*>?/gm, '').trim();
+    const minutes = Math.ceil(cleanText.length / 400);
+    return `${Math.max(1, minutes)} นาที`;
+}
+
+// 📌 ฟังก์ชันสร้างข้อความสรุปข่าวเด่นประจำวัน (3 ข่าวเล่าเรื่อง)
+function generateDailySummary(articles) {
+    if (!articles || articles.length === 0) return [];
+    
+    // คัดเลือก 3 ข่าวล่าสุดที่มีเนื้อหาครบถ้วนมาทำสรุปสั้น
+    const topArticles = articles.slice(0, 3);
+    
+    return topArticles.map(item => {
+        const cleanContent = (item.content || '').replace(/<[^>]*>?/gm, '').trim();
+        const shortSummary = cleanContent.length > 100 ? cleanContent.substring(0, 100) + '...' : cleanContent;
+        return {
+            id: item.id,
+            title: item.title,
+            category: item.category,
+            source: item.source,
+            summary: shortSummary
+        };
+    });
+}
+
 async function main() {
     let allArticles = [];
     const seenUrls = new Set();
@@ -184,18 +208,19 @@ async function main() {
     allArticles = [...localData, ...allArticles];
     allArticles.sort((a, b) => new Date(b.pubDate) - new Date(a.pubDate));
 
-    fs.writeFileSync('data.json', JSON.stringify(allArticles, null, 2), 'utf-8');
-    console.log(`🎉 สรุปคลังความรู้ใหม่เสร็จสิ้นทั้งหมด ${allArticles.length} รายการ`);
+    // ⚡ สร้าง Daily Summary ข่าวเด่น 3 เรื่อง
+    const dailySummary = generateDailySummary(allArticles);
+
+    // 📦 โครงสร้างข้อมูลส่งออกรองรับทั้ง UI แบนเนอร์และรายการข่าว
+    const outputData = {
+        dailySummary: dailySummary,
+        articles: allArticles
+    };
+
+    fs.writeFileSync('data.json', JSON.stringify(outputData, null, 2), 'utf-8');
+    console.log(`🎉 สรุปคลังความรู้ใหม่เสร็จสิ้นทั้งหมด ${allArticles.length} รายการ (บันทึก Daily Summary สำเร็จ)`);
 
     process.exit(0);
-}
-
-// ⏱️ ฟังก์ชันคำนวณเวลาอ่าน (ประมาณ 400 อักขระภาษาไทย / 1 นาที)
-function calculateReadTime(text) {
-    if (!text) return '1 นาที';
-    const cleanText = text.replace(/<[^>]*>?/gm, '').trim();
-    const minutes = Math.ceil(cleanText.length / 400);
-    return `${Math.max(1, minutes)} นาที`;
 }
 
 main();
