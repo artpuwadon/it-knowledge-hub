@@ -70,28 +70,31 @@
     <!-- Main Content -->
     <main class="max-w-5xl mx-auto px-4 py-8">
         
-        <!-- ⚡ AI Daily Summary Banner (ด้านบนสุด) -->
+        <!-- ⚡ AI Daily Summary Hero Slide Banner (ด้านบนสุด) -->
         <div id="dailySummaryContainer" class="hidden mb-8 -mt-16 relative z-10">
-            <div class="bg-gradient-to-r from-blue-900 via-indigo-900 to-slate-900 rounded-2xl p-6 text-white shadow-xl border border-blue-500/20">
-                <div class="flex items-center justify-between mb-4">
-                    <div class="flex items-center gap-2">
-                        <span class="bg-blue-500/30 text-blue-300 text-xs font-bold px-3 py-1 rounded-full uppercase tracking-wider flex items-center gap-1.5 border border-blue-400/30">
-                            <span class="w-2 h-2 bg-blue-400 rounded-full animate-ping"></span>
-                            AI สรุปข่าวเด่นวันนี้
-                        </span>
-                        <span id="summaryDate" class="text-xs text-slate-300 hidden sm:inline"></span>
-                    </div>
-                    <span class="text-xs text-slate-400">⚡ ประมวลผลอัตโนมัติ</span>
+            <div class="relative bg-slate-900 rounded-2xl overflow-hidden shadow-2xl border border-slate-700/50 group">
+                
+                <!-- Slide Items Container -->
+                <div id="summarySlideList" class="relative w-full h-[320px] md:h-[280px]">
+                    <!-- รายการสไลด์จะถูกฉีดเข้าตรงนี้ผ่าน JS -->
                 </div>
 
-                <!-- รายการข่าวเด่น 3 เรื่อง -->
-                <div id="dailySummaryList" class="grid grid-cols-1 md:grid-cols-3 gap-4">
-                    <!-- ข้อมูลสรุปจะถูกแสดงที่นี่ผ่าน JS -->
+                <!-- ปุ่มควบคุม Slide < > -->
+                <button onclick="prevSlide()" class="absolute left-3 top-1/2 -translate-y-1/2 bg-black/40 hover:bg-black/70 text-white p-2.5 rounded-full backdrop-blur-md transition cursor-pointer z-20">
+                    ❮
+                </button>
+                <button onclick="nextSlide()" class="absolute right-3 top-1/2 -translate-y-1/2 bg-black/40 hover:bg-black/70 text-white p-2.5 rounded-full backdrop-blur-md transition cursor-pointer z-20">
+                    ❯
+                </button>
+
+                <!-- จุด Indicators ด้านล่าง -->
+                <div id="slideIndicators" class="absolute bottom-3 left-1/2 -translate-x-1/2 flex gap-1.5 z-20">
+                    <!-- จุดวงกลมบอกสไลด์ -->
                 </div>
             </div>
         </div>
 
-        <!-- กล่องค้นหา -->
+        <!-- กล่องค้นหาหลัก -->
         <div class="bg-white p-6 rounded-2xl shadow-sm border border-slate-200/80 mb-8 relative z-10">
             <div class="relative">
                 <input type="text" id="searchInput" placeholder="พิมพ์คำค้นหา เช่น รหัสผ่าน, Docker, AI..." 
@@ -158,10 +161,9 @@
 
     </main>
 
-    <!-- โครงสร้างหน้าต่างป๊อปอัป (Modal) -->
+    <!-- Modal อ่านบทความฉบับเต็ม -->
     <div id="articleModal" class="fixed inset-0 bg-slate-900/60 backdrop-blur-xs hidden items-center justify-center p-4 z-50 transition-all duration-200">
         <div class="bg-white rounded-2xl max-w-3xl w-full max-h-[85vh] flex flex-col shadow-2xl border border-slate-100 overflow-hidden transform scale-100 transition-transform">
-            <!-- ส่วนหัว Modal -->
             <div class="p-6 border-b border-slate-100 flex justify-between items-start bg-slate-50/70">
                 <div class="pr-4">
                     <span id="modalCategory" class="bg-blue-100 text-blue-700 text-xs font-semibold px-2.5 py-1 rounded-md mb-2 inline-block"></span>
@@ -170,11 +172,9 @@
                 </div>
                 <button onclick="closeModal()" class="text-slate-400 hover:text-slate-600 hover:bg-slate-200/60 p-2.5 rounded-xl transition cursor-pointer text-2xl font-bold leading-none select-none shrink-0">&times;</button>
             </div>
-            <!-- ส่วนเนื้อหาตัวเต็ม -->
             <div id="modalBody" class="p-6 overflow-y-auto flex-1 text-slate-700 leading-relaxed text-base">
-                <!-- ข้อมูลจะถูกหย่อนลงตรงนี้ผ่าน JS -->
+                <!-- เนื้อหา -->
             </div>
-            <!-- ส่วนท้าย Modal -->
             <div class="p-4 border-t border-slate-100 bg-slate-50 flex justify-end">
                 <button onclick="closeModal()" class="px-5 py-2 bg-slate-200 hover:bg-slate-300 text-slate-700 text-sm font-medium rounded-xl transition cursor-pointer">
                     ปิดหน้าต่าง
@@ -213,7 +213,7 @@
             </div>
 
             <div class="p-3 bg-white border-t border-slate-200 flex gap-2">
-                <input type="text" id="chatInput" placeholder="พิมพ์คำถาม เช่น เปลี่ยนรหัสผ่าน, AI..." 
+                <input type="text" id="chatInput" placeholder="พิมพ์คำค้นหา เช่น รหัสผ่าน, AI..." 
                        class="flex-1 bg-slate-50 border border-slate-300 rounded-xl px-3 py-2 text-xs focus:outline-none focus:ring-2 focus:ring-blue-600"
                        onkeypress="handleChatKeyPress(event)">
                 <button onclick="sendChatMessage()" class="bg-blue-600 hover:bg-blue-700 text-white px-3.5 py-2 rounded-xl text-xs font-semibold transition cursor-pointer shrink-0">
@@ -223,10 +223,14 @@
         </div>
     </div>
 
+    <!-- JavaScript Scripts -->
     <script>
         let allData = [];
         let currentFilteredData = [];
         let currentCategory = 'ALL';
+        let currentSlideIndex = 0;
+        let slideData = [];
+        let slideInterval = null;
 
         function calculateReadTime(text) {
             if (!text) return '1 นาที';
@@ -271,7 +275,6 @@
                 const response = await fetch('data.json');
                 const rawData = await response.json();
                 
-                // รองรับทั้งโครงสร้างแบบใหม่ (Object มี dailySummary) และแบบเดิม (Array)
                 if (Array.isArray(rawData)) {
                     allData = rawData;
                 } else {
@@ -287,42 +290,102 @@
             }
         }
 
+        // ⚡ Hero Slide Banner Functions
         function renderDailySummary(summaryList) {
             const container = document.getElementById('dailySummaryContainer');
-            const listElement = document.getElementById('dailySummaryList');
-            const dateElement = document.getElementById('summaryDate');
+            const slideList = document.getElementById('summarySlideList');
+            const indicators = document.getElementById('slideIndicators');
 
             if (!summaryList || summaryList.length === 0) {
                 container.classList.add('hidden');
                 return;
             }
 
-            const today = new Date().toLocaleDateString('th-TH', { day: 'numeric', month: 'short', year: 'numeric' });
-            if (dateElement) dateElement.innerText = `ประจำวันที่ ${today}`;
+            slideData = summaryList;
+            const fallbackImage = "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1000&auto=format&fit=crop&q=80";
 
-            listElement.innerHTML = summaryList.map((item, index) => `
-                <div onclick="openArticle('${item.id}')" class="bg-white/10 backdrop-blur-sm hover:bg-white/20 p-4 rounded-xl border border-white/10 transition cursor-pointer flex flex-col justify-between group">
-                    <div>
-                        <div class="flex items-center gap-2 mb-2">
-                            <span class="text-[10px] font-bold bg-blue-500/40 text-blue-200 px-2 py-0.5 rounded">
-                                เรื่องที่ ${index + 1}
-                            </span>
-                            <span class="text-[10px] text-slate-300">📍 ${item.source}</span>
+            slideList.innerHTML = summaryList.map((item, index) => {
+                const imgUrl = item.thumbnail || fallbackImage;
+                const isInternal = item.id && String(item.id).startsWith('local-');
+                const clickAction = isInternal ? `openArticle('${item.id}')` : `window.open('${item.link}', '_blank')`;
+
+                return `
+                    <div class="slide-item absolute inset-0 transition-opacity duration-500 ease-in-out ${index === 0 ? 'opacity-100 z-10' : 'opacity-0 z-0'}" data-index="${index}">
+                        <div class="absolute inset-0 bg-gradient-to-t from-slate-950 via-slate-900/80 to-transparent z-10"></div>
+                        <img src="${imgUrl}" class="w-full h-full object-cover opacity-60" alt="slide image" onerror="this.src='${fallbackImage}'">
+                        <div class="absolute inset-0 z-20 p-6 md:p-8 flex flex-col justify-end max-w-3xl">
+                            <div class="flex items-center gap-2 mb-2">
+                                <span class="bg-blue-600 text-white text-[10px] font-bold px-2.5 py-0.5 rounded-full uppercase tracking-wider shadow-sm flex items-center gap-1">
+                                    <span class="w-1.5 h-1.5 bg-white rounded-full animate-ping"></span>
+                                    AI สรุปข่าวเด่นประจำวัน
+                                </span>
+                                <span class="bg-slate-800/80 backdrop-blur-md text-slate-300 text-xs px-2.5 py-0.5 rounded-md border border-slate-700">
+                                    📍 ${item.source}
+                                </span>
+                            </div>
+                            <h3 onclick="${clickAction}" class="text-xl md:text-2xl font-bold text-white hover:text-blue-300 transition cursor-pointer line-clamp-2 leading-snug mb-2">
+                                ${item.title}
+                            </h3>
+                            <p class="text-slate-300 text-xs md:text-sm line-clamp-2 mb-3 leading-relaxed">
+                                ${item.summary}
+                            </p>
+                            <div class="flex items-center gap-3">
+                                <button onclick="${clickAction}" class="bg-blue-600 hover:bg-blue-700 text-white text-xs font-semibold px-4 py-2 rounded-xl transition cursor-pointer shadow-md">
+                                    อ่านรายละเอียด →
+                                </button>
+                            </div>
                         </div>
-                        <h4 class="font-bold text-sm text-white group-hover:text-blue-200 transition line-clamp-2 leading-snug mb-1.5">
-                            ${item.title}
-                        </h4>
-                        <p class="text-slate-300 text-xs line-clamp-2 leading-relaxed">
-                            ${item.summary}
-                        </p>
                     </div>
-                    <span class="text-[11px] text-blue-300 font-medium mt-3 inline-block group-hover:underline">อ่านต่อ →</span>
-                </div>
+                `;
+            }).join('');
+
+            indicators.innerHTML = summaryList.map((_, index) => `
+                <button onclick="goToSlide(${index})" class="indicator-dot w-2.5 h-2.5 rounded-full transition-all duration-300 cursor-pointer ${index === 0 ? 'bg-blue-500 w-6' : 'bg-white/40 hover:bg-white/70'}"></button>
             `).join('');
 
             container.classList.remove('hidden');
+            startAutoSlide();
         }
 
+        function showSlide(index) {
+            const slides = document.querySelectorAll('.slide-item');
+            const dots = document.querySelectorAll('.indicator-dot');
+            if (slides.length === 0) return;
+
+            if (index >= slides.length) currentSlideIndex = 0;
+            else if (index < 0) currentSlideIndex = slides.length - 1;
+            else currentSlideIndex = index;
+
+            slides.forEach((slide, i) => {
+                if (i === currentSlideIndex) {
+                    slide.classList.remove('opacity-0', 'z-0');
+                    slide.classList.add('opacity-100', 'z-10');
+                } else {
+                    slide.classList.remove('opacity-100', 'z-10');
+                    slide.classList.add('opacity-0', 'z-0');
+                }
+            });
+
+            dots.forEach((dot, i) => {
+                if (i === currentSlideIndex) {
+                    dot.className = "indicator-dot w-6 h-2.5 rounded-full bg-blue-500 transition-all duration-300 cursor-pointer";
+                } else {
+                    dot.className = "indicator-dot w-2.5 h-2.5 rounded-full bg-white/40 hover:bg-white/70 transition-all duration-300 cursor-pointer";
+                }
+            });
+        }
+
+        function nextSlide() { showSlide(currentSlideIndex + 1); resetAutoSlide(); }
+        function prevSlide() { showSlide(currentSlideIndex - 1); resetAutoSlide(); }
+        function goToSlide(index) { showSlide(index); resetAutoSlide(); }
+        function startAutoSlide() {
+            stopAutoSlide();
+            slideInterval = setInterval(() => { nextSlide(); }, 5000);
+        }
+        function stopAutoSlide() { if (slideInterval) clearInterval(slideInterval); }
+        function resetAutoSlide() { stopAutoSlide(); startAutoSlide(); }
+
+        // 🔍 Filter & Display
         function filterAndDisplay() {
             const searchQuery = document.getElementById('searchInput').value.trim();
             
@@ -334,7 +397,6 @@
             } else {
                 currentFilteredData = allData.filter(item => {
                     if (!item.category) return false;
-                    
                     const itemCat = item.category.toString().trim().toLowerCase();
                     const selectedCat = currentCategory.trim().toLowerCase();
 
@@ -381,11 +443,7 @@
                 const readTimeStr = item.readTime || calculateReadTime(item.content);
                 const isBookmarked = bookmarks.includes(item.id);
 
-                let imageUrl = item.thumbnail;
-                if (!imageUrl) {
-                    imageUrl = extractFirstImageUrl(item.content);
-                }
-                
+                let imageUrl = item.thumbnail || extractFirstImageUrl(item.content);
                 if (!imageUrl) {
                     const fallbackImages = [
                         "https://images.unsplash.com/photo-1518770660439-4636190af475?w=500&auto=format&fit=crop&q=60",
@@ -395,12 +453,10 @@
                         "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=500&auto=format&fit=crop&q=60",
                         "https://images.unsplash.com/photo-1531297484001-80022131f5a1?w=500&auto=format&fit=crop&q=60"
                     ];
-                    const index = (item.title ? item.title.length : 0) % fallbackImages.length;
-                    imageUrl = fallbackImages[index];
+                    imageUrl = fallbackImages[(item.title ? item.title.length : 0) % fallbackImages.length];
                 }
 
                 const isInternal = item.id && String(item.id).startsWith('local-');
-                
                 const titleLinkHtml = isInternal
                     ? `<a href="javascript:void(0)" onclick="openArticle('${item.id}')" class="hover:underline flex items-baseline gap-2 group-hover:text-blue-600">
                         <span>${item.title}</span>
