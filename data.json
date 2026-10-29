@@ -1,47 +1,71 @@
 {
   "dailySummary": [
     {
-      "id": "local-law-hub.md",
-      "title": "คลังกฎหมายและระเบียบที่เกี่ยวข้องกับการปฏิบัติราชการ",
-      "category": "Law",
-      "source": "ศูนย์รวมกฎหมายภาครัฐ",
-      "summary": "### ⚖️ ศูนย์รวมลิงก์กฎหมายฉบับเต็มและแนวทางปฏิบัติงาน\n\nเพื่อความสะดวกและถูกต้องในการอ้างอิงข้อกฎหมาย..."
-    },
-    {
       "id": "local-cybersecurity-101.md",
       "title": "แนวทางปฏิบัติการตั้งรหัสผ่านให้ปลอดภัยสำหรับบุคลากร",
       "category": "Internal",
       "source": "คู่มือภายในองค์กร",
-      "summary": "1. รหัสผ่านต้องมีความยาวอย่างน้อย 8 ตัวอักษร\n2. ประกอบด้วยอักษรตัวพิมพ์ใหญ่ ตัวพิมพ์เล็ก ตัวเลข และส..."
+      "summary": "1. รหัสผ่านต้องมีความยาวอย่างน้อย 8 ตัวอักษร\n2. ประกอบด้วยอักษรตัวพิมพ์ใหญ่ ตัวพิมพ์เล็ก ตัวเลข และสัญลักษณ์พิเศษ\n3. ห้า...",
+      "thumbnail": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=500&auto=format&fit=crop&q=60",
+      "link": "https://github.com/"
+    },
+    {
+      "id": "local-law-hub.md",
+      "title": "คลังกฎหมายและระเบียบที่เกี่ยวข้องกับการปฏิบัติราชการ",
+      "category": "Law",
+      "source": "ศูนย์รวมกฎหมายภาครัฐ",
+      "summary": "### ⚖️ ศูนย์รวมลิงก์กฎหมายฉบับเต็มและแนวทางปฏิบัติงาน\n\nเพื่อความสะดวกและถูกต้องในการอ้างอิงข้อกฎหมายของเจ้าหน้าที่ในการป...",
+      "thumbnail": "https://images.unsplash.com/photo-1589829545856-d10d557cf95f?w=500",
+      "link": "https://github.com/"
     },
     {
       "id": "https://it24hrs.com/?p=170825",
       "title": "เปิดตัว MacBook Pro PROLED XDR หน้าจอสัมผัส OLED พร้อม Dynamic Island",
       "category": "General",
       "source": "IT24Hrs",
-      "summary": "Apple เปิดตัว MacBook Pro พร้อมจอภาพ PROLED XDR เมื่อวั […]\nThe post เปิดตัว MacBook Pro PROLED XDR ..."
+      "summary": "Apple เปิดตัว MacBook Pro พร้อมจอภาพ PROLED XDR เมื่อวั […]\nThe post เปิดตัว MacBook Pro PROLED XDR หน้าจอสัมผัส OLED พร...",
+      "thumbnail": null,
+      "link": "https://it24hrs.com/2026/macbook-pro-oled-touchscreen-proled-xdr-2026/"
+    },
+    {
+      "id": "https://www.thaicert.or.th/?p=17535",
+      "title": "Google และ Mozilla อัปเดต Chrome และ Firefox แก้ช่องโหว่รวมกว่า 200 รายการ",
+      "category": "ภัยคุกคามทางไซเบอร์",
+      "source": "ThaiCERT",
+      "summary": "591/69 (IT) ประจำวันพฤหัสบดีที่ 29 ตุลาคม 2569 Google แ […]\nThe post Google และ Mozilla อัปเดต Chrome และ Firefox แก้ช่อ...",
+      "thumbnail": "https://www.thaicert.or.th/wp-content/uploads/2026/10/3_0-14-1024x768.png",
+      "link": "https://www.thaicert.or.th/2026/10/29/google-%e0%b9%81%e0%b8%a5%e0%b8%b0-mozilla-%e0%b8%ad%e0%b8%b1%e0%b8%9b%e0%b9%80%e0%b8%94%e0%b8%95-chrome-%e0%b9%81%e0%b8%a5%e0%b8%b0-firefox-%e0%b9%81%e0%b8%81%e0%b9%89%e0%b8%8a%e0%b9%88%e0%b8%ad/"
+    },
+    {
+      "id": "https://www.thaicert.or.th/?p=17534",
+      "title": "UNM Health ถูกโจมตีทางไซเบอร์ กระทบการดูแลผู้ป่วยและการผ่าตัด กลุ่ม Byod Ransomware อ้างความรับผิดชอบ",
+      "category": "ภัยคุกคามทางไซเบอร์",
+      "source": "ThaiCERT",
+      "summary": "590/69 (IT) ประจำวันพฤหัสบดีที่ 29 ตุลาคม 2569 Universi […]\nThe post UNM Health ถูกโจมตีทางไซเบอร์ กระทบการดูแลผู้ป่วยแล...",
+      "thumbnail": "https://www.thaicert.or.th/wp-content/uploads/2026/10/2_0-14-1024x768.png",
+      "link": "https://www.thaicert.or.th/2026/10/29/unm-health-%e0%b8%96%e0%b8%b9%e0%b8%81%e0%b9%82%e0%b8%88%e0%b8%a1%e0%b8%95%e0%b8%b5%e0%b8%97%e0%b8%b2%e0%b8%87%e0%b9%84%e0%b8%8b%e0%b9%80%e0%b8%9a%e0%b8%ad%e0%b8%a3%e0%b9%8c-%e0%b8%81%e0%b8%a3/"
     }
   ],
   "articles": [
-    {
-      "id": "local-law-hub.md",
-      "title": "คลังกฎหมายและระเบียบที่เกี่ยวข้องกับการปฏิบัติราชการ",
-      "link": "https://github.com/",
-      "content": "### ⚖️ ศูนย์รวมลิงก์กฎหมายฉบับเต็มและแนวทางปฏิบัติงาน\n\nเพื่อความสะดวกและถูกต้องในการอ้างอิงข้อกฎหมายของเจ้าหน้าที่ในการปฏิบัติราชการ ศูนย์ไอทีได้รวบรวมลิงก์ตรงไปยังระบบสืบค้นกฎหมายของสำนักงานคณะกรรมการกฤษฎีกา และไฟล์ PDF ฉบับราชกิจจานุเบกษาไว้ในจุดเดียว ดังนี้ครับ:\n\n---\n\n### 🛒 1. หมวดการบริหารงานพัสดุและการจัดซื้อจัดจ้าง\n*   **พ.ร.บ. การจัดซื้อจัดจ้างและการบริหารพัสดุภาครัฐ พ.ศ. 2560**\n    *   🔗 [อ่านกฎหมายฉบับเต็ม (เว็บกฤษฎีกา)](https://www.ocs.go.th/)\n    *   📄 [ดาวน์โหลดไฟล์ PDF ฉบับประกาศราชกิจจานุเบกษา](https://www.gprocurement.go.th/wps/portal/egp/Regulation/!ut/p/z1/04_Sj9CPykssy0xPLMnMz0vMAfIjo8zifQ3djQydnQ18_T3dzA0czU0NfANMLQ1MPIz1w8EKDHAARwP9KGL041EQhd_4cP0oNCvCjM2AJgT4OvsHehgYOBtCFeAxoyA3NMIg01ERAHhSDzY!/dz/d5/L0lDUmlTUSEhL3dHa0FKRnNBLzROV3FpQSEhL3Ro/)\n*   **ระเบียบกระทรวงการคลังว่าด้วยการจัดซื้อจัดจ้างและการบริหารพัสดุภาครัฐ พ.ศ. 2560**\n    *   🔗 [อ่านระเบียบฉบับเต็มและกฎกระทรวงที่เกี่ยวข้อง](https://www.gprocurement.go.th/wps/portal/egp/Regulation/Ministry_of_Finance_Regularity/)\n\n---\n\n### 🏢 2. หมวดการปฏิบัติราชการและวิธีพิจารณาทางปกครอง\n*   **พ.ร.บ. วิธีปฏิบัติราชการทางปกครอง พ.ศ. 2539 (และฉบับแก้ไขเพิ่มเติม)**\n    *   🔗 [อ่านกฎหมายฉบับเต็ม (เว็บกฤษฎีกา)](https://www.ocs.go.th/)\n*   **พ.ร.บ. ความรับผิดทางละเมิดของเจ้าหน้าที่ พ.ศ. 2539**\n    *   🔗 [อ่านกฎหมายฉบับเต็ม (เว็บกฤษฎีกา)](https://www.ocs.go.th/)\n*   **พ.ร.บ. การปฏิบัติราชการทางอิเล็กทรอนิกส์ พ.ศ. 2565** *(สำคัญมากสำหรับงานไอทีและบริการประชาชน)*\n    *   🔗 [อ่านกฎหมายฉบับเต็ม (เว็บกฤษฎีกา)](https://www.ocs.go.th/)\n\n---\n\n### 🛡️ 3. หมวดคุ้มครองข้อมูลและความมั่นคงปลอดภัยไซเบอร์\n*   **พ.ร.บ. คุ้มครองข้อมูลส่วนบุคคล พ.ศ. 2562 (PDPA)**\n    *   🔗 [สืบค้นกฎหมายและแนวทางปฏิบัติจาก สคส.](https://www.pdpc.or.th)\n*   **พ.ร.บ. การรักษาความมั่นคงปลอดภัยไซเบอร์ พ.ศ. 2562**\n    *   🔗 [สืบค้นกฎหมายและประกาศจาก สกมช. (NCSA)](https://www.ncsa.or.th/standards/laws)\n*   **พ.ร.บ. ว่าด้วยการกระทำความผิดเกี่ยวกับคอมพิวเตอร์ (ฉบับที่ 2) พ.ศ. 2560**\n    *   🔗 [อ่านกฎหมายฉบับเต็ม (เว็บกฤษฎีกา)](https://www.ocs.go.th/)\n\n---\n\n### 💡 แนะนำการใช้งานสำหรับเจ้าหน้าที่\n> หากต้องการสืบค้นกฎหมายอื่น ๆ เพิ่มเติม นอกเหนือจากรายการข้างต้น สามารถเข้าใช้งานระบบกฎหมายดิจิทัลโดยตรงได้ที่ **[ระบบสืบค้นกฎหมาย สำนักงานคณะกรรมการกฤษฎีกา](https://www.ocs.go.th/)** เพื่อข้อมูลที่อัปเดตและเป็นปัจจุบันที่สุด",
-      "pubDate": "2026-10-29T09:00:53.333Z",
-      "source": "ศูนย์รวมกฎหมายภาครัฐ",
-      "category": "Law",
-      "thumbnail": "https://images.unsplash.com/photo-1589829545856-d10d557cf95f?w=500"
-    },
     {
       "id": "local-cybersecurity-101.md",
       "title": "แนวทางปฏิบัติการตั้งรหัสผ่านให้ปลอดภัยสำหรับบุคลากร",
       "link": "https://github.com/",
       "content": "1. รหัสผ่านต้องมีความยาวอย่างน้อย 8 ตัวอักษร\n2. ประกอบด้วยอักษรตัวพิมพ์ใหญ่ ตัวพิมพ์เล็ก ตัวเลข และสัญลักษณ์พิเศษ\n3. ห้ามใช้ข้อมูลส่วนตัว เช่น วันเกิด หรือเบอร์โทรศัพท์\n4. เปลี่ยนรหัสผ่านใหม่ทุกๆ 3-6 เดือนเพื่อความปลอดภัย",
-      "pubDate": "2026-10-29T09:00:53.332Z",
+      "pubDate": "2026-10-29T09:46:11.097Z",
       "source": "คู่มือภายในองค์กร",
       "category": "Internal",
       "thumbnail": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=500&auto=format&fit=crop&q=60"
+    },
+    {
+      "id": "local-law-hub.md",
+      "title": "คลังกฎหมายและระเบียบที่เกี่ยวข้องกับการปฏิบัติราชการ",
+      "link": "https://github.com/",
+      "content": "### ⚖️ ศูนย์รวมลิงก์กฎหมายฉบับเต็มและแนวทางปฏิบัติงาน\n\nเพื่อความสะดวกและถูกต้องในการอ้างอิงข้อกฎหมายของเจ้าหน้าที่ในการปฏิบัติราชการ ศูนย์ไอทีได้รวบรวมลิงก์ตรงไปยังระบบสืบค้นกฎหมายของสำนักงานคณะกรรมการกฤษฎีกา และไฟล์ PDF ฉบับราชกิจจานุเบกษาไว้ในจุดเดียว ดังนี้ครับ:\n\n---\n\n### 🛒 1. หมวดการบริหารงานพัสดุและการจัดซื้อจัดจ้าง\n*   **พ.ร.บ. การจัดซื้อจัดจ้างและการบริหารพัสดุภาครัฐ พ.ศ. 2560**\n    *   🔗 [อ่านกฎหมายฉบับเต็ม (เว็บกฤษฎีกา)](https://www.ocs.go.th/)\n    *   📄 [ดาวน์โหลดไฟล์ PDF ฉบับประกาศราชกิจจานุเบกษา](https://www.gprocurement.go.th/wps/portal/egp/Regulation/!ut/p/z1/04_Sj9CPykssy0xPLMnMz0vMAfIjo8zifQ3djQydnQ18_T3dzA0czU0NfANMLQ1MPIz1w8EKDHAARwP9KGL041EQhd_4cP0oNCvCjM2AJgT4OvsHehgYOBtCFeAxoyA3NMIg01ERAHhSDzY!/dz/d5/L0lDUmlTUSEhL3dHa0FKRnNBLzROV3FpQSEhL3Ro/)\n*   **ระเบียบกระทรวงการคลังว่าด้วยการจัดซื้อจัดจ้างและการบริหารพัสดุภาครัฐ พ.ศ. 2560**\n    *   🔗 [อ่านระเบียบฉบับเต็มและกฎกระทรวงที่เกี่ยวข้อง](https://www.gprocurement.go.th/wps/portal/egp/Regulation/Ministry_of_Finance_Regularity/)\n\n---\n\n### 🏢 2. หมวดการปฏิบัติราชการและวิธีพิจารณาทางปกครอง\n*   **พ.ร.บ. วิธีปฏิบัติราชการทางปกครอง พ.ศ. 2539 (และฉบับแก้ไขเพิ่มเติม)**\n    *   🔗 [อ่านกฎหมายฉบับเต็ม (เว็บกฤษฎีกา)](https://www.ocs.go.th/)\n*   **พ.ร.บ. ความรับผิดทางละเมิดของเจ้าหน้าที่ พ.ศ. 2539**\n    *   🔗 [อ่านกฎหมายฉบับเต็ม (เว็บกฤษฎีกา)](https://www.ocs.go.th/)\n*   **พ.ร.บ. การปฏิบัติราชการทางอิเล็กทรอนิกส์ พ.ศ. 2565** *(สำคัญมากสำหรับงานไอทีและบริการประชาชน)*\n    *   🔗 [อ่านกฎหมายฉบับเต็ม (เว็บกฤษฎีกา)](https://www.ocs.go.th/)\n\n---\n\n### 🛡️ 3. หมวดคุ้มครองข้อมูลและความมั่นคงปลอดภัยไซเบอร์\n*   **พ.ร.บ. คุ้มครองข้อมูลส่วนบุคคล พ.ศ. 2562 (PDPA)**\n    *   🔗 [สืบค้นกฎหมายและแนวทางปฏิบัติจาก สคส.](https://www.pdpc.or.th)\n*   **พ.ร.บ. การรักษาความมั่นคงปลอดภัยไซเบอร์ พ.ศ. 2562**\n    *   🔗 [สืบค้นกฎหมายและประกาศจาก สกมช. (NCSA)](https://www.ncsa.or.th/standards/laws)\n*   **พ.ร.บ. ว่าด้วยการกระทำความผิดเกี่ยวกับคอมพิวเตอร์ (ฉบับที่ 2) พ.ศ. 2560**\n    *   🔗 [อ่านกฎหมายฉบับเต็ม (เว็บกฤษฎีกา)](https://www.ocs.go.th/)\n\n---\n\n### 💡 แนะนำการใช้งานสำหรับเจ้าหน้าที่\n> หากต้องการสืบค้นกฎหมายอื่น ๆ เพิ่มเติม นอกเหนือจากรายการข้างต้น สามารถเข้าใช้งานระบบกฎหมายดิจิทัลโดยตรงได้ที่ **[ระบบสืบค้นกฎหมาย สำนักงานคณะกรรมการกฤษฎีกา](https://www.ocs.go.th/)** เพื่อข้อมูลที่อัปเดตและเป็นปัจจุบันที่สุด",
+      "pubDate": "2026-10-29T09:46:11.097Z",
+      "source": "ศูนย์รวมกฎหมายภาครัฐ",
+      "category": "Law",
+      "thumbnail": "https://images.unsplash.com/photo-1589829545856-d10d557cf95f?w=500"
     },
     {
       "id": "https://it24hrs.com/?p=170825",
@@ -88,6 +112,28 @@
       "readTime": "1 นาที"
     },
     {
+      "id": "https://www.techtalkthai.com/?p=171625",
+      "title": "เจาะลึกการควบรวมเครือข่ายช่องทางการจัดจำหน่ายของ SoftwareOne และ Crayon ใน APAC เพื่อยกระดับพาร์ตเนอร์ไอทีรับกระแสการลงทุน AI และ Cloud เต็มรูปแบบ",
+      "link": "https://www.techtalkthai.com/softwareone-crayon-apac-ai-cloud/",
+      "content": "เครือข่ายช่องทางการจัดจำหน่าย IT หรือ Channel Business ในภูมิภาคเอเชียแปซิฟิก หรือ APAC กำลังเปลี่ยนผ่านเข้าสู่ยุคที่การขายเพียง Software หรือ Cloud ไม่เพียงพออีกต่อไป เพราะองค์กรธุรกิจในปัจจุบันต้องการโซลูชันที่เชื่อมโยงกันทั้งหมด ตั้งแต่ Cloud, Software, Cybersecurity ไปจนถึงการนำ Data และ AI มาใช้งานจริงเพื่อสร้างผลลัพธ์ทางธุรกิจ ความเปลี่ยนแปลงนี้เป็นเหตุผลสำคัญที่ทำให้ SoftwareOne ผู้ให้บริการด้าน Software และ Cloud Solutions ระดับโลก และ Crayon ประกาศควบรวมเครือข่ายช่องทางการจัดจำหน่ายในภูมิภาค APAC เข้าด้วยกันภายใต้แบรนด์ SoftwareOne เพื่อยกระดับขีดความสามารถและสร้างระบบนิเวศทางเทคโนโลยีที่แข็งแกร่งยิ่งขึ้นให้กับพาร์ตเนอร์ทั่วทั้งภูมิภาค เม็ดเงินลงทุน AI พุ่งสูง พาร์ตเนอร์ยิ่งต้องเร่งเพิ่มความสามารถ หากมองไปที่ภาพรวมการลงทุนด้านเทคโนโลยีในภูมิภาค APAC ข้อมูลจาก IDC คาดการณ์ว่าการใช้จ่ายด้าน ICT ในภูมิภาคนี้จะพุ่งสูงถึง 647,000 ล้านดอลลาร์สหรัฐภายในปี 2026 ขณะที่เม็ดเงินลงทุนด้าน AI และ …",
+      "pubDate": "Thu, 29 Oct 2026 06:07:34 +0000",
+      "source": "TechTalk Thai",
+      "category": "Security",
+      "thumbnail": "https://www.techtalkthai.com/wp-content/uploads/2026/10/TTT-2026-10-29T130620.087-640x336.jpg",
+      "readTime": "3 นาที"
+    },
+    {
+      "id": "https://www.techtalkthai.com/?p=171622",
+      "title": "F5 จับมือ Oracle ดึงระบบความมั่นคงปลอดภัย Web App และ API สู่ OCI เสริมเกราะคลาวด์รับมือภัยคุกคามยุค AI",
+      "link": "https://www.techtalkthai.com/f5-oracle-oci-web-app-api-protection/",
+      "content": "F5 ร่วมมือกับ Oracle เพื่อนำเทคโนโลยีปกป้องเว็บแอปพลิเคชันและ API เข้าสู่แพลตฟอร์ม Oracle Cloud Infrastructure (OCI) โดยตรง ช่วยให้ภาคธุรกิจสามารถตั้งรับการโจมตีทางไซเบอร์ที่ทวีความซับซ้อนขึ้น โดยไม่ต้องแบกรับภาระการบริหารจัดการระบบความปลอดภัยเพิ่มเติม โดยมีเป้าหมายเป็นกลุ่มองค์กรที่มีเวิร์กโหลดบนคลาวด์ แต่ขาดแคลนบุคลากรผู้เชี่ยวชาญเฉพาะทางด้านความปลอดภัยภายในองค์กร ปัจจุบันรูปแบบการโจมตีทางไซเบอร์พัฒนาไปไกล ผู้ไม่ประสงค์ดีเริ่มนำ Generative AI และระบบอัตโนมัติมาใช้ค้นหาพร้อมเจาะช่องโหว่ของระบบ ส่งผลให้องค์กรไม่สามารถอุดช่องโหว่ได้ทันท่วงที การเพิ่มขีดความสามารถด้านความมั่นคงปลอดภัยจึงกลายเป็นโจทย์สำคัญ โดย F5 จะช่วยตรวจจับและป้องกันภัยคุกคามแบบเรียลไทม์มาทำ Virtual Patching ช่วยปิดกั้นการเข้าถึงระบบที่ยังมีช่องโหว่ทันทีระหว่างรอการติดตั้ง Patch ถาวร ขณะเดียวกันยังรองรับการทำงานร่วมกันของแอปพลิเคชันยุคใหม่ ทั้งระบบ ERP, ซอฟต์แวร์บริหารจัดการการผลิต ไปจนถึงการรับส่งข้อมูลผ่าน API ข้ามแพลตฟอร์ม นอกจากนี้ฝ่ายดูแลโครงสร้างพื้นฐานไอทีสามารถควบคุมความปลอดภัยของแอปพลิเคชันได้โดยตรงจากคลาวด์ ไม่ต้องปรับแต่งโค้ดหรือเชื่อมต่อโซลูชันภายนอกหลายชั้น ทั้งนี้ F5 และ Oracle ร่วมงานกันมาตั้งแต่ปี 2001 ผ่านการเพิ่มประสิทธิภาพการส่งมอบแอปพลิเคชันให้กับซอฟต์แวร์ระดับองค์กร เช่น Oracle E-Business Suite และ PeopleSoft การขยายความร่วมมือสู่ OCI ครั้งนี้จึงเป็นการต่อยอดฐานลูกค้าองค์กรและโรงงานอุตสาหกรรมที่ใช้งานแอปพลิเคชันของ …",
+      "pubDate": "Thu, 29 Oct 2026 04:12:43 +0000",
+      "source": "TechTalk Thai",
+      "category": "Security",
+      "thumbnail": "https://www.techtalkthai.com/wp-content/uploads/2026/10/TTT-2026-10-29T111057.543-640x336.jpg",
+      "readTime": "4 นาที"
+    },
+    {
       "id": "https://www.thaicert.or.th/?p=17539",
       "title": "แจ้งเตือน! พบการโจมตี Cloud VPS เสี่ยงข้อมูลรั่วไหลผ่าน RDP ผู้ดูแลระบบควรเร่งตรวจสอบและป้องกัน",
       "link": "https://www.thaicert.or.th/2026/10/29/%e0%b9%81%e0%b8%88%e0%b9%89%e0%b8%87%e0%b9%80%e0%b8%95%e0%b8%b7%e0%b8%ad%e0%b8%99-%e0%b8%9e%e0%b8%9a%e0%b8%81%e0%b8%b2%e0%b8%a3%e0%b9%82%e0%b8%88%e0%b8%a1%e0%b8%95%e0%b8%b5-cloud-vps-%e0%b9%80/",
@@ -97,6 +143,17 @@
       "category": "ภัยคุกคามทางไซเบอร์",
       "thumbnail": "https://www.thaicert.or.th/wp-content/uploads/2026/10/Cloud-VPS-1024x576.png",
       "readTime": "1 นาที"
+    },
+    {
+      "id": "https://www.techtalkthai.com/?p=171616",
+      "title": "เจาะลึก Cloud, AI & Data Centers: ร่วมพบปะกับผู้นำด้านเทคโนโลยีระดับแนวหน้าของไทยในงาน THCDC 2026 [PR]",
+      "link": "https://www.techtalkthai.com/thailand-cloud-ai-and-data-centers-2026-pr/",
+      "content": "อุตสาหกรรม Cloud, ปัญญาประดิษฐ์ (AI) และ Data Center ในประเทศไทย กำลังก้าวเข้าสู่ช่วงเวลาสำคัญของการเปลี่ยนแปลงและพัฒนา เมื่อความต้องการใช้งานบริการดิจิทัลเพิ่มสูงขึ้นอย่างต่อเนื่อง องค์กรต่าง ๆ จึงเร่งลงทุนในโครงสร้างพื้นฐานที่สามารถรองรับการทำงานที่มีความซับซ้อน แอปพลิเคชันระดับองค์กร รวมถึงเทคโนโลยีใหม่ ๆ ที่กำลังเติบโต TechTalkThai มีความยินดีเป็นอย่างยิ่งที่ได้ร่วมสนับสนุนงาน Thailand Cloud & Datacenter Convention 2026 (THCDC 2026) ในฐานะ Media Partner งานสัมมนานี้จัดขึ้นทั้งหมดหนึ่งวันเต็ม โดย W.Media ซึ่งเป็นงานที่รวบรวมเหล่าผู้นำด้านเทคโนโลยี ผู้เชี่ยวชาญในอุตสาหกรรม และผู้บริหารระดับสูง มาร่วมแลกเปลี่ยนมุมมองเกี่ยวกับโอกาสและความท้าทายที่จะเป็นตัวกำหนดอนาคตโครงสร้างพื้นฐานดิจิทัลของไทย ทำไมผู้เชี่ยวชาญด้านเทคโนโลยีจึงไม่ควรพลาดงานนี้? อัปเดตเทรนด์ล่าสุด: อัปเดตความเคลื่อนไหวด้าน Cloud Computing, AI และโครงสร้างพื้นฐาน Data Center เจาะลึกแนวทางปฏิบัติ: รับฟังมุมมองการรับมือความท้าทายในการสร้างโครงสร้างพื้นฐานดิจิทัลที่ยืดหยุ่น มีประสิทธิภาพ และน่าเชื่อถือ ครอบคลุมทุกมิติ: สำรวจประเด็นสำคัญด้านพลังงาน ระบบทำความเย็น การเชื่อมต่อ และแนวคิดความยั่งยืน …",
+      "pubDate": "Thu, 29 Oct 2026 02:25:05 +0000",
+      "source": "TechTalk Thai",
+      "category": "AI",
+      "thumbnail": "https://www.techtalkthai.com/wp-content/uploads/2026/10/Supporting-Media-Partners.png",
+      "readTime": "3 นาที"
     },
     {
       "id": "152049 at https://www.blognone.com",
@@ -119,6 +176,28 @@
       "category": "General",
       "thumbnail": "https://www.blognone.com/sites/default/files/files-2026/2026-10/apple-macbook-pro-with-proled-xdr-display-lifestyle-remote-work-261028_big.jpg.large_.jpg",
       "readTime": "5 นาที"
+    },
+    {
+      "id": "https://www.techtalkthai.com/?p=171606",
+      "title": "Tailscale ปล่อยแพตช์แก้ช่องโหว่ Tailworm บน Tailscale SSH เสี่ยงถูกใช้ขยายการโจมตีภายใน tailnet",
+      "link": "https://www.techtalkthai.com/tailscale-patches-tailworm-ssh-vulnerabilities-lateral-movement-tailnet/",
+      "content": "Tailscale ปล่อย Tailscale v1.104.4 แก้ช่องโหว่ 4 รายการ รวมถึงช่องโหว่บน Tailscale SSH ที่ถูกเปิดเผยในรายงาน Tailworm ซึ่งเปิดโอกาสให้ผู้โจมตีซึ่งยึดอุปกรณ์ใน tailnet ได้แล้ว ยกระดับสิทธิ์ไปยังเครื่องอื่นในเครือข่ายเดียวกันได้ Tailscale เป็นแพลตฟอร์ม mesh networking แบบ software-defined ที่เชื่อมคอมพิวเตอร์ โทรศัพท์ เซิร์ฟเวอร์ และอุปกรณ์อื่นๆ เข้าเป็นเครือข่ายส่วนตัวเดียวกันที่เรียกว่า tailnet โดยใช้โปรโตคอล WireGuard ในการเข้ารหัสและรับส่งข้อมูล ผู้ใช้งานเพียงติดตั้งแอป Tailscale บนแต่ละอุปกรณ์และลงชื่อเข้าใช้ด้วยบัญชีที่มีอยู่แล้ว เช่น Google หรือ Microsoft โดยไม่ต้องตั้งค่า router หรือ firewall ที่ซับซ้อน องค์กรใช้ Tailscale เพื่อให้พนักงานและระบบเข้าถึงทรัพยากรภายในได้อย่างมีการควบคุม โดยไม่ต้องเปิดระบบออกสู่อินเทอร์เน็ตสาธารณะ ส่วน Tailscale SSH คือ SSH server ในตัวที่ใช้ identity …",
+      "pubDate": "Wed, 28 Oct 2026 21:39:21 +0000",
+      "source": "TechTalk Thai",
+      "category": "Security",
+      "thumbnail": "https://www.techtalkthai.com/wp-content/uploads/2020/10/techtalkthai_2020_security_vulnerability_12-600x338.jpg",
+      "readTime": "2 นาที"
+    },
+    {
+      "id": "https://www.techtalkthai.com/?p=171610",
+      "title": "Altera เปิดตัว Agilex 2X พอร์ตโฟลิโอ FPGA และ SoC เริ่มต้นด้วย Agilex 27 สำหรับ AI Infrastructure",
+      "link": "https://www.techtalkthai.com/altera-launches-agilex-2x-fpga-soc-portfolio-agilex-27/",
+      "content": "Altera เปิดตัว Agilex 2X พอร์ตโฟลิโอ FPGA และ SoC รุ่นใหม่ที่ครอบคลุมตั้งแต่อุปกรณ์ประสิทธิภาพสูง ระดับกลาง ไปจนถึงรุ่นที่เน้นประหยัดพลังงานและต้นทุน โดยเริ่มจาก Agilex 27 สำหรับงาน AI infrastructure เครือข่ายระดับ Terabit และ aerospace & defense Agilex 2X ถูกออกแบบมาเพื่อรองรับระบบที่ใช้ AI ทั้งฝั่ง Digital AI ที่ทำงานอยู่ใน infrastructure และ Physical AI ที่ทำงานอยู่บน edge เช่น robotics Altera มองว่าทั้งสองกลุ่มนี้ทำให้ programmable logic ถูกนำไปใช้งานได้กว้างขึ้น เพราะนักพัฒนาต้องสร้างระบบที่ปรับตัวตาม workload เทคโนโลยี และมาตรฐานที่เปลี่ยนแปลงอย่างรวดเร็ว พอร์ตโฟลิโอใหม่นี้ต่อยอดจากสถาปัตยกรรม fabric เดิมของ Altera โดยปรับปรุงหลายส่วนเพื่อเพิ่ม performance-per-watt ในระดับแอปพลิเคชัน …",
+      "pubDate": "Wed, 28 Oct 2026 21:37:30 +0000",
+      "source": "TechTalk Thai",
+      "category": "AI",
+      "thumbnail": "https://www.techtalkthai.com/wp-content/uploads/2026/10/agilex2x-portfolio-img-banner.webp",
+      "readTime": "2 นาที"
     },
     {
       "id": "152047 at https://www.blognone.com",
@@ -185,6 +264,39 @@
       "category": "General",
       "thumbnail": "https://storage.googleapis.com/techsauce-prod/ugc/uploads/2026/10/1793187955_Made-in-Thailand_Chips_800.webp",
       "readTime": "1 นาที"
+    },
+    {
+      "id": "https://www.techtalkthai.com/?p=171600",
+      "title": "Local Agentic AI กำลังเข้ามามีบทบาทในพีซีสำหรับธุรกิจอย่างไร [PR]",
+      "link": "https://www.techtalkthai.com/amd-local-agentic-ai-for-business-pc-pr/",
+      "content": "นับตั้งแต่ช่วงปลายปี 2022 ที่เทคโนโลยี Generative AI (GenAI) ได้รับความนิยมอย่างแพร่หลาย คำถามเรื่องกรณีการใช้งานเชิงธุรกิจ การนำไปใช้จริง และผลตอบแทนจากการลงทุน (ROI) ก็ถูกหยิบยกมาพูดถึงมาโดยตลอด และเมื่อ AI Agent กำลังก้าวสู่การใช้งานในวงกว้าง องค์กรต่างๆ จึงยิ่งเผชิญแรงกดดันในการหาคำตอบสำหรับเรื่องเหล่านี้  AI Agent แตกต่างจากแชตบอต GenAI ทั่วไปที่มักทำงานในรูปแบบถาม-ตอบ เพราะ Agent สามารถจัดการงานที่ซับซ้อนหลายขั้นตอนข้ามแอปพลิเคชันได้ เมื่อตั้งค่าเรียบร้อยแล้ว พวกมันยังสามารถทำงานบางอย่างได้อัตโนมัติ และรับมือกับโปรเจกต์ซับซ้อนต่อเนื่องเป็นเวลานานได้ โดยที่ผู้มอบหมายงานสามารถหันไปโฟกัสงานอื่นแทน  ความสามารถของ Agent ในการวิเคราะห์และลงมือจัดการข้อมูล ถือเป็นโอกาสทองสำหรับองค์กรที่ต้องการดึงมูลค่าสูงสุดจาก AI อย่างไรก็ตาม ความก้าวหน้าอย่างรวดเร็วของทั้ง Cloud AI และ Local AI ทำให้ฝ่ายไอทีต้องเผชิญโจทย์ในทางปฏิบัติว่า ควรให้ Agent ประมวลผลที่ไหน อนุญาตให้เข้าถึงข้อมูลองค์กรระดับใดได้บ้าง และจะส่งมอบขีดความสามารถเหล่านี้ให้พนักงานใช้งานอย่างคุ้มต้นทุนที่สุดได้อย่างไร  วันนี้ พาร์ทเนอร์ของ AMD ได้เปิดตัวระบบใหม่ที่ขับเคลื่อนด้วยโปรเซสเซอร์ AMD Ryzen™ AI …",
+      "pubDate": "Wed, 28 Oct 2026 11:18:21 +0000",
+      "source": "TechTalk Thai",
+      "category": "AI",
+      "thumbnail": "https://www.techtalkthai.com/wp-content/uploads/2026/10/amdrspr-640x335.png",
+      "readTime": "3 นาที"
+    },
+    {
+      "id": "https://www.techtalkthai.com/?p=171596",
+      "title": "HPE ผสานการมองเห็นและติดตามประสิทธิภาพของโซลูชันเครือข่ายแบบใช้สาย ไร้สาย และ SASE ชั้นนำ [PR]",
+      "link": "https://www.techtalkthai.com/hpe-upgrades-netops-and-secops-pr/",
+      "content": "HPE (NYSE: HPE) ประกาศการผสานรวม HPE Networking EdgeConnect เข้ากับ HPE Mist และ HPE Aruba Central เพื่อนำโซลูชัน SASE เครือข่ายแบบใช้สาย และเครือข่าย LAN ไร้สายชั้นนำของ HPE มาอยู่ภายใต้กรอบการทำงาน Agentic AI แบบรวมศูนย์ การผสานรวมครั้งนี้ช่วยต่อยอดกลยุทธ์เครือข่ายอัตโนมัติของ HPE ด้วยการเพิ่มความสามารถในการมองเห็นและติดตามสถานะ (Visibility) พร้อมช่วยให้การดำเนินการด้านเครือข่าย (NetOps) และ การรักษาความปลอดภัย (SecOps) ตั้งแต่เอดจ์ไปจนถึงคลาวด์ด้วย Agentic AI ทำได้ง่ายขึ้น เมื่อองค์กรธุรกิจมีการดำเนินงานกระจายตัวอยู่ในหลายพื้นที่มากขึ้น ประสบการณ์ของผู้ใช้งานและรูปแบบการใช้งาน IoT จึงครอบคลุมตั้งแต่เครือข่ายภายในองค์กร (Campus) สำนักงานสาขา เครือข่ายบริเวณกว้าง (WAN) ระบบคลาวด์ และระบบรักษาความปลอดภัย แต่ทีมงานด้านเครือข่ายและความปลอดภัยมักไม่สามารถมองเห็นภาพรวมของทุกระบบได้จากจุดเดียว ส่งผลให้การแก้ไขปัญหา การรักษาความปลอดภัย และการมอบประสบการณ์ดิจิทัลที่สอดคล้องกันทำได้ยากขึ้น เดวิด ฮิวจ์ส รองประธานอาวุโสและผู้จัดการทั่วไปฝ่าย …",
+      "pubDate": "Wed, 28 Oct 2026 11:07:16 +0000",
+      "source": "TechTalk Thai",
+      "category": "Security",
+      "thumbnail": "https://www.techtalkthai.com/wp-content/uploads/2026/10/HPEunifiespr-640x335.png",
+      "readTime": "3 นาที"
+    },
+    {
+      "id": "https://www.techtalkthai.com/?p=171593",
+      "title": "อีริคสันคาดการณ์ภายใน พ.ศ. 2573 ผู้ใช้สมาร์ทโฟนไทยมากกว่าครึ่งจะใช้งาน AI Agent [PR]",
+      "link": "https://www.techtalkthai.com/ericsson-prediction-on-ai-agent-for-smartphone-user-pr/",
+      "content": "รายงาน Ericsson ConsumerLab (NASDAQ: ERIC) ฉบับล่าสุดเผยว่าภายใน พ.ศ. 2573 ผู้ใช้สมาร์ทโฟนในประเทศไทยมากกว่าครึ่งจะหันมาใช้งาน Agentic AI หรือระบบปัญญาประดิษฐ์ที่สามารถตัดสินใจและดำเนินการแทนมนุษย์ ปัจจุบันนี้มีผู้ใช้สมาร์ทโฟนชาวไทย 52% ระบุว่าตนใช้งาน AI ในชีวิตประจำวัน และตัวเลขนี้คาดว่าจะเพิ่มขึ้นเป็น 67% ในปี พ.ศ. 2573 สำหรับการใช้งาน Agentic AI ซึ่งถือเป็นหมวดหมู่เฉพาะนั้น พบว่าผู้ใช้สมาร์ทโฟนชาวไทยใช้งานอยู่ราว 5% ณ ปัจจุบัน และคาดว่าจะเพิ่มขึ้นเป็น 52% ในอีกสี่ปีข้างหน้านี้ ส่วนการใช้งาน Multimodal AI ในชีวิตประจำวันนั้น คาดว่าจะเพิ่มขึ้นจาก 15% ในวันนี้ เป็น 41% ในปี พ.ศ. 2573 เมื่อเทียบกับค่าเฉลี่ยทั่วโลกที่คาดว่าจะอยู่ราว 30% รายงานในหัวข้อ “An agentic life – How consumer AI …",
+      "pubDate": "Wed, 28 Oct 2026 10:33:38 +0000",
+      "source": "TechTalk Thai",
+      "category": "AI",
+      "thumbnail": "https://www.techtalkthai.com/wp-content/uploads/2026/10/ericssonpr-640x335.png",
+      "readTime": "2 นาที"
     },
     {
       "id": "https://www.thaicert.or.th/?p=17519",
@@ -319,6 +431,50 @@
       "readTime": "1 นาที"
     },
     {
+      "id": "https://www.techtalkthai.com/?p=171561",
+      "title": "AskMe Webinar: ลดต้นทุน Observability และ Log พร้อมจัดการข้อมูลอย่างชาญฉลาดด้วย Bindplane จาก Dynatrace",
+      "link": "https://www.techtalkthai.com/askme-webinar-reduce-observability-and-log-cost-with-bindplane-by-dynatrace/",
+      "content": "AskMe Solutions & Consultants ขอเรียนเชิญผู้บริหารและผู้ปฏิบัติงานด้าน IT เข้าร่วมสัมมนาออนไลน์เรื่อง “ลดต้นทุน Observability และ Log พร้อมจัดการข้อมูลอย่างชาญฉลาดด้วย Bindplane จาก Dynatrace” พร้อมแนวทางสร้างศูนย์กลางสำหรับรวบรวม คัดกรอง และส่งต่อข้อมูลไปยัง Observability Tools ต่างๆ อย่างเป็นระบบ เพิ่มความเร็วในการตรวจพบความผิดปกติและต้นเหตุของปัญหา ในวันพุธที่ 11 พฤศจิกายน 2026 เวลา 14:00 น.​ 📆 วันพุธที่ 11 พฤศจิกายน 2026⏰ 14:00 – 15:30 น.💻 บรรยายออนไลน์ผ่าน Zoom Webinar👉 ลงทะเบียน: https://us06web.zoom.us/webinar/register/7417922212818/WN_LirAQmesSi-EIBCRmhug7w ค่าใช้จ่ายด้าน Observability และ SIEM เพิ่มขึ้นทุกวัน แต่ Insights ที่ได้รับคุ้มค่าแล้วหรือยัง? เมื่อระบบ IT มีความซับซ้อนมากขึ้น …",
+      "pubDate": "Wed, 28 Oct 2026 06:04:59 +0000",
+      "source": "TechTalk Thai",
+      "category": "General",
+      "thumbnail": "https://www.techtalkthai.com/wp-content/uploads/2026/10/askme_webinar_bindplane_dynatrace_fb-640x335.jpg",
+      "readTime": "2 นาที"
+    },
+    {
+      "id": "https://www.techtalkthai.com/?p=171585",
+      "title": "จัดการความปลอดภัยกับ VMware Cloud Foundation 9.1",
+      "link": "https://www.techtalkthai.com/secure-vmware-cloud-foundation-9-1-guideline/",
+      "content": "ถ้าคุณเป็นลูกค้า VMware ที่ผ่านการอัปเกรตระบบสู่ VMware Cloud Foundation (VCF) 9.1 เราต้องขอแสดงความยินดีด้วย เพราะนั่นคือประตูบานแรกที่จะช่วยให้ระบบขององค์กร ได้รับความสามารถใหม่ พร้อมสำหรับความปลอดภัยตั้งแต่ซอร์สโค้ดถึงแพลตฟอร์ม เพราะใน VCF 9.1 เองก็ได้ผ่านการตรวจสอบช่องโหว่แบบจัดเต็มด้วย Frontier AI Model ทำให้ได้แพลตฟอร์มเวอร์ชันที่ปลอดภัยที่สุดเท่าที่เคยมีมา แต่การมี VCF 9.1 ในมือยังเป็นแค่จุดเริ่มต้นเท่านั้น เพราะผู้ดูแลยังต้องปรับแต่งฟีเจอร์เพื่อดึงพลังการป้องกันออกมาให้เหมาะสมกับการใช้งานต่อไป แต่ถ้ายังไม่รู้ว่าจะต้องเริ่มต้นจากตรงไหน VMware ได้แนะนำ 5 ขั้นตอนในการใช้งานไว้ ดังนี้ 1.) Harden the Platform การ Hardening คือ การตั้งใจลดพื้นที่โจมตี ปิดเซอร์วิสที่ไม่จำเป็น ล็อกการเข้าถึงส่วนจัดการระบบ และตั้งค่าสิทธิ์ให้รัดกุมที่สุด นี่คือขั้นตอนสำคัญอันดับหนึ่ง โดย VMware มีการออกแนวทางปฏิบัติที่น่าสนใจไว้ ดังนี้ VMware Security Configuration Guides (SCG) – สำหรับองค์กรธุรกิจทั่วไป SCG …",
+      "pubDate": "Wed, 28 Oct 2026 04:20:51 +0000",
+      "source": "TechTalk Thai",
+      "category": "Security",
+      "thumbnail": "https://www.techtalkthai.com/wp-content/uploads/2026/10/VMware-VCF-9-1-Hardening-FB-Banner.png",
+      "readTime": "3 นาที"
+    },
+    {
+      "id": "https://www.techtalkthai.com/?p=171576",
+      "title": "Nutanix ขอเชิญทุกท่านเข้าร่วมงาน “.NEXT on Tour Bangkok” [3 พ.ย. 2569 — 8.00น.]",
+      "link": "https://www.techtalkthai.com/nutanix-next-on-tour-bangkok-3112026/",
+      "content": "Nutanix ขอเชิญทุกท่านเข้าร่วมงาน “.NEXT on Tour Bangkok” งานประจำปีของ Nutanix ที่รวมผู้นำด้าน IT และผู้เชี่ยวชาญจากทุกภาคอุตสาหกรรม มาร่วมแชร์มุมมองและประสบการณ์เพื่อต่อยอดวิธีการบริหารโครงสร้างทางไอทีของคุณให้พร้อมกับโลกอนาคต โดยงานจะจัดขึ้นในวันอังคารที่ 3 พ.ย. 2569 เวลา 8.00 – 16.30น. ณ โรงแรม แกรน เซนเตอร์ พอยต์ ลุมพินี กรุงเทพฯ ชมกำหนดการเพิ่มเติมได้ดังนี้ รายละเอียดงาน ชื่องาน : .NEXT on Tour Bangkok วันเวลา : อังคารที่ 3 พ.ย. 2569 เวลา 8.00 – 16.30น. สถานที่ : โรงแรม แกรน เซนเตอร์ พอยต์ ลุมพินี กรุงเทพฯ (แผนที่) ลงทะเบียนได้ที่ …",
+      "pubDate": "Wed, 28 Oct 2026 03:38:12 +0000",
+      "source": "TechTalk Thai",
+      "category": "General",
+      "thumbnail": "https://www.techtalkthai.com/wp-content/uploads/2026/10/NEXT-on-Tour-Thailand_FB-Format.png",
+      "readTime": "2 นาที"
+    },
+    {
+      "id": "https://www.techtalkthai.com/?p=171571",
+      "title": "Anduril จับมือ Qualcomm พัฒนา BlueChip แล็ปท็อป Rugged ผลิตที่สหรัฐฯ ตัดขาดซัพพลายเชนจีน",
+      "link": "https://www.techtalkthai.com/anduril-qualcomm-bluechip-laptop/",
+      "content": "Anduril สตาร์ตอัปเทคโนโลยีด้านความมั่นคง ประกาศความร่วมมือกับ Qualcomm เปิดตัว BlueChip แบรนด์คอมพิวเตอร์ที่ดึงฐานการผลิตฮาร์ดแวร์กลับคืนสู่สหรัฐอเมริกา โดยไม่ได้จำกัดเพียงแค่การประกอบเครื่อง แต่ครอบคลุมการผลิตชิ้นส่วนทุกชิ้นเพื่อลดการพึ่งพาซัพพลายเชนจากต่างประเทศ โดยเฉพาะจีน พร้อมเปิดให้สั่งจองล่วงหน้าภายในปี 2027 BlueChip รุ่นแรกจะถูกพัฒนาในรูปแบบ Hardened Laptop หรือคอมพิวเตอร์พกพาที่มีความทนทานสูง ออกแบบมาเพื่อรองรับสภาพแวดล้อมสมบุกสมบัน และตอบสนองมาตรฐานความปลอดภัยขั้นสูงสุดสำหรับหน่วยงานรัฐ กองทัพ เจ้าหน้าที่ฉุกเฉิน และหน่วยงานบังคับใช้กฎหมาย โดยตัวเครื่อง BlueChip ขับเคลื่อนด้วยชิป Qualcomm Snapdragon X Series สถาปัตยกรรม Arm ซึ่งผลิตขึ้นที่โรงงานของ TSMC ในสหรัฐฯ ชิปดังกล่าวรองรับทั้งการประมวลผลทั่วไป กราฟิก และการประมวลผล AI บนอุปกรณ์ และรองรับทั้ง Windows, ลินุกซ์แบบเฉพาะทางที่ใช้ในหน่วยงานรัฐ ไปจนถึงระบบดั้งเดิมของแต่ละองค์กร ส่วนตัวบอดี้ผ่านการขึ้นรูปด้วยโลหะในสหรัฐฯ พร้อมการประสานกระจกหน้าจอที่ผลิตในประเทศ และระบบจัดการพลังงานที่ปรับแต่งเข้ากับเทคโนโลยีแบตเตอรี่ที่มีฐานการผลิตในสหรัฐฯ ส่วนแผงวงจรจะประกอบขึ้นที่โรงงานในสหรัฐฯ เช่นกัน จากแผนดังกล่าวทำให้แล็ปท็อปรุ่นแรกจะมีต้นทุนชิ้นส่วนกว่า 90% จะมาจากซัพพลายเออร์ในสหรัฐฯ และประเทศพันธมิตร โดย Palmer Luckey …",
+      "pubDate": "Wed, 28 Oct 2026 03:05:28 +0000",
+      "source": "TechTalk Thai",
+      "category": "Security",
+      "thumbnail": "https://www.techtalkthai.com/wp-content/uploads/2026/10/TTT-2026-10-28T100204.001-640x336.jpg",
+      "readTime": "3 นาที"
+    },
+    {
       "id": "https://www.thaicert.or.th/?p=17532",
       "title": "ThaiCERT ขอแนะนำหน่วยงานเร่งตรวจสอบและอัปเดต PHP ให้ครอบคลุมทุกระบบ เพื่อลดความเสี่ยงจากช่องโหว่ PHP2Shell",
       "link": "https://www.thaicert.or.th/2026/10/28/thaicert-%e0%b8%82%e0%b8%ad%e0%b9%81%e0%b8%99%e0%b8%b0%e0%b8%99%e0%b8%b3%e0%b8%ab%e0%b8%99%e0%b9%88%e0%b8%a7%e0%b8%a2%e0%b8%87%e0%b8%b2%e0%b8%99%e0%b9%80%e0%b8%a3%e0%b9%88%e0%b8%87%e0%b8%95%e0%b8%a3/",
@@ -328,6 +484,28 @@
       "category": "ภัยคุกคามทางไซเบอร์",
       "thumbnail": "https://www.thaicert.or.th/wp-content/uploads/2026/10/Check-PHP-819x1024.png",
       "readTime": "1 นาที"
+    },
+    {
+      "id": "https://www.techtalkthai.com/?p=171566",
+      "title": "Microsoft ออกอัปเดต OOB บน Windows ยกเลิกความเชื่อถือใบรับรอง eMudhra หลังคีย์ CA หลุด",
+      "link": "https://www.techtalkthai.com/microsoft-windows-oob-update-removes-trust-in-emudhra-certificates/",
+      "content": "Microsoft ปล่อยอัปเดตแบบ out-of-band (OOB) สำหรับ Windows 11 และ Windows 10 เพื่อถอดความเชื่อถือใบรับรองที่เกี่ยวข้องกับคีย์ของ Certificate Authority (CA) eMudhra ที่ถูกเจาะ โดยเน้นปกป้องเครื่องที่ไม่ได้รับอัปเดต certificate trust แบบอัตโนมัติ ต้นเหตุมาจากการพบ private key ของ intermediate CA จาก eMudhra จำนวน 8 ชุดที่อ่อนแอจนกู้คืนได้แทบจะทันที คีย์ทั้งหมดถูกสร้างขึ้นในเดือนเมษายน 2025 และมีค่าน้อยกว่า 256 ทำให้ใครก็ตามสามารถกู้คีย์ได้ด้วยการทดลองตัวเลขเพียง 256 ค่า คีย์ที่หลุดเหล่านี้อาจถูกใช้ปลอมใบรับรองของเว็บไซต์ที่ถูกต้องและดักฟังการสื่อสารที่เข้ารหัสไว้ หลังมีการเปิดเผยข้อมูล eMudhra ได้เพิกถอน intermediate certificate ทั้ง 8 ใบ และ Mozilla, Google, Apple รวมถึงผู้ผลิตซอฟต์แวร์รายอื่นก็เริ่มเพิกถอนใบรับรองเหล่านี้เช่นกัน ก่อนหน้านี้ Microsoft ได้อัปเดต …",
+      "pubDate": "Tue, 27 Oct 2026 21:21:01 +0000",
+      "source": "TechTalk Thai",
+      "category": "General",
+      "thumbnail": "https://www.techtalkthai.com/wp-content/uploads/2025/07/windows-security-patch-dark-blue-640x366.png",
+      "readTime": "2 นาที"
+    },
+    {
+      "id": "https://www.techtalkthai.com/?p=171564",
+      "title": "Akamai เปิดตัว Akamai Inference และ Agent Sandbox เสริมบริการ AI บน Akamai Cloud",
+      "link": "https://www.techtalkthai.com/akamai-launches-inference-and-agent-sandbox-on-akamai-cloud/",
+      "content": "Akamai เปิดตัว Akamai Inference บริการ managed model serving และ Akamai Agent Sandbox สภาพแวดล้อมแบบ isolated สำหรับรันโค้ดของ AI Agent บน Akamai Cloud พร้อมขยาย GPU fleet ด้วย NVIDIA Blackwell Ultra บริการใหม่ทั้งสองตัวเป็นส่วนหนึ่งของกลยุทธ์ AI ของ Akamai ที่ต้องการให้องค์กรสร้าง ปรับแต่ง และรันโมเดล AI ทั้งแบบ open-weight และโมเดลของตัวเอง เชื่อมกับข้อมูลขององค์กร รัน AI Agent ภายในขอบเขตที่ควบคุมได้ และดูแลความปลอดภัยของทั้งระบบได้บนแพลตฟอร์มเดียว Akamai มองว่าองค์กรที่นำ AI ไปใช้งานจริงต้องการมากกว่าตัวโมเดล ทั้งโครงสร้างสำหรับ serving การเข้าถึงข้อมูล การ routing และ governance …",
+      "pubDate": "Tue, 27 Oct 2026 20:39:14 +0000",
+      "source": "TechTalk Thai",
+      "category": "Security",
+      "thumbnail": "https://www.techtalkthai.com/wp-content/uploads/2026/10/akamai-agent-sandbox-cover-v2-640x357.jpg",
+      "readTime": "2 นาที"
     },
     {
       "id": "https://it24hrs.com/?p=170789",
@@ -385,6 +563,17 @@
       "readTime": "1 นาที"
     },
     {
+      "id": "https://www.techtalkthai.com/?p=171551",
+      "title": "INOX ต่อยอดความร่วมมือกับ Nutanix เร่งขับเคลื่อน Enterprise AI สู่การใช้งานจริงในประเทศไทย ผสาน Nutanix Enterprise AI (NAI) เข้ากับ AINOX และบริการ Professional Services จาก INOX ช่วยองค์กรก้าวจาก AI Adoption สู่การใช้งานจริงและสร้าง Business Impact",
+      "link": "https://www.techtalkthai.com/inox-nutanix-enterprise-ai/",
+      "content": "INOX ผู้ให้บริการด้านเทคโนโลยีและ Professional Services ในประเทศไทย และผู้พัฒนา AINOX เดินหน้าต่อยอดความร่วมมือกับ Nutanix ประเทศไทย เพื่อสนับสนุนองค์กรไทยในการนำ Enterprise AI มาใช้งานจริง โดยผสาน Nutanix Enterprise AI (NAI) เข้ากับ AINOX ซึ่งเป็นโซลูชัน AI พร้อมใช้งานของ INOX รวมถึงบริการด้าน Consulting, Integration, Implementation และ Ongoing Support จากทีมผู้เชี่ยวชาญของ INOX ความร่วมมือดังกล่าวเกิดขึ้นในช่วงที่องค์กรจำนวนมากกำลังเปลี่ยนผ่านจากการทดลองใช้งาน AI ไปสู่การนำ AI มาใช้ในกระบวนการทำงานจริง โดยความท้าทายไม่ได้จำกัดอยู่เพียงการเลือก AI Model หรือเทคโนโลยีที่เหมาะสม แต่ยังครอบคลุมถึงการเตรียมโครงสร้างพื้นฐาน การรักษาความปลอดภัยของข้อมูล การรองรับการขยายตัว การเชื่อมต่อกับระบบเดิม รวมถึงการทำให้ AI สามารถตอบโจทย์ Business Use Case และสร้างผลลัพธ์ทางธุรกิจที่วัดผลได้ ความร่วมมือระหว่าง …",
+      "pubDate": "Tue, 27 Oct 2026 05:31:25 +0000",
+      "source": "TechTalk Thai",
+      "category": "Security",
+      "thumbnail": "https://www.techtalkthai.com/wp-content/uploads/2026/10/Nutanix_INOX_PR_Image_01-640x335.png",
+      "readTime": "3 นาที"
+    },
+    {
       "id": "https://techsauce.co/news/instagram-tests-90-minute-videos-reels-smart-tv",
       "title": "หมดยุคสมาธิสั้น Instagram จะทดสอบ ‘คลิปยาว 90 นาที’ ชี้ต้องการกันให้คนไม่หลุดไป Youtube",
       "link": "https://techsauce.co/news/instagram-tests-90-minute-videos-reels-smart-tv",
@@ -407,6 +596,17 @@
       "readTime": "1 นาที"
     },
     {
+      "id": "https://www.techtalkthai.com/?p=171548",
+      "title": "NetSuite เปิดตัว SuiteExpress นำ AI เพิ่มความเร็วขึ้นระบบ ERP เหลือหลักสัปดาห์",
+      "link": "https://www.techtalkthai.com/netsuite-suiteexpress/",
+      "content": "Oracle NetSuite เปิดตัว SuiteExpress ชุดเครื่องมือที่ขับเคลื่อนด้วย Agentic AI เพื่อเพิ่มความเร็วกระบวนการติดตั้งและปรับแต่งระบบ ERP ให้รวดเร็วยิ่งขึ้น โดยจุดต่างสำคัญของ SuiteExpress คือการไม่จำกัดบทบาทของ AI อยู่เพียงการทำ Automation ในกระบวนการต่าง ๆ แต่เป็นการผสาน Agentic AI เข้ากับ Customer Success โดยตรง เพื่อปิดจุดอ่อนความล่าช้า และศูนย์เสียโอกาสระหว่างขึ้นระบบ Craig Sullivan ผู้อำนวยการกฝ่ายบริหารจัดการผลิตภัณฑ์ของ Oracle NetSuite ระบุว่า SuiteExpress ถูกออกแบบมาให้เป็น Fast Track สำหรับการย้ายระบบขึ้น NetSuite ช่วยให้องค์กรส่งมอบงานได้เร็วขึ้นด้วยต้นทุนที่ต่ำลง ควบคู่กับการช่วยให้ผู้ใช้งานเข้าใจและดึงขีดความสามารถใหม่ ๆ ของระบบออกมาใช้ได้ทันกับทิศทางธุรกิจที่เปลี่ยนไป แนวทางใหม่นี้ช่วยให้องค์กรนำฟังก์ชันที่จำเป็นมาใช้งานได้ตั้งแต่ระยะเริ่มต้น ส่งผลให้การรับรู้มูลค่าเกิดขึ้นทันที โดยสามารถย่นระยะเวลาการ Implement ระบบลงเหลือเพียง หลักสัปดาห์ หรือแม้กระทั่งหลักวัน เท่านั้น โดยกลไกหลักของ SuiteExpress ขับเคลื่อนด้วยการเชื่อมโยงคลังข้อมูล 2 …",
+      "pubDate": "Tue, 27 Oct 2026 04:50:30 +0000",
+      "source": "TechTalk Thai",
+      "category": "AI",
+      "thumbnail": "https://www.techtalkthai.com/wp-content/uploads/2026/10/TTT-2026-10-27T114840.086-640x336.jpg",
+      "readTime": "3 นาที"
+    },
+    {
       "id": "https://techsauce.co/news/asocio-digital-ai-awards-2026-thai-winners",
       "title": "12 องค์กรไทยคว้ารางวัล ASOCIO Digital & AI Awards 2026 จากสมาพันธ์ ASOCIO (Asian-Oceanian Computing Industry Organization)",
       "link": "https://techsauce.co/news/asocio-digital-ai-awards-2026-thai-winners",
@@ -427,6 +627,50 @@
       "category": "General",
       "thumbnail": "https://storage.googleapis.com/techsauce-prod/ugc/uploads/2026/10/1793066837_egret-1.webp",
       "readTime": "1 นาที"
+    },
+    {
+      "id": "https://www.techtalkthai.com/?p=171544",
+      "title": "Microsoft ปล่อยแพตช์ฉุกเฉินแก้ช่องโหว่ Critical ใน Brotli Decoder บน .NET 8 ถึง .NET 11",
+      "link": "https://www.techtalkthai.com/microsoft-out-of-band-dotnet-update-fixes-critical-brotli-vulnerability/",
+      "content": "Microsoft ปล่อย security update แบบ out-of-band (OOB) สำหรับ .NET เพื่อแก้ไขช่องโหว่ระดับ Critical ใน Brotli decoder ที่รู้จักในชื่อ Broccoli2Shell, Node2Shell หรือ HTTP2Shell พร้อมแนะนำให้อัปเดตโดยเร็วที่สุด ช่องโหว่นี้มีหมายเลข CVE-2026-111497 เกิดจาก out-of-bounds write ใน Brotli decoder ซึ่งทำหน้าที่คลายการบีบอัดข้อมูลที่ใช้ Brotli อัลกอริทึมบีบอัดข้อมูลแบบ lossless ของ Google ที่ใช้งานอย่างแพร่หลาย ช่องโหว่นี้ส่งผลกระทบต่อทั้ง HTTP client และ server รวมถึงแอปพลิเคชันและเครื่องมืออื่นที่ใช้ Brotli implementation ที่มีช่องโหว่ ผู้โจมตีที่ไม่มีสิทธิ์ใดๆ สามารถส่ง Brotli-compressed stream ที่สร้างขึ้นมาโดยเฉพาะ เพื่อทำให้ระบบ crash หรือเกิด memory leak และในบางกรณีอาจรันโค้ดจากระยะไกล …",
+      "pubDate": "Mon, 26 Oct 2026 19:03:33 +0000",
+      "source": "TechTalk Thai",
+      "category": "Security",
+      "thumbnail": "https://www.techtalkthai.com/wp-content/uploads/2016/04/ttt_vulnerability_1-Pavel_Ignatov-600x330.jpg",
+      "readTime": "2 นาที"
+    },
+    {
+      "id": "https://www.techtalkthai.com/?p=171542",
+      "title": "Fortinet ปล่อยอัปเดตแก้ช่องโหว่ Critical บน FortiOS ที่ค้นพบด้วย AI แนะนำอัปเกรดโดยด่วน",
+      "link": "https://www.techtalkthai.com/fortinet-releases-fortios-updates-fixing-critical-ai-discovered-vulnerabilities/",
+      "content": "Fortinet ปล่อย security hardening update สำหรับ FortiOS, FortiManager, FortiAnalyzer, FortiMail และ FortiAuthenticator เพื่อแก้ไขช่องโหว่ระดับ Critical และ High ที่ค้นพบด้วยความช่วยเหลือของ AI โดยจะยังไม่เปิดเผยรายละเอียดของช่องโหว่จนถึงวันที่ 10 พฤศจิกายน 2026 Fortinet ระบุในประกาศว่าช่องโหว่ชุดนี้ถูกค้นพบโดยใช้ AI model และผ่านการตรวจสอบยืนยันโดยทีมงานอีกชั้นหนึ่ง อย่างไรก็ตาม ผู้โจมตีเองก็เข้าถึงเครื่องมือ AI ได้เช่นกัน และสามารถนำไปใช้ค้นหาช่องโหว่และสร้าง exploit ได้ Fortinet มองว่าช่วงเวลาระหว่างการเปิดเผยช่องโหว่จนถึงการถูกโจมตีจริงจะสั้นลงเรื่อยๆ เพราะเมื่ออัปเดตถูกเผยแพร่ออกไป ตัวแพตช์เองก็บอกได้ว่ามีการแก้ไขโค้ดส่วนใด ทำให้อุปกรณ์ที่ยังไม่ได้แพตช์กลายเป็นเป้าหมายที่โจมตีได้ง่ายขึ้น อุปกรณ์ของ Fortinet เป็นเป้าหมายยอดนิยมของผู้โจมตีมาโดยตลอด และช่องโหว่ที่ได้รับการแก้ไขครั้งนี้ถูก Fortinet จัดระดับความรุนแรงเป็น Critical และ High อย่างน้อยบางช่องโหว่จึงอาจถูกโจมตีจากระยะไกลได้โดยไม่ต้องยืนยันตัวตน นอกจากนี้ Fortinet ยังเตือนว่า AI สามารถเชื่อมโยงช่องโหว่ระดับความรุนแรงต่ำที่ดูไม่เกี่ยวข้องกันเข้าด้วยกัน จนกลายเป็นช่องโหว่ที่รุนแรงและนำไปโจมตีได้จริง …",
+      "pubDate": "Mon, 26 Oct 2026 18:59:51 +0000",
+      "source": "TechTalk Thai",
+      "category": "Security",
+      "thumbnail": "https://www.techtalkthai.com/wp-content/uploads/2026/01/fortinet-vulnerability-alert-banner-2026-640x357.png",
+      "readTime": "3 นาที"
+    },
+    {
+      "id": "https://www.techtalkthai.com/?p=171532",
+      "title": "Google Cloud ขยายอิสระการเลือกใช้ AI ดึงโมเดล OpenAI ตอบโจทย์องค์กรยุคใหม่ [PR]",
+      "link": "https://www.techtalkthai.com/google-cloud-openai-models-for-customer-pr/",
+      "content": "Google Cloud ประกาศเปิดให้ใช้งานโมเดลจาก OpenAI ผ่าน Model Garden ใน Gemini Enterprise อย่างเป็นทางการ ส่งผลให้ Google Cloud ก้าวสู่การเป็นผู้ให้บริการคลาวด์ระดับไฮเปอร์สเกลเพียงรายเดียวที่รองรับการเข้าถึงโมเดลภาษาขนาดใหญ่ (LLMs) แบบปิด (Closed-source) ระดับแนวหน้าครบทั้ง 3 ค่าย ควบคู่ไปกับโมเดล AI อื่น ๆ อีกกว่า 200 รายการ ทั้งโมเดลชั้นนำของ Google โมเดลจากพันธมิตร และโอเพนซอร์สโมเดล ครบจบในแพลตฟอร์ม AI ระดับองค์กรหนึ่งเดียว หัวใจสำคัญของ Google Cloud คือการมอบทางเลือกที่หลากหลาย การกำกับดูแลที่ได้มาตรฐานระดับองค์กร และความคุ้มค่าด้านราคาเมื่อเทียบกับประสิทธิภาพที่โดดเด่นระดับแนวหน้าของตลาดมาโดยตลอด การประกาศในครั้งนี้เป็นการต่อยอดบนรากฐานของความเปิดกว้างและอิสระในการเลือกใช้งาน โดยช่วยให้ลูกค้ามีความยืดหยุ่นในการประมวลผลเวิร์กโหลด AI เชิงตัวแทน (Agentic Workloads) บนโมเดลและโครงสร้างพื้นฐานที่ตอบโจทย์ เพื่อสร้างสมดุลระหว่างต้นทุน ขีดความสามารถ ตลอดจนประสิทธิภาพการทำงานได้อย่างลงตัว การประกาศครั้งนี้เกิดขึ้นหลังจากที่ Google ประกาศเปิดให้บริการ Gemini …",
+      "pubDate": "Mon, 26 Oct 2026 10:29:48 +0000",
+      "source": "TechTalk Thai",
+      "category": "AI",
+      "thumbnail": "https://www.techtalkthai.com/wp-content/uploads/2026/10/gglcoudaipr-640x335.png",
+      "readTime": "3 นาที"
+    },
+    {
+      "id": "https://www.techtalkthai.com/?p=171526",
+      "title": "QSAN ตอกย้ำความมุ่งมั่นต่อพันธมิตรทั่วโลก เดินหน้ายกระดับการสนับสนุนตลอด 24 ชั่วโมง ส่งมอบสินค้าได้รวดเร็ว และกำหนดราคาที่คาดการณ์ได้ [PR]",
+      "link": "https://www.techtalkthai.com/qsan-reaffirms-its-commitment-to-global-partners-pr/",
+      "content": "เสริมศักยภาพพันธมิตรทั่วโลกด้วยการสนับสนุนด้านเทคนิคที่เชื่อถือได้ การดำเนินงานซัพพลายเชนที่ตอบสนองได้รวดเร็ว และความมั่นใจทางธุรกิจที่มากยิ่งขึ้น QSAN Technology ผู้ให้บริการชั้นนำด้านโซลูชันจัดเก็บข้อมูลระดับองค์กรและโครงสร้างพื้นฐาน AI แบบ on-premises ประกาศเปิดตัวโครงการยกระดับการสนับสนุนพันธมิตรทั่วโลกอย่างเป็นทางการ เพื่อช่วยผู้จัดจำหน่าย ตัวแทนจำหน่าย และผู้วางระบบ สามารถเร่งการเติบโตทางธุรกิจได้อย่างมีประสิทธิภาพยิ่งขึ้น โครงการนี้ตั้งอยู่บน 3 เสาหลัก ได้แก่ การสนับสนุนทางเทคนิคระดับโลกตลอด 24 ชั่วโมง, การส่งมอบผลิตภัณฑ์ที่รวดเร็ว, และ โครงสร้างราคาที่คาดการณ์ได้ โดยมีเป้าหมายเพื่อช่วยให้พันธมิตรของ QSAN สามารถตอบสนองความต้องการของลูกค้าได้อย่างมีประสิทธิภาพมากขึ้น คว้าโอกาสทางธุรกิจใหม่ ๆ ได้ทันท่วงที และผลักดันการเติบโตอย่างยั่งยืน พร้อมสนับสนุนตลอด 24 ชั่วโมง ไม่ว่าธุรกิจจะดำเนินไปที่ใด ในการยกระดับการสนับสนุนครั้งนี้ QSAN ได้เปิดตัว Global 24/7 Help Desk อย่างเป็นทางการ เพื่อให้บริการช่วยเหลือทางเทคนิคแก่ลูกค้าและพันธมิตรทั่วโลกตลอด 24 ชั่วโมง ผ่านจุดติดต่อแบบศูนย์กลางสำหรับการแก้ไขปัญหา การยกระดับการแก้ปัญหา และการประสานงานด้านการสนับสนุนฮาร์ดแวร์ ซึ่งช่วยให้พันธมิตรสามารถดูแลความต้องการของลูกค้าได้อย่างมีประสิทธิภาพในแต่ละภูมิภาคและเขตเวลา  ด้วยการเข้าถึงทีมสนับสนุนทางเทคนิคของ QSAN โดยตรง พันธมิตรจะสามารถลดภาระงานด้านการซัพพอร์ต และเดินหน้าโครงการระดับองค์กรที่ต้องการการสนับสนุนทางเทคนิคที่ต่อเนื่องและเชื่อถือได้อย่างมั่นใจยิ่งขึ้น …",
+      "pubDate": "Mon, 26 Oct 2026 09:01:43 +0000",
+      "source": "TechTalk Thai",
+      "category": "AI",
+      "thumbnail": "https://www.techtalkthai.com/wp-content/uploads/2026/10/news-banner-qsan.jpg",
+      "readTime": "4 นาที"
     },
     {
       "id": "https://it24hrs.com/?p=170737",
