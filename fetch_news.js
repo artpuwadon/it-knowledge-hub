@@ -148,22 +148,24 @@ function calculateReadTime(text) {
     return `${Math.max(1, minutes)} นาที`;
 }
 
-// 📌 ฟังก์ชันสร้างข้อความสรุปข่าวเด่นประจำวัน (3 ข่าวเล่าเรื่อง)
+// 📌 ฟังก์ชันสร้างข้อความสรุปข่าวเด่นประจำวัน (พร้อมรูปภาพและลิงก์)
 function generateDailySummary(articles) {
     if (!articles || articles.length === 0) return [];
     
-    // คัดเลือก 3 ข่าวล่าสุดที่มีเนื้อหาครบถ้วนมาทำสรุปสั้น
-    const topArticles = articles.slice(0, 3);
+    // คัดเลือก 5 ข่าวล่าสุดเพื่อนำมาทำเป็นสไลด์
+    const topArticles = articles.slice(0, 5);
     
     return topArticles.map(item => {
         const cleanContent = (item.content || '').replace(/<[^>]*>?/gm, '').trim();
-        const shortSummary = cleanContent.length > 100 ? cleanContent.substring(0, 100) + '...' : cleanContent;
+        const shortSummary = cleanContent.length > 120 ? cleanContent.substring(0, 120) + '...' : cleanContent;
         return {
             id: item.id,
             title: item.title,
             category: item.category,
             source: item.source,
-            summary: shortSummary
+            summary: shortSummary,
+            thumbnail: item.thumbnail, // 📸 ส่งรูปภาพไปด้วย
+            link: item.link
         };
     });
 }
