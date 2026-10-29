@@ -37,7 +37,7 @@ const FEEDS = [
     { url: 'https://techsauce.co/feed', category: 'General', sourceName: 'Techsauce' },
     { url: 'https://it24hrs.com/category/it-news/feed/', category: 'General', sourceName: 'IT24Hrs' },
     { url: 'https://www.thaicert.or.th/cyber-threat-news-th/feed/', category: 'Security', sourceName: 'ThaiCERT' },  
-    { url: 'https://www.thaicert.or.th/feed/',sourceName: 'ThaiCERT',defaultCategory: 'ภัยคุกคามทางไซเบอร์' }
+    { url: 'https://www.thaicert.or.th/feed/', category: 'ภัยคุกคามทางไซเบอร์', sourceName: 'ThaiCERT' }
 ];
 
 const AI_KEYWORDS = [
@@ -53,20 +53,22 @@ const SECURITY_KEYWORDS = [
 ];
 
 function detectCategory(title, content, defaultCategory) {
-    // 🛡️ 1. ถ้าตั้งต้นมาจากฟีด Cyber Security โดยตรง ให้ยึดเป็น Security เสมอ (ไม่ให้ AI ดึงไป)
-    if (defaultCategory === 'Security') return 'Security';
+    // 🛡️ ถ้าระบุหมวดหมู่เฉพาะเจาะจงมาแล้ว (เช่น Security หรือ ภัยคุกคามทางไซเบอร์) ให้ยึดตามนั้นทันที
+    if (defaultCategory === 'Security' || defaultCategory === 'ภัยคุกคามทางไซเบอร์') {
+        return defaultCategory;
+    }
 
     const textToTest = `${title || ''} ${content || ''}`.toLowerCase();
 
-    // 🛡️ 2. ตรวจหาคีย์เวิร์ด Security จากฟีดทั่วไปก่อน
+    // 🛡️ ตรวจหาคีย์เวิร์ด Security จากฟีดทั่วไป
     const isSecurity = SECURITY_KEYWORDS.some(k => textToTest.includes(k));
     if (isSecurity) return 'Security';
 
-    // 🤖 3. ถ้าไม่ใช่ข่าว Security ค่อยตรวจหาข่าว AI
+    // 🤖 ตรวจหาคีย์เวิร์ด AI
     const isAI = AI_KEYWORDS.some(k => textToTest.includes(k)) || /\bai\b/i.test(textToTest);
     if (isAI) return 'AI';
     
-    return defaultCategory;
+    return defaultCategory || 'General';
 }
 
 function findImage(item) {
@@ -148,7 +150,7 @@ async function main() {
 
     for (const feedConfig of FEEDS) {
         try {
-            console.log(`กำลังดึงข้อมูลจาก: ${feedConfig.sourceName}`);
+            console.log(`กำลังดึงข้อมูลจาก: ${feedConfig.sourceName} (${feedConfig.url})`);
             const feed = await parser.parseURL(feedConfig.url);
             
             let addedCount = 0;
@@ -191,7 +193,7 @@ async function main() {
 // ⏱️ ฟังก์ชันคำนวณเวลาอ่าน (ประมาณ 400 อักขระภาษาไทย / 1 นาที)
 function calculateReadTime(text) {
     if (!text) return '1 นาที';
-    const cleanText = text.replace(/<[^>]*>?/gm, '').trim(); // ลบ HTML tags ออกก่อนนับ
+    const cleanText = text.replace(/<[^>]*>?/gm, '').trim();
     const minutes = Math.ceil(cleanText.length / 400);
     return `${Math.max(1, minutes)} นาที`;
 }
