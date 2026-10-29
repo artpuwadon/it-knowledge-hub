@@ -162,6 +162,52 @@
         </div>
     </div>
 
+    <!-- 🤖 Floating AI Chatbot Widget -->
+    <div class="fixed bottom-6 right-6 z-40">
+        <!-- ปุ่มกดเปิด/ปิด Chat -->
+        <button onclick="toggleChatWindow()" id="chatToggleBtn" class="bg-blue-600 hover:bg-blue-700 text-white p-4 rounded-full shadow-xl hover:shadow-2xl transition duration-200 flex items-center justify-center cursor-pointer group">
+            <span class="text-2xl group-hover:scale-110 transition-transform">🤖</span>
+        </button>
+
+        <!-- หน้าต่างกล่องแชท -->
+        <div id="chatWindow" class="hidden bg-white rounded-2xl shadow-2xl border border-slate-200 w-80 md:w-96 h-[480px] flex flex-col overflow-hidden absolute bottom-16 right-0 transform transition-all duration-200 scale-95 origin-bottom-right">
+            
+            <!-- ส่วนหัว Chat -->
+            <div class="bg-gradient-to-r from-slate-800 to-blue-900 text-white p-4 flex items-center justify-between shadow-xs">
+                <div class="flex items-center gap-2.5">
+                    <div class="bg-blue-500/30 p-2 rounded-xl text-xl">🤖</div>
+                    <div>
+                        <h3 class="font-bold text-sm">พม. IT Assistant</h3>
+                        <p class="text-[10px] text-blue-200 flex items-center gap-1">
+                            <span class="w-1.5 h-1.5 bg-emerald-400 rounded-full animate-pulse"></span> ค้นหาคู่มือ & ข่าวสารไอที
+                        </p>
+                    </div>
+                </div>
+                <button onclick="toggleChatWindow()" class="text-slate-300 hover:text-white text-xl font-bold cursor-pointer p-1">&times;</button>
+            </div>
+
+            <!-- ส่วนแสดงข้อความสนทนา -->
+            <div id="chatMessages" class="flex-1 p-4 overflow-y-auto space-y-3 bg-slate-50 text-xs">
+                <div class="flex gap-2 items-start">
+                    <div class="bg-blue-600 text-white rounded-full w-7 h-7 flex items-center justify-center shrink-0 font-bold text-[10px]">AI</div>
+                    <div class="bg-white p-3 rounded-2xl rounded-tl-none shadow-xs border border-slate-200 text-slate-700 leading-relaxed">
+                        สวัสดีครับ! ผมคือผู้ช่วย AI ประจำคลังความรู้ IT สป.พม. สอบถามเรื่องคู่มือ การใช้งานระบบ หรือข่าวไอทีได้เลยครับ 😊
+                    </div>
+                </div>
+            </div>
+
+            <!-- ส่วนพิมพ์ข้อความ -->
+            <div class="p-3 bg-white border-t border-slate-200 flex gap-2">
+                <input type="text" id="chatInput" placeholder="พิมพ์คำถาม เช่น เปลี่ยนรหัสผ่าน, AI..." 
+                       class="flex-1 bg-slate-50 border border-slate-300 rounded-xl px-3 py-2 text-xs focus:outline-none focus:ring-2 focus:ring-blue-600"
+                       onkeypress="handleChatKeyPress(event)">
+                <button onclick="sendChatMessage()" class="bg-blue-600 hover:bg-blue-700 text-white px-3.5 py-2 rounded-xl text-xs font-semibold transition cursor-pointer shrink-0">
+                    ส่ง
+                </button>
+            </div>
+        </div>
+    </div>
+
     <script>
         let allData = [];
         let currentFilteredData = [];
@@ -182,7 +228,7 @@
 
         // 🔄 สลับการบันทึก / ยกเลิกบันทึกข่าว
         function toggleBookmark(articleId, event) {
-            if (event) event.stopPropagation(); // ป้องกันการเปิด Modal เมื่อกดปุ่ม Bookmark
+            if (event) event.stopPropagation();
             
             let bookmarks = getBookmarks();
             if (bookmarks.includes(articleId)) {
@@ -251,7 +297,6 @@
                     if (selectedCat === 'general') return itemCat.includes('general') || itemCat.includes('ทั่วไป');
                     if (selectedCat === 'law') return itemCat.includes('law') || itemCat.includes('กฎหมาย');
                     if (selectedCat === 'info') return itemCat.includes('info') || itemCat.includes('สรุป');
-                    // เพิ่มการเช็กหมวด Threat ใน filterAndDisplay()
                     if (selectedCat === 'threat' || selectedCat === 'ภัยคุกคามทางไซเบอร์') {
                         return itemCat.includes('threat') || itemCat.includes('ภัยคุกคาม') || itemCat.includes('แรนซัมแวร์');
                     }
@@ -391,7 +436,6 @@
         function switchCategory(cat) {
             currentCategory = cat;
             
-            // รีเซ็ตสไตล์ปุ่มทั้งหมดใน Sidebar
             const buttons = document.querySelectorAll('#categoryMenu button');
             buttons.forEach(btn => {
                 if (btn.id === 'tab-BOOKMARKS') {
@@ -401,7 +445,6 @@
                 }
             });
 
-            // ไฮไลต์ปุ่มที่ถูกเลือก
             const activeBtn = document.getElementById(`tab-${cat}`);
             if (activeBtn) {
                 if (cat === 'BOOKMARKS') {
@@ -412,6 +455,91 @@
             }
 
             filterAndDisplay();
+        }
+
+        // 🤖 --- ฟังก์ชันระบบ AI Chatbot --- 🤖
+        function toggleChatWindow() {
+            const chatWindow = document.getElementById('chatWindow');
+            if (chatWindow.classList.contains('hidden')) {
+                chatWindow.classList.remove('hidden');
+                setTimeout(() => chatWindow.classList.remove('scale-95'), 10);
+                document.getElementById('chatInput').focus();
+            } else {
+                chatWindow.classList.add('scale-95');
+                setTimeout(() => chatWindow.classList.add('hidden'), 150);
+            }
+        }
+
+        function handleChatKeyPress(event) {
+            if (event.key === 'Enter') {
+                sendChatMessage();
+            }
+        }
+
+        function sendChatMessage() {
+            const inputField = document.getElementById('chatInput');
+            const query = inputField.value.trim();
+            if (!query) return;
+
+            const chatMessages = document.getElementById('chatMessages');
+
+            // 1. แสดงข้อความผู้ใช้งาน
+            chatMessages.innerHTML += `
+                <div class="flex gap-2 items-start justify-end">
+                    <div class="bg-blue-600 text-white p-2.5 rounded-2xl rounded-tr-none shadow-xs max-w-[80%] leading-relaxed">
+                        ${escapeHtml(query)}
+                    </div>
+                    <div class="bg-slate-200 text-slate-700 rounded-full w-7 h-7 flex items-center justify-center shrink-0 font-bold text-[10px]">คุณ</div>
+                </div>
+            `;
+            inputField.value = '';
+            chatMessages.scrollTop = chatMessages.scrollHeight;
+
+            // 2. ค้นหาข้อมูลในคลังความรู้ (allData)
+            setTimeout(() => {
+                let botReply = "";
+                const options = { keys: ['title', 'content', 'category'], threshold: 0.4 };
+                const fuse = new Fuse(allData, options);
+                const results = fuse.search(query);
+
+                if (results.length > 0) {
+                    const topMatch = results[0].item;
+                    const snippet = topMatch.content.replace(/<[^>]*>?/gm, '').substring(0, 120) + '...';
+                    const isInternal = topMatch.id && String(topMatch.id).startsWith('local-');
+
+                    botReply = `
+                        <div class="space-y-2">
+                            <p>📦 พบข้อมูลที่เกี่ยวข้องที่สุดในคลังความรู้ครับ:</p>
+                            <div class="bg-blue-50 border border-blue-200/80 p-2.5 rounded-xl">
+                                <span class="text-[9px] bg-blue-200 text-blue-800 px-1.5 py-0.5 rounded font-bold">${topMatch.category}</span>
+                                <h4 class="font-bold text-xs mt-1 text-slate-900">${topMatch.title}</h4>
+                                <p class="text-[11px] text-slate-600 mt-1 leading-snug">${snippet}</p>
+                            </div>
+                            ${isInternal ? 
+                                `<button onclick="openArticle('${topMatch.id}'); toggleChatWindow();" class="text-xs text-blue-600 font-semibold hover:underline cursor-pointer flex items-center gap-1">👉 คลิกเพื่อเปิดอ่านคู่มือฉบับเต็ม</button>` :
+                                `<a href="${topMatch.link}" target="_blank" class="text-xs text-blue-600 font-semibold hover:underline inline-flex items-center gap-1">👉 เปิดดูแหล่งข่าวต้นฉบับ ↗</a>`
+                            }
+                        </div>
+                    `;
+                } else {
+                    botReply = `ขออภัยครับ ไม่พบข้อมูลที่ตรงกับ "${escapeHtml(query)}" ในคลังความรู้ ลองเปลี่ยนคำค้นหา หรือเลือกดูจากรายการหมวดหมู่ทางซ้ายมือได้เลยครับ`;
+                }
+
+                chatMessages.innerHTML += `
+                    <div class="flex gap-2 items-start">
+                        <div class="bg-blue-600 text-white rounded-full w-7 h-7 flex items-center justify-center shrink-0 font-bold text-[10px]">AI</div>
+                        <div class="bg-white p-3 rounded-2xl rounded-tl-none shadow-xs border border-slate-200 text-slate-700 leading-relaxed max-w-[85%]">
+                            ${botReply}
+                        </div>
+                    </div>
+                `;
+                chatMessages.scrollTop = chatMessages.scrollHeight;
+            }, 400);
+        }
+
+        function escapeHtml(text) {
+            const map = { '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#039;' };
+            return text.replace(/[&<>"']/g, function(m) { return map[m]; });
         }
 
         document.getElementById('searchInput').addEventListener('input', filterAndDisplay);
