@@ -19,31 +19,31 @@
       "link": "https://github.com/"
     },
     {
-      "id": "152068 at https://www.blognone.com",
-      "title": "Zelda: Tears of the Kingdom และ Ocarina of Time จะมีเวอร์ชันภาษาไทย",
-      "category": "General",
-      "source": "Blognone",
-      "summary": "Zelda: Tears of the Kingdom และ Ocarina of Time จะมีเวอร์ชันภาษาไทย\n\n  \nBody\nมร. ทาคาฮิโระ มิอุระ กรรมการผู้จัดการ บริษั...",
+      "id": "https://it24hrs.com/?p=170863",
+      "title": "Claude Ultra คืออะไร? เปลี่ยนจาก Max 20x เลิกโควตา 5 ชั่วโมง แต่มีเงื่อนไขอะไรบ้าง?",
+      "category": "AI",
+      "source": "IT24Hrs",
+      "summary": "Anthropic ปรับชื่อแพ็กเกจสมาชิก Claude ใหม่ โดย Max 5x  […]\nThe post Claude Ultra คืออะไร? เปลี่ยนจาก Max 20x เลิกโควตา ...",
       "thumbnail": null,
-      "link": "https://www.blognone.com/node/152068"
+      "link": "https://it24hrs.com/2026/claude-ultra-max-plans-five-hour-limit/"
     },
     {
-      "id": "152067 at https://www.blognone.com",
-      "title": "ผู้จัดการ Anthropic บอกเลิกสัมภาษณ์พนักงานด้วยการให้เขียนโค้ด ล้าสมัยแล้วในยุค Claude",
+      "id": "152072 at https://www.blognone.com",
+      "title": "[ลือ] OpenAI ระดมทุนรอบล่าสุดไม่ถึงเป้า มูลค่าบริษัทต่ำกว่าคาด",
       "category": "AI",
       "source": "Blognone",
-      "summary": "ผู้จัดการ Anthropic บอกเลิกสัมภาษณ์พนักงานด้วยการให้เขียนโค้ด ล้าสมัยแล้วในยุค Claude\n\n  \nBody\nFelix Rieseberg พนักงานระ...",
+      "summary": "[ลือ] OpenAI ระดมทุนรอบล่าสุดไม่ถึงเป้า มูลค่าบริษัทต่ำกว่าคาด\n\n  \nBody\nWall Street Journal รายงานโดยอ้างแหล่งข่าวไม่เปิ...",
       "thumbnail": null,
-      "link": "https://www.blognone.com/node/152067"
+      "link": "https://www.blognone.com/node/152072"
     },
     {
-      "id": "152066 at https://www.blognone.com",
-      "title": "เปิดตัว Mistral Large 4 พัฒนาเรื่องการเขียนโค้ด อันดับหนึ่งในกลุ่มโมเดลเปิด",
-      "category": "Security",
+      "id": "152071 at https://www.blognone.com",
+      "title": "Sam Altman บอกแรมในพีซีถูกใช้เพียง 5% ของเวลาทั้งหมด เอาไปใช้กับคลาวด์คุ้มกว่า",
+      "category": "AI",
       "source": "Blognone",
-      "summary": "เปิดตัว Mistral Large 4 พัฒนาเรื่องการเขียนโค้ด อันดับหนึ่งในกลุ่มโมเดลเปิด\n\n  \nBody\nMistral สตาร์ตอัพ AI สัญชาติฝรั่งเศ...",
+      "summary": "Sam Altman บอกแรมในพีซีถูกใช้เพียง 5% ของเวลาทั้งหมด เอาไปใช้กับคลาวด์คุ้มกว่า\n\n  \nBody\nSam Altman ซีอีโอ OpenAI เปิดสงค...",
       "thumbnail": null,
-      "link": "https://www.blognone.com/node/152066"
+      "link": "https://www.blognone.com/node/152071"
     }
   ],
   "articles": [
@@ -52,7 +52,7 @@
       "title": "แนวทางปฏิบัติการตั้งรหัสผ่านให้ปลอดภัยสำหรับบุคลากร",
       "link": "https://github.com/",
       "content": "1. รหัสผ่านต้องมีความยาวอย่างน้อย 8 ตัวอักษร\n2. ประกอบด้วยอักษรตัวพิมพ์ใหญ่ ตัวพิมพ์เล็ก ตัวเลข และสัญลักษณ์พิเศษ\n3. ห้ามใช้ข้อมูลส่วนตัว เช่น วันเกิด หรือเบอร์โทรศัพท์\n4. เปลี่ยนรหัสผ่านใหม่ทุกๆ 3-6 เดือนเพื่อความปลอดภัย",
-      "pubDate": "2026-10-31T02:06:12.441Z",
+      "pubDate": "2026-11-01T01:57:51.105Z",
       "source": "คู่มือภายในองค์กร",
       "category": "Internal",
       "thumbnail": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=500&auto=format&fit=crop&q=60"
@@ -62,10 +62,87 @@
       "title": "คลังกฎหมายและระเบียบที่เกี่ยวข้องกับการปฏิบัติราชการ",
       "link": "https://github.com/",
       "content": "### ⚖️ ศูนย์รวมลิงก์กฎหมายฉบับเต็มและแนวทางปฏิบัติงาน\n\nเพื่อความสะดวกและถูกต้องในการอ้างอิงข้อกฎหมายของเจ้าหน้าที่ในการปฏิบัติราชการ ศูนย์ไอทีได้รวบรวมลิงก์ตรงไปยังระบบสืบค้นกฎหมายของสำนักงานคณะกรรมการกฤษฎีกา และไฟล์ PDF ฉบับราชกิจจานุเบกษาไว้ในจุดเดียว ดังนี้ครับ:\n\n---\n\n### 🛒 1. หมวดการบริหารงานพัสดุและการจัดซื้อจัดจ้าง\n*   **พ.ร.บ. การจัดซื้อจัดจ้างและการบริหารพัสดุภาครัฐ พ.ศ. 2560**\n    *   🔗 [อ่านกฎหมายฉบับเต็ม (เว็บกฤษฎีกา)](https://www.ocs.go.th/)\n    *   📄 [ดาวน์โหลดไฟล์ PDF ฉบับประกาศราชกิจจานุเบกษา](https://www.gprocurement.go.th/wps/portal/egp/Regulation/!ut/p/z1/04_Sj9CPykssy0xPLMnMz0vMAfIjo8zifQ3djQydnQ18_T3dzA0czU0NfANMLQ1MPIz1w8EKDHAARwP9KGL041EQhd_4cP0oNCvCjM2AJgT4OvsHehgYOBtCFeAxoyA3NMIg01ERAHhSDzY!/dz/d5/L0lDUmlTUSEhL3dHa0FKRnNBLzROV3FpQSEhL3Ro/)\n*   **ระเบียบกระทรวงการคลังว่าด้วยการจัดซื้อจัดจ้างและการบริหารพัสดุภาครัฐ พ.ศ. 2560**\n    *   🔗 [อ่านระเบียบฉบับเต็มและกฎกระทรวงที่เกี่ยวข้อง](https://www.gprocurement.go.th/wps/portal/egp/Regulation/Ministry_of_Finance_Regularity/)\n\n---\n\n### 🏢 2. หมวดการปฏิบัติราชการและวิธีพิจารณาทางปกครอง\n*   **พ.ร.บ. วิธีปฏิบัติราชการทางปกครอง พ.ศ. 2539 (และฉบับแก้ไขเพิ่มเติม)**\n    *   🔗 [อ่านกฎหมายฉบับเต็ม (เว็บกฤษฎีกา)](https://www.ocs.go.th/)\n*   **พ.ร.บ. ความรับผิดทางละเมิดของเจ้าหน้าที่ พ.ศ. 2539**\n    *   🔗 [อ่านกฎหมายฉบับเต็ม (เว็บกฤษฎีกา)](https://www.ocs.go.th/)\n*   **พ.ร.บ. การปฏิบัติราชการทางอิเล็กทรอนิกส์ พ.ศ. 2565** *(สำคัญมากสำหรับงานไอทีและบริการประชาชน)*\n    *   🔗 [อ่านกฎหมายฉบับเต็ม (เว็บกฤษฎีกา)](https://www.ocs.go.th/)\n\n---\n\n### 🛡️ 3. หมวดคุ้มครองข้อมูลและความมั่นคงปลอดภัยไซเบอร์\n*   **พ.ร.บ. คุ้มครองข้อมูลส่วนบุคคล พ.ศ. 2562 (PDPA)**\n    *   🔗 [สืบค้นกฎหมายและแนวทางปฏิบัติจาก สคส.](https://www.pdpc.or.th)\n*   **พ.ร.บ. การรักษาความมั่นคงปลอดภัยไซเบอร์ พ.ศ. 2562**\n    *   🔗 [สืบค้นกฎหมายและประกาศจาก สกมช. (NCSA)](https://www.ncsa.or.th/standards/laws)\n*   **พ.ร.บ. ว่าด้วยการกระทำความผิดเกี่ยวกับคอมพิวเตอร์ (ฉบับที่ 2) พ.ศ. 2560**\n    *   🔗 [อ่านกฎหมายฉบับเต็ม (เว็บกฤษฎีกา)](https://www.ocs.go.th/)\n\n---\n\n### 💡 แนะนำการใช้งานสำหรับเจ้าหน้าที่\n> หากต้องการสืบค้นกฎหมายอื่น ๆ เพิ่มเติม นอกเหนือจากรายการข้างต้น สามารถเข้าใช้งานระบบกฎหมายดิจิทัลโดยตรงได้ที่ **[ระบบสืบค้นกฎหมาย สำนักงานคณะกรรมการกฤษฎีกา](https://www.ocs.go.th/)** เพื่อข้อมูลที่อัปเดตและเป็นปัจจุบันที่สุด",
-      "pubDate": "2026-10-31T02:06:12.441Z",
+      "pubDate": "2026-11-01T01:57:51.105Z",
       "source": "ศูนย์รวมกฎหมายภาครัฐ",
       "category": "Law",
       "thumbnail": "https://images.unsplash.com/photo-1589829545856-d10d557cf95f?w=500"
+    },
+    {
+      "id": "https://it24hrs.com/?p=170863",
+      "title": "Claude Ultra คืออะไร? เปลี่ยนจาก Max 20x เลิกโควตา 5 ชั่วโมง แต่มีเงื่อนไขอะไรบ้าง?",
+      "link": "https://it24hrs.com/2026/claude-ultra-max-plans-five-hour-limit/",
+      "content": "Anthropic ปรับชื่อแพ็กเกจสมาชิก Claude ใหม่ โดย Max 5x  […]\nThe post Claude Ultra คืออะไร? เปลี่ยนจาก Max 20x เลิกโควตา 5 ชั่วโมง แต่มีเงื่อนไขอะไรบ้าง? appeared first on iT24Hrs by ปานระพี.",
+      "pubDate": "Sat, 31 Oct 2026 23:14:35 +0000",
+      "source": "IT24Hrs",
+      "category": "AI",
+      "thumbnail": null,
+      "readTime": "1 นาที"
+    },
+    {
+      "id": "152072 at https://www.blognone.com",
+      "title": "[ลือ] OpenAI ระดมทุนรอบล่าสุดไม่ถึงเป้า มูลค่าบริษัทต่ำกว่าคาด",
+      "link": "https://www.blognone.com/node/152072",
+      "content": "[ลือ] OpenAI ระดมทุนรอบล่าสุดไม่ถึงเป้า มูลค่าบริษัทต่ำกว่าคาด\n\n  \nBody\nWall Street Journal รายงานโดยอ้างแหล่งข่าวไม่เปิดเผยตัวตน ระบุว่า OpenAI ระดมทุนรอบล่าสุดได้เงิน 11,000 ล้านดอลลาร์ ไม่ถึงครึ่งของเป้าหมาย 30,000 ล้านดอลลาร์ และมูลค่าบริษัทอยู่ที่ 1.25 ล้านล้านดอลลาร์ จากเป้าหมาย 1.4 ล้านล้านดอลลาร์\nเหตุผลที่การระดมทุนทำได้ไม่ครบตามที่ต้องการมีได้หลายสาเหตุ โดยในช่วงหลังมีหลายบริษัทระดมทุนเพื่อลงทุนด้านปัญญาประดิษฐ์เช่นเดียวกัน และยังมีความกังวลเนื่องจากบริษัทเหล่านี้มักขาดทุนอย่างหนักแม้รายได้จะเติบโตเร็วมาก\nรายได้ล่าสุดของ OpenAI เมื่อเดือนตุลาคมที่ผ่านมาเมื่อขยายจากรายได้ในเดือนกันยายนเป็นทั้งปีอยู่ที่ 50,000 ล้านดอลลาร์ต่อปี ต่ำกว่าเป้าหมาย 70,000 ล้านดอลลาร์ และถูก Anthropic แซงหน้าด้วยอัตรา 65,000 ล้านดอลลาร์ต่อปี และคาดว่าจะเติบโตไปถึงอัตรา 100,000 ล้านดอลลาร์ต่อปีภายในสิ้นปีนี้\nที่มา - Wall Street Journal\nlew\nSat, 31/10/2026 - 16:48",
+      "pubDate": "Sat, 31 Oct 2026 09:48:06 +0000",
+      "source": "Blognone",
+      "category": "AI",
+      "thumbnail": null,
+      "readTime": "3 นาที"
+    },
+    {
+      "id": "152071 at https://www.blognone.com",
+      "title": "Sam Altman บอกแรมในพีซีถูกใช้เพียง 5% ของเวลาทั้งหมด เอาไปใช้กับคลาวด์คุ้มกว่า",
+      "link": "https://www.blognone.com/node/152071",
+      "content": "Sam Altman บอกแรมในพีซีถูกใช้เพียง 5% ของเวลาทั้งหมด เอาไปใช้กับคลาวด์คุ้มกว่า\n\n  \nBody\nSam Altman ซีอีโอ OpenAI เปิดสงครามกับผู้ใช้พีซีทั่วโลก เมื่อเขาไปออกรายการช่อง Cheekly Pint แล้วตอบคำถามเรื่องแรมขาดแคลนเพราะโดนวงการ AI แย่งชิง\nคำตอบของ Sam บอกว่า มันค่อนข้างแย่ (quite terrible) ที่ทุกคนมีแรมอันหาได้ยากยิ่งอยู่ในคอมพิวเตอร์ของตัวเอง แต่มันถูกใช้งานเพียง 5% ของเวลาทั้งหมด หากเอาแรมเหล่านี้ไปใช้งานกับคลาวด์ก็จะถูกใช้งานตลอดเวลา เป็นการใช้ประโยชน์ที่คุ้มค่ากว่าในสภาพแวดล้อมที่แรมขาดแคลนระดับนี้\nที่มา - XDA\n\nmk\nSat, 31/10/2026 - 16:17",
+      "pubDate": "Sat, 31 Oct 2026 09:17:12 +0000",
+      "source": "Blognone",
+      "category": "AI",
+      "thumbnail": null,
+      "readTime": "2 นาที"
+    },
+    {
+      "id": "152070 at https://www.blognone.com",
+      "title": "Google, Microsoft, OpenAI, Anthropic ตกลงใช้แท็กห้ามดูดข้อมูลไปเทรน AI ร่วมกัน",
+      "link": "https://www.blognone.com/node/152070",
+      "content": "Google, Microsoft, OpenAI, Anthropic ตกลงใช้แท็กห้ามดูดข้อมูลไปเทรน AI ร่วมกัน\n\n  \nBody\nบริษัท AI สัญชาติอเมริกัน 4 รายใหญ่ ได้แก่ Google, Microsoft, OpenAI, Anthropic ประกาศร่วมสาบาน ว่าจะไม่ดูดข้อมูลจากเว็บไซต์ที่ประกาศชัดว่าไม่ต้องการให้นำข้อมูลไปเทรน AI\nวิธีการระบุว่าไม่ต้องการให้ดูดข้อมูลไปเทรน AI ใช้ไฟล์ robots.txt ที่เป็นมาตรฐานของวงการ search engine อยู่แล้ว โดยจะเพิ่มคำสั่งใหม่เข้ามาตามร่างสเปกของ Internet Engineering Task Force (IETF) ตามตัวอย่างดังนี้ (ห้าม AI ใช้งานทุกกรณี ยกเว้นในพาธ press-kit)\n\nUser-Agent: __usage_ai-training\n\nก่อนหน้านี้ บริษัท AI หลายเจ้าปฏิบัติตามแท็กที่แตกต่างกัน ทำให้เจ้าของเว็บไซต์สับสน แต่เคสนี้คือทั้ง 4 บริษัทตกลงร่วมกันได้แล้วว่าจะใช้แท็กเดียวกัน\nOpenAI บอกว่าจะเริ่มรองรับแท็กนี้ในอีกไม่กี่เดือนข้างหน้า, Bing บอกว่าเริ่ม 1 กุมภาพันธ์ 2027, Google บอกคร่าวๆ ว่าภายในปี 2027\nที่มา - IETF, Google, OpenAI, Bing\nmk\nSat, 31/10/2026 - 16:02",
+      "pubDate": "Sat, 31 Oct 2026 09:02:01 +0000",
+      "source": "Blognone",
+      "category": "AI",
+      "thumbnail": null,
+      "readTime": "3 นาที"
+    },
+    {
+      "id": "https://it24hrs.com/?p=170857",
+      "title": "Apple Intelligence เตรียมเปิดในจีนผ่าน iOS 27.3 ต่างจากประเทศอื่นอย่างไร ?",
+      "link": "https://it24hrs.com/2026/apple-intelligence-china-ios-27-3-qwen/",
+      "content": "Apple ประกาศเตรียมเปิด Apple Intelligence ให้ผู้ใช้ iPh […]\nThe post Apple Intelligence เตรียมเปิดในจีนผ่าน iOS 27.3 ต่างจากประเทศอื่นอย่างไร ? appeared first on iT24Hrs by ปานระพี.",
+      "pubDate": "Sat, 31 Oct 2026 04:40:38 +0000",
+      "source": "IT24Hrs",
+      "category": "General",
+      "thumbnail": null,
+      "readTime": "1 นาที"
+    },
+    {
+      "id": "https://techsauce.co/ai/dr-werner-vogels-exclusive-interview-with-techsauce",
+      "title": "สัมภาษณ์พิเศษ Dr. Werner Vogels VP & CTO แห่ง Amazon ผู้ร่วมสร้างยุค AWS อยู่กับ Amazon มา 22 ปี วันนี้เขามอง AI อย่างไร",
+      "link": "https://techsauce.co/ai/dr-werner-vogels-exclusive-interview-with-techsauce",
+      "content": "ในโอกาสที่ Dr. Werner Vogels VP & CTO ของ Amazon.com เดินทางมาเยือนประเทศไทย Techsauce ได้สัมภาษณ์เขาแบบเอ็กซ์คลูซีฟ ถึงการเปลี่ยนแปลงครั้งล่าสุด เมื่อ AI ไม่ได้แค่ทำให้งานเร็วขึ้น แต่กำลังเปลี่ยนวิธีสร้างซอฟต์แวร์ วิธีทำงานขององค์กร",
+      "pubDate": "Sat, 31 Oct 2026 10:31:26 +0700",
+      "source": "Techsauce",
+      "category": "AI",
+      "thumbnail": "https://storage.googleapis.com/techsauce-prod/ugc/uploads/2026/10/1793417351_%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B8%8D%E0%B9%88%E0%B8%B2%E0%B8%AD%E0%B8%A2%E0%B9%88%E0%B8%B2%E0%B8%A2%E0%B8%B8%E0%B9%88%E0%B8%87_%E0%B8%9B%E0%B8%81%E0%B8%82%E0%B9%88%E0%B8%B2%E0%B8%A71200x800_-_2026-10-09T121555.512.webp",
+      "readTime": "1 นาที"
+    },
+    {
+      "id": "152069 at https://www.blognone.com",
+      "title": "ซัมซุงเปิดตัว Galaxy Buds On หูฟังแบบ Open-Ear ราคา 229 ดอลลาร์",
+      "link": "https://www.blognone.com/node/152069",
+      "content": "ซัมซุงเปิดตัว Galaxy Buds On หูฟังแบบ Open-Ear ราคา 229 ดอลลาร์\n\n  \nBody\nซัมซุงเปิดตัว Galaxy Buds On หูฟังไร้สายแบบเกี่ยวหู (open-ear) ที่เน้นสวมใส่สบายกว่าหูฟังแบบใส่ในรูหู (in-ear) สำหรับคนที่ต้องการสวมใส่นานตลอดวัน และไม่ได้ต้องการความสามารถตัดเสียงรบกวนแบบที่ in-ear มี\nGalaxy Buds On มีน้ำหนักข้างละ 6.65 กรัม เล่นเพลงได้นานต่อเนื่อง 9.5 ชั่วโมง (38 ชั่วโมงถ้ารวมกับการชาร์จด้วยเคส) ชิปประมวลผลใช้ Snapdragon Sound S7 Gen 1\nฟีเจอร์ด้านเสียงได้แก่ Audio Leakage Reduction ป้องกันเสียงรั่วไหลไปให้คนอื่นได้ยิน, ลำโพง TwinBoost Speaker ที่ปรับระดับความดังเสียงจากเสียงรบกวนภายนอกให้อัตโนมัติ, Intelligent Clear Call ช่วยให้เสียงคุยโทรศัพท์ชัดเจน, Voice Pickup Unit (VPU) เซ็นเซอร์วัดการสั่นเพื่อตรวจว่าผู้ใช้กำลังพูดอยู่ไหม\nซอฟต์แวร์รองรับ Gemini Live พูดคุยกับ Gemini ได้ทันที (พูดคำว่า “Hey Google, let’s talk live.” ก่อน), Head Gestures รับสายด้วยการพยักหน้า, Quick Voice Memo กดค้างที่หูฟังเพื่ออัดเสียงพูดได้ทันที และค้นหาภายหลังด้วย Bixby ได้\nราคาขายตัวละ 229 ดอลลาร์ มีให้เลือกสีเดียวคือสีดำ\nที่มา - Samsung\n\nmk\nSat, 31/10/2026 - 09:37",
+      "pubDate": "Sat, 31 Oct 2026 02:37:53 +0000",
+      "source": "Blognone",
+      "category": "AI",
+      "thumbnail": null,
+      "readTime": "3 นาที"
     },
     {
       "id": "152068 at https://www.blognone.com",
@@ -112,28 +189,6 @@
       "readTime": "2 นาที"
     },
     {
-      "id": "152064 at https://www.blognone.com",
-      "title": "Intel ไตรมาส 3/2026 รายได้รวมโต 21% เร่งผลิตซีพียู Xeon ให้ทันความต้องการ",
-      "link": "https://www.blognone.com/node/152064",
-      "content": "Intel ไตรมาส 3/2026 รายได้รวมโต 21% เร่งผลิตซีพียู Xeon ให้ทันความต้องการ\n\n  \nBody\nอินเทลรายงานผลประกอบการของไตรมาสที่ 3 ปี 2026 รายได้รวม 16,513 เพิ่มขึ้น 21% จากไตรมาสเดียวกันในปีก่อน และมีกำไรสุทธิตามบัญชี GAAP 3,520 ล้านดอลลาร์\nรายได้แยกตามกลุ่มธุรกิจของอินเทลมีทั้งที่เพิ่มขึ้นและลดลง โดยกลุ่ม Client Computing และ Physical AI ลดลง 5% เป็น 8,097 ล้านดอลลาร์, กลุ่ม Data Center และ AI เพิ่มขึ้น 78% เป็น 7,318 ล้านดอลลาร์ และธุรกิจรับจ้างผลิต Intel Foundry เพิ่มขึ้น 58% เป็น 6,697 ล้านดอลลาร์\nLip-Bu Tan ซีอีโออินเทลบอกว่าตอนนี้ทั้งอุตสาหกรรมพีซีได้รับผลกระทบในระยะสั้น อย่างไรก็ตามอินเทลยังเห็นแนวโน้มที่ดีในความต้องการซีพียูในงานต่าง ๆ สิ่งที่ให้ความสำคัญในตอนนี้คือการเพิ่มกำลังการผลิตให้เพียงพอโดยเฉพาะซีพียูเซิร์ฟเวอร์ Xeon\nTan ยังให้ข้อมูลความก้าวหน้าของการผลิตชิปเทคโนโลยี 14A ว่ากำลังอยู่ในขั้นตอนเจรจากับลูกค้าบางราย คาดว่าจะประกาศรายละเอียดได้ภายใน 2 ไตรมาสข้างหน้า\nที่มา: อินเทล และ CNBC\narjin\nFri, 30/10/2026 - 18:53",
-      "pubDate": "Fri, 30 Oct 2026 11:53:22 +0000",
-      "source": "Blognone",
-      "category": "AI",
-      "thumbnail": null,
-      "readTime": "3 นาที"
-    },
-    {
-      "id": "152063 at https://www.blognone.com",
-      "title": "Amazon รายงานผลประกอบการไตรมาส มอง AWS ยังเติบโตได้อีกมาก",
-      "link": "https://www.blognone.com/node/152063",
-      "content": "Amazon รายงานผลประกอบการไตรมาส มอง AWS ยังเติบโตได้อีกมาก\n\n  \nBody\nAmazon รายงานผลประกอบการของไตรมาสที่ 3 ปี 2026 รายได้รวม 201,944 ล้านดอลลาร์ เพิ่มขึ้น 12% จากไตรมาสเดียวกันในปีก่อน มีกำไรจากการดำเนินงาน 28,076 ล้านดอลลาร์ คิดเป็นอัตรากำไร 13.9% สูงที่สุดที่เคยมีมาของบริษัท และมีกำไรสุทธิตามบัญชี GAAP 20,685 ล้านดอลลาร์\nธุรกิจคลาวด์ AWS ของ Amazon มีรายได้เฉพาะกลุ่ม 17,773 ล้านดอลลาร์ เพิ่มขึ้น 39.3% ซึ่ง Amazon บอกว่าเป็นการเติบโตเร็วที่สุดในรอบ 5 ปี ส่วนธุรกิจโฆษณาที่นักวิเคราะห์ให้ความสนใจมากในช่วงที่ผ่านมา รายได้ 19,637 ล้านดอลลาร์ เพิ่มขึ้น 11%\nAndy Jassy ซีอีโอ Amazon ให้ข้อมูลว่าด้วยโครงสร้างพื้นฐานที่รองรับการรันเวิร์กโหลด AI ได้ดี ทำให้ลูกค้าองค์กรจำนวนมากต้องการใช้งาน AWS มากขึ้น ประเมินว่าสามารถเติบโตได้ระดับ 40% ในปี 2027 และ 2028 ซึ่งด้วยอัตรานี้ AWS จะเป็นธุรกิจที่มีรายได้ระดับล้านล้านดอลลาร์ต่อปี ภายในระยะเวลา 10 ปี\nเขายังให้ความเห็นเรื่องการใช้ AI Agent ช่วยช้อปปิ้งออนไลน์ ว่ามีลูกค้าส่วนน้อยที่ต้องการทำแบบนี้ เพราะไม่สามารถให้ประสบการณ์ซื้อของที่ดีพอเท่ากับการได้เข้ามาเลือกซื้อเองโดยตรง ซึ่งประเด็นนี้น่าจะต้องการสื่อถึง Muse ผู้ช่วย AI ของ Meta ที่เน้นความสามารถด้านการช้อปปิ้งออนไลน์\nที่มา: Amazon, CNBC และ Fortune\narjin\nFri, 30/10/2026 - 18:49",
-      "pubDate": "Fri, 30 Oct 2026 11:49:11 +0000",
-      "source": "Blognone",
-      "category": "AI",
-      "thumbnail": null,
-      "readTime": "3 นาที"
-    },
-    {
       "id": "https://techsauce.co/video/healthspan-flatiron-health",
       "title": "คุยกับ Flatiron อีกไม่กี่ปีข้างหน้า AI จะเอาชนะมะเร็งได้อย่างไร ? l Healthspan EP. 3",
       "link": "https://techsauce.co/video/healthspan-flatiron-health",
@@ -154,28 +209,6 @@
       "category": "ภัยคุกคามทางไซเบอร์",
       "thumbnail": "https://www.thaicert.or.th/wp-content/uploads/2026/10/4-1024x768.png",
       "readTime": "1 นาที"
-    },
-    {
-      "id": "152061 at https://www.blognone.com",
-      "title": "เปิดตัว XREAL Aura แว่นพลัง Android XR แบบมีสาย ราคา 1,099 ดอลลาร์",
-      "link": "https://www.blognone.com/node/152061",
-      "content": "เปิดตัว XREAL Aura แว่นพลัง Android XR แบบมีสาย ราคา 1,099 ดอลลาร์\n\n  \nBody\nกูเกิลและ XREAL บริษัทแว่นตาโลกเสมือนจากจีน เปิดตัวแว่น XREAL Aura ที่ใช้ระบบปฏิบัติการ Android XR อย่างเป็นทางการ หลังจากโชว์แว่นต้นแบบมาตั้งแต่ปี 2025\nแว่น XREAL Aura เป็นแว่นเลนส์ใสมองทะลุ (see-through) โดยมีเลนส์อีกชั้นที่ทำหน้าที่เป็นจอภาพซ้อนอยู่ (ดูภาพประกอบ) ตัวแว่นมีน้ำหนัก 95 กรัม และต้องต่อสายไปยังกล่องประมวลผลที่แยกจากกัน (หนัก 265 กรัม) ในกล่องมีชิป Snapdragon Reality Elite ตัวใหม่ซึ่งเริ่มใช้กับแว่นรุ่นนี้เป็นรุ่นแรก และแบตเตอรี่ขนาด 4,455 mAh\n\n\nจุดเด่นของ XREAL Aura คือแพลตฟอร์ม Android XR จึงรองรับแอพจำนวนมากจากฝั่ง Android ซึ่งกูเกิลบอกว่ามีแอพพร้อมแล้วสำหรับการใช้บนแว่น XR กว่า 150 ตัว (YouTube และ Google TV รองรับการแสดงคอนเทนต์ 360 องศา) อีกฟีเจอร์สำคัญคือการมี Gemini คอยช่วยเหลือเราอยู่ตลอดเวลา ตอบโต้ด้วยเสียง และมองเห็นว่าเรากำลังทำอะไรอยู่บ้างบนหน้าจอแว่น\nXREAL Aura ยังสามารถใช้เสมือนเป็นจอภาพต่อมาจากพีซีหรืออุปกรณ์อื่นผ่านสาย USB-C ได้ โดย Gemini จะมองเห็นหน้าจอนี้ และสามารถสั่งให้ Gemini เข้ามาควบคุมจอพีซีได้ด้วย\n\nXREAL Aura วางขายใน 4 ประเทศแรกคือ สหรัฐอเมริกา แคนาดา เกาหลีใต้ ญี่ปุ่น ราคาเริ่มต้น 1,099 ดอลลาร์ หรือประมาณ 37,000 บาท สำหรับรุ่นความจุ 12GB+256GB\nที่มา - Google, XREAL\n\nmk\nFri, 30/10/2026 - 16:23",
-      "pubDate": "Fri, 30 Oct 2026 09:23:58 +0000",
-      "source": "Blognone",
-      "category": "AI",
-      "thumbnail": "https://www.blognone.com/sites/default/files/files-2026/2026-10/main_aura_sensor.webp",
-      "readTime": "4 นาที"
-    },
-    {
-      "id": "152060 at https://www.blognone.com",
-      "title": "Chrome เพิ่มฟีเจอร์ Autofill นำที่อยู่จาก Gmail มากรอกให้เว็บได้",
-      "link": "https://www.blognone.com/node/152060",
-      "content": "Chrome เพิ่มฟีเจอร์ Autofill นำที่อยู่จาก Gmail มากรอกให้เว็บได้\n\n  \nBody\nChrome เพิ่มฟีเจอร์ autofill ช่วยเติมที่อยู่ โดยดึงข้อมูลจาก Gmail มากรอกให้ได้เลย\nเบื้องหลังของฟีเจอร์นี้คือ Gemini ของ Chrome ที่เชื่อม Gmail ผ่าน Personal Intelligence ภายใต้บัญชี Google Account อันเดียวกัน จึงสามารถเข้าใจบริบทของที่อยู่ในอีเมล แล้วนำมาแนะนำให้กรอกอัตโนมัติผ่าน Chrome ได้เลย\nฟีเจอร์นี้เปิดใช้งานแล้วกับ Chrome ทั้งพีซีและมือถือ ยังใช้ได้เฉพาะในสหรัฐ และผู้ใช้งานต้องเปิด Personal Intelligence เท่านั้น\nที่มา - Google\nmk\nFri, 30/10/2026 - 16:15",
-      "pubDate": "Fri, 30 Oct 2026 09:15:12 +0000",
-      "source": "Blognone",
-      "category": "AI",
-      "thumbnail": null,
-      "readTime": "2 นาที"
     },
     {
       "id": "https://techsauce.co/news/cvi-bangkok-pink-valley-2030-th",
@@ -384,17 +417,6 @@
       "source": "Techsauce",
       "category": "Security",
       "thumbnail": "https://storage.googleapis.com/techsauce-prod/ugc/uploads/2026/10/1793071211_alex_koh_800.webp",
-      "readTime": "1 นาที"
-    },
-    {
-      "id": "https://techsauce.co/healthtech/garmin-health-longevity-thailand",
-      "title": "Garmin Health กับอนาคตนาฬิกาสุขภาพ จากอุปกรณ์นับก้าวสู่ข้อมูลที่ช่วยดูแลผู้ป่วย",
-      "link": "https://techsauce.co/healthtech/garmin-health-longevity-thailand",
-      "content": "นาฬิกาและสายรัดข้อมือเคยเป็นอุปกรณ์ที่บอกจำนวนก้าว อัตราการเต้นหัวใจ หรือคุณภาพการนอนของเจ้าของเครื่องเป็นหลัก แต่ภาพที่ Garmin Health นำเสนอในงาน Garmin Health Media Event 2026 ที่กรุงเทพฯ คือบทบาทที่กว้างขึ้นของ wearable ในฐานะแหล่งข้อมูลต่อเนื่อง",
-      "pubDate": "Thu, 29 Oct 2026 15:37:59 +0700",
-      "source": "Techsauce",
-      "category": "General",
-      "thumbnail": "https://storage.googleapis.com/techsauce-prod/ugc/uploads/2026/10/1793263048_Keng_%E0%B8%9B%E0%B8%81%E0%B8%82%E0%B9%88%E0%B8%B2%E0%B8%A71200x800_%2858%29.webp",
       "readTime": "1 นาที"
     },
     {
@@ -658,28 +680,6 @@
       "pubDate": "Tue, 27 Oct 2026 11:00:36 +0000",
       "source": "IT24Hrs",
       "category": "AI",
-      "thumbnail": null,
-      "readTime": "1 นาที"
-    },
-    {
-      "id": "https://it24hrs.com/?p=170783",
-      "title": "เกม Pokemon UNITE ประกาศปิดตัวถาวรในปี 2570 ผู้เล่นต้องทำอะไรบ้าง?",
-      "link": "https://it24hrs.com/2026/pokemon-unite-end-of-service-march-2027/",
-      "content": "เกม Pokemon UNITE  ประกาศยุติให้บริการในวันที่ 23 มีนาค […]\nThe post เกม Pokemon UNITE ประกาศปิดตัวถาวรในปี 2570 ผู้เล่นต้องทำอะไรบ้าง? appeared first on iT24Hrs by ปานระพี.",
-      "pubDate": "Tue, 27 Oct 2026 08:39:53 +0000",
-      "source": "IT24Hrs",
-      "category": "General",
-      "thumbnail": null,
-      "readTime": "1 นาที"
-    },
-    {
-      "id": "https://it24hrs.com/?p=170758",
-      "title": "เปิดตัว iPad Mini 2026 จอ OLED ชิป A20 Pro ต่างจากรุ่นเดิมแค่ไหน ทำไมแพงกว่าถึง 7 พันบาท",
-      "link": "https://it24hrs.com/2026/ipad-mini-a20-pro-vs-a17-pro-specs-price-thailand/",
-      "content": "เปิดตัว iPad Mini จอ OLED ชิป A20 Pro เรียกว่าเป็น iPad […]\nThe post เปิดตัว iPad Mini 2026 จอ OLED ชิป A20 Pro ต่างจากรุ่นเดิมแค่ไหน ทำไมแพงกว่าถึง 7 พันบาท appeared first on iT24Hrs by ปานระพี.",
-      "pubDate": "Tue, 27 Oct 2026 05:09:57 +0000",
-      "source": "IT24Hrs",
-      "category": "General",
       "thumbnail": null,
       "readTime": "1 นาที"
     },
