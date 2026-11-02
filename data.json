@@ -1,15 +1,6 @@
 {
   "dailySummary": [
     {
-      "id": "local-cybersecurity-101.md",
-      "title": "แนวทางปฏิบัติการตั้งรหัสผ่านให้ปลอดภัยสำหรับบุคลากร",
-      "category": "Internal",
-      "source": "คู่มือภายในองค์กร",
-      "summary": "1. รหัสผ่านต้องมีความยาวอย่างน้อย 8 ตัวอักษร\n2. ประกอบด้วยอักษรตัวพิมพ์ใหญ่ ตัวพิมพ์เล็ก ตัวเลข และสัญลักษณ์พิเศษ\n3. ห้า...",
-      "thumbnail": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=500&auto=format&fit=crop&q=60",
-      "link": "https://github.com/"
-    },
-    {
       "id": "local-law-hub.md",
       "title": "คลังกฎหมายและระเบียบที่เกี่ยวข้องกับการปฏิบัติราชการ",
       "category": "Law",
@@ -19,53 +10,172 @@
       "link": "https://github.com/"
     },
     {
-      "id": "https://it24hrs.com/?p=170863",
-      "title": "Claude Ultra คืออะไร? เปลี่ยนจาก Max 20x เลิกโควตา 5 ชั่วโมง แต่มีเงื่อนไขอะไรบ้าง?",
-      "category": "AI",
-      "source": "IT24Hrs",
-      "summary": "Anthropic ปรับชื่อแพ็กเกจสมาชิก Claude ใหม่ โดย Max 5x  […]\nThe post Claude Ultra คืออะไร? เปลี่ยนจาก Max 20x เลิกโควตา ...",
-      "thumbnail": null,
-      "link": "https://it24hrs.com/2026/claude-ultra-max-plans-five-hour-limit/"
+      "id": "local-cybersecurity-101.md",
+      "title": "แนวทางปฏิบัติการตั้งรหัสผ่านให้ปลอดภัยสำหรับบุคลากร",
+      "category": "Internal",
+      "source": "คู่มือภายในองค์กร",
+      "summary": "1. รหัสผ่านต้องมีความยาวอย่างน้อย 8 ตัวอักษร\n2. ประกอบด้วยอักษรตัวพิมพ์ใหญ่ ตัวพิมพ์เล็ก ตัวเลข และสัญลักษณ์พิเศษ\n3. ห้า...",
+      "thumbnail": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=500&auto=format&fit=crop&q=60",
+      "link": "https://github.com/"
     },
     {
-      "id": "152072 at https://www.blognone.com",
-      "title": "[ลือ] OpenAI ระดมทุนรอบล่าสุดไม่ถึงเป้า มูลค่าบริษัทต่ำกว่าคาด",
-      "category": "AI",
-      "source": "Blognone",
-      "summary": "[ลือ] OpenAI ระดมทุนรอบล่าสุดไม่ถึงเป้า มูลค่าบริษัทต่ำกว่าคาด\n\n  \nBody\nWall Street Journal รายงานโดยอ้างแหล่งข่าวไม่เปิ...",
-      "thumbnail": null,
-      "link": "https://www.blognone.com/node/152072"
+      "id": "https://www.thaicert.or.th/?p=17600",
+      "title": "แจ้งเตือน! Veeam ออกอัปเดตแก้ไขช่องโหว่ Critical เสี่ยงข้ามการตรวจสอบสิทธิ์และแก้ไขข้อมูล",
+      "category": "ภัยคุกคามทางไซเบอร์",
+      "source": "ThaiCERT",
+      "summary": "ศูนย์ประสานการรักษาความมั่นคงปลอดภัยระบบคอมพิวเตอร์แห่ง […]\nThe post แจ้งเตือน! Veeam ออกอัปเดตแก้ไขช่องโหว่ Critical เส...",
+      "thumbnail": "https://www.thaicert.or.th/wp-content/uploads/2026/11/Veem-1024x595.jpg",
+      "link": "https://www.thaicert.or.th/2026/11/01/%e0%b9%81%e0%b8%88%e0%b9%89%e0%b8%87%e0%b9%80%e0%b8%95%e0%b8%b7%e0%b8%ad%e0%b8%99-veeam-%e0%b8%ad%e0%b8%ad%e0%b8%81%e0%b8%ad%e0%b8%b1%e0%b8%9b%e0%b9%80%e0%b8%94%e0%b8%95%e0%b9%81%e0%b8%81%e0%b9%89/"
     },
     {
-      "id": "152071 at https://www.blognone.com",
-      "title": "Sam Altman บอกแรมในพีซีถูกใช้เพียง 5% ของเวลาทั้งหมด เอาไปใช้กับคลาวด์คุ้มกว่า",
+      "id": "152082 at https://www.blognone.com",
+      "title": "BOOX เปิดตัว Palma 3 เครื่องอ่านอีุบุ๊กขนาดมือถือ มีปากกาจด มี Google Play",
+      "category": "General",
+      "source": "Blognone",
+      "summary": "BOOX เปิดตัว Palma 3 เครื่องอ่านอีุบุ๊กขนาดมือถือ มีปากกาจด มี Google Play\n\n  \nBody\nBOOX แบรนด์เครื่องอ่านอีบุ๊กจากประเท...",
+      "thumbnail": null,
+      "link": "https://www.blognone.com/node/152082"
+    },
+    {
+      "id": "152081 at https://www.blognone.com",
+      "title": "ดาวเทียม Suncatcher ของกูเกิลทำงานแล้ว สั่ง TPU แต่งกลอนไฮกุจากอวกาศ",
       "category": "AI",
       "source": "Blognone",
-      "summary": "Sam Altman บอกแรมในพีซีถูกใช้เพียง 5% ของเวลาทั้งหมด เอาไปใช้กับคลาวด์คุ้มกว่า\n\n  \nBody\nSam Altman ซีอีโอ OpenAI เปิดสงค...",
+      "summary": "ดาวเทียม Suncatcher ของกูเกิลทำงานแล้ว สั่ง TPU แต่งกลอนไฮกุจากอวกาศ\n\n  \nBody\nกูเกิลอัพเดตความคืบหน้าของ Project Suncatc...",
       "thumbnail": null,
-      "link": "https://www.blognone.com/node/152071"
+      "link": "https://www.blognone.com/node/152081"
     }
   ],
   "articles": [
-    {
-      "id": "local-cybersecurity-101.md",
-      "title": "แนวทางปฏิบัติการตั้งรหัสผ่านให้ปลอดภัยสำหรับบุคลากร",
-      "link": "https://github.com/",
-      "content": "1. รหัสผ่านต้องมีความยาวอย่างน้อย 8 ตัวอักษร\n2. ประกอบด้วยอักษรตัวพิมพ์ใหญ่ ตัวพิมพ์เล็ก ตัวเลข และสัญลักษณ์พิเศษ\n3. ห้ามใช้ข้อมูลส่วนตัว เช่น วันเกิด หรือเบอร์โทรศัพท์\n4. เปลี่ยนรหัสผ่านใหม่ทุกๆ 3-6 เดือนเพื่อความปลอดภัย",
-      "pubDate": "2026-11-01T01:57:51.105Z",
-      "source": "คู่มือภายในองค์กร",
-      "category": "Internal",
-      "thumbnail": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=500&auto=format&fit=crop&q=60"
-    },
     {
       "id": "local-law-hub.md",
       "title": "คลังกฎหมายและระเบียบที่เกี่ยวข้องกับการปฏิบัติราชการ",
       "link": "https://github.com/",
       "content": "### ⚖️ ศูนย์รวมลิงก์กฎหมายฉบับเต็มและแนวทางปฏิบัติงาน\n\nเพื่อความสะดวกและถูกต้องในการอ้างอิงข้อกฎหมายของเจ้าหน้าที่ในการปฏิบัติราชการ ศูนย์ไอทีได้รวบรวมลิงก์ตรงไปยังระบบสืบค้นกฎหมายของสำนักงานคณะกรรมการกฤษฎีกา และไฟล์ PDF ฉบับราชกิจจานุเบกษาไว้ในจุดเดียว ดังนี้ครับ:\n\n---\n\n### 🛒 1. หมวดการบริหารงานพัสดุและการจัดซื้อจัดจ้าง\n*   **พ.ร.บ. การจัดซื้อจัดจ้างและการบริหารพัสดุภาครัฐ พ.ศ. 2560**\n    *   🔗 [อ่านกฎหมายฉบับเต็ม (เว็บกฤษฎีกา)](https://www.ocs.go.th/)\n    *   📄 [ดาวน์โหลดไฟล์ PDF ฉบับประกาศราชกิจจานุเบกษา](https://www.gprocurement.go.th/wps/portal/egp/Regulation/!ut/p/z1/04_Sj9CPykssy0xPLMnMz0vMAfIjo8zifQ3djQydnQ18_T3dzA0czU0NfANMLQ1MPIz1w8EKDHAARwP9KGL041EQhd_4cP0oNCvCjM2AJgT4OvsHehgYOBtCFeAxoyA3NMIg01ERAHhSDzY!/dz/d5/L0lDUmlTUSEhL3dHa0FKRnNBLzROV3FpQSEhL3Ro/)\n*   **ระเบียบกระทรวงการคลังว่าด้วยการจัดซื้อจัดจ้างและการบริหารพัสดุภาครัฐ พ.ศ. 2560**\n    *   🔗 [อ่านระเบียบฉบับเต็มและกฎกระทรวงที่เกี่ยวข้อง](https://www.gprocurement.go.th/wps/portal/egp/Regulation/Ministry_of_Finance_Regularity/)\n\n---\n\n### 🏢 2. หมวดการปฏิบัติราชการและวิธีพิจารณาทางปกครอง\n*   **พ.ร.บ. วิธีปฏิบัติราชการทางปกครอง พ.ศ. 2539 (และฉบับแก้ไขเพิ่มเติม)**\n    *   🔗 [อ่านกฎหมายฉบับเต็ม (เว็บกฤษฎีกา)](https://www.ocs.go.th/)\n*   **พ.ร.บ. ความรับผิดทางละเมิดของเจ้าหน้าที่ พ.ศ. 2539**\n    *   🔗 [อ่านกฎหมายฉบับเต็ม (เว็บกฤษฎีกา)](https://www.ocs.go.th/)\n*   **พ.ร.บ. การปฏิบัติราชการทางอิเล็กทรอนิกส์ พ.ศ. 2565** *(สำคัญมากสำหรับงานไอทีและบริการประชาชน)*\n    *   🔗 [อ่านกฎหมายฉบับเต็ม (เว็บกฤษฎีกา)](https://www.ocs.go.th/)\n\n---\n\n### 🛡️ 3. หมวดคุ้มครองข้อมูลและความมั่นคงปลอดภัยไซเบอร์\n*   **พ.ร.บ. คุ้มครองข้อมูลส่วนบุคคล พ.ศ. 2562 (PDPA)**\n    *   🔗 [สืบค้นกฎหมายและแนวทางปฏิบัติจาก สคส.](https://www.pdpc.or.th)\n*   **พ.ร.บ. การรักษาความมั่นคงปลอดภัยไซเบอร์ พ.ศ. 2562**\n    *   🔗 [สืบค้นกฎหมายและประกาศจาก สกมช. (NCSA)](https://www.ncsa.or.th/standards/laws)\n*   **พ.ร.บ. ว่าด้วยการกระทำความผิดเกี่ยวกับคอมพิวเตอร์ (ฉบับที่ 2) พ.ศ. 2560**\n    *   🔗 [อ่านกฎหมายฉบับเต็ม (เว็บกฤษฎีกา)](https://www.ocs.go.th/)\n\n---\n\n### 💡 แนะนำการใช้งานสำหรับเจ้าหน้าที่\n> หากต้องการสืบค้นกฎหมายอื่น ๆ เพิ่มเติม นอกเหนือจากรายการข้างต้น สามารถเข้าใช้งานระบบกฎหมายดิจิทัลโดยตรงได้ที่ **[ระบบสืบค้นกฎหมาย สำนักงานคณะกรรมการกฤษฎีกา](https://www.ocs.go.th/)** เพื่อข้อมูลที่อัปเดตและเป็นปัจจุบันที่สุด",
-      "pubDate": "2026-11-01T01:57:51.105Z",
+      "pubDate": "2026-11-02T02:09:58.669Z",
       "source": "ศูนย์รวมกฎหมายภาครัฐ",
       "category": "Law",
       "thumbnail": "https://images.unsplash.com/photo-1589829545856-d10d557cf95f?w=500"
+    },
+    {
+      "id": "local-cybersecurity-101.md",
+      "title": "แนวทางปฏิบัติการตั้งรหัสผ่านให้ปลอดภัยสำหรับบุคลากร",
+      "link": "https://github.com/",
+      "content": "1. รหัสผ่านต้องมีความยาวอย่างน้อย 8 ตัวอักษร\n2. ประกอบด้วยอักษรตัวพิมพ์ใหญ่ ตัวพิมพ์เล็ก ตัวเลข และสัญลักษณ์พิเศษ\n3. ห้ามใช้ข้อมูลส่วนตัว เช่น วันเกิด หรือเบอร์โทรศัพท์\n4. เปลี่ยนรหัสผ่านใหม่ทุกๆ 3-6 เดือนเพื่อความปลอดภัย",
+      "pubDate": "2026-11-02T02:09:58.668Z",
+      "source": "คู่มือภายในองค์กร",
+      "category": "Internal",
+      "thumbnail": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=500&auto=format&fit=crop&q=60"
+    },
+    {
+      "id": "https://www.thaicert.or.th/?p=17600",
+      "title": "แจ้งเตือน! Veeam ออกอัปเดตแก้ไขช่องโหว่ Critical เสี่ยงข้ามการตรวจสอบสิทธิ์และแก้ไขข้อมูล",
+      "link": "https://www.thaicert.or.th/2026/11/01/%e0%b9%81%e0%b8%88%e0%b9%89%e0%b8%87%e0%b9%80%e0%b8%95%e0%b8%b7%e0%b8%ad%e0%b8%99-veeam-%e0%b8%ad%e0%b8%ad%e0%b8%81%e0%b8%ad%e0%b8%b1%e0%b8%9b%e0%b9%80%e0%b8%94%e0%b8%95%e0%b9%81%e0%b8%81%e0%b9%89/",
+      "content": "ศูนย์ประสานการรักษาความมั่นคงปลอดภัยระบบคอมพิวเตอร์แห่ง […]\nThe post แจ้งเตือน! Veeam ออกอัปเดตแก้ไขช่องโหว่ Critical เสี่ยงข้ามการตรวจสอบสิทธิ์และแก้ไขข้อมูล first appeared on Thailand Computer Emergency Response Team (ThaiCERT).",
+      "pubDate": "Sun, 01 Nov 2026 14:53:10 +0000",
+      "source": "ThaiCERT",
+      "category": "ภัยคุกคามทางไซเบอร์",
+      "thumbnail": "https://www.thaicert.or.th/wp-content/uploads/2026/11/Veem-1024x595.jpg",
+      "readTime": "1 นาที"
+    },
+    {
+      "id": "152082 at https://www.blognone.com",
+      "title": "BOOX เปิดตัว Palma 3 เครื่องอ่านอีุบุ๊กขนาดมือถือ มีปากกาจด มี Google Play",
+      "link": "https://www.blognone.com/node/152082",
+      "content": "BOOX เปิดตัว Palma 3 เครื่องอ่านอีุบุ๊กขนาดมือถือ มีปากกาจด มี Google Play\n\n  \nBody\nBOOX แบรนด์เครื่องอ่านอีบุ๊กจากประเทศจีน เปิดตัวฮาร์ดแวร์ใหม่ของปี 2026 ดังนี้\nBOOX Palma 3 เครื่องอ่านขนาดพกพารุ่นต่อจาก Palma 2 ในปี 2024 ใช้จอ ePaper ขนาด 6.13 นิ้ว ไซส์เท่ามือถือ (แต่โทรไม่ได้) รัน Android 16 มี Google Play Store ในตัว, แรม 6GB, สตอเรจ 128GB + microSD, รองรับปากกา InkSense Plus ใช้เขียนบันทึกได้, ราคา 319.99 ดอลลาร์\nBOOX Note Mini C เครื่องอ่านหน้าจอ ePaper แบบสี ขนาด 8.52 นิ้ว, รัน Android 16 มี Google Play Store ในตัว, แรม 6GB, สตอเรจ 64GB + microSD, รองรับปากกา InkSense Plus ใช้เขียนบันทึกได้, ราคา 549.99 ดอลลาร์\nBOOX Note Air6 C เครื่องอ่านหน้าจอ ePaper แบบสี ขนาด 10.3 นิ้ว, รัน Android 16 มี Google Play Store ในตัว, แรม 6GB, สตอเรจ 64GB + microSD, รองรับปากกา Pen3 ใช้เขียนบันทึกได้, ราคา 579.99  ดอลลาร์\n\nmk\nSun, 01/11/2026 - 21:23",
+      "pubDate": "Sun, 01 Nov 2026 14:23:29 +0000",
+      "source": "Blognone",
+      "category": "General",
+      "thumbnail": null,
+      "readTime": "3 นาที"
+    },
+    {
+      "id": "152081 at https://www.blognone.com",
+      "title": "ดาวเทียม Suncatcher ของกูเกิลทำงานแล้ว สั่ง TPU แต่งกลอนไฮกุจากอวกาศ",
+      "link": "https://www.blognone.com/node/152081",
+      "content": "ดาวเทียม Suncatcher ของกูเกิลทำงานแล้ว สั่ง TPU แต่งกลอนไฮกุจากอวกาศ\n\n  \nBody\nกูเกิลอัพเดตความคืบหน้าของ Project Suncatcher ส่งดาวเทียมฝัง TPU ขึ้นไปทดสอบบนอวกาศ หลังจากยิงดาวเทียมขึ้นไปเมื่อวันที่ 1 ตุลาคม ก็ใช้เวลาช่วงที่ผ่านมาตรวจสอบสถานะว่า TPU ทำงานได้หรือไม่ เริ่มตั้งแต่การเปิดเครื่องและทดสอบระบบต่างๆ\nในสัปดาห์ที่ผ่านมา กูเกิลเริ่มทดสอบการทำงานจริง (แบบเดียวกับ Hello World) นั่นคือสั่งให้ โมเดล Gemma 4 ที่รันใน TPU บนอวกาศประมวลผลคำตอบ ซึ่ง prompt แรกคือการบอกให้โมเดลแต่งกวีไฮกุเกี่ยวกับการอยู่ในอวกาศ\nกวีบทแรกที่แต่งโดย AI บนอวกาศคือ\nBlue marble below\nหลังจากนั้น กูเกิลยังทดสอบข้อมูลทางเทคนิคต่างๆ และบอกว่ามีแผนทดสอบประสิทธิภาพ TPU ให้หนักขึ้นเรื่อยๆ เพื่อหาลิมิตว่า TPU สามารถทำงานในสภาพแวดล้อมที่จำกัดเรื่องความร้อนและการโดนรังสีได้แค่ไหน แล้วจะนำข้อมูลนี้ไปทดสอบกับดาวเทียมคู่ 2 ดวงสื่อสารกันในปี 2027 ต่อไป\nที่มา - Google\n\nmk\nSun, 01/11/2026 - 20:46",
+      "pubDate": "Sun, 01 Nov 2026 13:46:06 +0000",
+      "source": "Blognone",
+      "category": "AI",
+      "thumbnail": null,
+      "readTime": "3 นาที"
+    },
+    {
+      "id": "152080 at https://www.blognone.com",
+      "title": "FBI ระบุ กลุ่มแฮ็กเกอร์เกาหลีเหนือเป็นผู้แฮ็ก Binance",
+      "link": "https://www.blognone.com/node/152080",
+      "content": "FBI ระบุ กลุ่มแฮ็กเกอร์เกาหลีเหนือเป็นผู้แฮ็ก Binance\n\n  \nBody\nFBI ออกรายงานสืบสวน กรณี Binance ถูกแฮ็กครั้งใหญ่ 6 พันล้านดอลลาร์ ว่าต้นตอมาจากกลุ่มแฮ็กเกอร์เกาหลีเหนือ ที่ถูกตั้งชื่อโดย FBI ว่า TraderTraitor\nFBI บอกว่า TraderTraitor กำลังพยายามแปลงสินทรัพย์ดิจิทัลที่ขโมยมาเป็น Ethereum (ETH) เพื่อนำไปฟอกเงินผ่านระบบการเงินแบบ DeFi ต่อไป จึงเปิดเผยที่อยู่ของกลุ่ม TraderTraitor เพื่อให้ภาคเอกชนช่วยกันเฝ้าระวังว่ามีความเคลื่อนไหวใดๆ หรือไม่\nความเคลื่อนไหวของฝั่ง Binance คือ สามารถชดเชยเหรียญให้กับลูกค้าได้แล้ว 90% ของความเสียหายทั้งหมด เหลือเฉพาะเหรียญที่ไม่ค่อยได้รับความนิยมเท่านั้น\nThe FBI is releasing information advising the Democratic People's Republic of Korea (North Korea) was responsible for the theft of more than $6 billion USD in virtual assets from cryptocurrency exchange, Binance, on or about October 29, 2026. The FBI refers to this specific North Korean malicious cyber activity as \"TraderTraitor.\"\n\nThe FBI, together with partners at the USSS and IRS-CI, has observed TraderTraitor actors converting stolen assets primarily into Ethereum (ETH). It is expected these assets will then be further laundered by converting them using DeFi and instant swap services as they prepare them for further laundering stages.\nHow You Can Help:\nA list of addresses associated with this activity is available here: https://t.co/g0oIWx0WeD\n— FBI Cyber Branch (@FBICyberBranch) October 31, 2026\n\nที่มา - FBI\nmk\nSun, 01/11/2026 - 20:24",
+      "pubDate": "Sun, 01 Nov 2026 13:24:17 +0000",
+      "source": "Blognone",
+      "category": "Security",
+      "thumbnail": null,
+      "readTime": "4 นาที"
+    },
+    {
+      "id": "152079 at https://www.blognone.com",
+      "title": "ไมโครซอฟท์บอกตั้งใจให้ Taskbar ลากเพื่อย้ายตำแหน่งไม่ได้ ป้องกันบังเอิญย้าย",
+      "link": "https://www.blognone.com/node/152079",
+      "content": "ไมโครซอฟท์บอกตั้งใจให้ Taskbar ลากเพื่อย้ายตำแหน่งไม่ได้ ป้องกันบังเอิญย้าย\n\n  \nBody\nDiego Baca หัวหน้าฝ่ายดีไซน์ของ Windows ตอบโพสต์ของเว็บไซต์ Windows Central ในประเด็น \"ลาก Taskbar เพื่อย้ายตำแหน่งไม่ได้\" หลังจาก Windows 11 เปิดให้ย้ายตำแหน่งของ Taskbar ได้แล้ว\nBaca อธิบายว่าไมโครซอฟท์ \"ตั้งใจ\" ให้ลาก Taskbar ไม่ได้เพื่อป้องกันการเผลอกดที่ Taskbar แล้วลากไปโดยบังเอิญ และนี่เป็นเหตุผลว่าใน Windows เวอร์ชันก่อนๆ มีตัวเลือก \"Lock the Taskbar\" เอาไว้ให้\nทีมของ Baca พบว่าผู้ใช้ Windows ไม่ได้เปลี่ยนตำแหน่งของ Taskbar กันบ่อยขนาดนั้น จึงคิดว่าการให้คลิกขวาที่ Taskbar แล้วเลือก Settings เพื่อย้ายตำแหน่งน่าจะเหมาะสมกว่าสำหรับคนที่ตั้งใจย้ายตำแหน่ง แถมยังคาดเดาพฤติกรรมได้ง่ายกว่า สรุปแล้วมันคือความตั้งใจให้เป็นอย่างนี้ ไม่ใช่ตัวเลือกขาดหายไป\nที่มา - Windows Central\nI find headlines like these unnecessarily negative. Instead of saying “you still need” a third-party app, why not say “you can also use” one? It communicates the same information without framing everything as a shortcoming.\n\nFrom our research, dragging the taskbar to reposition it can lead to accidental movements, which is one of the reasons “Lock the taskbar” existed in previous versions of Windows. We also found that changing the taskbar position isn’t something people do frequently.\nWe felt that providing a discoverable setting, just one right-click away, was a more intentional and predictable experience. It’s a deliberate design decision, not a missing capability.\n— Diego Baca (@bacadd) October 30, 2026\n\n\n          \nmk\nSun, 01/11/2026 - 20:11",
+      "pubDate": "Sun, 01 Nov 2026 13:11:14 +0000",
+      "source": "Blognone",
+      "category": "General",
+      "thumbnail": null,
+      "readTime": "4 นาที"
+    },
+    {
+      "id": "152078 at https://www.blognone.com",
+      "title": "Meta ออกแอป Style Sketch แนะนำสไตล์แต่งตัวด้วย AI ตอนนี้ทดสอบบางประเทศ​ มีไทยด้วย",
+      "link": "https://www.blognone.com/node/152078",
+      "content": "Meta ออกแอป Style Sketch แนะนำสไตล์แต่งตัวด้วย AI ตอนนี้ทดสอบบางประเทศ​ มีไทยด้วย\n\n  \nBody\nMeta ออกแอปทดลองตลาดเกี่ยวกับ AI เพิ่มเติมอีก 2 แอป ได้แก่ Style Sketch และ Waddle World เพิ่มเติมจาก Pocket แอปสร้างเกมด้วย AI และ Vibes แอปรวมวิดีโอที่สร้างด้วย AI โดยเฉพาะ\nStyle Sketch ทำงานโดยเชื่อมต่อกับ Instagram ของผู้ใช้งาน เพื่อจดจำลักษณะของเรา และเสื้อผ้าที่สวมใส่ ผู้ใช้งานยังสามารถอัปโหลดรูปเพิ่มเติมได้ จากนั้นแอปจะแนะนำการแต่งตัวจากชุดที่มี หรืออ้างอิงจากชุดและผู้สวมใส่ที่มีลักษณะรูปร่างคล้ายกันให้\nแอป Style Sketch ตอนนี้ทดสอบเฉพาะในบางประเทศ​ ซึ่งมีประเทศไทยเป็นหนึ่งในนั้นด้วย มีให้ดาวน์โหลดทั้งบน iOS และ Android\nอีกหนึ่งแอปคือ Waddle World เป็นแอปสร้างสัตว์เลี้ยงเสมือน ผ่านการเลี้ยงดูด้วยการแชทแบบ AI ตอนนี้ทดสอบเฉพาะในฟิลิปปินส์ประเทศเดียว\nที่มา: TechCrunch\narjin\nSun, 01/11/2026 - 15:22",
+      "pubDate": "Sun, 01 Nov 2026 08:22:43 +0000",
+      "source": "Blognone",
+      "category": "AI",
+      "thumbnail": null,
+      "readTime": "2 นาที"
+    },
+    {
+      "id": "https://www.thaicert.or.th/?p=17586",
+      "title": "แจ้งเตือนช่องโหว่ความปลอดภัยผลิตภัณฑ์ TeamViewer",
+      "link": "https://www.thaicert.or.th/2026/11/01/%e0%b9%81%e0%b8%88%e0%b9%89%e0%b8%87%e0%b9%80%e0%b8%95%e0%b8%b7%e0%b8%ad%e0%b8%99%e0%b8%8a%e0%b9%88%e0%b8%ad%e0%b8%87%e0%b9%82%e0%b8%ab%e0%b8%a7%e0%b9%88%e0%b8%84%e0%b8%a7%e0%b8%b2%e0%b8%a1%e0%b8%9b-3/",
+      "content": "ศูนย์ประสานการรักษาความมั่นคงปลอดภัยระบบคอมพิวเตอร์แห่ง […]\nThe post แจ้งเตือนช่องโหว่ความปลอดภัยผลิตภัณฑ์ TeamViewer first appeared on Thailand Computer Emergency Response Team (ThaiCERT).",
+      "pubDate": "Sun, 01 Nov 2026 04:39:43 +0000",
+      "source": "ThaiCERT",
+      "category": "ภัยคุกคามทางไซเบอร์",
+      "thumbnail": "https://www.thaicert.or.th/wp-content/uploads/2026/11/TeamViewer-1024x576.png",
+      "readTime": "1 นาที"
+    },
+    {
+      "id": "152077 at https://www.blognone.com",
+      "title": "Krafton ประกาศทำซีรีส์ PUBG ฉบับคนแสดงกับ Netflix, ได้ Donald Glover แสดงนำ",
+      "link": "https://www.blognone.com/node/152077",
+      "content": "Krafton ประกาศทำซีรีส์ PUBG ฉบับคนแสดงกับ Netflix, ได้ Donald Glover แสดงนำ\n\n  \nBody\nKrafton ประกาศข่าวการสร้างซีรีส์คนแสดงจากเกม PUBG ร่วมกับ Netflix โดยจะได้ดาราดังอย่าง Donald Glover มาแสดงเองและกำกับเองด้วย\nทีมงานของ Donald Glover ยังมี Stephen Glover น้องชายของเขาที่จะมาเขียนบทและควบคุมการผลิตร่วมกัน (ทั้งสองคนมีผลงานร่วมกันมาแล้วในซีรีส์ Atlanta) นอกจากนี้ ในทีมโปรดิวเซอร์ยังมี Michael Schaefer (Neon TV), Fam Udeorji (Gilga) กับ Taeseok Jang และ Sujin Lee จาก LV3H บริษัทด้านโปรดักชันในเครือ Krafton ร่วมด้วย\nความน่าสนใจของโครงการนี้คือ เอาจริงๆ แล้วเกม PUBG ไม่ได้มีพล็อตอะไรเป็นชิ้นเป็นอัน นอกจากคน 100 คนกระโดดร่มลงมาสู้กันบนเกาะ ซึ่ง Krafton เองก็พยายามสร้างเนื้อเรื่องของ PUBG โดยใช้ชื่อว่า PUBG Universe ซึ่งมีทั้งเหตุการณ์ในอดีตปี 1965, เหตุการณ์ปัจจุบัน (เกมภาคหลักคือ Battleground) และภาคอนาคต ศตวรรษที่ 22 ต้องรอดูกันว่า PUBG ฉบับซีรีส์จะเลือกเล่าเรื่องอย่างไร\nที่มา - Eurogamer, Variety\nmk\nSun, 01/11/2026 - 11:36",
+      "pubDate": "Sun, 01 Nov 2026 04:36:15 +0000",
+      "source": "Blognone",
+      "category": "General",
+      "thumbnail": null,
+      "readTime": "3 นาที"
+    },
+    {
+      "id": "152076 at https://www.blognone.com",
+      "title": "Binance อัปเดตสถานะ ชดเชยความเสียหายแล้ว 90% - 10 เหรียญหลักชดเชยครบแล้ว",
+      "link": "https://www.blognone.com/node/152076",
+      "content": "Binance อัปเดตสถานะ ชดเชยความเสียหายแล้ว 90% - 10 เหรียญหลักชดเชยครบแล้ว\n\n  \nBody\nBinance รายงานความคืบหน้าจากเหตุการณ์ระบบถูกแฮก และมีการถ่ายโอนเหรียญคริปโตออกไปมูลค่ารวม 5.7 พันล้านดอลลาร์ สถานะตอนนี้ได้ชดเชยเหรียญที่ถูกขโมยไปแล้ว 90% ของทั้งหมด\nBinance บอกว่าเหรียญหลัก 10 ตัว ได้แก่ BTC, ETH, USDT, BNB, SOL, USDC, XRP, USD1, RLUDS และ ZEC ตอนนี้ได้ชดเชยครบทั้งหมดแล้ว ซึ่ง Binance จะรับผิดชอบความเสียหายเอง ผ่านแหล่งเงินทุนชดเชยทั้งกองทุนฉุกเฉินที่ตั้งขึ้น, กองทุนประกัน และเงินของบริษัท\nอีก 10% ที่ยังไม่ได้ชดเชยนั้น Binance บอกว่าเป็นเหรียญอื่นนอกจาก 10 เหรียญยอดนิยม ที่ไม่ค่อยมีสภาพคล่องในการซื้อขาย บริษัทจะใช้วิธีทยอยซื้อผ่านช่องทางต่าง ๆ จึงอาจใช้เวลานานจึงจะครบ\nBinance ยืนยันกำหนดเดิมว่าผู้ใช้งานจะเริ่มถอนทรัพย์สินได้ตั้งแต่วันนี้ (1 พ.ย. 2026) เป็นต้นไป\nที่มา: Binance\narjin\nSun, 01/11/2026 - 11:12",
+      "pubDate": "Sun, 01 Nov 2026 04:12:02 +0000",
+      "source": "Blognone",
+      "category": "Security",
+      "thumbnail": null,
+      "readTime": "3 นาที"
+    },
+    {
+      "id": "152075 at https://www.blognone.com",
+      "title": "แอพ Gemini รองรับการสร้างและแก้ไขไฟล์ PDF ได้จากตัวแอพโดยตรง",
+      "link": "https://www.blognone.com/node/152075",
+      "content": "แอพ Gemini รองรับการสร้างและแก้ไขไฟล์ PDF ได้จากตัวแอพโดยตรง\n\n  \nBody\nกูเกิลอัพเดตแอพ Gemini ให้รองรับการสร้างและแก้ไฟล์เอกสาร (documents, presentations, spreadsheets) และไฟล์ PDF ได้จากตัวแอพ Gemini โดยตรงแล้ว\nตัวอย่างที่กูเกิลนำมาโชว์คือ สั่งให้ Gemini สร้างเอกสารช่วยติวเนื้อหาการเรียนเป็น PDF อิงจากภาพเลคเชอร์ลายมือ และสามารถลากไฮไลท์ข้อความใน PDF เพื่อบอกให้แก้จากตารางเป็นกราฟแทนได้เลย\nฟีเจอร์สร้างและแก้ไข PDF รองรับทั้งบนเว็บและแอพมือถือ ส่วนเอกสารประเภทอื่นๆ ยังใช้ได้เฉพาะเวอร์ชันเว็บเท่านั้น\nที่มา - Google\n\nmk\nSun, 01/11/2026 - 10:01",
+      "pubDate": "Sun, 01 Nov 2026 03:01:13 +0000",
+      "source": "Blognone",
+      "category": "AI",
+      "thumbnail": null,
+      "readTime": "2 นาที"
     },
     {
       "id": "https://it24hrs.com/?p=170863",
@@ -79,39 +189,6 @@
       "readTime": "1 นาที"
     },
     {
-      "id": "152072 at https://www.blognone.com",
-      "title": "[ลือ] OpenAI ระดมทุนรอบล่าสุดไม่ถึงเป้า มูลค่าบริษัทต่ำกว่าคาด",
-      "link": "https://www.blognone.com/node/152072",
-      "content": "[ลือ] OpenAI ระดมทุนรอบล่าสุดไม่ถึงเป้า มูลค่าบริษัทต่ำกว่าคาด\n\n  \nBody\nWall Street Journal รายงานโดยอ้างแหล่งข่าวไม่เปิดเผยตัวตน ระบุว่า OpenAI ระดมทุนรอบล่าสุดได้เงิน 11,000 ล้านดอลลาร์ ไม่ถึงครึ่งของเป้าหมาย 30,000 ล้านดอลลาร์ และมูลค่าบริษัทอยู่ที่ 1.25 ล้านล้านดอลลาร์ จากเป้าหมาย 1.4 ล้านล้านดอลลาร์\nเหตุผลที่การระดมทุนทำได้ไม่ครบตามที่ต้องการมีได้หลายสาเหตุ โดยในช่วงหลังมีหลายบริษัทระดมทุนเพื่อลงทุนด้านปัญญาประดิษฐ์เช่นเดียวกัน และยังมีความกังวลเนื่องจากบริษัทเหล่านี้มักขาดทุนอย่างหนักแม้รายได้จะเติบโตเร็วมาก\nรายได้ล่าสุดของ OpenAI เมื่อเดือนตุลาคมที่ผ่านมาเมื่อขยายจากรายได้ในเดือนกันยายนเป็นทั้งปีอยู่ที่ 50,000 ล้านดอลลาร์ต่อปี ต่ำกว่าเป้าหมาย 70,000 ล้านดอลลาร์ และถูก Anthropic แซงหน้าด้วยอัตรา 65,000 ล้านดอลลาร์ต่อปี และคาดว่าจะเติบโตไปถึงอัตรา 100,000 ล้านดอลลาร์ต่อปีภายในสิ้นปีนี้\nที่มา - Wall Street Journal\nlew\nSat, 31/10/2026 - 16:48",
-      "pubDate": "Sat, 31 Oct 2026 09:48:06 +0000",
-      "source": "Blognone",
-      "category": "AI",
-      "thumbnail": null,
-      "readTime": "3 นาที"
-    },
-    {
-      "id": "152071 at https://www.blognone.com",
-      "title": "Sam Altman บอกแรมในพีซีถูกใช้เพียง 5% ของเวลาทั้งหมด เอาไปใช้กับคลาวด์คุ้มกว่า",
-      "link": "https://www.blognone.com/node/152071",
-      "content": "Sam Altman บอกแรมในพีซีถูกใช้เพียง 5% ของเวลาทั้งหมด เอาไปใช้กับคลาวด์คุ้มกว่า\n\n  \nBody\nSam Altman ซีอีโอ OpenAI เปิดสงครามกับผู้ใช้พีซีทั่วโลก เมื่อเขาไปออกรายการช่อง Cheekly Pint แล้วตอบคำถามเรื่องแรมขาดแคลนเพราะโดนวงการ AI แย่งชิง\nคำตอบของ Sam บอกว่า มันค่อนข้างแย่ (quite terrible) ที่ทุกคนมีแรมอันหาได้ยากยิ่งอยู่ในคอมพิวเตอร์ของตัวเอง แต่มันถูกใช้งานเพียง 5% ของเวลาทั้งหมด หากเอาแรมเหล่านี้ไปใช้งานกับคลาวด์ก็จะถูกใช้งานตลอดเวลา เป็นการใช้ประโยชน์ที่คุ้มค่ากว่าในสภาพแวดล้อมที่แรมขาดแคลนระดับนี้\nที่มา - XDA\n\nmk\nSat, 31/10/2026 - 16:17",
-      "pubDate": "Sat, 31 Oct 2026 09:17:12 +0000",
-      "source": "Blognone",
-      "category": "AI",
-      "thumbnail": null,
-      "readTime": "2 นาที"
-    },
-    {
-      "id": "152070 at https://www.blognone.com",
-      "title": "Google, Microsoft, OpenAI, Anthropic ตกลงใช้แท็กห้ามดูดข้อมูลไปเทรน AI ร่วมกัน",
-      "link": "https://www.blognone.com/node/152070",
-      "content": "Google, Microsoft, OpenAI, Anthropic ตกลงใช้แท็กห้ามดูดข้อมูลไปเทรน AI ร่วมกัน\n\n  \nBody\nบริษัท AI สัญชาติอเมริกัน 4 รายใหญ่ ได้แก่ Google, Microsoft, OpenAI, Anthropic ประกาศร่วมสาบาน ว่าจะไม่ดูดข้อมูลจากเว็บไซต์ที่ประกาศชัดว่าไม่ต้องการให้นำข้อมูลไปเทรน AI\nวิธีการระบุว่าไม่ต้องการให้ดูดข้อมูลไปเทรน AI ใช้ไฟล์ robots.txt ที่เป็นมาตรฐานของวงการ search engine อยู่แล้ว โดยจะเพิ่มคำสั่งใหม่เข้ามาตามร่างสเปกของ Internet Engineering Task Force (IETF) ตามตัวอย่างดังนี้ (ห้าม AI ใช้งานทุกกรณี ยกเว้นในพาธ press-kit)\n\nUser-Agent: __usage_ai-training\n\nก่อนหน้านี้ บริษัท AI หลายเจ้าปฏิบัติตามแท็กที่แตกต่างกัน ทำให้เจ้าของเว็บไซต์สับสน แต่เคสนี้คือทั้ง 4 บริษัทตกลงร่วมกันได้แล้วว่าจะใช้แท็กเดียวกัน\nOpenAI บอกว่าจะเริ่มรองรับแท็กนี้ในอีกไม่กี่เดือนข้างหน้า, Bing บอกว่าเริ่ม 1 กุมภาพันธ์ 2027, Google บอกคร่าวๆ ว่าภายในปี 2027\nที่มา - IETF, Google, OpenAI, Bing\nmk\nSat, 31/10/2026 - 16:02",
-      "pubDate": "Sat, 31 Oct 2026 09:02:01 +0000",
-      "source": "Blognone",
-      "category": "AI",
-      "thumbnail": null,
-      "readTime": "3 นาที"
-    },
-    {
       "id": "https://it24hrs.com/?p=170857",
       "title": "Apple Intelligence เตรียมเปิดในจีนผ่าน iOS 27.3 ต่างจากประเทศอื่นอย่างไร ?",
       "link": "https://it24hrs.com/2026/apple-intelligence-china-ios-27-3-qwen/",
@@ -120,6 +197,17 @@
       "source": "IT24Hrs",
       "category": "General",
       "thumbnail": null,
+      "readTime": "1 นาที"
+    },
+    {
+      "id": "https://www.thaicert.or.th/?p=17585",
+      "title": "แจ้งเตือน! ช่องโหว่ระดับ Critical ใน Linux Kernel เสี่ยงถูกควบคุมเซิร์ฟเวอร์",
+      "link": "https://www.thaicert.or.th/2026/10/31/%e0%b9%81%e0%b8%88%e0%b9%89%e0%b8%87%e0%b9%80%e0%b8%95%e0%b8%b7%e0%b8%ad%e0%b8%99-%e0%b8%8a%e0%b9%88%e0%b8%ad%e0%b8%87%e0%b9%82%e0%b8%ab%e0%b8%a7%e0%b9%88%e0%b8%a3%e0%b8%b0%e0%b8%94%e0%b8%b1-8/",
+      "content": "ศูนย์ประสานการรักษาความมั่นคงปลอดภัยระบบคอมพิวเตอร์แห่ง […]\nThe post แจ้งเตือน! ช่องโหว่ระดับ Critical ใน Linux Kernel เสี่ยงถูกควบคุมเซิร์ฟเวอร์ first appeared on Thailand Computer Emergency Response Team (ThaiCERT).",
+      "pubDate": "Sat, 31 Oct 2026 03:45:42 +0000",
+      "source": "ThaiCERT",
+      "category": "ภัยคุกคามทางไซเบอร์",
+      "thumbnail": "https://www.thaicert.or.th/wp-content/uploads/2026/11/MPTCP-1024x576.png",
       "readTime": "1 นาที"
     },
     {
@@ -134,59 +222,15 @@
       "readTime": "1 นาที"
     },
     {
-      "id": "152069 at https://www.blognone.com",
-      "title": "ซัมซุงเปิดตัว Galaxy Buds On หูฟังแบบ Open-Ear ราคา 229 ดอลลาร์",
-      "link": "https://www.blognone.com/node/152069",
-      "content": "ซัมซุงเปิดตัว Galaxy Buds On หูฟังแบบ Open-Ear ราคา 229 ดอลลาร์\n\n  \nBody\nซัมซุงเปิดตัว Galaxy Buds On หูฟังไร้สายแบบเกี่ยวหู (open-ear) ที่เน้นสวมใส่สบายกว่าหูฟังแบบใส่ในรูหู (in-ear) สำหรับคนที่ต้องการสวมใส่นานตลอดวัน และไม่ได้ต้องการความสามารถตัดเสียงรบกวนแบบที่ in-ear มี\nGalaxy Buds On มีน้ำหนักข้างละ 6.65 กรัม เล่นเพลงได้นานต่อเนื่อง 9.5 ชั่วโมง (38 ชั่วโมงถ้ารวมกับการชาร์จด้วยเคส) ชิปประมวลผลใช้ Snapdragon Sound S7 Gen 1\nฟีเจอร์ด้านเสียงได้แก่ Audio Leakage Reduction ป้องกันเสียงรั่วไหลไปให้คนอื่นได้ยิน, ลำโพง TwinBoost Speaker ที่ปรับระดับความดังเสียงจากเสียงรบกวนภายนอกให้อัตโนมัติ, Intelligent Clear Call ช่วยให้เสียงคุยโทรศัพท์ชัดเจน, Voice Pickup Unit (VPU) เซ็นเซอร์วัดการสั่นเพื่อตรวจว่าผู้ใช้กำลังพูดอยู่ไหม\nซอฟต์แวร์รองรับ Gemini Live พูดคุยกับ Gemini ได้ทันที (พูดคำว่า “Hey Google, let’s talk live.” ก่อน), Head Gestures รับสายด้วยการพยักหน้า, Quick Voice Memo กดค้างที่หูฟังเพื่ออัดเสียงพูดได้ทันที และค้นหาภายหลังด้วย Bixby ได้\nราคาขายตัวละ 229 ดอลลาร์ มีให้เลือกสีเดียวคือสีดำ\nที่มา - Samsung\n\nmk\nSat, 31/10/2026 - 09:37",
-      "pubDate": "Sat, 31 Oct 2026 02:37:53 +0000",
-      "source": "Blognone",
-      "category": "AI",
-      "thumbnail": null,
-      "readTime": "3 นาที"
-    },
-    {
-      "id": "152068 at https://www.blognone.com",
-      "title": "Zelda: Tears of the Kingdom และ Ocarina of Time จะมีเวอร์ชันภาษาไทย",
-      "link": "https://www.blognone.com/node/152068",
-      "content": "Zelda: Tears of the Kingdom และ Ocarina of Time จะมีเวอร์ชันภาษาไทย\n\n  \nBody\nมร. ทาคาฮิโระ มิอุระ กรรมการผู้จัดการ บริษัท นินเท็นโด (ประเทศไทย) จำกัด ประกาศข่าวว่าเกม Zelda จำนวน 3 เกมบน Switch 2 จะรองรับภาษาไทย ดังนี้\nThe Legend of Zelda: Breath of the Wild รองรับไปเมื่อเดือนเมษายน 2569\nThe Legend of Zelda: Tears of the Kingdom ธันวาคม 2569 (2026)\nThe Legend of Zelda: Ocarina of Time ต้นปี 2570 (2027)\nโดยเกม The Legend of Zelda: Tears of the Kingdom เวอร์ชันภาษาไทย จะนำไปแสดงที่บูทของ Nintendo ในงาน gamescom asia × Thailand Game Show 2026 จนถึงวันที่ 1 พฤศจิกายนนี้ (วันอาทิตย์นี้)\nที่มา - อีเมลประชาสัมพันธ์ Nintendo ประเทศไทย\nmk\nFri, 30/10/2026 - 21:51",
-      "pubDate": "Fri, 30 Oct 2026 14:51:11 +0000",
-      "source": "Blognone",
-      "category": "General",
-      "thumbnail": null,
-      "readTime": "2 นาที"
-    },
-    {
-      "id": "152067 at https://www.blognone.com",
-      "title": "ผู้จัดการ Anthropic บอกเลิกสัมภาษณ์พนักงานด้วยการให้เขียนโค้ด ล้าสมัยแล้วในยุค Claude",
-      "link": "https://www.blognone.com/node/152067",
-      "content": "ผู้จัดการ Anthropic บอกเลิกสัมภาษณ์พนักงานด้วยการให้เขียนโค้ด ล้าสมัยแล้วในยุค Claude\n\n  \nBody\nFelix Rieseberg พนักงานระดับผู้จัดการวิศวกร (engineering manager) ของ Anthropic เปิดเผยผ่านบล็อกส่วนตัวว่า เขาเลิกใช้วิธีสัมภาษณ์พนักงานด้วยการให้ทำโจทย์เขียนโค้ดแล้ว\nRieseberg บอกว่าการให้ผู้สมัครทำโจทย์เขียนโค้ด เคยมีประโยชน์ตรงที่ช่วยพยากรณ์ว่าผู้สมัครคนนั้นจะประสบความสำเร็จในทีมของเขา ส่วนการเขียนโค้ดจริงก็ช่วยบอกความสามารถของผู้สมัครได้ดีเช่นกัน\nแต่เมื่อ Claude เขียนโค้ดได้ดีกว่าผู้สมัครงานไปเรียบร้อยแล้ว การทดสอบแบบนี้ตอนสัมภาษณ์งานจึงหมดประโยชน์ไปในทันที\nRieseberg บอกว่าตอนนี้ การวัดว่าใครวิศวกรที่ดี ไม่ได้ดูจากการทำโจทย์เขียนโค้ดได้ดีกว่ากัน ไม่ได้ดูจากประสบการณ์การใช้เฟรมเวิร์คหรือไลบรารีที่ยาวนานกว่า และเขาเห็นวิศวกรหน้าใหม่ๆ สามารถแซงหน้าพนักงานที่เขียนโค้ดเก่งกว่า หรืออยู่มานานกว่าแล้ว เพราะ \"ความกระหายเอาชนะอายุงาน\" (hunger beats tenure)\nเขาไม่ได้บอกตรงๆ ว่าเปลี่ยนวิธีสัมภาษณ์ผู้สมัครอย่างไร เพราะบอกว่ากำลังค้นหาวิธีสัมภาษณ์คนที่เก่งเรื่องการสร้างสิ่งต่างๆ ด้วย AI อยู่เช่นกัน ซึ่งวิธีหนึ่งที่เขาใช้คือการดูใน resume ว่าเรามีผลงานสร้างของต้นแบบ (prototype) ที่แสดงให้เห็นรสนิยม ความเข้าใจผู้ใช้ และการคิดแบบมีหลักการหรือไม่\nเขายังแนะนำพนักงานหน้าใหม่ๆ ให้ใช้ \"ความสด\" ใช้โอกาสที่ยังไม่คุ้นเคยกับที่ทำงานใหม่ ตั้งคำถามกับสิ่งที่พนักงานเก่าๆ ไม่เคยกล้าถาม และอาจนำมาสู่ความเปลี่ยนแปลงได้ ความสดใหม่นี้ถือเป็นข้อได้เปรียบของพนักงานใหม่ เหนือกว่าพนักงานเก่าที่คุ้นชินกับธรรมเนียมปฏิบัติเดิมๆ\nนอกจากนั้น เขาแนะนำให้พนักงานรุ่นใหม่ๆ เลือกทำงานจากขนาดของผลที่จะเกิดขึ้น (business impact) โดยต้องเข้าใจก่อนว่าองค์กรกำลังพยายามทำอะไร และทำความเข้าใจว่าหัวหน้าของเรามีเป้าหมายอย่างไร จากนั้นหาไอเดียที่ฉีกแนว แต่ถ้าทำสำเร็จแล้วจะเปลี่ยนแปลงอย่างใหญ่หลวงมาลองทำดู\nที่มา - Felix Rieseberg\nmk\nFri, 30/10/2026 - 21:20",
-      "pubDate": "Fri, 30 Oct 2026 14:20:54 +0000",
-      "source": "Blognone",
-      "category": "AI",
-      "thumbnail": null,
-      "readTime": "5 นาที"
-    },
-    {
-      "id": "152066 at https://www.blognone.com",
-      "title": "เปิดตัว Mistral Large 4 พัฒนาเรื่องการเขียนโค้ด อันดับหนึ่งในกลุ่มโมเดลเปิด",
-      "link": "https://www.blognone.com/node/152066",
-      "content": "เปิดตัว Mistral Large 4 พัฒนาเรื่องการเขียนโค้ด อันดับหนึ่งในกลุ่มโมเดลเปิด\n\n  \nBody\nMistral สตาร์ตอัพ AI สัญชาติฝรั่งเศส เปิดตัวโมเดลระดับเรือธง Mistral Large 4 (Le Chonk) ขนาด 1 ล้านล้านพารามิเตอร์ และเป็นโมเดลแบบเปิด (open weight) ที่มีความสามารถด้านเขียนโค้ดดีที่สุดในตอนนี้ หากวัดจากเบนช์มาร์ค FrontierCode 2.0 ทำคะแนนได้ 19.7% เอาชนะ DeepSeek V4.1Flash ที่ได้ 19.3%\nส่วนเบนช์มาร์คอีกตัวคือ Artificial Analysis Coding Agent Index โมเดล Mistral Large 4 ทำคะแนนได้ 48% ยังเป็นรอง GLM-5.3 เล็กน้อย แต่ใช้งานโทเคนน้อยกว่ากันถึง 47% ประหยัดกว่ากันมาก\nนอกจากความสามารถด้านเขียนโค้ดแล้ว อีกจุดที่ Mistral Large 4 พัฒนาขึ้นคือการค้นหาช่องโหว่ความปลอดภัย ทำคะแนน Artificial Analysis Cyber Index ได้ 51% (ยังเป็นรองกลุ่มนำคือ DeepSeek-V4.1-Flash 1017 ที่ได้ 57% อยู่บ้าง) แต่ทำคะแนนป้องกันการค้นหาช่องโหว่ในทางผิดได้ถึง 97% ในขณะที่ DeepSeek ทำได้ 51%\nต้นทุนค่าใช้งาน Mistral Large 4 ตอนนี้คือ 0.70 ดอลลาร์ต่อ 1 ล้านโทเคนอินพุต และ 2.10 ดอลลาร์ต่อ 1 ล้านโทเคนเอาต์พุต\nที่มา - Mistral\nmk\nFri, 30/10/2026 - 20:57",
-      "pubDate": "Fri, 30 Oct 2026 13:57:23 +0000",
-      "source": "Blognone",
-      "category": "Security",
-      "thumbnail": null,
-      "readTime": "3 นาที"
-    },
-    {
-      "id": "152065 at https://www.blognone.com",
-      "title": "Mac Studio กลับมาให้เลือกแรมสูงสุด 512GB ได้แล้ว โดยจ่ายเพิ่ม 542,500 บาท",
-      "link": "https://www.blognone.com/node/152065",
-      "content": "Mac Studio กลับมาให้เลือกแรมสูงสุด 512GB ได้แล้ว โดยจ่ายเพิ่ม 542,500 บาท\n\n  \nBody\nเมื่อเดือนมีนาคมจากปัญหาแรมขาดตลาดและมีราคาแพง แอปเปิลได้นำตัวเลือกเพิ่มแรมสำหรับ Mac Studio ขนาดใหญ่สุด 512GB ออกไป เหลือสูงสุดคือ 256GB แต่ตอนนี้แอปเปิลได้นำคอนฟิกแรม 512GB สำหรับ Mac Studio กลับมาขายอีกครั้งแล้ว\nMac Studio ที่สามารถเพิ่มแรมได้เป็น 512GB นั้น ต้องเลือกชิปเป็น M5 Ultra รุ่นบนสุดที่มีซีพียู 36 คอร์ จีพียู 80 คอร์ ก่อน ซึ่งรุ่นพื้นฐานจะมีแรม 96GB สตอเรจ 1TB ขายราคา 245,400 บาท หากต้องการอัปเกรดแรมให้เป็น 512GB จะต้องจ่ายเงินเพิ่ม 542,500 บาท (พิมพ์ถูกแล้ว) ถ้ากดสเป็กสูงสุดที่ได้สตอเรจ 16TB ราคารวมจะอยู่ที่ 1,050,400 บาท\nแม้เลือกแรมขนาดใหญ่สุดก็ต้องใช้เวลารอพอสมควร ข้อมูลตามเว็บไซต์ของแอปเปิลประเทศไทย สินค้ารอประมาณ 13-15 สัปดาห์\nที่มา: MacRumors\narjin\nFri, 30/10/2026 - 19:07",
-      "pubDate": "Fri, 30 Oct 2026 12:07:25 +0000",
-      "source": "Blognone",
-      "category": "General",
-      "thumbnail": null,
-      "readTime": "2 นาที"
+      "id": "https://www.thaicert.or.th/?p=17584",
+      "title": "แจ้งเตือน! ช่องโหว่ Zero-day ใน Cisco ASA และ FTD เสี่ยงทำให้ Firewall และ SSL VPN หยุดให้บริการ",
+      "link": "https://www.thaicert.or.th/2026/10/30/%e0%b9%81%e0%b8%88%e0%b9%89%e0%b8%87%e0%b9%80%e0%b8%95%e0%b8%b7%e0%b8%ad%e0%b8%99-%e0%b8%8a%e0%b9%88%e0%b8%ad%e0%b8%87%e0%b9%82%e0%b8%ab%e0%b8%a7%e0%b9%88-zero-day-%e0%b9%83%e0%b8%99-cisco-asa/",
+      "content": "ศูนย์ประสานการรักษาความมั่นคงปลอดภัยระบบคอมพิวเตอร์แห่ง […]\nThe post แจ้งเตือน! ช่องโหว่ Zero-day ใน Cisco ASA และ FTD เสี่ยงทำให้ Firewall และ SSL VPN หยุดให้บริการ first appeared on Thailand Computer Emergency Response Team (ThaiCERT).",
+      "pubDate": "Fri, 30 Oct 2026 10:45:00 +0000",
+      "source": "ThaiCERT",
+      "category": "ภัยคุกคามทางไซเบอร์",
+      "thumbnail": "https://www.thaicert.or.th/wp-content/uploads/2026/10/Cisco-Firewall-1024x597.png",
+      "readTime": "1 นาที"
     },
     {
       "id": "https://techsauce.co/video/healthspan-flatiron-health",
@@ -442,28 +486,6 @@
       "readTime": "1 นาที"
     },
     {
-      "id": "https://www.thaicert.or.th/?p=17534",
-      "title": "UNM Health ถูกโจมตีทางไซเบอร์ กระทบการดูแลผู้ป่วยและการผ่าตัด กลุ่ม Byod Ransomware อ้างความรับผิดชอบ",
-      "link": "https://www.thaicert.or.th/2026/10/29/unm-health-%e0%b8%96%e0%b8%b9%e0%b8%81%e0%b9%82%e0%b8%88%e0%b8%a1%e0%b8%95%e0%b8%b5%e0%b8%97%e0%b8%b2%e0%b8%87%e0%b9%84%e0%b8%8b%e0%b9%80%e0%b8%9a%e0%b8%ad%e0%b8%a3%e0%b9%8c-%e0%b8%81%e0%b8%a3/",
-      "content": "590/69 (IT) ประจำวันพฤหัสบดีที่ 29 ตุลาคม 2569 Universi […]\nThe post UNM Health ถูกโจมตีทางไซเบอร์ กระทบการดูแลผู้ป่วยและการผ่าตัด กลุ่ม Byod Ransomware อ้างความรับผิดชอบ first appeared on Thailand Computer Emergency Response Team (ThaiCERT).",
-      "pubDate": "Thu, 29 Oct 2026 08:01:00 +0000",
-      "source": "ThaiCERT",
-      "category": "ภัยคุกคามทางไซเบอร์",
-      "thumbnail": "https://www.thaicert.or.th/wp-content/uploads/2026/10/2_0-14-1024x768.png",
-      "readTime": "1 นาที"
-    },
-    {
-      "id": "https://www.thaicert.or.th/?p=17533",
-      "title": "ตรวจพบการสแกนหาช่องโหว่ระดับวิกฤตบน Oracle EBS ทั่วโลก ผู้ดูแลระบบควรรีบอัปเดตแพตช์ทันที",
-      "link": "https://www.thaicert.or.th/2026/10/29/%e0%b8%95%e0%b8%a3%e0%b8%a7%e0%b8%88%e0%b8%9e%e0%b8%9a%e0%b8%81%e0%b8%b2%e0%b8%a3%e0%b8%aa%e0%b9%81%e0%b8%81%e0%b8%99%e0%b8%ab%e0%b8%b2%e0%b8%8a%e0%b9%88%e0%b8%ad%e0%b8%87%e0%b9%82%e0%b8%ab%e0%b8%a7/",
-      "content": "589/69 (IT) ประจำวันพฤหัสบดีที่ 29 ตุลาคม 2569 ตรวจพบเห […]\nThe post ตรวจพบการสแกนหาช่องโหว่ระดับวิกฤตบน Oracle EBS ทั่วโลก ผู้ดูแลระบบควรรีบอัปเดตแพตช์ทันที first appeared on Thailand Computer Emergency Response Team (ThaiCERT).",
-      "pubDate": "Thu, 29 Oct 2026 08:00:00 +0000",
-      "source": "ThaiCERT",
-      "category": "ภัยคุกคามทางไซเบอร์",
-      "thumbnail": "https://www.thaicert.or.th/wp-content/uploads/2026/10/1_0-14-1024x768.png",
-      "readTime": "1 นาที"
-    },
-    {
       "id": "https://www.techtalkthai.com/?p=171625",
       "title": "เจาะลึกการควบรวมเครือข่ายช่องทางการจัดจำหน่ายของ SoftwareOne และ Crayon ใน APAC เพื่อยกระดับพาร์ตเนอร์ไอทีรับกระแสการลงทุน AI และ Cloud เต็มรูปแบบ",
       "link": "https://www.techtalkthai.com/softwareone-crayon-apac-ai-cloud/",
@@ -484,17 +506,6 @@
       "category": "Security",
       "thumbnail": "https://www.techtalkthai.com/wp-content/uploads/2026/10/TTT-2026-10-29T111057.543-640x336.jpg",
       "readTime": "4 นาที"
-    },
-    {
-      "id": "https://www.thaicert.or.th/?p=17539",
-      "title": "แจ้งเตือน! พบการโจมตี Cloud VPS เสี่ยงข้อมูลรั่วไหลผ่าน RDP ผู้ดูแลระบบควรเร่งตรวจสอบและป้องกัน",
-      "link": "https://www.thaicert.or.th/2026/10/29/%e0%b9%81%e0%b8%88%e0%b9%89%e0%b8%87%e0%b9%80%e0%b8%95%e0%b8%b7%e0%b8%ad%e0%b8%99-%e0%b8%9e%e0%b8%9a%e0%b8%81%e0%b8%b2%e0%b8%a3%e0%b9%82%e0%b8%88%e0%b8%a1%e0%b8%95%e0%b8%b5-cloud-vps-%e0%b9%80/",
-      "content": "ศูนย์ประสานการรักษาความมั่นคงปลอดภัยระบบคอมพิวเตอร์แห่ง […]\nThe post แจ้งเตือน! พบการโจมตี Cloud VPS เสี่ยงข้อมูลรั่วไหลผ่าน RDP ผู้ดูแลระบบควรเร่งตรวจสอบและป้องกัน first appeared on Thailand Computer Emergency Response Team (ThaiCERT).",
-      "pubDate": "Thu, 29 Oct 2026 03:17:50 +0000",
-      "source": "ThaiCERT",
-      "category": "ภัยคุกคามทางไซเบอร์",
-      "thumbnail": "https://www.thaicert.or.th/wp-content/uploads/2026/10/Cloud-VPS-1024x576.png",
-      "readTime": "1 นาที"
     },
     {
       "id": "https://www.techtalkthai.com/?p=171616",
@@ -561,17 +572,6 @@
       "category": "AI",
       "thumbnail": "https://www.techtalkthai.com/wp-content/uploads/2026/10/ericssonpr-640x335.png",
       "readTime": "2 นาที"
-    },
-    {
-      "id": "https://www.thaicert.or.th/?p=17519",
-      "title": "ช่องโหว่ Microsoft Authenticator บน Android เสี่ยงถูกแอปอันตรายขโมย Token บัญชีองค์กร",
-      "link": "https://www.thaicert.or.th/2026/10/28/%e0%b8%8a%e0%b9%88%e0%b8%ad%e0%b8%87%e0%b9%82%e0%b8%ab%e0%b8%a7%e0%b9%88-microsoft-authenticator-%e0%b8%9a%e0%b8%99-android-%e0%b9%80%e0%b8%aa%e0%b8%b5%e0%b9%88%e0%b8%a2%e0%b8%87%e0%b8%96%e0%b8%b9/",
-      "content": "588/69 (IT) ประจำวันพุธที่ 28 ตุลาคม 2569 นักวิจัยเปิดเ […]\nThe post ช่องโหว่ Microsoft Authenticator บน Android เสี่ยงถูกแอปอันตรายขโมย Token บัญชีองค์กร first appeared on Thailand Computer Emergency Response Team (ThaiCERT).",
-      "pubDate": "Wed, 28 Oct 2026 10:32:00 +0000",
-      "source": "ThaiCERT",
-      "category": "ภัยคุกคามทางไซเบอร์",
-      "thumbnail": "https://www.thaicert.or.th/wp-content/uploads/2026/10/3_0-13-1024x768.png",
-      "readTime": "1 นาที"
     },
     {
       "id": "https://it24hrs.com/?p=170810",
