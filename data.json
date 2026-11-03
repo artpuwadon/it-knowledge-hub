@@ -19,31 +19,31 @@
       "link": "https://github.com/"
     },
     {
-      "id": "https://www.thaicert.or.th/?p=17600",
-      "title": "แจ้งเตือน! Veeam ออกอัปเดตแก้ไขช่องโหว่ Critical เสี่ยงข้ามการตรวจสอบสิทธิ์และแก้ไขข้อมูล",
-      "category": "ภัยคุกคามทางไซเบอร์",
-      "source": "ThaiCERT",
-      "summary": "ศูนย์ประสานการรักษาความมั่นคงปลอดภัยระบบคอมพิวเตอร์แห่ง […]\nThe post แจ้งเตือน! Veeam ออกอัปเดตแก้ไขช่องโหว่ Critical เส...",
-      "thumbnail": "https://www.thaicert.or.th/wp-content/uploads/2026/11/Veem-1024x595.jpg",
-      "link": "https://www.thaicert.or.th/2026/11/01/%e0%b9%81%e0%b8%88%e0%b9%89%e0%b8%87%e0%b9%80%e0%b8%95%e0%b8%b7%e0%b8%ad%e0%b8%99-veeam-%e0%b8%ad%e0%b8%ad%e0%b8%81%e0%b8%ad%e0%b8%b1%e0%b8%9b%e0%b9%80%e0%b8%94%e0%b8%95%e0%b9%81%e0%b8%81%e0%b9%89/"
+      "id": "https://www.techtalkthai.com/?p=171728",
+      "title": "‘Cybersense’ เปิดตัวในไทยอย่างเป็นทางการ ชูจุดยืน “สร้างในอาเซียน เพื่ออาเซียน” ยกระดับ Cyber Resilience ภาคการเงิน-พลังงาน [PR]",
+      "category": "Security",
+      "source": "TechTalk Thai",
+      "summary": "Cybersense Solutions ประกาศเปิดตัวสำนักงานในประเทศไทยอย่างเป็นทางการ พร้อมชูแนวคิด “Built in ASEAN, for ASEAN” เชื่อมโยง...",
+      "thumbnail": "https://www.techtalkthai.com/wp-content/uploads/2026/11/Cybersensepr-640x335.png",
+      "link": "https://www.techtalkthai.com/cybersense-a-resilient-cyber-future-for-asean-pr/"
     },
     {
-      "id": "152082 at https://www.blognone.com",
-      "title": "BOOX เปิดตัว Palma 3 เครื่องอ่านอีุบุ๊กขนาดมือถือ มีปากกาจด มี Google Play",
-      "category": "General",
-      "source": "Blognone",
-      "summary": "BOOX เปิดตัว Palma 3 เครื่องอ่านอีุบุ๊กขนาดมือถือ มีปากกาจด มี Google Play\n\n  \nBody\nBOOX แบรนด์เครื่องอ่านอีบุ๊กจากประเท...",
-      "thumbnail": null,
-      "link": "https://www.blognone.com/node/152082"
+      "id": "https://www.techtalkthai.com/?p=171725",
+      "title": "ยุโรปป่วน! แฮกเกอร์โจมตีระบบทำความเย็นซูเปอร์มาร์เก็ตอีกแล้ว ชี้ช่องโหว่ IoT และระบบบริหารจัดการอาคารคือเป้าหมายใหม่",
+      "category": "Security",
+      "source": "TechTalk Thai",
+      "summary": "ภัยคุกคามทางไซเบอร์ระลอกใหม่ขยายวงกว้างทั่วยุโรป หลังผู้ไม่ประสงค์ดีโจมตีระบบควบคุมอุณหภูมิตู้แช่เย็นและตู้แช่แข็งของเคร...",
+      "thumbnail": "https://www.techtalkthai.com/wp-content/uploads/2026/11/TTT-2026-11-03T095753.628-640x336.jpg",
+      "link": "https://www.techtalkthai.com/europe-supermarkets-refrigeration-cyberattack-supply-chain/"
     },
     {
-      "id": "152081 at https://www.blognone.com",
-      "title": "ดาวเทียม Suncatcher ของกูเกิลทำงานแล้ว สั่ง TPU แต่งกลอนไฮกุจากอวกาศ",
+      "id": "152086 at https://www.blognone.com",
+      "title": "Anthropic ใส่มาตรการป้องกันการสั่ง Claude Code โคลนเกมของคนอื่น",
       "category": "AI",
       "source": "Blognone",
-      "summary": "ดาวเทียม Suncatcher ของกูเกิลทำงานแล้ว สั่ง TPU แต่งกลอนไฮกุจากอวกาศ\n\n  \nBody\nกูเกิลอัพเดตความคืบหน้าของ Project Suncatc...",
+      "summary": "Anthropic ใส่มาตรการป้องกันการสั่ง Claude Code โคลนเกมของคนอื่น\n\n  \nBody\nก่อนหน้านี้มีผู้ใช้ Claude บางรายค้นพบว่า Anthr...",
       "thumbnail": null,
-      "link": "https://www.blognone.com/node/152081"
+      "link": "https://www.blognone.com/node/152086"
     }
   ],
   "articles": [
@@ -52,7 +52,7 @@
       "title": "คลังกฎหมายและระเบียบที่เกี่ยวข้องกับการปฏิบัติราชการ",
       "link": "https://github.com/",
       "content": "### ⚖️ ศูนย์รวมลิงก์กฎหมายฉบับเต็มและแนวทางปฏิบัติงาน\n\nเพื่อความสะดวกและถูกต้องในการอ้างอิงข้อกฎหมายของเจ้าหน้าที่ในการปฏิบัติราชการ ศูนย์ไอทีได้รวบรวมลิงก์ตรงไปยังระบบสืบค้นกฎหมายของสำนักงานคณะกรรมการกฤษฎีกา และไฟล์ PDF ฉบับราชกิจจานุเบกษาไว้ในจุดเดียว ดังนี้ครับ:\n\n---\n\n### 🛒 1. หมวดการบริหารงานพัสดุและการจัดซื้อจัดจ้าง\n*   **พ.ร.บ. การจัดซื้อจัดจ้างและการบริหารพัสดุภาครัฐ พ.ศ. 2560**\n    *   🔗 [อ่านกฎหมายฉบับเต็ม (เว็บกฤษฎีกา)](https://www.ocs.go.th/)\n    *   📄 [ดาวน์โหลดไฟล์ PDF ฉบับประกาศราชกิจจานุเบกษา](https://www.gprocurement.go.th/wps/portal/egp/Regulation/!ut/p/z1/04_Sj9CPykssy0xPLMnMz0vMAfIjo8zifQ3djQydnQ18_T3dzA0czU0NfANMLQ1MPIz1w8EKDHAARwP9KGL041EQhd_4cP0oNCvCjM2AJgT4OvsHehgYOBtCFeAxoyA3NMIg01ERAHhSDzY!/dz/d5/L0lDUmlTUSEhL3dHa0FKRnNBLzROV3FpQSEhL3Ro/)\n*   **ระเบียบกระทรวงการคลังว่าด้วยการจัดซื้อจัดจ้างและการบริหารพัสดุภาครัฐ พ.ศ. 2560**\n    *   🔗 [อ่านระเบียบฉบับเต็มและกฎกระทรวงที่เกี่ยวข้อง](https://www.gprocurement.go.th/wps/portal/egp/Regulation/Ministry_of_Finance_Regularity/)\n\n---\n\n### 🏢 2. หมวดการปฏิบัติราชการและวิธีพิจารณาทางปกครอง\n*   **พ.ร.บ. วิธีปฏิบัติราชการทางปกครอง พ.ศ. 2539 (และฉบับแก้ไขเพิ่มเติม)**\n    *   🔗 [อ่านกฎหมายฉบับเต็ม (เว็บกฤษฎีกา)](https://www.ocs.go.th/)\n*   **พ.ร.บ. ความรับผิดทางละเมิดของเจ้าหน้าที่ พ.ศ. 2539**\n    *   🔗 [อ่านกฎหมายฉบับเต็ม (เว็บกฤษฎีกา)](https://www.ocs.go.th/)\n*   **พ.ร.บ. การปฏิบัติราชการทางอิเล็กทรอนิกส์ พ.ศ. 2565** *(สำคัญมากสำหรับงานไอทีและบริการประชาชน)*\n    *   🔗 [อ่านกฎหมายฉบับเต็ม (เว็บกฤษฎีกา)](https://www.ocs.go.th/)\n\n---\n\n### 🛡️ 3. หมวดคุ้มครองข้อมูลและความมั่นคงปลอดภัยไซเบอร์\n*   **พ.ร.บ. คุ้มครองข้อมูลส่วนบุคคล พ.ศ. 2562 (PDPA)**\n    *   🔗 [สืบค้นกฎหมายและแนวทางปฏิบัติจาก สคส.](https://www.pdpc.or.th)\n*   **พ.ร.บ. การรักษาความมั่นคงปลอดภัยไซเบอร์ พ.ศ. 2562**\n    *   🔗 [สืบค้นกฎหมายและประกาศจาก สกมช. (NCSA)](https://www.ncsa.or.th/standards/laws)\n*   **พ.ร.บ. ว่าด้วยการกระทำความผิดเกี่ยวกับคอมพิวเตอร์ (ฉบับที่ 2) พ.ศ. 2560**\n    *   🔗 [อ่านกฎหมายฉบับเต็ม (เว็บกฤษฎีกา)](https://www.ocs.go.th/)\n\n---\n\n### 💡 แนะนำการใช้งานสำหรับเจ้าหน้าที่\n> หากต้องการสืบค้นกฎหมายอื่น ๆ เพิ่มเติม นอกเหนือจากรายการข้างต้น สามารถเข้าใช้งานระบบกฎหมายดิจิทัลโดยตรงได้ที่ **[ระบบสืบค้นกฎหมาย สำนักงานคณะกรรมการกฤษฎีกา](https://www.ocs.go.th/)** เพื่อข้อมูลที่อัปเดตและเป็นปัจจุบันที่สุด",
-      "pubDate": "2026-11-02T02:09:58.669Z",
+      "pubDate": "2026-11-03T03:51:55.689Z",
       "source": "ศูนย์รวมกฎหมายภาครัฐ",
       "category": "Law",
       "thumbnail": "https://images.unsplash.com/photo-1589829545856-d10d557cf95f?w=500"
@@ -62,10 +62,307 @@
       "title": "แนวทางปฏิบัติการตั้งรหัสผ่านให้ปลอดภัยสำหรับบุคลากร",
       "link": "https://github.com/",
       "content": "1. รหัสผ่านต้องมีความยาวอย่างน้อย 8 ตัวอักษร\n2. ประกอบด้วยอักษรตัวพิมพ์ใหญ่ ตัวพิมพ์เล็ก ตัวเลข และสัญลักษณ์พิเศษ\n3. ห้ามใช้ข้อมูลส่วนตัว เช่น วันเกิด หรือเบอร์โทรศัพท์\n4. เปลี่ยนรหัสผ่านใหม่ทุกๆ 3-6 เดือนเพื่อความปลอดภัย",
-      "pubDate": "2026-11-02T02:09:58.668Z",
+      "pubDate": "2026-11-03T03:51:55.688Z",
       "source": "คู่มือภายในองค์กร",
       "category": "Internal",
       "thumbnail": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=500&auto=format&fit=crop&q=60"
+    },
+    {
+      "id": "https://www.techtalkthai.com/?p=171728",
+      "title": "‘Cybersense’ เปิดตัวในไทยอย่างเป็นทางการ ชูจุดยืน “สร้างในอาเซียน เพื่ออาเซียน” ยกระดับ Cyber Resilience ภาคการเงิน-พลังงาน [PR]",
+      "link": "https://www.techtalkthai.com/cybersense-a-resilient-cyber-future-for-asean-pr/",
+      "content": "Cybersense Solutions ประกาศเปิดตัวสำนักงานในประเทศไทยอย่างเป็นทางการ พร้อมชูแนวคิด “Built in ASEAN, for ASEAN” เชื่อมโยงเครือข่ายข่าวกรองภัยคุกคาม (Threat Intelligence) ข้ามพรมแดน 5 ประเทศ เสริมความแข็งแกร่งด้วยทีมงานประจำกรุงเทพฯ ที่พร้อมดูแลกลุ่มลูกค้าในภาคโครงสร้างพื้นฐานสำคัญ โดยเฉพาะภาคการเงินและการธนาคาร รวมถึงภาคพลังงานและสาธารณูปโภค การเปิดตัวครั้งนี้ถือเป็นการจัดตั้งทีมงานประจำประเทศไทยอย่างถาวร นำโดย นายณัฐพล อาภาแสงเพชร ผู้จัดการทั่วไป บริษัท ไซเบอร์เซนส์ โซลูชันส์ (ประเทศไทย) จำกัด พร้อมได้รับการสนับสนุนอย่างเต็มศักยภาพจากเครือข่ายระดับภูมิภาค ทั้งยังยึดมั่นในหลัก “Data Sovereignty” เพื่อสร้างความมั่นใจว่าข้อมูลทั้งหมดของลูกค้าจะถูกจัดเก็บและประมวลผลภายในประเทศไทย 100% โดยมีการแลกเปลี่ยนเฉพาะข้อมูลข่าวกรองภัยคุกคามระหว่างประเทศเท่านั้น นายเอเดรียน แฮร์ริส (Adrian Harris) กรรมการผู้จัดการระดับภูมิภาค Cybersense กล่าวว่า ในยุคที่เศรษฐกิจของภูมิภาคอาเซียนมีความเชื่อมโยงกันอย่างใกล้ชิด ทั้งในด้านห่วงโซ่อุปทาน (Supply Chain) แพลตฟอร์มการทำงาน และระบบของซัพพลายเออร์ที่ใช้ร่วมกัน ภัยคุกคามทางไซเบอร์ที่เกิดขึ้นกับองค์กรหรือประเทศใดประเทศหนึ่งจึงสามารถส่งผลกระทบเป็นวงกว้างข้ามพรมแดนได้อย่างรวดเร็ว ดังนั้น ความสามารถในการรับมือและฟื้นตัวจากภัยคุกคามทางไซเบอร์ (Cyber Resilience) ถือเป็นปัจจัยสำคัญที่จะชี้วัดการเติบโตอย่างยั่งยืนของธุรกิจในอาเซียน …",
+      "pubDate": "Tue, 03 Nov 2026 03:47:10 +0000",
+      "source": "TechTalk Thai",
+      "category": "Security",
+      "thumbnail": "https://www.techtalkthai.com/wp-content/uploads/2026/11/Cybersensepr-640x335.png",
+      "readTime": "4 นาที"
+    },
+    {
+      "id": "https://www.techtalkthai.com/?p=171725",
+      "title": "ยุโรปป่วน! แฮกเกอร์โจมตีระบบทำความเย็นซูเปอร์มาร์เก็ตอีกแล้ว ชี้ช่องโหว่ IoT และระบบบริหารจัดการอาคารคือเป้าหมายใหม่",
+      "link": "https://www.techtalkthai.com/europe-supermarkets-refrigeration-cyberattack-supply-chain/",
+      "content": "ภัยคุกคามทางไซเบอร์ระลอกใหม่ขยายวงกว้างทั่วยุโรป หลังผู้ไม่ประสงค์ดีโจมตีระบบควบคุมอุณหภูมิตู้แช่เย็นและตู้แช่แข็งของเครือข่ายซูเปอร์มาร์เก็ตชั้นนำอีกครั้ง ส่งผลให้อุณหภูมิพุ่งสูงจนสินค้าอาหารสดเน่าเสียและต้องทิ้งทั้งหมด เหตุการณ์ดังกล่าวครอบคลุมทั้งเบลเยียม ลักเซมเบิร์ก สวีเดน และไอร์แลนด์ ซ้ำรอยการโจมตีลักษณะเดียวกันในฝรั่งเศสเมื่อเดือนก่อน กลุ่มธุรกิจค้าปลีกหลายรายยืนยันความเสียหายที่เกิดขึ้นจากการปรับเปลี่ยนการตั้งค่าอุณหภูมิทางไกลโดยไม่ได้รับอนุญาต ส่งผลกระทบต่อการดำเนินงานดังนี้ ผู้ประกอบการที่ได้รับผลกระทบ:Ahold Delhaize และ Colruyt หรือผู้บริหารแฟรนไชส์ Spar ในเบลเยียม, เครือข่าย Coop และ ICA ในสวีเดน, Musgrave ในไอร์แลนด์ที่กระทบสาขา SuperValu 13 แห่ง, Carrefour รวมถึงสโตร์ของ IKEA อย่างน้อย 1 แห่ง ความเสียหาย: ระบบถูกสั่งเพิ่มอุณหภูมิอย่างผิดปกติ เช่น สาขาของ ICA รายงานว่าตู้แช่ถูกปรับอุณหภูมิแตะ 50 องศาเซลเซียส ขณะที่ร้านค้าเนื้อสัตว์ในเบลเยียมพบอุณหภูมิขยับขึ้นแตะ 18 องศาเซลเซียส ส่งผลให้เนื้อสัตว์และอาหารแช่แข็งมูลค่ามหาศาลเสียหายจนต้องทำลายทิ้งทันที เทคโนโลยีเป้าหมาย: ระบบควบคุมความเย็นบางส่วนที่ถูกแทรกแซงใช้โซลูชัน Temperature Control จาก Danfoss บริษัทเทคโนโลยีสัญชาติเดนมาร์ก ซึ่งทาง Danfoss กำลังเร่งประสานงานร่วมกับลูกค้าเพื่อแก้ไขปัญหา …",
+      "pubDate": "Tue, 03 Nov 2026 03:03:37 +0000",
+      "source": "TechTalk Thai",
+      "category": "Security",
+      "thumbnail": "https://www.techtalkthai.com/wp-content/uploads/2026/11/TTT-2026-11-03T095753.628-640x336.jpg",
+      "readTime": "3 นาที"
+    },
+    {
+      "id": "152086 at https://www.blognone.com",
+      "title": "Anthropic ใส่มาตรการป้องกันการสั่ง Claude Code โคลนเกมของคนอื่น",
+      "link": "https://www.blognone.com/node/152086",
+      "content": "Anthropic ใส่มาตรการป้องกันการสั่ง Claude Code โคลนเกมของคนอื่น\n\n  \nBody\nก่อนหน้านี้มีผู้ใช้ Claude บางรายค้นพบว่า Anthropic ฝังคำสั่งไว้ใน Claude เพื่อป้องกันไม่ให้โมเดลโคลนเกมของคนอื่น ดังที่เกิดปัญหาขึ้นกับวงการเกมในขณะนี้\nสิ่งที่ค้นพบคือมีคอนฟิกชื่อ \"tengu_heron_brook\" แทรกเข้ามาในไบนารีของ Claude Code เขียนเข้ามาดังนี้\n\"Do build original games, games in a genre, and games from the user's own designs and assets. Don't build a recreation of a specific existing game, even if it is renamed or called original.\"\nนอกจากนี้ เว็บไซต์ XDA ยังค้นพบคอนฟิกชื่อ original_games_guidance และ opus_5_5_prompt_bundle\nAddy Osmani ทีมพัฒนา Claude Code ไปตอบโพสต์เรื่องนี้ ยืนยันว่าเป็นมาตรการป้องกันไม่ให้ไปขโมยทรัพย์สินทางปัญญาของผู้อื่น แต่ Claude Code จะยังสามารถสร้างเกมจากไอเดียของเราเองได้เช่นเดิม\nที่มา - XDA, Tom's Hardware\nWe added two sentences to Claude Code's prompt on Opus 5.5 to steer it away from recreating someone else's specific game because using Claude to infringe IP is against our usage policy.\n\nOriginal games, genre games, and games built from your own designs and assets are meant to keep working.\nWe'll continue to iterate to ensure we're striking the right balance. In the meantime, if Claude turns down something that's yours, send it my way.\n— Addy Osmani (@addyosmani) October 30, 2026\n\n\n          \nmk\nTue, 03/11/2026 - 09:25",
+      "pubDate": "Tue, 03 Nov 2026 02:25:26 +0000",
+      "source": "Blognone",
+      "category": "AI",
+      "thumbnail": null,
+      "readTime": "4 นาที"
+    },
+    {
+      "id": "152085 at https://www.blognone.com",
+      "title": "ผู้ใช้โวย Canonical แพตช์ช่องโหว่ TCP ใน Ubuntu ล่าช้ากว่าสองสัปดาห์",
+      "link": "https://www.blognone.com/node/152085",
+      "content": "ผู้ใช้โวย Canonical แพตช์ช่องโหว่ TCP ใน Ubuntu ล่าช้ากว่าสองสัปดาห์\n\n  \nBody\nกลุ่มผู้ใช้ลินุกซ์จำนวนหนึ่งเริ่มแสดงความไม่พอใจที่ Ubuntu ไม่ยอมปล่อยแพตช์ CVE-2026-98432 ที่เป็นช่องโหว่รันโค้ดระยะไกล ผ่านทางการโจมตี INET option ในโปรโตคอล TCP ซึ่งทำให้เซิร์ฟเวอร์ที่เชื่อมต่ออินเทอร์เน็ตโดยตรงมีความเสี่ยง\nความแปลกของเหตุการณ์ครั้งนี้คือลินุกซ์ค่ายอื่นๆ ล้วนปล่อยแพตช์ช่องโหว่นี้ไปแล้ว เช่น Debian ที่เป็นโครงการต้นน้ำของ Ubuntu ก็ปล่อยแพตช์ตั้งแต่วันแรกๆ ที่ช่องโหว่เปิดเผยออกมา แต่ทาง Ubuntu กลับมองว่าช่องโหว่นี้มีความสำคัญระดับสูง (high) ไม่ใช่ระดับวิกฤติ (critical)\nข้อถกเถียงหนึ่งคือช่องโหว่นี้นำไปสู่การรันโค้ดระยะไกลได้จริงเพียงใด เนื่องจากเซิร์ฟเวอร์จำนวนมากรันในคลาวด์ที่มักบล็อกแพ็กเก็ตที่ตั้ง INET option อยู่แล้ว รวมถึงบริการจำนวนมากก็ตั้งอยู่หลัง WAF หรือ CDN ทำให้ความเสี่ยงยิ่งต่ำลง อีกทั้งกระบวนการแฮกจนรันคำสั่งได้จริงก็ดูจะซับซ้อนเนื่องจากเคอร์เนลในช่วงหลังเปิดฟีเจอร์ป้องกัน เช่น KASLR เอาไว้กันหมดแล้ว\nช่องโหว่นี้ค้นพบโดย Claude รุ่นที่ยังไม่ปล่อยออกมา โดยการแฮกจริงต้องแยกสองขั้นตอน คือการอ่านข้อมูลหน่วยความจำออกมาก่อน และเขียน callback กลับเข้าไปในหน่วยความจำเพื่อรันคำสั่งอีกครั้ง\nที่มา - Hacker News, Ubuntu Security\nlew\nTue, 03/11/2026 - 07:32",
+      "pubDate": "Tue, 03 Nov 2026 00:32:43 +0000",
+      "source": "Blognone",
+      "category": "Security",
+      "thumbnail": null,
+      "readTime": "3 นาที"
+    },
+    {
+      "id": "https://www.techtalkthai.com/?p=171720",
+      "title": "Google ทลาย Botnet XCPE บนกล่อง Android TV กว่า 1.3 ล้านเครื่อง พบผู้ผลิตฝัง Backdoor มาเอง",
+      "link": "https://www.techtalkthai.com/google-disrupts-xcpe-botnet-on-backdoored-android-tv-set-top-boxes/",
+      "content": "Google Threat Intelligence Group (GTIG) ร่วมกับพันธมิตรในอุตสาหกรรมทลาย Botnet XCPE ที่ควบคุม Android TV Set-top Box กว่า 1.3 ล้านเครื่อง โดยพบว่า Backdoor ถูกฝังมาใน Firmware ตั้งแต่โรงงานโดย Videostrong Technology ผู้ผลิตอุปกรณ์เอง เพื่อขายสิทธิ์เข้าถึงเครื่องให้กลุ่มอาชญากรไซเบอร์ GTIG ประเมินด้วยความมั่นใจสูงว่า Videostrong ผู้ผลิตอุปกรณ์ Android แบบ OEM และ ODM เป็นผู้พัฒนา ติดตั้ง และควบคุม Backdoor และ Botnet นี้เองเพื่อหวังผลทางการเงิน ไม่ใช่ฝีมือคนในเพียงคนเดียวหรือความผิดพลาดในการพัฒนา เพราะพบ Malware ติดตั้งมาในอุปกรณ์หลายรุ่นหลายแบรนด์ต่อเนื่องหลายปี พร้อมโครงสร้างพื้นฐานเฉพาะและ Configuration ที่ปรับเปลี่ยนตลอดเพื่อหลบการตรวจจับ Videostrong หารายได้ด้วยการขายสิทธิ์เข้าถึงให้กลุ่ม Affiliate แล้วโหลด Module ของกลุ่มเหล่านั้นลงเครื่อง ทั้งการทำ …",
+      "pubDate": "Tue, 03 Nov 2026 00:04:49 +0000",
+      "source": "TechTalk Thai",
+      "category": "Security",
+      "thumbnail": "https://www.techtalkthai.com/wp-content/uploads/2020/01/ttt_2020_botnet_1-Jaiz_Anuar-600x313.jpg",
+      "readTime": "2 นาที"
+    },
+    {
+      "id": "https://techsauce.co/news/bdms-cariva-capital-increase",
+      "title": "BDMS ทุ่ม 100 ล้านบาท เพิ่มทุน Cariva สตาร์ทอัพ Medical AI เสริมขีดความสามารถด้าน Healthcare AI, Clinical Intelligence และ Digital Health",
+      "link": "https://techsauce.co/news/bdms-cariva-capital-increase",
+      "content": "BDMS ผ่าน RBH ทำสัญญาจองซื้อหุ้นเพิ่มทุน Cariva 100 ล้านบาท ดันสัดส่วนถือหุ้นจาก 15% เป็น 63.3% ขณะที่ PTTEP ลดเหลือ 36.7% คาดแล้วเสร็จภายในปี 2569",
+      "pubDate": "Mon, 02 Nov 2026 21:08:13 +0700",
+      "source": "Techsauce",
+      "category": "AI",
+      "thumbnail": "https://storage.googleapis.com/techsauce-prod/ugc/uploads/2026/11/1793628449_2569-11-02___BDMS_%E0%B9%80%E0%B8%9E%E0%B8%B4%E0%B9%88%E0%B8%A1%E0%B8%97%E0%B8%B8%E0%B8%99_Cariva___%E0%B8%9B%E0%B8%81_800.webp",
+      "readTime": "1 นาที"
+    },
+    {
+      "id": "https://www.techtalkthai.com/?p=171715",
+      "title": "หัวเว่ย คลาวด์ เร่งขับเคลื่อนภาครัฐไทยสู่ยุค AI-Native ด้วยโครงสร้างพื้นฐาน AI ในประเทศ อธิปไตยด้านข้อมูล และบริการภาครัฐอัจฉริยะ [PR]",
+      "link": "https://www.techtalkthai.com/huawei-cloud-government-ai-native-pr/",
+      "content": "หัวเว่ย คลาวด์ ประเทศไทย ตอกย้ำความมุ่งมั่นในการเร่งส่งเสริมการนำ AI มาใช้ในภาครัฐไทย ในงาน Huawei Cloud Government Infrastructure & AI Forum 2026 ซึ่งจัดขึ้น ณ NT Auditorium ภายใต้แนวคิด “AI-Native Transformation: Trends, Policies and Enterprise Opportunities” โดยเวทีดังกล่าวสะท้อนให้เห็นถึงความสำคัญของโครงสร้างพื้นฐาน AI ที่มีความมั่นคงปลอดภัยและรองรับการขยายตัวได้อย่างยืดหยุ่น อธิปไตยด้านข้อมูล และการประยุกต์ใช้ AI ในทางปฏิบัติ เพื่อยกระดับการดำเนินงานของหน่วยงานภาครัฐและเพิ่มประสิทธิภาพการให้บริการประชาชน นายสุรศักดิ์ วนิชเวทย์พิบูล หัวหน้าฝ่ายเจ้าหน้าที่ฝ่ายเทคโนโลยี (CTO) หัวเว่ย คลาวด์ ประเทศไทย กล่าวว่า “AI กำลังกลายเป็นปัจจัยสำคัญในการขับเคลื่อนการเปลี่ยนผ่านของภาครัฐ อย่างไรก็ตาม การนำ AI มาใช้ให้ประสบความสำเร็จจำเป็นต้องอาศัยโครงสร้างพื้นฐานที่เชื่อถือได้ ระบบรักษาความมั่นคงปลอดภัยของข้อมูลที่แข็งแกร่ง การกำกับดูแล AI อย่างมีประสิทธิภาพ ตลอดจนระบบนิเวศบุคลากรที่มีทักษะด้านเทคโนโลยี โดยเฉพาะอย่างยิ่ง …",
+      "pubDate": "Mon, 02 Nov 2026 10:44:14 +0000",
+      "source": "TechTalk Thai",
+      "category": "AI",
+      "thumbnail": "https://www.techtalkthai.com/wp-content/uploads/2026/11/nthuaweicloud-640x335.png",
+      "readTime": "3 นาที"
+    },
+    {
+      "id": "https://www.techtalkthai.com/?p=171709",
+      "title": "จาก AI ที่ตอบคำถาม สู่ AI ที่ลงมือทำ [PR]",
+      "link": "https://www.techtalkthai.com/amd-from-ai-that-answer-to-ai-that-commit-pr/",
+      "content": "AI สร้างปรากฏการณ์สำคัญครั้งแรกบนคลาวด์ และก้าวต่อไปกำลังจะเกิดขึ้นในโลกแห่งความเป็นจริง  การเปลี่ยนผ่านจาก Cloud AI สู่ Physical AI ทำให้องค์กรต้องคิดใหม่เรื่องประสิทธิภาพ ตัวชี้วัดสำหรับการเทรนและการอนุมาน (Inference) บอกเล่าได้เพียงบางส่วนเมื่อ AI ต้องรับรู้ ใช้เหตุผล และควบคุมเครื่องจักรที่ทำงานอยู่รอบตัวมนุษย์ ในระบบเหล่านี้ ประสิทธิภาพคือโจทย์ระดับระบบ (System-level Problem) ซึ่งพลิกโฉมทั้งวิธีการวัดผล การออกแบบหุ่นยนต์ และท้ายที่สุดคือ สถาปัตยกรรมการประมวลผลที่จะมาขับเคลื่อนระบบเหล่านี้  บทความโดย Salil Raje, Senior Vice President and General Manager ของ Adaptive and Embedded Computing Group  AMD มีรากฐานอันยาวนานกว่าสองทศวรรษในแวดวงหุ่นยนต์ ทั้งในแขนกลอุตสาหกรรม หุ่นยนต์เคลื่อนที่อัตโนมัติ (AMR) ระบบผ่าตัด และแพลตฟอร์มการบินและอวกาศ เราได้ส่งมอบเทคโนโลยีที่สำคัญ ทั้งระบบแมชชีนวิชัน (Machine Vision) การผสานข้อมูลเซ็นเซอร์ (Sensor Fusion) การควบคุมมอเตอร์ที่คาดการณ์เวลาได้ …",
+      "pubDate": "Mon, 02 Nov 2026 10:33:31 +0000",
+      "source": "TechTalk Thai",
+      "category": "AI",
+      "thumbnail": "https://www.techtalkthai.com/wp-content/uploads/2026/11/amdaiprpr-640x335.png",
+      "readTime": "3 นาที"
+    },
+    {
+      "id": "https://techsauce.co/saucy-thoughts/ai-deskilling-crisis-cognitive-debt",
+      "title": "วิกฤต ‘สมองลีบ’ กำลังเกิดขึ้นทั่วโลก The Untrained Generation",
+      "link": "https://techsauce.co/saucy-thoughts/ai-deskilling-crisis-cognitive-debt",
+      "content": "ผลวิจัยชี้ ยิ่งพึ่ง AI ทักษะการคิดยิ่งลีบลง พาสำรวจวิกฤต Deskilling และ Automation Paradox ที่กำลังคุกคามคนทำงาน พร้อมวิธีติดตั้ง ‘ลู่วิ่งทางปัญญา’ ให้อยู่รอดในยุคดิจิทัล",
+      "pubDate": "Mon, 02 Nov 2026 17:01:09 +0700",
+      "source": "Techsauce",
+      "category": "AI",
+      "thumbnail": "https://storage.googleapis.com/techsauce-prod/ugc/uploads/2026/11/1793613516_%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B8%8D%E0%B9%88%E0%B8%B2%E0%B8%AD%E0%B8%A2%E0%B9%88%E0%B8%B2%E0%B8%A2%E0%B8%B8%E0%B9%88%E0%B8%87_%E0%B8%9B%E0%B8%81%E0%B8%82%E0%B9%88%E0%B8%B2%E0%B8%A71200x800_-_2026-11-02T165640.454.webp",
+      "readTime": "1 นาที"
+    },
+    {
+      "id": "https://www.techtalkthai.com/?p=171693",
+      "title": "Ludo Robotics บริษัทลูก Krafton เปิดตัวโมเดลปัญญาประดิษฐ์สำหรับหุ่นยนต์ที่เข้าใจเจตจำนงของมนุษย์",
+      "link": "https://www.techtalkthai.com/krafton-backed-ludo-robotics-releases-robot-intelligence-model-designed-around-human-intent/",
+      "content": "Ludo Robotics บริษัทลูกของ Krafton ผู้จัดจำหน่ายวิดีโอเกมรายใหญ่จากประเทศเกาหลีใต้ ได้เปิดตัว Ludi 0.2 ซึ่งเป็นระบบปัญญาประดิษฐ์สำหรับหุ่นยนต์ที่ถูกสร้างขึ้นเพื่อทำความเข้าใจผู้คนและโต้ตอบกับพวกเขาในโลกแห่งความเป็นจริง สำนักงานใหญ่ของ Ludo ตั้งอยู่ในเมืองพาโลอัลโต โดยแยกตัวออกมาจาก Krafton ซึ่งเป็นบริษัทที่ประกอบธุรกิจหลักด้านการจัดจำหน่ายเกมและเป็นที่รู้จักดีที่สุดจากเกมยอดนิยมอย่าง “PUBG: Battlegrounds” นอกจากนี้ Ludo ยังมีห้องปฏิบัติการวิจัยและพัฒนาในกรุงโซล ซึ่งเป็นการรวมตัวกันของนักวิจัยและวิศวกรจากหลากหลายสาขา ทั้งด้านวิทยาการหุ่นยนต์ แมชชีนเลิร์นนิง และ AI CH Kim ประธานเจ้าหน้าที่บริหารของ Krafton ยังดำรงตำแหน่งซีอีโอของ Ludo อีกด้วย โดยมี Kangwook Lee ประธานเจ้าหน้าที่ฝ่าย AI ของ Krafton รับหน้าที่เป็นประธานเจ้าหน้าที่ฝ่ายเทคโนโลยี เหตุใดบริษัทเกมจึงจัดตั้งและสนับสนุนบริษัทหุ่นยนต์ AI? Krafton ระบุว่าบริษัทเชื่อว่า AI จะช่วยให้เกมมีความตอบสนองและน่าเล่นซ้ำได้มากขึ้น นอกจากนี้ บริษัทยังมีรากฐานที่แข็งแกร่งในด้านการจำลอง การโต้ตอบ และระบบเรียลไทม์ ซึ่งสามารถนำไปประยุกต์ใช้ได้ทันทีในการเชื่อมโยงโลกดิจิทัลเข้ากับโลกจริง ซึ่งเป็นพื้นที่ที่การโต้ตอบระหว่างมนุษย์และหุ่นยนต์เกิดขึ้น “หุ่นยนต์มีความสามารถในการทำงานเชิงกายภาพเพิ่มมากขึ้นเรื่อย ๆ แต่การทำความเข้าใจและตอบสนองต่อผู้คนยังคงเป็นความท้าทายสำคัญ” …",
+      "pubDate": "Mon, 02 Nov 2026 09:43:17 +0000",
+      "source": "TechTalk Thai",
+      "category": "AI",
+      "thumbnail": "https://www.techtalkthai.com/wp-content/uploads/2026/11/Ludo_Robotics-logo.png",
+      "readTime": "4 นาที"
+    },
+    {
+      "id": "https://www.techtalkthai.com/?p=171695",
+      "title": "มหาสาร ยกระดับประสบการณ์การจองร้านอาหารด้วยเทคโนโลยีจาก ฟิวชั่น โซลูชั่น [Guest Post]",
+      "link": "https://www.techtalkthai.com/fusion-solution-mahasan-restaurant-booking-guest-post/",
+      "content": "ฟิวชั่น โซลูชั่น พา “มหาสาร” พลิกระบบจองร้านอาหารด้วย Azure รองรับดีมานด์สูง พร้อม Scale ระบบตามการใช้งานจริง บริษัท ฟิวชั่น โซลูชั่น จำกัด ผู้ให้บริการด้านเทคโนโลยีและโซลูชันสำหรับองค์กร เผยความสำเร็จในการนำเทคโนโลยี Microsoft Azure ช่วยพัฒนาระบบรองรับการจองของ “มหาสาร” ร้านสเต็กเฮ้าส์ยอดนิยมสำหรับคนรักเนื้อ เพื่อแก้โจทย์ปริมาณการจองจำนวนมากที่เกิดขึ้นพร้อมกันในช่วงเปิดรอบ พร้อมเพิ่มความคล่องตัวในการบริหารทรัพยากรและต้นทุนตามการใช้งานจริง บริษัท ฟิวชั่น โซลูชั่น จำกัด ผู้ให้บริการด้านเทคโนโลยีและโซลูชันสำหรับองค์กร เผยความสำเร็จในการนำเทคโนโลยี Microsoft Azure ช่วยพัฒนาระบบรองรับการจองของ “มหาสาร” ร้านสเต็กเฮ้าส์ยอดนิยมสำหรับคนรักเนื้อ เพื่อแก้โจทย์ปริมาณการจองจำนวนมากที่เกิดขึ้นพร้อมกันในช่วงเปิดรอบ พร้อมเพิ่มความคล่องตัวในการบริหารทรัพยากรและต้นทุนตามการใช้งานจริง มหาสาร เป็นร้านอาหารที่ได้รับความสนใจจากลูกค้าจำนวนมาก โดยในช่วงแรกเปิดให้ลูกค้าจองโต๊ะเดือนละครั้ง ผ่านหลากหลายช่องทาง ทั้งโทรศัพท์ SMS และอีเมล แต่เมื่อความต้องการเพิ่มขึ้นอย่างรวดเร็ว รูปแบบการรับจองแบบเดิมเริ่มกลายเป็นความท้าทาย โดยเฉพาะในช่วงเปิดรอบที่มีลูกค้าจำนวนมากพยายามจองเข้ามาพร้อมกัน ขณะที่การบริหารจัดการทั้งหมดดำเนินการกันเองภายในครอบครัว แม้ทางร้านจะพยายามพัฒนาวิธีการรับจองมาอย่างต่อเนื่อง ตั้งแต่การเปิดช่องทางอีเมล ไปจนถึงการเพิ่มคนเพื่อช่วยตอบและจัดการข้อมูล แต่จำนวนคำขอที่เข้ามาพร้อมกันยังมากเกินกว่าที่กระบวนการแบบเดิมจะรองรับได้อย่างมีประสิทธิภาพ จึงกลายเป็นโจทย์สำคัญว่า จะทำอย่างไรให้ระบบสามารถรองรับความต้องการจำนวนมากในช่วงเวลาสั้น ๆ โดยไม่จำเป็นต้องแบกรับทรัพยากรและค่าใช้จ่ายในระดับสูงตลอดทั้งเดือน …",
+      "pubDate": "Mon, 02 Nov 2026 09:42:16 +0000",
+      "source": "TechTalk Thai",
+      "category": "General",
+      "thumbnail": "https://www.techtalkthai.com/wp-content/uploads/2026/11/Cover-TTT-mahasarn-640x335.png",
+      "readTime": "4 นาที"
+    },
+    {
+      "id": "https://techsauce.co/news/north-korea-hackers-ai-fake-companies-microsoft-report",
+      "title": "Microsoft แฉ 8 กลุ่มแฮกเกอร์ ‘แก๊งไซเบอร์เกาหลีเหนือ’ ใช้ AI ปลอมเป็นบริษัทผี 3 แห่งในสัปดาห์เดียว",
+      "link": "https://techsauce.co/news/north-korea-hackers-ai-fake-companies-microsoft-report",
+      "content": "Microsoft เผยรายงานแฮกเกอร์เกาหลีเหนือ 8 กลุ่มใช้ AI ปั้นบริษัทผี ตัวตนปลอมสมัครงานทางไกล และไฟล์ล่อเหยื่อหลายสิบไฟล์ในไม่กี่นาที พร้อมวิธีคัดกรองผู้สมัครที่องค์กรควรรู้",
+      "pubDate": "Mon, 02 Nov 2026 16:00:30 +0700",
+      "source": "Techsauce",
+      "category": "Security",
+      "thumbnail": "https://storage.googleapis.com/techsauce-prod/ugc/uploads/2026/11/1793609806_%E2%80%98%E0%B9%81%E0%B8%81%E0%B9%8A%E0%B8%87%E0%B9%84%E0%B8%8B%E0%B9%80%E0%B8%9A%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B9%80%E0%B8%81%E0%B8%B2%E0%B8%AB%E0%B8%A5%E0%B8%B5%E0%B9%80%E0%B8%AB%E0%B8%99%E0%B8%B7%E0%B8%AD%E2%80%99_800.webp",
+      "readTime": "1 นาที"
+    },
+    {
+      "id": "https://www.techtalkthai.com/?p=171689",
+      "title": "Sebastian Thrun ผู้ร่วมก่อตั้ง Google X ระดมทุน 130 ล้านดอลลาร์ ดัน Dulo สตาร์ทอัพ AI ด้านวิศวกรรม",
+      "link": "https://www.techtalkthai.com/google-x-co-founder-sebastian-thrun-raises-130m-for-ai-engineering-startup-dulo/",
+      "content": "Dulo สตาร์ทอัพที่ร่วมก่อตั้งโดย Sebastian Thrun นักวิจัยด้านปัญญาประดิษฐ์ที่มีชื่อเสียง ระดมทุนได้ 130 ล้านดอลลาร์ สำนักข่าว The Information รายงานข่าวการลงทุนดังกล่าวเมื่อวันพฤหัสบดีที่ผ่านมา โดย Adrian Aoun ผู้ร่วมก่อตั้ง Dulo ได้ยืนยันรายงานดังกล่าวผ่านทางโพสต์บน X ก่อนที่จะเปิดตัว Dulo ร่วมกับ Thrun ในช่วงต้นปีนี้ Aoun ได้ขายสตาร์ทอัพด้านการประมวลผลภาษาธรรมชาติยุคแรกที่ชื่อว่า Wavii ให้กับ Google ด้วยมูลค่ากว่า 30 ล้านดอลลาร์ นอกจากนี้เขายังเคยลงทุนในบริษัทต่าง ๆ เช่น Pinterest ในขณะที่ Thrun เคยร่วมก่อตั้งห้องปฏิบัติการวิจัย X ของ Google เขาเป็นผู้นำโครงการ X ซึ่งต่อมาได้กลายเป็น Waymo และมีส่วนช่วยในการก่อตั้ง Google Brain ซึ่งเป็นรากฐานสำคัญของ Google DeepMind การระดมทุนรอบล่าสุดของ Dulo มีผู้เข้าร่วมลงทุนอย่าง …",
+      "pubDate": "Mon, 02 Nov 2026 08:54:03 +0000",
+      "source": "TechTalk Thai",
+      "category": "AI",
+      "thumbnail": "https://www.techtalkthai.com/wp-content/uploads/2026/11/Dulo-logo.png",
+      "readTime": "2 นาที"
+    },
+    {
+      "id": "https://www.techtalkthai.com/?p=171682",
+      "title": "ทำให้การย้ายจาก Device Management บน Windows จาก Vendor อื่นๆ ไปหา Workspace ONE เป็นเรื่องง่ายๆ ด้วย Intelligent Hub Managed Mode [Guest Post]",
+      "link": "https://www.techtalkthai.com/vstecs-migrate-windows-device-management-workspace-one-intelligent-hub-guest-post/",
+      "content": "ถ้าเราจำได้ หลายปีมานี้การจัดการเครื่อง Windows ในช่วงหลายปีที่ผ่านมา การย้ายไปสู่การจัดการ Windows รูปแบบใหม่ (Modern Windows Management) เปรียบเสมือนการเสี่ยงครั้งใหญ่สำหรับองค์กร แนวทางแบบดั้งเดิมที่เรียกว่า “Rip-and-Replace” ซึ่งเป็นการเปลี่ยนระบบเดิมออกทั้งหมดแล้วแทนที่ด้วยระบบใหม่ในคราวเดียว ทำให้เกิดความเสี่ยง เช่น การลงทะเบียนอุปกรณ์ไม่สำเร็จ อุปกรณ์หยุดชะงักในการใช้งาน และประสิทธิภาพการทำงานของผู้ใช้งานลดลง ความสามารถ Next-Generation Windows Management ใน Workspace ONE UEM ซึ่งได้ประกาศเปิดตัวไปเมื่อต้นปีนี้ ช่วยลดความเสี่ยงดังกล่าวด้วยแนวทาง Co-management ที่เปิดโอกาสให้ฝ่าย IT สามารถแบ่งและบริหารจัดการภาระงานระหว่างเครื่องมือจัดการระบบเดิม (Legacy Tools) กับ Workspace ONE UEM ได้อย่างยืดหยุ่นความสามารถ Automated Step-up Enrollment จาก Intelligent Hub Managed Mode ไปสู่ Fully Managed Mode (Full MDM) ได้เปิดให้ใช้งานทั่วไป …",
+      "pubDate": "Mon, 02 Nov 2026 08:43:09 +0000",
+      "source": "TechTalk Thai",
+      "category": "AI",
+      "thumbnail": "https://www.techtalkthai.com/wp-content/uploads/2026/11/รูปภาพ1.png",
+      "readTime": "3 นาที"
+    },
+    {
+      "id": "https://www.techtalkthai.com/?p=171677",
+      "title": "VST ECS (Thailand) ผนึก ZTE ขยายพอร์ตพลังงานสะอาดรุกตลาดระบบกักเก็บพลังงานในประเทศไทย [PR]",
+      "link": "https://www.techtalkthai.com/vst-ecs-thailand-x-zte-mou-pr/",
+      "content": "บริษัท วีเอสที อีซีเอส (ประเทศไทย) จำกัด ในเครือวีเอสที อีซีเอส กรุ๊ป หนึ่งในผู้จัดจำหน่ายผลิตภัณฑ์และโซลูชันเทคโนโลยีรายใหญ่ของประเทศไทยและภูมิภาคเอเชียแปซิฟิก ตอกย้ำบทบาทผู้นำดิสทริบิวเตอร์เทคโนโลยีของไทย ด้วยการขยายพอร์ตโฟลิโอสู่ตลาดพลังงานสะอาดอย่างเป็นทางการ ภายใต้ความร่วมมือกับ ZTE Corporation ผู้ให้บริการโซลูชันเทคโนโลยีสารสนเทศและการสื่อสารแบบครบวงจรชั้นนำระดับโลก โดยวีเอสที อีซีเอส ได้รับการแต่งตั้งให้เป็นผู้แทนจำหน่ายผลิตภัณฑ์ระบบกักเก็บพลังงานด้วยแบตเตอรี่ หรือ Battery Energy Storage System (BESS) ของ ZTE อย่างเป็นทางการรายแรกในประเทศไทย นับเป็นอีกก้าวสำคัญในการเสริมศักยภาพพอร์ตผลิตภัณฑ์ด้วยนวัตกรรมจากพันธมิตรระดับโลก เพื่อรองรับการเติบโตของธุรกิจพลังงานสะอาดและการเปลี่ยนผ่านสู่สังคมคาร์บอนต่ำ ความร่วมมือเชิงกลยุทธ์ครั้งนี้สะท้อนวิสัยทัศน์ของวีเอสที อีซีเอส ในการต่อยอดความแข็งแกร่งจากธุรกิจจัดจำหน่ายผลิตภัณฑ์ไอที สู่การเป็นผู้รวบรวมและส่งมอบโซลูชันเทคโนโลยีครบวงจรสำหรับองค์กร โดยมุ่งคัดสรรนวัตกรรมจากพันธมิตรชั้นนำระดับโลกมาเติมเต็มพอร์ตโฟลิโอ พร้อมเปิดโอกาสทางธุรกิจใหม่ในตลาดพลังงานสะอาดของประเทศไทยที่มีแนวโน้มเติบโตอย่างต่อเนื่อง สำหรับโซลูชันระบบกักเก็บพลังงานด้วยแบตเตอรี่ หรือ BESS (Battery Energy Storage System) ของ ZTE ซึ่งได้รับการออกแบบสำหรับภาคอุตสาหกรรมและภาคธุรกิจเชิงพาณิชย์ มาในรูปแบบ All-in-One Integrated Cabinet ด้วยกำลังไฟ 125 กิโลวัตต์ และความจุแบตเตอรี่ 261 กิโลวัตต์ชั่วโมง …",
+      "pubDate": "Mon, 02 Nov 2026 08:31:22 +0000",
+      "source": "TechTalk Thai",
+      "category": "General",
+      "thumbnail": "https://www.techtalkthai.com/wp-content/uploads/2026/11/vstecsztemou-640x335.png",
+      "readTime": "4 นาที"
+    },
+    {
+      "id": "https://www.thaicert.or.th/?p=17611",
+      "title": "ช่องโหว่ Android “SMS of Death” เสี่ยงถูกส่งข้อความทำระบบโทรศัพท์หยุดทำงาน",
+      "link": "https://www.thaicert.or.th/2026/11/02/%e0%b8%8a%e0%b9%88%e0%b8%ad%e0%b8%87%e0%b9%82%e0%b8%ab%e0%b8%a7%e0%b9%88-android-sms-of-death-%e0%b9%80%e0%b8%aa%e0%b8%b5%e0%b9%88%e0%b8%a2%e0%b8%87%e0%b8%96%e0%b8%b9%e0%b8%81/",
+      "content": "598/69 (IT) ประจำวันจันทร์ที่ 2 พฤศจิกายน 2569 นักวิจัย […]\nThe post ช่องโหว่ Android “SMS of Death” เสี่ยงถูกส่งข้อความทำระบบโทรศัพท์หยุดทำงาน first appeared on Thailand Computer Emergency Response Team (ThaiCERT).",
+      "pubDate": "Mon, 02 Nov 2026 08:02:00 +0000",
+      "source": "ThaiCERT",
+      "category": "ภัยคุกคามทางไซเบอร์",
+      "thumbnail": "https://www.thaicert.or.th/wp-content/uploads/2026/11/3_0-1024x768.png",
+      "readTime": "1 นาที"
+    },
+    {
+      "id": "https://www.thaicert.or.th/?p=17610",
+      "title": "พบการโจมตี Ivanti Connect Secure โดยใช้ช่องโหว่ 3 รายการร่วมกัน เพื่อเข้าควบคุมระบบด้วยสิทธิ์ Root",
+      "link": "https://www.thaicert.or.th/2026/11/02/%e0%b8%9e%e0%b8%9a%e0%b8%81%e0%b8%b2%e0%b8%a3%e0%b9%82%e0%b8%88%e0%b8%a1%e0%b8%95%e0%b8%b5-ivanti-connect-secure-%e0%b9%82%e0%b8%94%e0%b8%a2%e0%b9%83%e0%b8%8a%e0%b9%89%e0%b8%8a%e0%b9%88%e0%b8%ad/",
+      "content": "597/69 (IT) ประจำวันจันทร์ที่ 2 พฤศจิกายน 2569 CISA ประ […]\nThe post พบการโจมตี Ivanti Connect Secure โดยใช้ช่องโหว่ 3 รายการร่วมกัน เพื่อเข้าควบคุมระบบด้วยสิทธิ์ Root first appeared on Thailand Computer Emergency Response Team (ThaiCERT).",
+      "pubDate": "Mon, 02 Nov 2026 08:01:00 +0000",
+      "source": "ThaiCERT",
+      "category": "ภัยคุกคามทางไซเบอร์",
+      "thumbnail": "https://www.thaicert.or.th/wp-content/uploads/2026/11/2_0-1024x768.png",
+      "readTime": "1 นาที"
+    },
+    {
+      "id": "https://www.thaicert.or.th/?p=17609",
+      "title": "พบมัลแวร์ NetamLoader มุ่งโจมตีระบบ Windows 10 ของหน่วยงานรัฐในเอเชียผ่านเทคนิค .NET Injection",
+      "link": "https://www.thaicert.or.th/2026/11/02/%e0%b8%9e%e0%b8%9a%e0%b8%a1%e0%b8%b1%e0%b8%a5%e0%b9%81%e0%b8%a7%e0%b8%a3%e0%b9%8c-netamloader-%e0%b8%a1%e0%b8%b8%e0%b9%88%e0%b8%87%e0%b9%82%e0%b8%88%e0%b8%a1%e0%b8%95%e0%b8%b5%e0%b8%a3%e0%b8%b0/",
+      "content": "596/69 (IT) ประจำวันจันทร์ที่ 2 พฤศจิกายน 2569 นักวิจัย […]\nThe post พบมัลแวร์ NetamLoader มุ่งโจมตีระบบ Windows 10 ของหน่วยงานรัฐในเอเชียผ่านเทคนิค .NET Injection first appeared on Thailand Computer Emergency Response Team (ThaiCERT).",
+      "pubDate": "Mon, 02 Nov 2026 08:00:00 +0000",
+      "source": "ThaiCERT",
+      "category": "ภัยคุกคามทางไซเบอร์",
+      "thumbnail": "https://www.thaicert.or.th/wp-content/uploads/2026/11/1_0-1024x768.png",
+      "readTime": "1 นาที"
+    },
+    {
+      "id": "https://www.techtalkthai.com/?p=171674",
+      "title": "กลุ่มบริษัท AI ชั้นนำเตรียมสนับสนุนมาตรฐานใหม่สำหรับบล็อกการเก็บข้อมูลโดย AI",
+      "link": "https://www.techtalkthai.com/leading-ai-companies-to-support-new-ai-crawling-opt-out-standard/",
+      "content": "Google, Microsoft, Anthropic และ OpenAI ได้ประกาศแผนการสนับสนุนมาตรฐานใหม่สำหรับการเก็บข้อมูลจากเว็บไซต์ โดยเทคโนโลยีดังกล่าวจะช่วยให้ผู้ดูแลเว็บไซต์สามารถปิดกั้นนักพัฒนา AI ไม่ให้ใช้เนื้อหาของตนในการฝึกฝนโมเดลได้ เว็บไซต์จำนวนมากมีไฟล์ข้อความชื่อ “robots.txt” ซึ่งคอยแจ้งให้โปรแกรมรวบรวมข้อมูลทราบว่าเนื้อหาส่วนใดบ้างที่สามารถเข้าถึงได้ ผู้เผยแพร่เนื้อหาสามารถใช้ไฟล์นี้เพื่อบล็อกการคัดลอกข้อมูลทั้งหมดหรือทำให้บางหน้าเว็บไม่สามารถเข้าถึงได้ นอกจากนี้ยังสามารถระบุคำสั่งอื่น ๆ ได้ด้วย เช่น บริษัทอาจร้องขอไม่ให้โปรแกรมรวบรวมข้อมูลเข้ามาเยี่ยมชมเว็บไซต์บ่อยจนเกินไป ในอดีต ผู้ดูแลเว็บไซต์ใช้ไฟล์ robots.txt เพื่อจัดการว่าเสิร์ชเอนจินจะโต้ตอบกับเว็บไซต์ของตนอย่างไร แต่ในปัจจุบัน เทคโนโลยีนี้ยังช่วยควบคุมกิจกรรมของโปรแกรมคัดลอกข้อมูลที่ผู้ให้บริการ AI ใช้ในการรวบรวมข้อมูลสำหรับการฝึกฝนอีกด้วย บริษัทที่ไม่อนุญาตให้มีการคัดลอกข้อมูลเพื่อนำไปฝึกฝนโมเดล จำเป็นต้องแก้ไขไฟล์ robots.txt ของเว็บไซต์หลายครั้ง โดยเฉพาะอย่างยิ่งการเพิ่มรายการแยกสำหรับผู้ให้บริการ AI แต่ละราย หากผู้ให้บริการ AI ใช้โปรแกรมคัดลอกข้อมูลหลายตัวในการรวบรวมข้อมูล แต่ละโปรแกรมจะต้องมีรายการในไฟล์ robots.txt เป็นของตัวเอง มาตรฐานการรวบรวมข้อมูลที่ Google, Microsoft, Anthropic และ OpenAI กำลังให้การสนับสนุนนี้มีเป้าหมายเพื่อลดความซับซ้อนของกระบวนการดังกล่าว โดยจะช่วยให้ผู้ดูแลเว็บไซต์สามารถบล็อกโปรแกรมคัดลอกข้อมูลทั้งหมดที่รวบรวมข้อมูลสำหรับฝึกฝนโมเดล Generative AI ได้ด้วยการระบุรายการใน robots.txt เพียงรายการเดียว ทั้งนี้ การตั้งค่าดังกล่าวจะไม่มีผลกับโมเดลที่ “ทำงานเฉพาะที่ไม่ใช่การสร้างเนื้อหาใหม่” …",
+      "pubDate": "Mon, 02 Nov 2026 07:44:17 +0000",
+      "source": "TechTalk Thai",
+      "category": "AI",
+      "thumbnail": "https://www.techtalkthai.com/wp-content/uploads/2024/10/robot-webbrowsing.png",
+      "readTime": "4 นาที"
+    },
+    {
+      "id": "https://www.techtalkthai.com/?p=171661",
+      "title": "AIT ยกระดับความเชี่ยวชาญ VMware Cloud Foundation วางรากฐาน Enterprise Infrastructure สู่ยุค Private AI [Guest Post]",
+      "link": "https://www.techtalkthai.com/ait-elevates-its-vmware-cloud-foundation-expertise-guest-post/",
+      "content": "AIT ตอกย้ำความเชี่ยวชาญ VMware Cloud Foundation ก้าวสู่ยุค Private Cloud และ AI ด้วยศักยภาพระดับ Broadcom Knights บริษัท แอ็ดวานซ์ อินฟอร์เมชั่น เทคโนโลยี จำกัด (มหาชน) หรือ AIT ตอกย้ำศักยภาพด้านเทคโนโลยีและการให้บริการ System Integration ด้วยบุคลากรที่ได้รับการยอมรับในระดับ Broadcom Knights สะท้อนถึงความเชี่ยวชาญด้าน VMware Cloud Foundation (VCF) และความมุ่งมั่นในการพัฒนาบุคลากรให้พร้อมรองรับการเปลี่ยนแปลงของเทคโนโลยีโครงสร้างพื้นฐานในยุค Private Cloud และ AI ความสำเร็จดังกล่าวถือเป็นอีกก้าวสำคัญในการเสริมความแข็งแกร่งให้กับ AIT ในการเป็น Technology Partner สำหรับลูกค้าองค์กร ตั้งแต่การให้คำปรึกษา ออกแบบสถาปัตยกรรม ติดตั้งและบูรณาการระบบ ไปจนถึงการดูแลและสนับสนุนระบบ เพื่อช่วยให้องค์กรสามารถนำเทคโนโลยีมาใช้สร้างประโยชน์ทางธุรกิจได้อย่างเต็มศักยภาพ Broadcom Knights เครื่องยืนยันความเชี่ยวชาญด้าน VMware Cloud Foundation Broadcom …",
+      "pubDate": "Mon, 02 Nov 2026 07:16:12 +0000",
+      "source": "TechTalk Thai",
+      "category": "AI",
+      "thumbnail": "https://www.techtalkthai.com/wp-content/uploads/2026/11/vmware.png",
+      "readTime": "3 นาที"
+    },
+    {
+      "id": "https://techsauce.co/news/krungsri-finnovate-invests-amity-series-d",
+      "title": "กรุงศรี ฟินโนเวต ร่วมลงทุน อะมิตี้ ต่อยอด Series D รวมกว่า 100 ล้านดอลลาร์สหรัฐ",
+      "link": "https://techsauce.co/news/krungsri-finnovate-invests-amity-series-d",
+      "content": "กรุงศรี ฟินโนเวต ผ่านทรัสต์ ฟินโนเวนเจอร์ ไพรเวท อิควิตี้ ทรัสต์ I ร่วมลงทุนใน Amity ต่อยอดรอบ Series D รวมกว่า 100 ล้านดอลลาร์สหรัฐ และร่วมศึกษาความร่วมมือเชิงกลยุทธ์",
+      "pubDate": "Mon, 02 Nov 2026 13:49:29 +0700",
+      "source": "Techsauce",
+      "category": "General",
+      "thumbnail": "https://storage.googleapis.com/techsauce-prod/ugc/uploads/2026/11/1793601518_krungsri-finnovate-invests-amity-series-d-body-1-2400x1600.webp",
+      "readTime": "1 นาที"
+    },
+    {
+      "id": "https://www.thaicert.or.th/?p=17616",
+      "title": "แจ้งเตือน! Juniper Networks แก้ไขช่องโหว่ใน Session Smart Router และ Conductor เสี่ยงถูกเข้าควบคุมระบบ",
+      "link": "https://www.thaicert.or.th/2026/11/02/%e0%b9%81%e0%b8%88%e0%b9%89%e0%b8%87%e0%b9%80%e0%b8%95%e0%b8%b7%e0%b8%ad%e0%b8%99-juniper-networks-%e0%b9%81%e0%b8%81%e0%b9%89%e0%b9%84%e0%b8%82%e0%b8%8a%e0%b9%88%e0%b8%ad%e0%b8%87%e0%b9%82%e0%b8%ab/",
+      "content": "ศูนย์ประสานการรักษาความมั่นคงปลอดภัยระบบคอมพิวเตอร์แห่ง […]\nThe post แจ้งเตือน! Juniper Networks แก้ไขช่องโหว่ใน Session Smart Router และ Conductor เสี่ยงถูกเข้าควบคุมระบบ first appeared on Thailand Computer Emergency Response Team (ThaiCERT).",
+      "pubDate": "Mon, 02 Nov 2026 06:46:05 +0000",
+      "source": "ThaiCERT",
+      "category": "ภัยคุกคามทางไซเบอร์",
+      "thumbnail": "https://www.thaicert.or.th/wp-content/uploads/2026/11/Juniper-1024x595.jpg",
+      "readTime": "1 นาที"
+    },
+    {
+      "id": "https://www.techtalkthai.com/?p=171657",
+      "title": "ระวัง Ghost Admin บัญชีไร้ตัวตนแต่สิทธิ์สูง ช่องโหว่เงียบที่องค์กรปล่อยทิ้งไว้โดยไม่รู้ตัว",
+      "link": "https://www.techtalkthai.com/beware-ghost-admin-active-directory-risks/",
+      "content": "เบื้องหลังโครงสร้างพื้นฐานระดับ Enterprise สิ่งที่น่ากลัวที่สุดสำหรับการรักษาความมั่นคงปลอดภัยไม่ใช่แค่การโจมตีจากภายนอก แต่คือ Ghost Admin หรือบัญชีระดับผู้ดูแลระบบที่ไร้เจ้าของดูแลแต่กลับมีอำนาจในการจัดการข้อมูลและควบคุมสิทธิ์การเข้าถึงอย่างเต็มรูปแบบ และถูกทิ้งร้างไว้โดยปราศจากธรรมาภิบาลและการกำกับดูแลที่เหมาะสม Craig Birch ผู้เชี่ยวชาญด้านเทคโนโลยีจาก Cayosoft ระบุว่า Ghost Admin มักเริ่มต้นจากการเป็น Service Account หรือบัญชีที่สร้างขึ้นมาเพื่อรันงานอัตโนมัติ เช่น งานสำรองข้อมูลรอบดึก หรืองานสร้างรายงานตามรอบเวลา ซึ่งช่วยแบ่งเบาภาระของทีม IT แต่เมื่อผู้ดูแลเดิมลาออก หรือโปรเจกต์สิ้นสุดลง บัญชีเหล่านี้กลับไม่ถูกเพิกถอนสิทธิ์ ยิ่งไปกว่านั้น กุญแจและรหัสผ่านมักถูกทิ้งไว้ในระบบจัดการงาน โค้ด หรือช่องทางสื่อสารภายใน ทำให้กลายเป็นช่องทางให้แฮกเกอร์สามารถสวมสิทธิ์เจาะเข้าสู่ระบบ Active Directory และ Core Infrastructure ได้โดยไม่ส่งสัญญาณแจ้งเตือน เนื่องจากเป็นบัญชีที่ระบบมองว่าถูกต้องตามกฎเกณฑ์มาตั้งแต่แรก Erich Kron CISO Advisor จาก KnowBe4 ชี้ให้เห็นว่า บัญชีเหล่านี้มักเกิดขึ้นจากกระบวนการทำงานที่เร่งรีบ เช่น การให้สิทธิ์ระดับสูงแก่บัญชีทั่วไปเพื่อแก้ปัญหาทางเทคนิคเฉพาะหน้าให้ระบบทำงานได้รวดเร็ว หรือการย้ายระบบ On-premises ไปยังบริการคลาวด์อย่าง Cloud Email และ …",
+      "pubDate": "Mon, 02 Nov 2026 04:24:13 +0000",
+      "source": "TechTalk Thai",
+      "category": "Security",
+      "thumbnail": "https://www.techtalkthai.com/wp-content/uploads/2026/11/TTT-2026-11-02T112212.376-640x336.jpg",
+      "readTime": "3 นาที"
+    },
+    {
+      "id": "152084 at https://www.blognone.com",
+      "title": "ผลทดสอบ GPT-6.1 Terra ทำงานเร็วกว่า ต้นทุนถูกกว่า Claude Opus 5.5 ได้จริง",
+      "link": "https://www.blognone.com/node/152084",
+      "content": "ผลทดสอบ GPT-6.1 Terra ทำงานเร็วกว่า ต้นทุนถูกกว่า Claude Opus 5.5 ได้จริง\n\n  \nBody\nเว็บไซต์ The New Stack ทดสอบคำโม้ของ OpenAI ที่บอกว่าโมเดลใหม่ GPT-6.1 Terra ให้ประสิทธิภาพของคำตอบด้อยกว่าคู่แข่ง Claude Opus 5.5 เล็กน้อย (ต่างกัน 5%) แต่ประหยัดโทเคนกว่า 3 เท่า และค่าใช้งานถูกกว่า 1/4 เท่า (ราคารวมต่อการรันถูกว่า 1/9 เท่า)\nวิธีการทดสอบของ The New Stack มีทั้งหมด 3 ชุด ใช้การรันโมเดลแบบ max effort ทั้งหมด\nสร้างซอฟต์แวร์หน้าตาคล้ายๆ GitHub ขึ้นมา เป็นซอฟต์แวร์ที่พัฒนาไม่สำเร็จ แล้วให้โมเดลทั้งสองค่ายลองแก้ไขซอฟต์แวร์ตัวนี้ โดยให้ใช้งานผ่านเบราว์เซอร์แล้วดูภาพหน้าจอ\nสร้างคลิปวิดีโอการแบ่งเซลล์ 72 เฟรม เหมือนถ่ายจากกล้องจุลทรรศน์ที่ภาพไม่ชัด โมเดลต้องเขียนสคริปต์ Python เพื่อติดตามแต่ละเซลล์ว่าแบ่งมาจากไหน เพื่อตามหาเซลล์ต้นทาง\nสร้างผลทดสอบการรัน CI ของซอฟต์แวร์ ความยาว 1,200 แถว มีแถวซ้ำ มีข้อมูลเพี้ยน โมเดลจะต้องตอบคำถาม 50 ข้อว่าเกิดอะไรขึ้น โดยไม่มีเครื่องมือภายนอกช่วย\nผลการทดสอบ\nโมเดลทั้งสองตัวแก้ปัญหา 6 จุดได้ครบ แต่ Terra คลิกเว็บน้อยกว่า 5 เท่า สร้างเอาต์พุตน้อยกว่า 5 เท่า ต้นทุนรวม Terra ใช้ต้นทุนน้อยกว่า 5.38 ต่อ 1\nTerra ติดตามการแบ่งเซลล์ถูกทั้งหมด 20 กรณี, Opus ตอบผิด 2 การแบ่งเซลล์, Terra ทำงานเร็วกว่า ทำเสร็จใน 15 นาที ส่วน Opus ใช้ 36 นาที, ต้นทุนค่ารัน Terra 3.47 ดอลลาร์ Opus 82.91 ดอลลาร์\nTerra ตอบถูก 47/50 ข้อ Opus ตอบไม่ได้เพราะโทเคนเกินลิมิต 128,000 โทเคน\nถ้านับค่าใช้จ่ายโดยประมาณของการรันชุดทดสอบทั้ง 3 ชุด Terra อยู่ที่ 25.99 ดอลลาร์ และ Opus อยู่ที่ 214.96 ดอลลาร์ (แบบ uncached) รายละเอียดของการทดสอบอ่านได้จากต้นทาง\nที่มา - The New Stack\nmk\nMon, 02/11/2026 - 11:18",
+      "pubDate": "Mon, 02 Nov 2026 04:18:28 +0000",
+      "source": "Blognone",
+      "category": "AI",
+      "thumbnail": null,
+      "readTime": "4 นาที"
+    },
+    {
+      "id": "https://www.thaicert.or.th/?p=17612",
+      "title": "แจ้งเตือนตรวจพบการโจมตีช่องโหว่ PolyShell และ Brotli บนแพลตฟอร์ม Adobe Commerce",
+      "link": "https://www.thaicert.or.th/2026/11/02/%e0%b9%81%e0%b8%88%e0%b9%89%e0%b8%87%e0%b9%80%e0%b8%95%e0%b8%b7%e0%b8%ad%e0%b8%99%e0%b8%95%e0%b8%a3%e0%b8%a7%e0%b8%88%e0%b8%9e%e0%b8%9a%e0%b8%81%e0%b8%b2%e0%b8%a3%e0%b9%82%e0%b8%88%e0%b8%a1%e0%b8%95/",
+      "content": "ศูนย์ประสานการรักษาความมั่นคงปลอดภัยระบบคอมพิวเตอร์แห่ง […]\nThe post แจ้งเตือนตรวจพบการโจมตีช่องโหว่ PolyShell และ Brotli บนแพลตฟอร์ม Adobe Commerce first appeared on Thailand Computer Emergency Response Team (ThaiCERT).",
+      "pubDate": "Mon, 02 Nov 2026 03:50:00 +0000",
+      "source": "ThaiCERT",
+      "category": "ภัยคุกคามทางไซเบอร์",
+      "thumbnail": "https://www.thaicert.or.th/wp-content/uploads/2026/11/Magento-CMS-Block-1024x576.png",
+      "readTime": "1 นาที"
+    },
+    {
+      "id": "https://techsauce.co/tech-and-biz/anthropic-s1-ipo-governance-who-holds-the-steering-wheel",
+      "title": "เปิด S-1 ของ Anthropic เงิน IPO จะไปลงที่ไหน?",
+      "link": "https://techsauce.co/tech-and-biz/anthropic-s1-ipo-governance-who-holds-the-steering-wheel",
+      "content": "เปิด S-1 ของ Anthropic เงิน IPO จะไปจ้างคนเก่ง เพิ่มชิป และขยาย Data Center พร้อมรับภาระค่าไฟส่วนเพิ่มเอง แล้วใครคุมบริษัท? ถอดโครงสร้างหุ้นห้าคลาส ผู้ก่อตั้งถือเสียง 50.1% ก่อนเข้า Nasdaq ในชื่อ ANT",
+      "pubDate": "Mon, 02 Nov 2026 09:26:01 +0700",
+      "source": "Techsauce",
+      "category": "General",
+      "thumbnail": "https://storage.googleapis.com/techsauce-prod/ugc/uploads/2026/11/1793586015_%E0%B9%80%E0%B8%9B%E0%B8%B4%E0%B8%94_S-1_%E0%B8%82%E0%B8%AD%E0%B8%87_Anthropic__800.webp",
+      "readTime": "1 นาที"
+    },
+    {
+      "id": "152083 at https://www.blognone.com",
+      "title": "บริษัทจีพียูคลาวด์แนว Neocloud เริ่มประสบปัญหาระดมทุนสร้างศูนย์ข้อมูลยากขึ้น",
+      "link": "https://www.blognone.com/node/152083",
+      "content": "บริษัทจีพียูคลาวด์แนว Neocloud เริ่มประสบปัญหาระดมทุนสร้างศูนย์ข้อมูลยากขึ้น\n\n  \nBody\nWall Street Journal รายงานข่าวจากแวดวงการเงินว่า ผู้ให้บริการคลาวด์ยุคใหม่ที่เรียกรวมๆ ว่า neocloud (ซึ่งเริ่มมาจากธุรกิจให้เช่าจีพียู หลายรายเป็นบริษัทขุดเหมืองคริปโตมาก่อน เช่น CoreWeave) เริ่มประสบปัญหาระดมทุนยากขึ้น ทั้งรูปแบบกู้เงิน (ผ่านการออกหุ้นกู้) และการขายหุ้น IPO เข้าตลาดหลักทรัพย์\nตัวอย่างบริษัทกลุ่ม neocloud ได้แก่ CoreWeave, IREN, Nscale, Nebius, Lambda ซึ่งมีโมเดลธุรกิจคล้ายๆ กันคือระดมทุนซื้อจีพียูจำนวนมากๆ แล้วนำมาปล่อยให้บริษัทเทคโนโลยีเช่าต่ออีกที\nในช่วงก่อนหน้านี้ที่วงการ AI เริ่มบูม ส่งผลให้ธุรกิจ neocloud ได้รับความสนใจอย่างมาก แต่หลังจากเวลาผ่านมา 2-3 ปี มูลค่าการระดมทุนเพิ่มสูงขึ้นเรื่อยๆ (ตัวเลขปี 2025-2026 รวมกันเกิน 1 ล้านล้านดอลลาร์) จนทำให้ตลาดทุนตั้งคำถามว่า บริษัทเหล่านี้จะมีรายได้เพียงพอในการกลับมาจ่ายหนี้จำนวนมหาศาลหรือไม่\nLambda ปรับลดเป้าหมายการระดมทุนขายหุ้นรอบล่าสุด (รอบสุดท้ายก่อน IPO) จากเดิมตั้งเป้ามูลค่าบริษัท 14.5 พันล้านดอลลาร์ เหลือ 13 พันล้านดอลลาร์\nNscale จากอังกฤษ มีลูกค้าคือ OpenAI อาจต้องเลื่อนแผนการ IPO ออกไป จากเดิมตั้งเป้าเดือนพฤศจิกายน ตอนนี้เป็นเดือนธันวาคม เนื่องจากสภาพตลาดหุ้นไม่เอื้อต่อการขายหุ้น, มูลค่า IPO อาจลดลงจาก 35 พันล้านดอลลาร์ เหลือ 30 พันล้านดอลลาร์, นอกจากนี้ยังเจอปัญหาการระดมทุนสร้างศูนย์ข้อมูลแห่งใหม่ในสหรัฐ ให้ลูกค้าอย่าง Anthropic ด้วย\nCoreWeave หุ้นกู้ที่บริษัทออกโดยให้ดอกเบี้ย 9.75% ตอนนี้ซื้อขายในตลาดมือสองในอัตราดอกเบี้ย 15% แสดงให้เห็นว่าต้นทุนของการกู้เพิ่มขึ้นเกือบเท่าตัว\nบริษัทในกลุ่ม neocloud ที่ยังไม่ออกหุ้นกู้คือ Nebius จากเนเธอร์แลนด์ เดิมทีเป็นบริษัทแม่ของ Yandex แต่แยกทางกันในปี 2024 หลังรัสเซียบุกยูเครน หลังจากแยกกันแล้ว ได้เงินลงทุนจาก NVIDIA และมีลูกค้าอย่าง Microsoft กับ Meta โดยซีอีโอ Arkady Volozh บอกว่าตัดสินใจยังไม่ไปท่าออกหุ้นกู้ในตอนนี้ และพยายามใช้วิธีการหาเงินแบบอื่น เช่น ขอให้ลูกค้าจ่ายเงินล่วงหน้า เพื่อหาเงินมาหมุนเวียนธุรกิจ\nความกดดันนี้ยังส่งผลต่อบริษัทเทคโนโลยีขนาดใหญ่ (hyperscaler) ที่ทยอยประกาศผลประกอบการในช่วงนี้ เช่น Alphabet หุ้นตกหนักแม้ผลประกอบการเติบโต แต่นักลงทุนกังวลเรื่องค่าใช้จ่าย, Intel หุ้นร่วงไป 29% แม้รายได้เติบโต 21%\nอย่างไรก็ตาม บริษัทขนาดใหญ่เหล่านี้ยังไปได้สวยในตลาดหุ้นกู้ เพราะสถาบันการเงินเชื่อมั่นว่ามีรายได้จากทางอื่นมาจากหนี้คืนได้ เช่น Meta ระดมทุนก้อนใหญ่ผ่านการขายหุ้น มูลค่า 97.5 พันล้านดอลลาร์ ส่วนการออกหุ้นกู้ของบริษัทเหล่านี้ก็มีต้นทุนดอกเบี้ยที่ถูกลง  (จากความเชื่อมั่นที่สูงกว่ามาก) จนหลายบริษัทเลือกวิธีการออกหุ้นกู้ แทนการออกหุ้น ซึ่งเป็นสถานการณ์ที่กลับกันกับบริษัทกลุ่ม neocloud\nที่มา - Wall Street Journal\nmk\nMon, 02/11/2026 - 08:56",
+      "pubDate": "Mon, 02 Nov 2026 01:56:20 +0000",
+      "source": "Blognone",
+      "category": "AI",
+      "thumbnail": null,
+      "readTime": "7 นาที"
     },
     {
       "id": "https://www.thaicert.or.th/?p=17600",
@@ -123,17 +420,6 @@
       "readTime": "4 นาที"
     },
     {
-      "id": "152078 at https://www.blognone.com",
-      "title": "Meta ออกแอป Style Sketch แนะนำสไตล์แต่งตัวด้วย AI ตอนนี้ทดสอบบางประเทศ​ มีไทยด้วย",
-      "link": "https://www.blognone.com/node/152078",
-      "content": "Meta ออกแอป Style Sketch แนะนำสไตล์แต่งตัวด้วย AI ตอนนี้ทดสอบบางประเทศ​ มีไทยด้วย\n\n  \nBody\nMeta ออกแอปทดลองตลาดเกี่ยวกับ AI เพิ่มเติมอีก 2 แอป ได้แก่ Style Sketch และ Waddle World เพิ่มเติมจาก Pocket แอปสร้างเกมด้วย AI และ Vibes แอปรวมวิดีโอที่สร้างด้วย AI โดยเฉพาะ\nStyle Sketch ทำงานโดยเชื่อมต่อกับ Instagram ของผู้ใช้งาน เพื่อจดจำลักษณะของเรา และเสื้อผ้าที่สวมใส่ ผู้ใช้งานยังสามารถอัปโหลดรูปเพิ่มเติมได้ จากนั้นแอปจะแนะนำการแต่งตัวจากชุดที่มี หรืออ้างอิงจากชุดและผู้สวมใส่ที่มีลักษณะรูปร่างคล้ายกันให้\nแอป Style Sketch ตอนนี้ทดสอบเฉพาะในบางประเทศ​ ซึ่งมีประเทศไทยเป็นหนึ่งในนั้นด้วย มีให้ดาวน์โหลดทั้งบน iOS และ Android\nอีกหนึ่งแอปคือ Waddle World เป็นแอปสร้างสัตว์เลี้ยงเสมือน ผ่านการเลี้ยงดูด้วยการแชทแบบ AI ตอนนี้ทดสอบเฉพาะในฟิลิปปินส์ประเทศเดียว\nที่มา: TechCrunch\narjin\nSun, 01/11/2026 - 15:22",
-      "pubDate": "Sun, 01 Nov 2026 08:22:43 +0000",
-      "source": "Blognone",
-      "category": "AI",
-      "thumbnail": null,
-      "readTime": "2 นาที"
-    },
-    {
       "id": "https://www.thaicert.or.th/?p=17586",
       "title": "แจ้งเตือนช่องโหว่ความปลอดภัยผลิตภัณฑ์ TeamViewer",
       "link": "https://www.thaicert.or.th/2026/11/01/%e0%b9%81%e0%b8%88%e0%b9%89%e0%b8%87%e0%b9%80%e0%b8%95%e0%b8%b7%e0%b8%ad%e0%b8%99%e0%b8%8a%e0%b9%88%e0%b8%ad%e0%b8%87%e0%b9%82%e0%b8%ab%e0%b8%a7%e0%b9%88%e0%b8%84%e0%b8%a7%e0%b8%b2%e0%b8%a1%e0%b8%9b-3/",
@@ -142,61 +428,6 @@
       "source": "ThaiCERT",
       "category": "ภัยคุกคามทางไซเบอร์",
       "thumbnail": "https://www.thaicert.or.th/wp-content/uploads/2026/11/TeamViewer-1024x576.png",
-      "readTime": "1 นาที"
-    },
-    {
-      "id": "152077 at https://www.blognone.com",
-      "title": "Krafton ประกาศทำซีรีส์ PUBG ฉบับคนแสดงกับ Netflix, ได้ Donald Glover แสดงนำ",
-      "link": "https://www.blognone.com/node/152077",
-      "content": "Krafton ประกาศทำซีรีส์ PUBG ฉบับคนแสดงกับ Netflix, ได้ Donald Glover แสดงนำ\n\n  \nBody\nKrafton ประกาศข่าวการสร้างซีรีส์คนแสดงจากเกม PUBG ร่วมกับ Netflix โดยจะได้ดาราดังอย่าง Donald Glover มาแสดงเองและกำกับเองด้วย\nทีมงานของ Donald Glover ยังมี Stephen Glover น้องชายของเขาที่จะมาเขียนบทและควบคุมการผลิตร่วมกัน (ทั้งสองคนมีผลงานร่วมกันมาแล้วในซีรีส์ Atlanta) นอกจากนี้ ในทีมโปรดิวเซอร์ยังมี Michael Schaefer (Neon TV), Fam Udeorji (Gilga) กับ Taeseok Jang และ Sujin Lee จาก LV3H บริษัทด้านโปรดักชันในเครือ Krafton ร่วมด้วย\nความน่าสนใจของโครงการนี้คือ เอาจริงๆ แล้วเกม PUBG ไม่ได้มีพล็อตอะไรเป็นชิ้นเป็นอัน นอกจากคน 100 คนกระโดดร่มลงมาสู้กันบนเกาะ ซึ่ง Krafton เองก็พยายามสร้างเนื้อเรื่องของ PUBG โดยใช้ชื่อว่า PUBG Universe ซึ่งมีทั้งเหตุการณ์ในอดีตปี 1965, เหตุการณ์ปัจจุบัน (เกมภาคหลักคือ Battleground) และภาคอนาคต ศตวรรษที่ 22 ต้องรอดูกันว่า PUBG ฉบับซีรีส์จะเลือกเล่าเรื่องอย่างไร\nที่มา - Eurogamer, Variety\nmk\nSun, 01/11/2026 - 11:36",
-      "pubDate": "Sun, 01 Nov 2026 04:36:15 +0000",
-      "source": "Blognone",
-      "category": "General",
-      "thumbnail": null,
-      "readTime": "3 นาที"
-    },
-    {
-      "id": "152076 at https://www.blognone.com",
-      "title": "Binance อัปเดตสถานะ ชดเชยความเสียหายแล้ว 90% - 10 เหรียญหลักชดเชยครบแล้ว",
-      "link": "https://www.blognone.com/node/152076",
-      "content": "Binance อัปเดตสถานะ ชดเชยความเสียหายแล้ว 90% - 10 เหรียญหลักชดเชยครบแล้ว\n\n  \nBody\nBinance รายงานความคืบหน้าจากเหตุการณ์ระบบถูกแฮก และมีการถ่ายโอนเหรียญคริปโตออกไปมูลค่ารวม 5.7 พันล้านดอลลาร์ สถานะตอนนี้ได้ชดเชยเหรียญที่ถูกขโมยไปแล้ว 90% ของทั้งหมด\nBinance บอกว่าเหรียญหลัก 10 ตัว ได้แก่ BTC, ETH, USDT, BNB, SOL, USDC, XRP, USD1, RLUDS และ ZEC ตอนนี้ได้ชดเชยครบทั้งหมดแล้ว ซึ่ง Binance จะรับผิดชอบความเสียหายเอง ผ่านแหล่งเงินทุนชดเชยทั้งกองทุนฉุกเฉินที่ตั้งขึ้น, กองทุนประกัน และเงินของบริษัท\nอีก 10% ที่ยังไม่ได้ชดเชยนั้น Binance บอกว่าเป็นเหรียญอื่นนอกจาก 10 เหรียญยอดนิยม ที่ไม่ค่อยมีสภาพคล่องในการซื้อขาย บริษัทจะใช้วิธีทยอยซื้อผ่านช่องทางต่าง ๆ จึงอาจใช้เวลานานจึงจะครบ\nBinance ยืนยันกำหนดเดิมว่าผู้ใช้งานจะเริ่มถอนทรัพย์สินได้ตั้งแต่วันนี้ (1 พ.ย. 2026) เป็นต้นไป\nที่มา: Binance\narjin\nSun, 01/11/2026 - 11:12",
-      "pubDate": "Sun, 01 Nov 2026 04:12:02 +0000",
-      "source": "Blognone",
-      "category": "Security",
-      "thumbnail": null,
-      "readTime": "3 นาที"
-    },
-    {
-      "id": "152075 at https://www.blognone.com",
-      "title": "แอพ Gemini รองรับการสร้างและแก้ไขไฟล์ PDF ได้จากตัวแอพโดยตรง",
-      "link": "https://www.blognone.com/node/152075",
-      "content": "แอพ Gemini รองรับการสร้างและแก้ไขไฟล์ PDF ได้จากตัวแอพโดยตรง\n\n  \nBody\nกูเกิลอัพเดตแอพ Gemini ให้รองรับการสร้างและแก้ไฟล์เอกสาร (documents, presentations, spreadsheets) และไฟล์ PDF ได้จากตัวแอพ Gemini โดยตรงแล้ว\nตัวอย่างที่กูเกิลนำมาโชว์คือ สั่งให้ Gemini สร้างเอกสารช่วยติวเนื้อหาการเรียนเป็น PDF อิงจากภาพเลคเชอร์ลายมือ และสามารถลากไฮไลท์ข้อความใน PDF เพื่อบอกให้แก้จากตารางเป็นกราฟแทนได้เลย\nฟีเจอร์สร้างและแก้ไข PDF รองรับทั้งบนเว็บและแอพมือถือ ส่วนเอกสารประเภทอื่นๆ ยังใช้ได้เฉพาะเวอร์ชันเว็บเท่านั้น\nที่มา - Google\n\nmk\nSun, 01/11/2026 - 10:01",
-      "pubDate": "Sun, 01 Nov 2026 03:01:13 +0000",
-      "source": "Blognone",
-      "category": "AI",
-      "thumbnail": null,
-      "readTime": "2 นาที"
-    },
-    {
-      "id": "https://it24hrs.com/?p=170863",
-      "title": "Claude Ultra คืออะไร? เปลี่ยนจาก Max 20x เลิกโควตา 5 ชั่วโมง แต่มีเงื่อนไขอะไรบ้าง?",
-      "link": "https://it24hrs.com/2026/claude-ultra-max-plans-five-hour-limit/",
-      "content": "Anthropic ปรับชื่อแพ็กเกจสมาชิก Claude ใหม่ โดย Max 5x  […]\nThe post Claude Ultra คืออะไร? เปลี่ยนจาก Max 20x เลิกโควตา 5 ชั่วโมง แต่มีเงื่อนไขอะไรบ้าง? appeared first on iT24Hrs by ปานระพี.",
-      "pubDate": "Sat, 31 Oct 2026 23:14:35 +0000",
-      "source": "IT24Hrs",
-      "category": "AI",
-      "thumbnail": null,
-      "readTime": "1 นาที"
-    },
-    {
-      "id": "https://it24hrs.com/?p=170857",
-      "title": "Apple Intelligence เตรียมเปิดในจีนผ่าน iOS 27.3 ต่างจากประเทศอื่นอย่างไร ?",
-      "link": "https://it24hrs.com/2026/apple-intelligence-china-ios-27-3-qwen/",
-      "content": "Apple ประกาศเตรียมเปิด Apple Intelligence ให้ผู้ใช้ iPh […]\nThe post Apple Intelligence เตรียมเปิดในจีนผ่าน iOS 27.3 ต่างจากประเทศอื่นอย่างไร ? appeared first on iT24Hrs by ปานระพี.",
-      "pubDate": "Sat, 31 Oct 2026 04:40:38 +0000",
-      "source": "IT24Hrs",
-      "category": "General",
-      "thumbnail": null,
       "readTime": "1 นาที"
     },
     {
@@ -266,39 +497,6 @@
       "readTime": "1 นาที"
     },
     {
-      "id": "https://www.thaicert.or.th/?p=17563",
-      "title": "Cisco ออกแพตช์แก้ไขช่องโหว่ ASA และ FTD ที่ถูกใช้โจมตีจริง เสี่ยงทำอุปกรณ์หยุดให้บริการ",
-      "link": "https://www.thaicert.or.th/2026/10/30/cisco-%e0%b8%ad%e0%b8%ad%e0%b8%81%e0%b9%81%e0%b8%9e%e0%b8%95%e0%b8%8a%e0%b9%8c%e0%b9%81%e0%b8%81%e0%b9%89%e0%b9%84%e0%b8%82%e0%b8%8a%e0%b9%88%e0%b8%ad%e0%b8%87%e0%b9%82%e0%b8%ab%e0%b8%a7%e0%b9%88-asa/",
-      "content": "594/69 (IT) ประจำวันศุกร์ที่ 30 ตุลาคม 2569 Cisco เปิดเ […]\nThe post Cisco ออกแพตช์แก้ไขช่องโหว่ ASA และ FTD ที่ถูกใช้โจมตีจริง เสี่ยงทำอุปกรณ์หยุดให้บริการ first appeared on Thailand Computer Emergency Response Team (ThaiCERT).",
-      "pubDate": "Fri, 30 Oct 2026 08:32:00 +0000",
-      "source": "ThaiCERT",
-      "category": "ภัยคุกคามทางไซเบอร์",
-      "thumbnail": "https://www.thaicert.or.th/wp-content/uploads/2026/10/3_0-15-1024x768.png",
-      "readTime": "1 นาที"
-    },
-    {
-      "id": "https://www.thaicert.or.th/?p=17562",
-      "title": "FBI ร่วมกับหน่วยงานระหว่างประเทศยึดโครงสร้างพื้นฐาน Virtualine หลังพบให้บริการ Hosting สนับสนุนอาชญากรรมไซเบอร์",
-      "link": "https://www.thaicert.or.th/2026/10/30/fbi-%e0%b8%a3%e0%b9%88%e0%b8%a7%e0%b8%a1%e0%b8%81%e0%b8%b1%e0%b8%9a%e0%b8%ab%e0%b8%99%e0%b9%88%e0%b8%a7%e0%b8%a2%e0%b8%87%e0%b8%b2%e0%b8%99%e0%b8%a3%e0%b8%b0%e0%b8%ab%e0%b8%a7%e0%b9%88%e0%b8%b2/",
-      "content": "593/69 (IT) ประจำวันศุกร์ที่ 30 ตุลาคม 2569 สำนักงานสอบ […]\nThe post FBI ร่วมกับหน่วยงานระหว่างประเทศยึดโครงสร้างพื้นฐาน Virtualine หลังพบให้บริการ Hosting สนับสนุนอาชญากรรมไซเบอร์ first appeared on Thailand Computer Emergency Response Team (ThaiCERT).",
-      "pubDate": "Fri, 30 Oct 2026 08:31:00 +0000",
-      "source": "ThaiCERT",
-      "category": "ภัยคุกคามทางไซเบอร์",
-      "thumbnail": "https://www.thaicert.or.th/wp-content/uploads/2026/10/2_0-15-1024x768.png",
-      "readTime": "1 นาที"
-    },
-    {
-      "id": "https://www.thaicert.or.th/?p=17561",
-      "title": "พบปริมาณการหลอกลวงทางออนไลน์เพิ่มขึ้นเป็น 2 เท่า แซงหน้าการหลอกลวงแบบฟิชชิ่งแล้ว",
-      "link": "https://www.thaicert.or.th/2026/10/30/%e0%b8%9e%e0%b8%9a%e0%b8%9b%e0%b8%a3%e0%b8%b4%e0%b8%a1%e0%b8%b2%e0%b8%93%e0%b8%81%e0%b8%b2%e0%b8%a3%e0%b8%ab%e0%b8%a5%e0%b8%ad%e0%b8%81%e0%b8%a5%e0%b8%a7%e0%b8%87%e0%b8%97%e0%b8%b2%e0%b8%87%e0%b8%ad/",
-      "content": "592/69 (IT) ประจำวันศุกร์ที่ 30 ตุลาคม 2569 รายงานล่าสุ […]\nThe post พบปริมาณการหลอกลวงทางออนไลน์เพิ่มขึ้นเป็น 2 เท่า แซงหน้าการหลอกลวงแบบฟิชชิ่งแล้ว first appeared on Thailand Computer Emergency Response Team (ThaiCERT).",
-      "pubDate": "Fri, 30 Oct 2026 08:30:00 +0000",
-      "source": "ThaiCERT",
-      "category": "ภัยคุกคามทางไซเบอร์",
-      "thumbnail": "https://www.thaicert.or.th/wp-content/uploads/2026/10/1_0-15-1024x768.png",
-      "readTime": "1 นาที"
-    },
-    {
       "id": "https://techsauce.co/healthtech/heart-tissue-energy-harvesting-mesh",
       "title": "'ตาข่ายอิเล็กทรอนิกส์' รับพลังงานจากเซลล์หัวใจ หวังลดข้อจำกัดแบตเตอรี่ในอุปกรณ์ฝังร่างกาย ผลงานพัฒนาจากนักวิจัย UMass Amherst",
       "link": "https://techsauce.co/healthtech/heart-tissue-energy-harvesting-mesh",
@@ -321,17 +519,6 @@
       "readTime": "1 นาที"
     },
     {
-      "id": "https://techsauce.co/ai/gemini-create-edit-files-in-chat-slides-sheets-docs",
-      "title": "Gemini ‘สร้างและแก้ไฟล์งาน’ ได้ในหน้าเดียวแล้ว ไฮไลต์ตรงไหน สั่ง AI แก้ได้ตรงนั้นได้เลย",
-      "link": "https://techsauce.co/ai/gemini-create-edit-files-in-chat-slides-sheets-docs",
-      "content": "Google อัปเดตแอป Gemini ให้สร้าง พรีวิว และแก้ไขไฟล์งานได้จบในแชต ทั้งสไลด์ สเปรดชีต เอกสาร และ PDF ไฮไลต์สั่งแก้เฉพาะจุดได้ ก่อนส่งต่อเข้า Google Workspace หรือดาวน์โหลดเป็น PPTX",
-      "pubDate": "Fri, 30 Oct 2026 12:30:28 +0700",
-      "source": "Techsauce",
-      "category": "AI",
-      "thumbnail": "https://storage.googleapis.com/techsauce-prod/ugc/uploads/2026/10/1793338104_Gemini_%E2%80%98%E0%B8%AA%E0%B8%A3%E0%B9%89%E0%B8%B2%E0%B8%87%E0%B9%81%E0%B8%A5%E0%B8%B0%E0%B9%81%E0%B8%81%E0%B9%89%E0%B9%84%E0%B8%9F%E0%B8%A5%E0%B9%8C%E0%B8%87%E0%B8%B2%E0%B8%99%E2%80%99_%E0%B9%84%E0%B8%94%E0%B9%89%E0%B9%83%E0%B8%99%E0%B8%AB%E0%B8%99%E0%B9%89%E0%B8%B2%E0%B9%80%E0%B8%94%E0%B8%B5%E0%B8%A2%E0%B8%A7_800.webp",
-      "readTime": "1 นาที"
-    },
-    {
       "id": "https://www.techtalkthai.com/?p=171652",
       "title": "เพนตากอนชี้เหตุตู้แช่แข็งในฐานทัพสหรัฐฯ ใช้งานไมได้ เพราะถูกโจมตีทางไซเบอร์ โยงเหตุโจมตีระบบทำความเย็นในฝรั่งเศส",
       "link": "https://www.techtalkthai.com/pentagon-suspects-cyberattack-freezer-malfunction/",
@@ -341,50 +528,6 @@
       "category": "Security",
       "thumbnail": "https://www.techtalkthai.com/wp-content/uploads/2026/10/TTT-2026-10-30T111118.714-640x336.jpg",
       "readTime": "4 นาที"
-    },
-    {
-      "id": "https://techsauce.co/news/atform-ecommerce-sme-algorithm",
-      "title": "รัฐบาล VS ค่า GP แพลตฟอร์ม ตอนนี้เรื่องเดินมาถึงตรงไหนแล้ว",
-      "link": "https://techsauce.co/news/atform-ecommerce-sme-algorithm",
-      "content": "สรุปมหากาพย์ 8 เดือน รัฐเบรกค่า GP แพลตฟอร์ม Shopee, Lazada, TikTok Shop ยอมหั่นค่าธรรมเนียมช่วย SME 6 เดือน พร้อมก้าวต่อไปเปิดศึกคุม “อัลกอริทึม”",
-      "pubDate": "Fri, 30 Oct 2026 10:44:28 +0700",
-      "source": "Techsauce",
-      "category": "General",
-      "thumbnail": "https://storage.googleapis.com/techsauce-prod/ugc/uploads/2026/10/1793331607_%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B8%8D%E0%B9%88%E0%B8%B2%E0%B8%AD%E0%B8%A2%E0%B9%88%E0%B8%B2%E0%B8%A2%E0%B8%B8%E0%B9%88%E0%B8%87_%E0%B8%9B%E0%B8%81%E0%B8%82%E0%B9%88%E0%B8%B2%E0%B8%A71200x800_-_2026-10-30T102855.774.webp",
-      "readTime": "1 นาที"
-    },
-    {
-      "id": "https://techsauce.co/tech-and-biz/geotab-ai-telematics-fleet-management-thailand",
-      "title": "ทุก 100 บาทที่ธุรกิจไทยหาได้ เกือบ 15 บาทหมดไปกับค่าขนส่ง ต้นทุนโลจิสติกส์ไทยสูงติดอันดับภูมิภาค และเทคโนโลยี Telematics + AI คือก้าวต่อไปในการบริหารฟลีต",
-      "link": "https://techsauce.co/tech-and-biz/geotab-ai-telematics-fleet-management-thailand",
-      "content": "ค้นพบวิธีที่เทคโนโลยี AI และ Telematics จาก Geotab ช่วยยกระดับการบริหารฟลีทขนส่งในไทย ลดต้นทุนการเดินทาง เสริมความปลอดภัย และขับเคลื่อนองค์กรสู่ความยั่งยืน",
-      "pubDate": "Fri, 30 Oct 2026 10:36:20 +0700",
-      "source": "Techsauce",
-      "category": "Security",
-      "thumbnail": "https://storage.googleapis.com/techsauce-prod/ugc/uploads/2026/10/1790929515_%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B8%8D%E0%B9%88%E0%B8%B2%E0%B8%AD%E0%B8%A2%E0%B9%88%E0%B8%B2%E0%B8%A2%E0%B8%B8%E0%B9%88%E0%B8%87_%E0%B8%9B%E0%B8%81%E0%B8%82%E0%B9%88%E0%B8%B2%E0%B8%A71200x800_%2883%29.webp",
-      "readTime": "1 นาที"
-    },
-    {
-      "id": "https://www.thaicert.or.th/?p=17554",
-      "title": "แจ้งเตือน Apple ออกอัปเดตแก้ไขหลายช่องโหว่ใน iOS และ macOS พร้อมแก้ไขช่องโหว่ที่มีรายงานถูกใช้โจมตีใน iPhone และ iPad รุ่นเก่า",
-      "link": "https://www.thaicert.or.th/2026/10/30/%e0%b9%81%e0%b8%88%e0%b9%89%e0%b8%87%e0%b9%80%e0%b8%95%e0%b8%b7%e0%b8%ad%e0%b8%99-apple-%e0%b8%ad%e0%b8%ad%e0%b8%81%e0%b8%ad%e0%b8%b1%e0%b8%9b%e0%b9%80%e0%b8%94%e0%b8%95%e0%b9%81%e0%b8%81%e0%b9%89/",
-      "content": "ศูนย์ประสานการรักษาความมั่นคงปลอดภัยระบบคอมพิวเตอร์แห่ง […]\nThe post แจ้งเตือน Apple ออกอัปเดตแก้ไขหลายช่องโหว่ใน iOS และ macOS พร้อมแก้ไขช่องโหว่ที่มีรายงานถูกใช้โจมตีใน iPhone และ iPad รุ่นเก่า first appeared on Thailand Computer Emergency Response Team (ThaiCERT).",
-      "pubDate": "Fri, 30 Oct 2026 03:10:27 +0000",
-      "source": "ThaiCERT",
-      "category": "ภัยคุกคามทางไซเบอร์",
-      "thumbnail": "https://www.thaicert.or.th/wp-content/uploads/2026/10/Apple-1024x597.png",
-      "readTime": "1 นาที"
-    },
-    {
-      "id": "https://techsauce.co/tech-and-biz/scbx-nuclear-energy-runway-thai-economy-ai-era",
-      "title": "พลังงานนิวเคลียร์ รันเวย์ใหม่ของเศรษฐกิจไทยในยุค AI",
-      "link": "https://techsauce.co/tech-and-biz/scbx-nuclear-energy-runway-thai-economy-ai-era",
-      "content": "SCBX ชวนมองพลังงานนิวเคลียร์และ SMR ในฐานะรันเวย์ของเศรษฐกิจไทยยุค AI ที่ต้องการไฟฟ้าสะอาดและเสถียรสำหรับ Data Center",
-      "pubDate": "Fri, 30 Oct 2026 09:53:08 +0700",
-      "source": "Techsauce",
-      "category": "AI",
-      "thumbnail": "https://storage.googleapis.com/techsauce-prod/ugc/uploads/2026/10/1793328225_scbx-nuclear-energy-runway-thai-economy-ai-era-body-1-2400x1600.webp",
-      "readTime": "1 นาที"
     },
     {
       "id": "https://www.techtalkthai.com/?p=171647",
@@ -407,17 +550,6 @@
       "category": "Security",
       "thumbnail": "https://www.techtalkthai.com/wp-content/uploads/2026/10/gemini_carbon_102726_header.width-2200.format-webp-640x360.webp",
       "readTime": "2 นาที"
-    },
-    {
-      "id": "https://it24hrs.com/?p=170839",
-      "title": "Pokemon Center BANGKOK! เผยภาพตัวอย่างด้านใน พร้อมเปิด 1 ธันวาคม 2026",
-      "link": "https://it24hrs.com/2026/pokemon-center-bangkok-will-openning-1dec2026/",
-      "content": "Pokémon Center BANGKOK ใกล้จะเปิดให้บริการในไทยแล้วโดยจ […]\nThe post Pokemon Center BANGKOK! เผยภาพตัวอย่างด้านใน พร้อมเปิด 1 ธันวาคม 2026 appeared first on iT24Hrs by ปานระพี.",
-      "pubDate": "Thu, 29 Oct 2026 11:13:22 +0000",
-      "source": "IT24Hrs",
-      "category": "General",
-      "thumbnail": null,
-      "readTime": "1 นาที"
     },
     {
       "id": "https://www.techtalkthai.com/?p=171634",
@@ -453,39 +585,6 @@
       "readTime": "3 นาที"
     },
     {
-      "id": "https://techsauce.co/tech-and-biz/symphony-alex-loh-ai-digital-infrastructure-balance",
-      "title": "จากสายเคเบิลใต้ทะเลถึง Net Zero: เจาะลึกโครงสร้างพื้นฐาน AI ไทยทีละชั้นกับ Alex Loh CEO แห่ง SYMPHONY",
-      "link": "https://techsauce.co/tech-and-biz/symphony-alex-loh-ai-digital-infrastructure-balance",
-      "content": "Alex Loh CEO SYMPHONY ไล่ทีละชั้นของโครงสร้างพื้นฐาน AI ไทย ตั้งแต่สายเคเบิลใต้ทะเล ความพร้อมของไทย ความปลอดภัยของข้อมูล ไปจนถึง Net Zero พร้อมชี้สามเรื่องที่ต้องวางแผน คือไฟฟ้า ที่ดิน และโครงข่าย",
-      "pubDate": "Thu, 29 Oct 2026 16:23:52 +0700",
-      "source": "Techsauce",
-      "category": "Security",
-      "thumbnail": "https://storage.googleapis.com/techsauce-prod/ugc/uploads/2026/10/1793071211_alex_koh_800.webp",
-      "readTime": "1 นาที"
-    },
-    {
-      "id": "https://it24hrs.com/?p=170825",
-      "title": "เปิดตัว MacBook Pro PROLED XDR หน้าจอสัมผัส OLED พร้อม Dynamic Island",
-      "link": "https://it24hrs.com/2026/macbook-pro-oled-touchscreen-proled-xdr-2026/",
-      "content": "Apple เปิดตัว MacBook Pro พร้อมจอภาพ PROLED XDR เมื่อวั […]\nThe post เปิดตัว MacBook Pro PROLED XDR หน้าจอสัมผัส OLED พร้อม Dynamic Island appeared first on iT24Hrs by ปานระพี.",
-      "pubDate": "Thu, 29 Oct 2026 08:07:07 +0000",
-      "source": "IT24Hrs",
-      "category": "General",
-      "thumbnail": null,
-      "readTime": "1 นาที"
-    },
-    {
-      "id": "https://www.thaicert.or.th/?p=17535",
-      "title": "Google และ Mozilla อัปเดต Chrome และ Firefox แก้ช่องโหว่รวมกว่า 200 รายการ",
-      "link": "https://www.thaicert.or.th/2026/10/29/google-%e0%b9%81%e0%b8%a5%e0%b8%b0-mozilla-%e0%b8%ad%e0%b8%b1%e0%b8%9b%e0%b9%80%e0%b8%94%e0%b8%95-chrome-%e0%b9%81%e0%b8%a5%e0%b8%b0-firefox-%e0%b9%81%e0%b8%81%e0%b9%89%e0%b8%8a%e0%b9%88%e0%b8%ad/",
-      "content": "591/69 (IT) ประจำวันพฤหัสบดีที่ 29 ตุลาคม 2569 Google แ […]\nThe post Google และ Mozilla อัปเดต Chrome และ Firefox แก้ช่องโหว่รวมกว่า 200 รายการ first appeared on Thailand Computer Emergency Response Team (ThaiCERT).",
-      "pubDate": "Thu, 29 Oct 2026 08:02:00 +0000",
-      "source": "ThaiCERT",
-      "category": "ภัยคุกคามทางไซเบอร์",
-      "thumbnail": "https://www.thaicert.or.th/wp-content/uploads/2026/10/3_0-14-1024x768.png",
-      "readTime": "1 นาที"
-    },
-    {
       "id": "https://www.techtalkthai.com/?p=171625",
       "title": "เจาะลึกการควบรวมเครือข่ายช่องทางการจัดจำหน่ายของ SoftwareOne และ Crayon ใน APAC เพื่อยกระดับพาร์ตเนอร์ไอทีรับกระแสการลงทุน AI และ Cloud เต็มรูปแบบ",
       "link": "https://www.techtalkthai.com/softwareone-crayon-apac-ai-cloud/",
@@ -495,94 +594,6 @@
       "category": "Security",
       "thumbnail": "https://www.techtalkthai.com/wp-content/uploads/2026/10/TTT-2026-10-29T130620.087-640x336.jpg",
       "readTime": "3 นาที"
-    },
-    {
-      "id": "https://www.techtalkthai.com/?p=171622",
-      "title": "F5 จับมือ Oracle ดึงระบบความมั่นคงปลอดภัย Web App และ API สู่ OCI เสริมเกราะคลาวด์รับมือภัยคุกคามยุค AI",
-      "link": "https://www.techtalkthai.com/f5-oracle-oci-web-app-api-protection/",
-      "content": "F5 ร่วมมือกับ Oracle เพื่อนำเทคโนโลยีปกป้องเว็บแอปพลิเคชันและ API เข้าสู่แพลตฟอร์ม Oracle Cloud Infrastructure (OCI) โดยตรง ช่วยให้ภาคธุรกิจสามารถตั้งรับการโจมตีทางไซเบอร์ที่ทวีความซับซ้อนขึ้น โดยไม่ต้องแบกรับภาระการบริหารจัดการระบบความปลอดภัยเพิ่มเติม โดยมีเป้าหมายเป็นกลุ่มองค์กรที่มีเวิร์กโหลดบนคลาวด์ แต่ขาดแคลนบุคลากรผู้เชี่ยวชาญเฉพาะทางด้านความปลอดภัยภายในองค์กร ปัจจุบันรูปแบบการโจมตีทางไซเบอร์พัฒนาไปไกล ผู้ไม่ประสงค์ดีเริ่มนำ Generative AI และระบบอัตโนมัติมาใช้ค้นหาพร้อมเจาะช่องโหว่ของระบบ ส่งผลให้องค์กรไม่สามารถอุดช่องโหว่ได้ทันท่วงที การเพิ่มขีดความสามารถด้านความมั่นคงปลอดภัยจึงกลายเป็นโจทย์สำคัญ โดย F5 จะช่วยตรวจจับและป้องกันภัยคุกคามแบบเรียลไทม์มาทำ Virtual Patching ช่วยปิดกั้นการเข้าถึงระบบที่ยังมีช่องโหว่ทันทีระหว่างรอการติดตั้ง Patch ถาวร ขณะเดียวกันยังรองรับการทำงานร่วมกันของแอปพลิเคชันยุคใหม่ ทั้งระบบ ERP, ซอฟต์แวร์บริหารจัดการการผลิต ไปจนถึงการรับส่งข้อมูลผ่าน API ข้ามแพลตฟอร์ม นอกจากนี้ฝ่ายดูแลโครงสร้างพื้นฐานไอทีสามารถควบคุมความปลอดภัยของแอปพลิเคชันได้โดยตรงจากคลาวด์ ไม่ต้องปรับแต่งโค้ดหรือเชื่อมต่อโซลูชันภายนอกหลายชั้น ทั้งนี้ F5 และ Oracle ร่วมงานกันมาตั้งแต่ปี 2001 ผ่านการเพิ่มประสิทธิภาพการส่งมอบแอปพลิเคชันให้กับซอฟต์แวร์ระดับองค์กร เช่น Oracle E-Business Suite และ PeopleSoft การขยายความร่วมมือสู่ OCI ครั้งนี้จึงเป็นการต่อยอดฐานลูกค้าองค์กรและโรงงานอุตสาหกรรมที่ใช้งานแอปพลิเคชันของ …",
-      "pubDate": "Thu, 29 Oct 2026 04:12:43 +0000",
-      "source": "TechTalk Thai",
-      "category": "Security",
-      "thumbnail": "https://www.techtalkthai.com/wp-content/uploads/2026/10/TTT-2026-10-29T111057.543-640x336.jpg",
-      "readTime": "4 นาที"
-    },
-    {
-      "id": "https://www.techtalkthai.com/?p=171616",
-      "title": "เจาะลึก Cloud, AI & Data Centers: ร่วมพบปะกับผู้นำด้านเทคโนโลยีระดับแนวหน้าของไทยในงาน THCDC 2026 [PR]",
-      "link": "https://www.techtalkthai.com/thailand-cloud-ai-and-data-centers-2026-pr/",
-      "content": "อุตสาหกรรม Cloud, ปัญญาประดิษฐ์ (AI) และ Data Center ในประเทศไทย กำลังก้าวเข้าสู่ช่วงเวลาสำคัญของการเปลี่ยนแปลงและพัฒนา เมื่อความต้องการใช้งานบริการดิจิทัลเพิ่มสูงขึ้นอย่างต่อเนื่อง องค์กรต่าง ๆ จึงเร่งลงทุนในโครงสร้างพื้นฐานที่สามารถรองรับการทำงานที่มีความซับซ้อน แอปพลิเคชันระดับองค์กร รวมถึงเทคโนโลยีใหม่ ๆ ที่กำลังเติบโต TechTalkThai มีความยินดีเป็นอย่างยิ่งที่ได้ร่วมสนับสนุนงาน Thailand Cloud & Datacenter Convention 2026 (THCDC 2026) ในฐานะ Media Partner งานสัมมนานี้จัดขึ้นทั้งหมดหนึ่งวันเต็ม โดย W.Media ซึ่งเป็นงานที่รวบรวมเหล่าผู้นำด้านเทคโนโลยี ผู้เชี่ยวชาญในอุตสาหกรรม และผู้บริหารระดับสูง มาร่วมแลกเปลี่ยนมุมมองเกี่ยวกับโอกาสและความท้าทายที่จะเป็นตัวกำหนดอนาคตโครงสร้างพื้นฐานดิจิทัลของไทย ทำไมผู้เชี่ยวชาญด้านเทคโนโลยีจึงไม่ควรพลาดงานนี้? อัปเดตเทรนด์ล่าสุด: อัปเดตความเคลื่อนไหวด้าน Cloud Computing, AI และโครงสร้างพื้นฐาน Data Center เจาะลึกแนวทางปฏิบัติ: รับฟังมุมมองการรับมือความท้าทายในการสร้างโครงสร้างพื้นฐานดิจิทัลที่ยืดหยุ่น มีประสิทธิภาพ และน่าเชื่อถือ ครอบคลุมทุกมิติ: สำรวจประเด็นสำคัญด้านพลังงาน ระบบทำความเย็น การเชื่อมต่อ และแนวคิดความยั่งยืน …",
-      "pubDate": "Thu, 29 Oct 2026 02:25:05 +0000",
-      "source": "TechTalk Thai",
-      "category": "AI",
-      "thumbnail": "https://www.techtalkthai.com/wp-content/uploads/2026/10/Supporting-Media-Partners.png",
-      "readTime": "3 นาที"
-    },
-    {
-      "id": "https://www.techtalkthai.com/?p=171606",
-      "title": "Tailscale ปล่อยแพตช์แก้ช่องโหว่ Tailworm บน Tailscale SSH เสี่ยงถูกใช้ขยายการโจมตีภายใน tailnet",
-      "link": "https://www.techtalkthai.com/tailscale-patches-tailworm-ssh-vulnerabilities-lateral-movement-tailnet/",
-      "content": "Tailscale ปล่อย Tailscale v1.104.4 แก้ช่องโหว่ 4 รายการ รวมถึงช่องโหว่บน Tailscale SSH ที่ถูกเปิดเผยในรายงาน Tailworm ซึ่งเปิดโอกาสให้ผู้โจมตีซึ่งยึดอุปกรณ์ใน tailnet ได้แล้ว ยกระดับสิทธิ์ไปยังเครื่องอื่นในเครือข่ายเดียวกันได้ Tailscale เป็นแพลตฟอร์ม mesh networking แบบ software-defined ที่เชื่อมคอมพิวเตอร์ โทรศัพท์ เซิร์ฟเวอร์ และอุปกรณ์อื่นๆ เข้าเป็นเครือข่ายส่วนตัวเดียวกันที่เรียกว่า tailnet โดยใช้โปรโตคอล WireGuard ในการเข้ารหัสและรับส่งข้อมูล ผู้ใช้งานเพียงติดตั้งแอป Tailscale บนแต่ละอุปกรณ์และลงชื่อเข้าใช้ด้วยบัญชีที่มีอยู่แล้ว เช่น Google หรือ Microsoft โดยไม่ต้องตั้งค่า router หรือ firewall ที่ซับซ้อน องค์กรใช้ Tailscale เพื่อให้พนักงานและระบบเข้าถึงทรัพยากรภายในได้อย่างมีการควบคุม โดยไม่ต้องเปิดระบบออกสู่อินเทอร์เน็ตสาธารณะ ส่วน Tailscale SSH คือ SSH server ในตัวที่ใช้ identity …",
-      "pubDate": "Wed, 28 Oct 2026 21:39:21 +0000",
-      "source": "TechTalk Thai",
-      "category": "Security",
-      "thumbnail": "https://www.techtalkthai.com/wp-content/uploads/2020/10/techtalkthai_2020_security_vulnerability_12-600x338.jpg",
-      "readTime": "2 นาที"
-    },
-    {
-      "id": "https://www.techtalkthai.com/?p=171610",
-      "title": "Altera เปิดตัว Agilex 2X พอร์ตโฟลิโอ FPGA และ SoC เริ่มต้นด้วย Agilex 27 สำหรับ AI Infrastructure",
-      "link": "https://www.techtalkthai.com/altera-launches-agilex-2x-fpga-soc-portfolio-agilex-27/",
-      "content": "Altera เปิดตัว Agilex 2X พอร์ตโฟลิโอ FPGA และ SoC รุ่นใหม่ที่ครอบคลุมตั้งแต่อุปกรณ์ประสิทธิภาพสูง ระดับกลาง ไปจนถึงรุ่นที่เน้นประหยัดพลังงานและต้นทุน โดยเริ่มจาก Agilex 27 สำหรับงาน AI infrastructure เครือข่ายระดับ Terabit และ aerospace & defense Agilex 2X ถูกออกแบบมาเพื่อรองรับระบบที่ใช้ AI ทั้งฝั่ง Digital AI ที่ทำงานอยู่ใน infrastructure และ Physical AI ที่ทำงานอยู่บน edge เช่น robotics Altera มองว่าทั้งสองกลุ่มนี้ทำให้ programmable logic ถูกนำไปใช้งานได้กว้างขึ้น เพราะนักพัฒนาต้องสร้างระบบที่ปรับตัวตาม workload เทคโนโลยี และมาตรฐานที่เปลี่ยนแปลงอย่างรวดเร็ว พอร์ตโฟลิโอใหม่นี้ต่อยอดจากสถาปัตยกรรม fabric เดิมของ Altera โดยปรับปรุงหลายส่วนเพื่อเพิ่ม performance-per-watt ในระดับแอปพลิเคชัน …",
-      "pubDate": "Wed, 28 Oct 2026 21:37:30 +0000",
-      "source": "TechTalk Thai",
-      "category": "AI",
-      "thumbnail": "https://www.techtalkthai.com/wp-content/uploads/2026/10/agilex2x-portfolio-img-banner.webp",
-      "readTime": "2 นาที"
-    },
-    {
-      "id": "https://www.techtalkthai.com/?p=171600",
-      "title": "Local Agentic AI กำลังเข้ามามีบทบาทในพีซีสำหรับธุรกิจอย่างไร [PR]",
-      "link": "https://www.techtalkthai.com/amd-local-agentic-ai-for-business-pc-pr/",
-      "content": "นับตั้งแต่ช่วงปลายปี 2022 ที่เทคโนโลยี Generative AI (GenAI) ได้รับความนิยมอย่างแพร่หลาย คำถามเรื่องกรณีการใช้งานเชิงธุรกิจ การนำไปใช้จริง และผลตอบแทนจากการลงทุน (ROI) ก็ถูกหยิบยกมาพูดถึงมาโดยตลอด และเมื่อ AI Agent กำลังก้าวสู่การใช้งานในวงกว้าง องค์กรต่างๆ จึงยิ่งเผชิญแรงกดดันในการหาคำตอบสำหรับเรื่องเหล่านี้  AI Agent แตกต่างจากแชตบอต GenAI ทั่วไปที่มักทำงานในรูปแบบถาม-ตอบ เพราะ Agent สามารถจัดการงานที่ซับซ้อนหลายขั้นตอนข้ามแอปพลิเคชันได้ เมื่อตั้งค่าเรียบร้อยแล้ว พวกมันยังสามารถทำงานบางอย่างได้อัตโนมัติ และรับมือกับโปรเจกต์ซับซ้อนต่อเนื่องเป็นเวลานานได้ โดยที่ผู้มอบหมายงานสามารถหันไปโฟกัสงานอื่นแทน  ความสามารถของ Agent ในการวิเคราะห์และลงมือจัดการข้อมูล ถือเป็นโอกาสทองสำหรับองค์กรที่ต้องการดึงมูลค่าสูงสุดจาก AI อย่างไรก็ตาม ความก้าวหน้าอย่างรวดเร็วของทั้ง Cloud AI และ Local AI ทำให้ฝ่ายไอทีต้องเผชิญโจทย์ในทางปฏิบัติว่า ควรให้ Agent ประมวลผลที่ไหน อนุญาตให้เข้าถึงข้อมูลองค์กรระดับใดได้บ้าง และจะส่งมอบขีดความสามารถเหล่านี้ให้พนักงานใช้งานอย่างคุ้มต้นทุนที่สุดได้อย่างไร  วันนี้ พาร์ทเนอร์ของ AMD ได้เปิดตัวระบบใหม่ที่ขับเคลื่อนด้วยโปรเซสเซอร์ AMD Ryzen™ AI …",
-      "pubDate": "Wed, 28 Oct 2026 11:18:21 +0000",
-      "source": "TechTalk Thai",
-      "category": "AI",
-      "thumbnail": "https://www.techtalkthai.com/wp-content/uploads/2026/10/amdrspr-640x335.png",
-      "readTime": "3 นาที"
-    },
-    {
-      "id": "https://www.techtalkthai.com/?p=171596",
-      "title": "HPE ผสานการมองเห็นและติดตามประสิทธิภาพของโซลูชันเครือข่ายแบบใช้สาย ไร้สาย และ SASE ชั้นนำ [PR]",
-      "link": "https://www.techtalkthai.com/hpe-upgrades-netops-and-secops-pr/",
-      "content": "HPE (NYSE: HPE) ประกาศการผสานรวม HPE Networking EdgeConnect เข้ากับ HPE Mist และ HPE Aruba Central เพื่อนำโซลูชัน SASE เครือข่ายแบบใช้สาย และเครือข่าย LAN ไร้สายชั้นนำของ HPE มาอยู่ภายใต้กรอบการทำงาน Agentic AI แบบรวมศูนย์ การผสานรวมครั้งนี้ช่วยต่อยอดกลยุทธ์เครือข่ายอัตโนมัติของ HPE ด้วยการเพิ่มความสามารถในการมองเห็นและติดตามสถานะ (Visibility) พร้อมช่วยให้การดำเนินการด้านเครือข่าย (NetOps) และ การรักษาความปลอดภัย (SecOps) ตั้งแต่เอดจ์ไปจนถึงคลาวด์ด้วย Agentic AI ทำได้ง่ายขึ้น เมื่อองค์กรธุรกิจมีการดำเนินงานกระจายตัวอยู่ในหลายพื้นที่มากขึ้น ประสบการณ์ของผู้ใช้งานและรูปแบบการใช้งาน IoT จึงครอบคลุมตั้งแต่เครือข่ายภายในองค์กร (Campus) สำนักงานสาขา เครือข่ายบริเวณกว้าง (WAN) ระบบคลาวด์ และระบบรักษาความปลอดภัย แต่ทีมงานด้านเครือข่ายและความปลอดภัยมักไม่สามารถมองเห็นภาพรวมของทุกระบบได้จากจุดเดียว ส่งผลให้การแก้ไขปัญหา การรักษาความปลอดภัย และการมอบประสบการณ์ดิจิทัลที่สอดคล้องกันทำได้ยากขึ้น เดวิด ฮิวจ์ส รองประธานอาวุโสและผู้จัดการทั่วไปฝ่าย …",
-      "pubDate": "Wed, 28 Oct 2026 11:07:16 +0000",
-      "source": "TechTalk Thai",
-      "category": "Security",
-      "thumbnail": "https://www.techtalkthai.com/wp-content/uploads/2026/10/HPEunifiespr-640x335.png",
-      "readTime": "3 นาที"
-    },
-    {
-      "id": "https://www.techtalkthai.com/?p=171593",
-      "title": "อีริคสันคาดการณ์ภายใน พ.ศ. 2573 ผู้ใช้สมาร์ทโฟนไทยมากกว่าครึ่งจะใช้งาน AI Agent [PR]",
-      "link": "https://www.techtalkthai.com/ericsson-prediction-on-ai-agent-for-smartphone-user-pr/",
-      "content": "รายงาน Ericsson ConsumerLab (NASDAQ: ERIC) ฉบับล่าสุดเผยว่าภายใน พ.ศ. 2573 ผู้ใช้สมาร์ทโฟนในประเทศไทยมากกว่าครึ่งจะหันมาใช้งาน Agentic AI หรือระบบปัญญาประดิษฐ์ที่สามารถตัดสินใจและดำเนินการแทนมนุษย์ ปัจจุบันนี้มีผู้ใช้สมาร์ทโฟนชาวไทย 52% ระบุว่าตนใช้งาน AI ในชีวิตประจำวัน และตัวเลขนี้คาดว่าจะเพิ่มขึ้นเป็น 67% ในปี พ.ศ. 2573 สำหรับการใช้งาน Agentic AI ซึ่งถือเป็นหมวดหมู่เฉพาะนั้น พบว่าผู้ใช้สมาร์ทโฟนชาวไทยใช้งานอยู่ราว 5% ณ ปัจจุบัน และคาดว่าจะเพิ่มขึ้นเป็น 52% ในอีกสี่ปีข้างหน้านี้ ส่วนการใช้งาน Multimodal AI ในชีวิตประจำวันนั้น คาดว่าจะเพิ่มขึ้นจาก 15% ในวันนี้ เป็น 41% ในปี พ.ศ. 2573 เมื่อเทียบกับค่าเฉลี่ยทั่วโลกที่คาดว่าจะอยู่ราว 30% รายงานในหัวข้อ “An agentic life – How consumer AI …",
-      "pubDate": "Wed, 28 Oct 2026 10:33:38 +0000",
-      "source": "TechTalk Thai",
-      "category": "AI",
-      "thumbnail": "https://www.techtalkthai.com/wp-content/uploads/2026/10/ericssonpr-640x335.png",
-      "readTime": "2 นาที"
-    },
-    {
-      "id": "https://it24hrs.com/?p=170810",
-      "title": "เปิดตัว MacBook Pro M6 14 นิ้ว อัปเกรดด้าน AI และ Wi-Fi 7",
-      "link": "https://it24hrs.com/2026/macbook-pro-m6-14-inch-price-thailand/",
-      "content": "Apple เปิดตัว MacBook Pro รุ่น 14 นิ้ว ชิป M6 เมื่อวันท […]\nThe post เปิดตัว MacBook Pro M6 14 นิ้ว อัปเกรดด้าน AI และ Wi-Fi 7 appeared first on iT24Hrs by ปานระพี.",
-      "pubDate": "Wed, 28 Oct 2026 10:28:34 +0000",
-      "source": "IT24Hrs",
-      "category": "AI",
-      "thumbnail": null,
-      "readTime": "1 นาที"
     },
     {
       "id": "152032 at https://www.blognone.com",
@@ -605,83 +616,6 @@
       "category": "AI",
       "thumbnail": "https://www.blognone.com/sites/default/files/files-2026/2026-10/image6.jpg",
       "readTime": "12 นาที"
-    },
-    {
-      "id": "https://www.techtalkthai.com/?p=171561",
-      "title": "AskMe Webinar: ลดต้นทุน Observability และ Log พร้อมจัดการข้อมูลอย่างชาญฉลาดด้วย Bindplane จาก Dynatrace",
-      "link": "https://www.techtalkthai.com/askme-webinar-reduce-observability-and-log-cost-with-bindplane-by-dynatrace/",
-      "content": "AskMe Solutions & Consultants ขอเรียนเชิญผู้บริหารและผู้ปฏิบัติงานด้าน IT เข้าร่วมสัมมนาออนไลน์เรื่อง “ลดต้นทุน Observability และ Log พร้อมจัดการข้อมูลอย่างชาญฉลาดด้วย Bindplane จาก Dynatrace” พร้อมแนวทางสร้างศูนย์กลางสำหรับรวบรวม คัดกรอง และส่งต่อข้อมูลไปยัง Observability Tools ต่างๆ อย่างเป็นระบบ เพิ่มความเร็วในการตรวจพบความผิดปกติและต้นเหตุของปัญหา ในวันพุธที่ 11 พฤศจิกายน 2026 เวลา 14:00 น.​ 📆 วันพุธที่ 11 พฤศจิกายน 2026⏰ 14:00 – 15:30 น.💻 บรรยายออนไลน์ผ่าน Zoom Webinar👉 ลงทะเบียน: https://us06web.zoom.us/webinar/register/7417922212818/WN_LirAQmesSi-EIBCRmhug7w ค่าใช้จ่ายด้าน Observability และ SIEM เพิ่มขึ้นทุกวัน แต่ Insights ที่ได้รับคุ้มค่าแล้วหรือยัง? เมื่อระบบ IT มีความซับซ้อนมากขึ้น …",
-      "pubDate": "Wed, 28 Oct 2026 06:04:59 +0000",
-      "source": "TechTalk Thai",
-      "category": "General",
-      "thumbnail": "https://www.techtalkthai.com/wp-content/uploads/2026/10/askme_webinar_bindplane_dynatrace_fb-640x335.jpg",
-      "readTime": "2 นาที"
-    },
-    {
-      "id": "https://www.techtalkthai.com/?p=171585",
-      "title": "จัดการความปลอดภัยกับ VMware Cloud Foundation 9.1",
-      "link": "https://www.techtalkthai.com/secure-vmware-cloud-foundation-9-1-guideline/",
-      "content": "ถ้าคุณเป็นลูกค้า VMware ที่ผ่านการอัปเกรตระบบสู่ VMware Cloud Foundation (VCF) 9.1 เราต้องขอแสดงความยินดีด้วย เพราะนั่นคือประตูบานแรกที่จะช่วยให้ระบบขององค์กร ได้รับความสามารถใหม่ พร้อมสำหรับความปลอดภัยตั้งแต่ซอร์สโค้ดถึงแพลตฟอร์ม เพราะใน VCF 9.1 เองก็ได้ผ่านการตรวจสอบช่องโหว่แบบจัดเต็มด้วย Frontier AI Model ทำให้ได้แพลตฟอร์มเวอร์ชันที่ปลอดภัยที่สุดเท่าที่เคยมีมา แต่การมี VCF 9.1 ในมือยังเป็นแค่จุดเริ่มต้นเท่านั้น เพราะผู้ดูแลยังต้องปรับแต่งฟีเจอร์เพื่อดึงพลังการป้องกันออกมาให้เหมาะสมกับการใช้งานต่อไป แต่ถ้ายังไม่รู้ว่าจะต้องเริ่มต้นจากตรงไหน VMware ได้แนะนำ 5 ขั้นตอนในการใช้งานไว้ ดังนี้ 1.) Harden the Platform การ Hardening คือ การตั้งใจลดพื้นที่โจมตี ปิดเซอร์วิสที่ไม่จำเป็น ล็อกการเข้าถึงส่วนจัดการระบบ และตั้งค่าสิทธิ์ให้รัดกุมที่สุด นี่คือขั้นตอนสำคัญอันดับหนึ่ง โดย VMware มีการออกแนวทางปฏิบัติที่น่าสนใจไว้ ดังนี้ VMware Security Configuration Guides (SCG) – สำหรับองค์กรธุรกิจทั่วไป SCG …",
-      "pubDate": "Wed, 28 Oct 2026 04:20:51 +0000",
-      "source": "TechTalk Thai",
-      "category": "Security",
-      "thumbnail": "https://www.techtalkthai.com/wp-content/uploads/2026/10/VMware-VCF-9-1-Hardening-FB-Banner.png",
-      "readTime": "3 นาที"
-    },
-    {
-      "id": "https://www.techtalkthai.com/?p=171576",
-      "title": "Nutanix ขอเชิญทุกท่านเข้าร่วมงาน “.NEXT on Tour Bangkok” [3 พ.ย. 2569 — 8.00น.]",
-      "link": "https://www.techtalkthai.com/nutanix-next-on-tour-bangkok-3112026/",
-      "content": "Nutanix ขอเชิญทุกท่านเข้าร่วมงาน “.NEXT on Tour Bangkok” งานประจำปีของ Nutanix ที่รวมผู้นำด้าน IT และผู้เชี่ยวชาญจากทุกภาคอุตสาหกรรม มาร่วมแชร์มุมมองและประสบการณ์เพื่อต่อยอดวิธีการบริหารโครงสร้างทางไอทีของคุณให้พร้อมกับโลกอนาคต โดยงานจะจัดขึ้นในวันอังคารที่ 3 พ.ย. 2569 เวลา 8.00 – 16.30น. ณ โรงแรม แกรน เซนเตอร์ พอยต์ ลุมพินี กรุงเทพฯ ชมกำหนดการเพิ่มเติมได้ดังนี้ รายละเอียดงาน ชื่องาน : .NEXT on Tour Bangkok วันเวลา : อังคารที่ 3 พ.ย. 2569 เวลา 8.00 – 16.30น. สถานที่ : โรงแรม แกรน เซนเตอร์ พอยต์ ลุมพินี กรุงเทพฯ (แผนที่) ลงทะเบียนได้ที่ …",
-      "pubDate": "Wed, 28 Oct 2026 03:38:12 +0000",
-      "source": "TechTalk Thai",
-      "category": "General",
-      "thumbnail": "https://www.techtalkthai.com/wp-content/uploads/2026/10/NEXT-on-Tour-Thailand_FB-Format.png",
-      "readTime": "2 นาที"
-    },
-    {
-      "id": "https://www.techtalkthai.com/?p=171571",
-      "title": "Anduril จับมือ Qualcomm พัฒนา BlueChip แล็ปท็อป Rugged ผลิตที่สหรัฐฯ ตัดขาดซัพพลายเชนจีน",
-      "link": "https://www.techtalkthai.com/anduril-qualcomm-bluechip-laptop/",
-      "content": "Anduril สตาร์ตอัปเทคโนโลยีด้านความมั่นคง ประกาศความร่วมมือกับ Qualcomm เปิดตัว BlueChip แบรนด์คอมพิวเตอร์ที่ดึงฐานการผลิตฮาร์ดแวร์กลับคืนสู่สหรัฐอเมริกา โดยไม่ได้จำกัดเพียงแค่การประกอบเครื่อง แต่ครอบคลุมการผลิตชิ้นส่วนทุกชิ้นเพื่อลดการพึ่งพาซัพพลายเชนจากต่างประเทศ โดยเฉพาะจีน พร้อมเปิดให้สั่งจองล่วงหน้าภายในปี 2027 BlueChip รุ่นแรกจะถูกพัฒนาในรูปแบบ Hardened Laptop หรือคอมพิวเตอร์พกพาที่มีความทนทานสูง ออกแบบมาเพื่อรองรับสภาพแวดล้อมสมบุกสมบัน และตอบสนองมาตรฐานความปลอดภัยขั้นสูงสุดสำหรับหน่วยงานรัฐ กองทัพ เจ้าหน้าที่ฉุกเฉิน และหน่วยงานบังคับใช้กฎหมาย โดยตัวเครื่อง BlueChip ขับเคลื่อนด้วยชิป Qualcomm Snapdragon X Series สถาปัตยกรรม Arm ซึ่งผลิตขึ้นที่โรงงานของ TSMC ในสหรัฐฯ ชิปดังกล่าวรองรับทั้งการประมวลผลทั่วไป กราฟิก และการประมวลผล AI บนอุปกรณ์ และรองรับทั้ง Windows, ลินุกซ์แบบเฉพาะทางที่ใช้ในหน่วยงานรัฐ ไปจนถึงระบบดั้งเดิมของแต่ละองค์กร ส่วนตัวบอดี้ผ่านการขึ้นรูปด้วยโลหะในสหรัฐฯ พร้อมการประสานกระจกหน้าจอที่ผลิตในประเทศ และระบบจัดการพลังงานที่ปรับแต่งเข้ากับเทคโนโลยีแบตเตอรี่ที่มีฐานการผลิตในสหรัฐฯ ส่วนแผงวงจรจะประกอบขึ้นที่โรงงานในสหรัฐฯ เช่นกัน จากแผนดังกล่าวทำให้แล็ปท็อปรุ่นแรกจะมีต้นทุนชิ้นส่วนกว่า 90% จะมาจากซัพพลายเออร์ในสหรัฐฯ และประเทศพันธมิตร โดย Palmer Luckey …",
-      "pubDate": "Wed, 28 Oct 2026 03:05:28 +0000",
-      "source": "TechTalk Thai",
-      "category": "Security",
-      "thumbnail": "https://www.techtalkthai.com/wp-content/uploads/2026/10/TTT-2026-10-28T100204.001-640x336.jpg",
-      "readTime": "3 นาที"
-    },
-    {
-      "id": "https://www.techtalkthai.com/?p=171566",
-      "title": "Microsoft ออกอัปเดต OOB บน Windows ยกเลิกความเชื่อถือใบรับรอง eMudhra หลังคีย์ CA หลุด",
-      "link": "https://www.techtalkthai.com/microsoft-windows-oob-update-removes-trust-in-emudhra-certificates/",
-      "content": "Microsoft ปล่อยอัปเดตแบบ out-of-band (OOB) สำหรับ Windows 11 และ Windows 10 เพื่อถอดความเชื่อถือใบรับรองที่เกี่ยวข้องกับคีย์ของ Certificate Authority (CA) eMudhra ที่ถูกเจาะ โดยเน้นปกป้องเครื่องที่ไม่ได้รับอัปเดต certificate trust แบบอัตโนมัติ ต้นเหตุมาจากการพบ private key ของ intermediate CA จาก eMudhra จำนวน 8 ชุดที่อ่อนแอจนกู้คืนได้แทบจะทันที คีย์ทั้งหมดถูกสร้างขึ้นในเดือนเมษายน 2025 และมีค่าน้อยกว่า 256 ทำให้ใครก็ตามสามารถกู้คีย์ได้ด้วยการทดลองตัวเลขเพียง 256 ค่า คีย์ที่หลุดเหล่านี้อาจถูกใช้ปลอมใบรับรองของเว็บไซต์ที่ถูกต้องและดักฟังการสื่อสารที่เข้ารหัสไว้ หลังมีการเปิดเผยข้อมูล eMudhra ได้เพิกถอน intermediate certificate ทั้ง 8 ใบ และ Mozilla, Google, Apple รวมถึงผู้ผลิตซอฟต์แวร์รายอื่นก็เริ่มเพิกถอนใบรับรองเหล่านี้เช่นกัน ก่อนหน้านี้ Microsoft ได้อัปเดต …",
-      "pubDate": "Tue, 27 Oct 2026 21:21:01 +0000",
-      "source": "TechTalk Thai",
-      "category": "General",
-      "thumbnail": "https://www.techtalkthai.com/wp-content/uploads/2025/07/windows-security-patch-dark-blue-640x366.png",
-      "readTime": "2 นาที"
-    },
-    {
-      "id": "https://www.techtalkthai.com/?p=171564",
-      "title": "Akamai เปิดตัว Akamai Inference และ Agent Sandbox เสริมบริการ AI บน Akamai Cloud",
-      "link": "https://www.techtalkthai.com/akamai-launches-inference-and-agent-sandbox-on-akamai-cloud/",
-      "content": "Akamai เปิดตัว Akamai Inference บริการ managed model serving และ Akamai Agent Sandbox สภาพแวดล้อมแบบ isolated สำหรับรันโค้ดของ AI Agent บน Akamai Cloud พร้อมขยาย GPU fleet ด้วย NVIDIA Blackwell Ultra บริการใหม่ทั้งสองตัวเป็นส่วนหนึ่งของกลยุทธ์ AI ของ Akamai ที่ต้องการให้องค์กรสร้าง ปรับแต่ง และรันโมเดล AI ทั้งแบบ open-weight และโมเดลของตัวเอง เชื่อมกับข้อมูลขององค์กร รัน AI Agent ภายในขอบเขตที่ควบคุมได้ และดูแลความปลอดภัยของทั้งระบบได้บนแพลตฟอร์มเดียว Akamai มองว่าองค์กรที่นำ AI ไปใช้งานจริงต้องการมากกว่าตัวโมเดล ทั้งโครงสร้างสำหรับ serving การเข้าถึงข้อมูล การ routing และ governance …",
-      "pubDate": "Tue, 27 Oct 2026 20:39:14 +0000",
-      "source": "TechTalk Thai",
-      "category": "Security",
-      "thumbnail": "https://www.techtalkthai.com/wp-content/uploads/2026/10/akamai-agent-sandbox-cover-v2-640x357.jpg",
-      "readTime": "2 นาที"
-    },
-    {
-      "id": "https://it24hrs.com/?p=170789",
-      "title": "NVIDIA จับมือ Meta ดัน Muse AI ทุ่มลงทุน 3 พันล้านดอลลาร์",
-      "link": "https://it24hrs.com/2026/nvidia-meta-muse-ai-agent-partnership/",
-      "content": "NVIDIA จับมือ Meta ขยายความร่วมมือพัฒนา Muse และโมเดล A […]\nThe post NVIDIA จับมือ Meta ดัน Muse AI ทุ่มลงทุน 3 พันล้านดอลลาร์ appeared first on iT24Hrs by ปานระพี.",
-      "pubDate": "Tue, 27 Oct 2026 11:00:36 +0000",
-      "source": "IT24Hrs",
-      "category": "AI",
-      "thumbnail": null,
-      "readTime": "1 นาที"
     },
     {
       "id": "https://www.beartai.com/?p=1509740",
