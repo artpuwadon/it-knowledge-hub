@@ -1,15 +1,6 @@
 {
   "dailySummary": [
     {
-      "id": "local-law-hub.md",
-      "title": "คลังกฎหมายและระเบียบที่เกี่ยวข้องกับการปฏิบัติราชการ",
-      "category": "Law",
-      "source": "ศูนย์รวมกฎหมายภาครัฐ",
-      "summary": "### ⚖️ ศูนย์รวมลิงก์กฎหมายฉบับเต็มและแนวทางปฏิบัติงาน\n\nเพื่อความสะดวกและถูกต้องในการอ้างอิงข้อกฎหมายของเจ้าหน้าที่ในการป...",
-      "thumbnail": "https://images.unsplash.com/photo-1589829545856-d10d557cf95f?w=500",
-      "link": "https://github.com/"
-    },
-    {
       "id": "local-cybersecurity-101.md",
       "title": "แนวทางปฏิบัติการตั้งรหัสผ่านให้ปลอดภัยสำหรับบุคลากร",
       "category": "Internal",
@@ -19,64 +10,150 @@
       "link": "https://github.com/"
     },
     {
-      "id": "152118 at https://www.blognone.com",
-      "title": "Discord เขียนไคลเอนต์ใหม่ด้วย Rust แทน Electron กินแรมเพียง 290MB",
+      "id": "local-law-hub.md",
+      "title": "คลังกฎหมายและระเบียบที่เกี่ยวข้องกับการปฏิบัติราชการ",
+      "category": "Law",
+      "source": "ศูนย์รวมกฎหมายภาครัฐ",
+      "summary": "### ⚖️ ศูนย์รวมลิงก์กฎหมายฉบับเต็มและแนวทางปฏิบัติงาน\n\nเพื่อความสะดวกและถูกต้องในการอ้างอิงข้อกฎหมายของเจ้าหน้าที่ในการป...",
+      "thumbnail": "https://images.unsplash.com/photo-1589829545856-d10d557cf95f?w=500",
+      "link": "https://github.com/"
+    },
+    {
+      "id": "152127 at https://www.blognone.com",
+      "title": "Windows 11 ถอดฟีเจอร์ย้ายไฟล์ข้ามเครื่องออก ให้ย้ายผ่าน OneDrive แทน",
+      "category": "Security",
+      "source": "Blognone",
+      "summary": "Windows 11 ถอดฟีเจอร์ย้ายไฟล์ข้ามเครื่องออก ให้ย้ายผ่าน OneDrive แทน\n\n  \nBody\nไมโครซอฟท์ถอดฟีเจอร์ย้ายไฟล์ข้ามเครื่อง PC...",
+      "thumbnail": null,
+      "link": "https://www.blognone.com/node/152127"
+    },
+    {
+      "id": "152123 at https://www.blognone.com",
+      "title": "Apple บอกมีแอปที่รองรับการแสดงผลบน iPhone Duo แล้ว มากกว่าแสนแอป",
       "category": "General",
       "source": "Blognone",
-      "summary": "Discord เขียนไคลเอนต์ใหม่ด้วย Rust แทน Electron กินแรมเพียง 290MB\n\n  \nBody\nStanislav Vishnevskiy ผู้ร่วมก่อตั้งและซีทีโอ...",
+      "summary": "Apple บอกมีแอปที่รองรับการแสดงผลบน iPhone Duo แล้ว มากกว่าแสนแอป\n\n  \nBody\niPhone Duo เริ่มขายมาได้ 2 สัปดาห์ นอกจากประเด...",
       "thumbnail": null,
-      "link": "https://www.blognone.com/node/152118"
+      "link": "https://www.blognone.com/node/152123"
     },
     {
-      "id": "https://www.thaicert.or.th/?p=17764",
-      "title": "แจ้งเตือน พบช่องโหว่ในสวิตช์ Zyxel GS1900 เสี่ยงถูกควบคุมด้วยสิทธิ์ Root โดยไม่ต้องเข้าสู่ระบบ",
-      "category": "ภัยคุกคามทางไซเบอร์",
-      "source": "ThaiCERT",
-      "summary": "ศูนย์ประสานการรักษาความมั่นคงปลอดภัยระบบคอมพิวเตอร์แห่ง […]\nThe post แจ้งเตือน พบช่องโหว่ในสวิตช์ Zyxel GS1900 เสี่ยงถูก...",
-      "thumbnail": "https://www.thaicert.or.th/wp-content/uploads/2026/11/ช่องโหว่ในสวิตช์-Zyxel-GS1900-เสี่ยงถูกควบคุมด้วย-1024x597.png",
-      "link": "https://www.thaicert.or.th/2026/11/07/%e0%b9%81%e0%b8%88%e0%b9%89%e0%b8%87%e0%b9%80%e0%b8%95%e0%b8%b7%e0%b8%ad%e0%b8%99-%e0%b8%9e%e0%b8%9a%e0%b8%8a%e0%b9%88%e0%b8%ad%e0%b8%87%e0%b9%82%e0%b8%ab%e0%b8%a7%e0%b9%88%e0%b9%83%e0%b8%99%e0%b8%aa/"
-    },
-    {
-      "id": "https://www.techtalkthai.com/?p=171895",
-      "title": "D-Link เตือนช่องโหว่ Zero-day หลายรายการบน Switch DGS-3130 ยังไม่มีแพตช์ แนะนำปิด DDP",
-      "category": "Security",
-      "source": "TechTalk Thai",
-      "summary": "D-Link ออกคำแนะนำลดความเสี่ยงจากช่องโหว่ Zero-day หลายรายการบน Managed Switch ตระกูล DGS-3130 ที่ยังไม่มีแพตช์แก้ไข โดยช...",
-      "thumbnail": "https://www.techtalkthai.com/wp-content/uploads/2025/10/security_vulnerability-640x335.jpg",
-      "link": "https://www.techtalkthai.com/d-link-warns-unpatched-zero-day-flaws-dgs-3130-switches/"
+      "id": "152124 at https://www.blognone.com",
+      "title": "เปิดตัว Personal Finance in Claude เครื่องมือเช็กข้อมูลการเงินส่วนบุคคลพลัง AI",
+      "category": "AI",
+      "source": "Blognone",
+      "summary": "เปิดตัว Personal Finance in Claude เครื่องมือเช็กข้อมูลการเงินส่วนบุคคลพลัง AI\n\n  \nBody\nAnthropic เปิดตัว Personal Finan...",
+      "thumbnail": null,
+      "link": "https://www.blognone.com/node/152124"
     }
   ],
   "articles": [
-    {
-      "id": "local-law-hub.md",
-      "title": "คลังกฎหมายและระเบียบที่เกี่ยวข้องกับการปฏิบัติราชการ",
-      "link": "https://github.com/",
-      "content": "### ⚖️ ศูนย์รวมลิงก์กฎหมายฉบับเต็มและแนวทางปฏิบัติงาน\n\nเพื่อความสะดวกและถูกต้องในการอ้างอิงข้อกฎหมายของเจ้าหน้าที่ในการปฏิบัติราชการ ศูนย์ไอทีได้รวบรวมลิงก์ตรงไปยังระบบสืบค้นกฎหมายของสำนักงานคณะกรรมการกฤษฎีกา และไฟล์ PDF ฉบับราชกิจจานุเบกษาไว้ในจุดเดียว ดังนี้ครับ:\n\n---\n\n### 🛒 1. หมวดการบริหารงานพัสดุและการจัดซื้อจัดจ้าง\n*   **พ.ร.บ. การจัดซื้อจัดจ้างและการบริหารพัสดุภาครัฐ พ.ศ. 2560**\n    *   🔗 [อ่านกฎหมายฉบับเต็ม (เว็บกฤษฎีกา)](https://www.ocs.go.th/)\n    *   📄 [ดาวน์โหลดไฟล์ PDF ฉบับประกาศราชกิจจานุเบกษา](https://www.gprocurement.go.th/wps/portal/egp/Regulation/!ut/p/z1/04_Sj9CPykssy0xPLMnMz0vMAfIjo8zifQ3djQydnQ18_T3dzA0czU0NfANMLQ1MPIz1w8EKDHAARwP9KGL041EQhd_4cP0oNCvCjM2AJgT4OvsHehgYOBtCFeAxoyA3NMIg01ERAHhSDzY!/dz/d5/L0lDUmlTUSEhL3dHa0FKRnNBLzROV3FpQSEhL3Ro/)\n*   **ระเบียบกระทรวงการคลังว่าด้วยการจัดซื้อจัดจ้างและการบริหารพัสดุภาครัฐ พ.ศ. 2560**\n    *   🔗 [อ่านระเบียบฉบับเต็มและกฎกระทรวงที่เกี่ยวข้อง](https://www.gprocurement.go.th/wps/portal/egp/Regulation/Ministry_of_Finance_Regularity/)\n\n---\n\n### 🏢 2. หมวดการปฏิบัติราชการและวิธีพิจารณาทางปกครอง\n*   **พ.ร.บ. วิธีปฏิบัติราชการทางปกครอง พ.ศ. 2539 (และฉบับแก้ไขเพิ่มเติม)**\n    *   🔗 [อ่านกฎหมายฉบับเต็ม (เว็บกฤษฎีกา)](https://www.ocs.go.th/)\n*   **พ.ร.บ. ความรับผิดทางละเมิดของเจ้าหน้าที่ พ.ศ. 2539**\n    *   🔗 [อ่านกฎหมายฉบับเต็ม (เว็บกฤษฎีกา)](https://www.ocs.go.th/)\n*   **พ.ร.บ. การปฏิบัติราชการทางอิเล็กทรอนิกส์ พ.ศ. 2565** *(สำคัญมากสำหรับงานไอทีและบริการประชาชน)*\n    *   🔗 [อ่านกฎหมายฉบับเต็ม (เว็บกฤษฎีกา)](https://www.ocs.go.th/)\n\n---\n\n### 🛡️ 3. หมวดคุ้มครองข้อมูลและความมั่นคงปลอดภัยไซเบอร์\n*   **พ.ร.บ. คุ้มครองข้อมูลส่วนบุคคล พ.ศ. 2562 (PDPA)**\n    *   🔗 [สืบค้นกฎหมายและแนวทางปฏิบัติจาก สคส.](https://www.pdpc.or.th)\n*   **พ.ร.บ. การรักษาความมั่นคงปลอดภัยไซเบอร์ พ.ศ. 2562**\n    *   🔗 [สืบค้นกฎหมายและประกาศจาก สกมช. (NCSA)](https://www.ncsa.or.th/standards/laws)\n*   **พ.ร.บ. ว่าด้วยการกระทำความผิดเกี่ยวกับคอมพิวเตอร์ (ฉบับที่ 2) พ.ศ. 2560**\n    *   🔗 [อ่านกฎหมายฉบับเต็ม (เว็บกฤษฎีกา)](https://www.ocs.go.th/)\n\n---\n\n### 💡 แนะนำการใช้งานสำหรับเจ้าหน้าที่\n> หากต้องการสืบค้นกฎหมายอื่น ๆ เพิ่มเติม นอกเหนือจากรายการข้างต้น สามารถเข้าใช้งานระบบกฎหมายดิจิทัลโดยตรงได้ที่ **[ระบบสืบค้นกฎหมาย สำนักงานคณะกรรมการกฤษฎีกา](https://www.ocs.go.th/)** เพื่อข้อมูลที่อัปเดตและเป็นปัจจุบันที่สุด",
-      "pubDate": "2026-11-07T02:35:46.809Z",
-      "source": "ศูนย์รวมกฎหมายภาครัฐ",
-      "category": "Law",
-      "thumbnail": "https://images.unsplash.com/photo-1589829545856-d10d557cf95f?w=500"
-    },
     {
       "id": "local-cybersecurity-101.md",
       "title": "แนวทางปฏิบัติการตั้งรหัสผ่านให้ปลอดภัยสำหรับบุคลากร",
       "link": "https://github.com/",
       "content": "1. รหัสผ่านต้องมีความยาวอย่างน้อย 8 ตัวอักษร\n2. ประกอบด้วยอักษรตัวพิมพ์ใหญ่ ตัวพิมพ์เล็ก ตัวเลข และสัญลักษณ์พิเศษ\n3. ห้ามใช้ข้อมูลส่วนตัว เช่น วันเกิด หรือเบอร์โทรศัพท์\n4. เปลี่ยนรหัสผ่านใหม่ทุกๆ 3-6 เดือนเพื่อความปลอดภัย",
-      "pubDate": "2026-11-07T02:35:46.808Z",
+      "pubDate": "2026-11-08T02:06:19.517Z",
       "source": "คู่มือภายในองค์กร",
       "category": "Internal",
       "thumbnail": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=500&auto=format&fit=crop&q=60"
     },
     {
-      "id": "152118 at https://www.blognone.com",
-      "title": "Discord เขียนไคลเอนต์ใหม่ด้วย Rust แทน Electron กินแรมเพียง 290MB",
-      "link": "https://www.blognone.com/node/152118",
-      "content": "Discord เขียนไคลเอนต์ใหม่ด้วย Rust แทน Electron กินแรมเพียง 290MB\n\n  \nBody\nStanislav Vishnevskiy ผู้ร่วมก่อตั้งและซีทีโอของ Discord โชว์ไคลเอนต์ Discord for PC เวอร์ชันใหม่ โค้ดเนม Discord Phoenix เขียนใหม่ด้วย Rust และเฟรมเวิร์ค GPUI สำหรับสร้าง UI ความน่าตกตะลึงคือใช้แรมเพียง 290MB\nไคลเอนต์ Discord for PC เวอร์ชันปัจจุบันเขียนอยู่บน Electron ที่แปลว่ากินแรมมหาศาล เพราะอยู่บนเทคโนโลยีเว็บ ปกติแล้วกินแรมประมาณ 1-2GB หรือบางครั้งอาจพุ่งขึ้นไปถึง 4GB เลยก็เคยเกิดขึ้นมาแล้ว\nVishnevskiy โพสต์ว่า Discord เริ่มใช้ Rust มาตั้งแต่ปี 2018 แต่ที่ผ่านมาใช้กับงานฝั่งหลังบ้านเป็นหลัก ตอนนี้ขยับมาใช้ Rust กับฝั่งไคลเอนต์แล้ว และนอกจากมาแทนแอพเดสก์ท็อปเดิมที่ใช้ Electron ก็จะมาแทนแอพมือถือที่เขียนด้วย React Native ด้วย\nที่มา - Windows Latest\nThe new Discord client using less RAM is just part of the story. Clicking around feels instant, I can't go back. Check out the boot time. https://t.co/x7ayyWBVQJ\n— Stanislav (@svishnevskiy) November 5, 2026\n\n\nWe didn't forget about mobile, especially Android. Inspired by React Native, it drives the OS-native view layer through the same Rust codebase as the new desktop app.\n\nI think it might be the most responsive app on my phone now? https://t.co/F8QCedZcJj\n— Stanislav (@svishnevskiy) November 6, 2026\n\n\n          \nmk\nSat, 07/11/2026 - 07:32",
-      "pubDate": "Sat, 07 Nov 2026 00:32:55 +0000",
+      "id": "local-law-hub.md",
+      "title": "คลังกฎหมายและระเบียบที่เกี่ยวข้องกับการปฏิบัติราชการ",
+      "link": "https://github.com/",
+      "content": "### ⚖️ ศูนย์รวมลิงก์กฎหมายฉบับเต็มและแนวทางปฏิบัติงาน\n\nเพื่อความสะดวกและถูกต้องในการอ้างอิงข้อกฎหมายของเจ้าหน้าที่ในการปฏิบัติราชการ ศูนย์ไอทีได้รวบรวมลิงก์ตรงไปยังระบบสืบค้นกฎหมายของสำนักงานคณะกรรมการกฤษฎีกา และไฟล์ PDF ฉบับราชกิจจานุเบกษาไว้ในจุดเดียว ดังนี้ครับ:\n\n---\n\n### 🛒 1. หมวดการบริหารงานพัสดุและการจัดซื้อจัดจ้าง\n*   **พ.ร.บ. การจัดซื้อจัดจ้างและการบริหารพัสดุภาครัฐ พ.ศ. 2560**\n    *   🔗 [อ่านกฎหมายฉบับเต็ม (เว็บกฤษฎีกา)](https://www.ocs.go.th/)\n    *   📄 [ดาวน์โหลดไฟล์ PDF ฉบับประกาศราชกิจจานุเบกษา](https://www.gprocurement.go.th/wps/portal/egp/Regulation/!ut/p/z1/04_Sj9CPykssy0xPLMnMz0vMAfIjo8zifQ3djQydnQ18_T3dzA0czU0NfANMLQ1MPIz1w8EKDHAARwP9KGL041EQhd_4cP0oNCvCjM2AJgT4OvsHehgYOBtCFeAxoyA3NMIg01ERAHhSDzY!/dz/d5/L0lDUmlTUSEhL3dHa0FKRnNBLzROV3FpQSEhL3Ro/)\n*   **ระเบียบกระทรวงการคลังว่าด้วยการจัดซื้อจัดจ้างและการบริหารพัสดุภาครัฐ พ.ศ. 2560**\n    *   🔗 [อ่านระเบียบฉบับเต็มและกฎกระทรวงที่เกี่ยวข้อง](https://www.gprocurement.go.th/wps/portal/egp/Regulation/Ministry_of_Finance_Regularity/)\n\n---\n\n### 🏢 2. หมวดการปฏิบัติราชการและวิธีพิจารณาทางปกครอง\n*   **พ.ร.บ. วิธีปฏิบัติราชการทางปกครอง พ.ศ. 2539 (และฉบับแก้ไขเพิ่มเติม)**\n    *   🔗 [อ่านกฎหมายฉบับเต็ม (เว็บกฤษฎีกา)](https://www.ocs.go.th/)\n*   **พ.ร.บ. ความรับผิดทางละเมิดของเจ้าหน้าที่ พ.ศ. 2539**\n    *   🔗 [อ่านกฎหมายฉบับเต็ม (เว็บกฤษฎีกา)](https://www.ocs.go.th/)\n*   **พ.ร.บ. การปฏิบัติราชการทางอิเล็กทรอนิกส์ พ.ศ. 2565** *(สำคัญมากสำหรับงานไอทีและบริการประชาชน)*\n    *   🔗 [อ่านกฎหมายฉบับเต็ม (เว็บกฤษฎีกา)](https://www.ocs.go.th/)\n\n---\n\n### 🛡️ 3. หมวดคุ้มครองข้อมูลและความมั่นคงปลอดภัยไซเบอร์\n*   **พ.ร.บ. คุ้มครองข้อมูลส่วนบุคคล พ.ศ. 2562 (PDPA)**\n    *   🔗 [สืบค้นกฎหมายและแนวทางปฏิบัติจาก สคส.](https://www.pdpc.or.th)\n*   **พ.ร.บ. การรักษาความมั่นคงปลอดภัยไซเบอร์ พ.ศ. 2562**\n    *   🔗 [สืบค้นกฎหมายและประกาศจาก สกมช. (NCSA)](https://www.ncsa.or.th/standards/laws)\n*   **พ.ร.บ. ว่าด้วยการกระทำความผิดเกี่ยวกับคอมพิวเตอร์ (ฉบับที่ 2) พ.ศ. 2560**\n    *   🔗 [อ่านกฎหมายฉบับเต็ม (เว็บกฤษฎีกา)](https://www.ocs.go.th/)\n\n---\n\n### 💡 แนะนำการใช้งานสำหรับเจ้าหน้าที่\n> หากต้องการสืบค้นกฎหมายอื่น ๆ เพิ่มเติม นอกเหนือจากรายการข้างต้น สามารถเข้าใช้งานระบบกฎหมายดิจิทัลโดยตรงได้ที่ **[ระบบสืบค้นกฎหมาย สำนักงานคณะกรรมการกฤษฎีกา](https://www.ocs.go.th/)** เพื่อข้อมูลที่อัปเดตและเป็นปัจจุบันที่สุด",
+      "pubDate": "2026-11-08T02:06:19.517Z",
+      "source": "ศูนย์รวมกฎหมายภาครัฐ",
+      "category": "Law",
+      "thumbnail": "https://images.unsplash.com/photo-1589829545856-d10d557cf95f?w=500"
+    },
+    {
+      "id": "152127 at https://www.blognone.com",
+      "title": "Windows 11 ถอดฟีเจอร์ย้ายไฟล์ข้ามเครื่องออก ให้ย้ายผ่าน OneDrive แทน",
+      "link": "https://www.blognone.com/node/152127",
+      "content": "Windows 11 ถอดฟีเจอร์ย้ายไฟล์ข้ามเครื่องออก ให้ย้ายผ่าน OneDrive แทน\n\n  \nBody\nไมโครซอฟท์ถอดฟีเจอร์ย้ายไฟล์ข้ามเครื่อง PC-to-PC Migration ออกจาก Windows 11 ในแพตช์รอบเดือนตุลาคม (ออกมาตั้งแต่แพตช์เดือนกันยายน แต่ไม่บังคับติดตั้ง) โดยให้ย้ายไปใช้ฟีเจอร์ Windows Backup ซึ่งต้องผ่าน OneDrive แทน\nฟีเจอร์ PC-to-PC Migration เพิ่งถูกใส่เข้ามาในปี 2025 แต่อยู่ไม่ทันไรก็โดนถอดเสียแล้ว หน้าที่ของมันคือย้ายไฟล์และค่าคอนฟิกของผู้ใช้ไปยังพีซีเครื่องใหม่ผ่าน Wi-Fi แบบ local ให้อัตโนมัติ\nหลังจากนี้ไป ผู้ใช้มี 2 ทางเลือกในการย้ายเครื่อง คือ ผ่าน Windows Backup ซึ่งต้องอัพโหลดไฟล์ขึ้น OneDrive ก่อน (พื้นที่ฟรี 5GB) หรือ ย้ายไฟล์เองด้วยมือ (ผ่านการเชื่อม network drive หรือผ่านอุปกรณ์สตอเรจ USB)\nไมโครซอฟท์ไม่ได้อธิบายถึงเหตุผลที่ตัด PC-to-PC Migration ออกไป\nที่มา - BetaNews, GHacks\nmk\nSun, 08/11/2026 - 07:08",
+      "pubDate": "Sun, 08 Nov 2026 00:08:41 +0000",
+      "source": "Blognone",
+      "category": "Security",
+      "thumbnail": null,
+      "readTime": "2 นาที"
+    },
+    {
+      "id": "152123 at https://www.blognone.com",
+      "title": "Apple บอกมีแอปที่รองรับการแสดงผลบน iPhone Duo แล้ว มากกว่าแสนแอป",
+      "link": "https://www.blognone.com/node/152123",
+      "content": "Apple บอกมีแอปที่รองรับการแสดงผลบน iPhone Duo แล้ว มากกว่าแสนแอป\n\n  \nBody\niPhone Duo เริ่มขายมาได้ 2 สัปดาห์ นอกจากประเด็นฮาร์ดแวร์แล้ว อีกปัญหาที่หลายคนพบคือแอปที่ใช้งานเป็นประจำ ยังไม่รองรับการแสดงผลแบบ 2 หน้าจอ แม้เป็นปัญหาที่สักวันหนึ่งผู้พัฒนาก็คงแก้ไข แต่แอปเปิลไม่ปล่อยให้เรื่องนี้ทำให้ใครต้องพับแผนซื้อ\nSusan Prescott รองประธานฝ่ายนักพัฒนาสัมพันธ์ของแอปเปิล ออกแถลงการณ์ว่าตอนนี้มีแอปที่ปรับแต่งการแสดงผลให้รองรับ iPhone Duo แล้ว มากกว่า 1 แสนแอปบน App Store และมีแอปที่ส่งคำขอตรวจสอบในเรื่องนี้หลายพันแอปต่อวัน ซึ่งสะท้อนการตอบรับที่ดีจากฝั่งนักพัฒนาในการเร่งอัปเดตแอปกับผู้ใช้งาน\nแอปที่ปรับปรุงให้รองรับการแสดงผลกับ iPhone Duo จะมีป้ายกำกับ Made for iPhone Duo ใน App Store ทำให้ผู้ใช้งานทราบว่าตอนนี้แอปรองรับแล้วหรือไม่\nตัวอย่างแอปที่รองรับ iPhone Duo เช่น Microsoft Excel, OneNote, PowerPoint, Word, Goodnotes, Zoom, Instagram, Netflix, WhatsApp, YouTube เป็นต้น ส่วนแอปยอดนิยมที่ยังไม่รองรับตอนนี้ เช่น Duolingo, Google Docs, Google Sheets, Google Slides, Microsoft Teams เป็นต้น\nที่มา: MacRumors\narjin\nSat, 07/11/2026 - 19:11",
+      "pubDate": "Sat, 07 Nov 2026 12:11:00 +0000",
       "source": "Blognone",
       "category": "General",
       "thumbnail": null,
-      "readTime": "4 นาที"
+      "readTime": "3 นาที"
+    },
+    {
+      "id": "152124 at https://www.blognone.com",
+      "title": "เปิดตัว Personal Finance in Claude เครื่องมือเช็กข้อมูลการเงินส่วนบุคคลพลัง AI",
+      "link": "https://www.blognone.com/node/152124",
+      "content": "เปิดตัว Personal Finance in Claude เครื่องมือเช็กข้อมูลการเงินส่วนบุคคลพลัง AI\n\n  \nBody\nAnthropic เปิดตัว Personal Finance in Claude เครื่องมือเสริมใน Claude สำหรับบริการจัดการการเงินส่วนบุคคล ที่สามารถถามทุกคำถามเกี่ยวกับสุขภาพการเงินของแต่ละคนได้จบในพื้นที่เดียว\nClaude จะขอสิทธิเข้าถึงข้อมูลการเงินของผู้ใช้งานแบบอ่านเท่านั้น (read-only) โดยเชื่อมต่อกับบัญชีธนาคารผ่าน Plaid ไม่มีการทำธุรกรรมใด ๆ ผ่าน Claude ทั้งสิ้น ข้อมูลที่เข้าถึงจะย้อนหลังสูงสุด 2 ปี เป็นการอ่านข้อมูลเพื่อให้คำแนะนำการเงินกับแต่ละคนตามข้อมูลที่เห็น ไม่มีการให้คำแนะนำด้านการลงทุน และทุกคำถามจะไม่นำไปฝึกฝนโมเดล AI ต่อ\nตัวอย่างคำถามที่ Personal Finance in Claude ยกมา เช่น ถามว่าเดือนนี้เงินหมดไปกับอะไรบ้าง, สรุปรายการครบกำหนดชำระที่ใกล้ถึง เป็นต้น\nPersonal Finance เริ่มอัปเดตเฉพาะผู้ใช้งานในสหรัฐอเมริกาก่อนด้วยสถานะเบต้า เฉพาะลูกค้า Pro, Max และ Ultra\nที่มา: Anthropic\narjin\nSat, 07/11/2026 - 18:55",
+      "pubDate": "Sat, 07 Nov 2026 11:55:00 +0000",
+      "source": "Blognone",
+      "category": "AI",
+      "thumbnail": null,
+      "readTime": "3 นาที"
+    },
+    {
+      "id": "152122 at https://www.blognone.com",
+      "title": "[ไม่ยืนยัน] Microsoft ยกเลิกสัญญาเช่าคลาวด์ของ Oracle บางส่วน เหตุเป็นจีพียูรุ่นเก่า",
+      "link": "https://www.blognone.com/node/152122",
+      "content": "[ไม่ยืนยัน] Microsoft ยกเลิกสัญญาเช่าคลาวด์ของ Oracle บางส่วน เหตุเป็นจีพียูรุ่นเก่า\n\n  \nBody\nBloomberg อ้างแหล่งข่าวที่เกี่ยวข้องระบุว่าไมโครซอฟท์ได้แจ้ง Oracle เพื่อยกเลิกการเช่าใช้งานคลาวด์สำหรับการประมวลผล AI โดยเหตุการณ์นี้เกิดขึ้นช่วงไม่กี่เดือนที่ผ่านมา หลังจากสัญญาเดิมครบกำหนดและอยู่ในการเจรจาต่อสัญญาใหม่\nแหล่งข่าวบอกว่ากำลังประมวลผล AI ส่วนนี้ ไมโครซอฟท์ประเมินว่าตอนนี้ไม่จำเป็นสำหรับความต้องการปัจจุบัน สาเหตุหนึ่งเพราะเป็นฮาร์ดแวร์ NVIDIA รุ่นเก่าด้วย ทั้งนี้ข้อตกลงที่ไมโครซอฟท์ทำร่วมกับ Oracle เริ่มมาตั้งแต่ปี 2023\nด้านตัวแทนของ Oracle ชี้แจงข่าวนี้ว่าความต้องการ OCI หรือ Oracle Cloud ​Infrastructure สำหรับงาน AI ยังคงแข็งแกร่ง รวมทั้งฮาร์ดแวร์จีพียูรุ่นเก่าด้วย ส่วนไมโครซอฟท์ปฏิเสธที่จะแสดงความเห็น\nก่อนหน้านี้ IREN ผู้ให้บริการคลาวด์สำหรับ AI อีกราย ก็มีข่าวว่าได้เลื่อนกำหนดส่งมอบศูนย์ข้อมูลให้ไมโครซอฟท์ เนื่องจากมีการแก้ไขรายละเอียดส่วนเน็ตเวิร์ก\nที่มา: Reuters\narjin\nSat, 07/11/2026 - 15:55",
+      "pubDate": "Sat, 07 Nov 2026 08:55:00 +0000",
+      "source": "Blognone",
+      "category": "AI",
+      "thumbnail": null,
+      "readTime": "3 นาที"
+    },
+    {
+      "id": "152126 at https://www.blognone.com",
+      "title": "[Omdia] ตลาดแท็บเล็ตไตรมาส 3/2026 ลดลง 23% - Apple ยังครองส่วนแบ่งมากที่สุด แต่ก็ลดลงถึง 27%",
+      "link": "https://www.blognone.com/node/152126",
+      "content": "[Omdia] ตลาดแท็บเล็ตไตรมาส 3/2026 ลดลง 23% - Apple ยังครองส่วนแบ่งมากที่สุด แต่ก็ลดลงถึง 27%\n\n  \nBody\nบริษัทวิจัยตลาดเทคโนโลยี Omdia รายงานภาพรวมตลาดแท็บเล็ตทั่วโลก ประจำไตรมาสที่ 3 ปี 2026 จำนวนส่งมอบลดลง 23% เมื่อเทียบกับไตรมาสเดียวกันในปีก่อนเป็น 32 ล้านเครื่อง ต่ำที่สุดในรอบเกือบสามปี โดยภูมิภาคที่จำนวนส่งมอบลดลงมากคือตะวันออกกลาง, จีน และยุโรปตะวันตก\nHimani Mukka หัวหน้าฝ่ายวิจัยของ Omdia ให้ความเห็นว่าการลดลงนี้ต่อเนื่องจากไตรมาสก่อนหน้านี้ จากปัญหาซัพพลายเชนที่ตึงตัว แท็บเล็ตกลายเป็นตัวเลือกที่ผู้ผลิตให้ความสำคัญลำดับท้าย ๆ สินค้าเลยผลิตออกมาไม่มาก และปัญหานี้น่าจะลากไปถึงปี 2027 แล้วดีขึ้นเร็วที่สุดในปี 2028\nแอปเปิลยังครองส่วนแบ่งตลาดมากที่สุด 36.0% จำนวน 11.6 ล้านเครื่อง ลดลง 27.5%, ซัมซุงเป็นอันดับที่สอง 16.9% จำนวน 5.4 ล้านเครื่อง ลดลง 21.7% และ Lenovo อันดับที่สาม 12.7% จำนวน 4.1 ล้านเครื่อง เพิ่มขึ้น 11.9% เป็นเพียงรายเดียวมีจำนวนเครื่องเพิ่มขึ้น\n\nที่มา: Omdia\narjin\nSat, 07/11/2026 - 15:12",
+      "pubDate": "Sat, 07 Nov 2026 08:12:47 +0000",
+      "source": "Blognone",
+      "category": "General",
+      "thumbnail": "https://www.blognone.com/sites/default/files/files-2026/2026-11/worldwide-tablet-shipments-3q26.png",
+      "readTime": "3 นาที"
+    },
+    {
+      "id": "152125 at https://www.blognone.com",
+      "title": "สหรัฐเรียก Jensen Huang ชี้แจง หลังพบนักธุรกิจหญิงที่มีความสัมพันธ์ใกล้ชิดกับเขา อาจเป็นสายลับจีน",
+      "link": "https://www.blognone.com/node/152125",
+      "content": "สหรัฐเรียก Jensen Huang ชี้แจง หลังพบนักธุรกิจหญิงที่มีความสัมพันธ์ใกล้ชิดกับเขา อาจเป็นสายลับจีน\n\n  \nBody\nมีรายงานว่าคณะกรรมาธิการในสภาผู้แทนฯ สหรัฐ ได้ทำบันทึกถึง Jensen Huang ซีอีโอ NVIDIA ให้มาชี้แจง หลังจากมีข้อมูลข่าวกรองว่า Alice Huang นักธุรกิจหญิงชาวจีนซึ่งมีความสัมพันธ์ใกล้ชิดกับ Jensen อาจเป็นสายลับของรัฐบาลจีน\nThe New York Times อ้างข้อมูลว่าหน่วยข่าวกรองของสหรัฐ ได้จับตาดู Alice มาประมาณ 1 ปีแล้ว แต่ยังไม่ทราบวัตถุประสงค์ที่แน่ชัดว่าต้องการข้อมูลใดจาก Jensen กันแน่ จึงไม่มีการดำเนินการหรือคำสั่งใดออกมาจนกระทั่งรายงานล่าสุดนี้\nข้อมูลที่เปิดเผยของ Alice Huang ระบุว่าเป็นเจ้าของบริษัท Megaspeed ซึ่งสั่งซื้อชิปประมวลผล AI จำนวนมากรวมทั้งของ NVIDIA เพื่อใช้งานในศูนย์ข้อมูล ทำให้หน่วยงานสหรัฐมองว่าเป็นช่องทางหนึ่งที่ทำให้บริษัทจีนเข้าถึงชิป NVIDIA รุ่นใหม่ได้\n\nNetThunder\nตัวแทนของ NVIDIA ชี้แจงข่าวนี้ว่า Jensen รู้จักกับ Alice ในฐานะการพบปะระหว่างผู้บริหารตามปกติ ซึ่งเป็นงานของซีอีโออยู่แล้ว ไม่มีความสนิทสนมมากกว่าปกติ Jensen เองก็พบปะผู้บริหารระดับสูงของหน่วยงานต่าง ๆ หลายพันรายในแต่ละปีอยู่แล้ว\nที่มา: The New York Times และ CNBC\narjin\nSat, 07/11/2026 - 14:58",
+      "pubDate": "Sat, 07 Nov 2026 07:58:50 +0000",
+      "source": "Blognone",
+      "category": "AI",
+      "thumbnail": "https://www.blognone.com/sites/default/files/files-2026/2026-11/1717738519802.jpg",
+      "readTime": "3 นาที"
+    },
+    {
+      "id": "https://it24hrs.com/?p=171001",
+      "title": "Meta เปิด Muse Voice คุยกับ AI สุดน่ารักแบบเรียลไทม์",
+      "link": "https://it24hrs.com/2026/meta-muse-voice-ai-avatar/",
+      "content": "Meta เปิด Muse Voice ฟีเจอร์คุยด้วยเสียงกับผู้ช่วย AI ใ […]\nThe post Meta เปิด Muse Voice คุยกับ AI สุดน่ารักแบบเรียลไทม์ appeared first on iT24Hrs by ปานระพี.",
+      "pubDate": "Sat, 07 Nov 2026 04:05:58 +0000",
+      "source": "IT24Hrs",
+      "category": "AI",
+      "thumbnail": null,
+      "readTime": "1 นาที"
+    },
+    {
+      "id": "152121 at https://www.blognone.com",
+      "title": "The Elder Scrolls VI ประกาศชื่อภาคว่า Sentinel แต่ยังไม่ประกาศวันขาย",
+      "link": "https://www.blognone.com/node/152121",
+      "content": "The Elder Scrolls VI ประกาศชื่อภาคว่า Sentinel แต่ยังไม่ประกาศวันขาย\n\n  \nBody\nTodd Howard หัวหน้าสตูดิโอ Bethesda เผยข้อมูลของเกม The Elder Scrolls VI ในคลิปฉลองครบรอบ 40 ปีของสตูดิโอ ว่าเกมภาคนี้จะใช้ชื่อภาคว่า Sentinel โดยยังไม่มีข้อมูลอื่นใด ทั้งเรื่องวันวางขายและแพลตฟอร์ม (ที่มีโอกาสสูงว่าจะเป็นเอ็กซ์คลูซีฟ Xbox เพราะในคลิปก็โชว์การทำเกมของ Bethesda บนเครื่อง Xbox รุ่นแรกและ Xbox 360)\nThe Elder Scrolls VI เปิดตัวครั้งแรกในปี 2018 ตอนนี้เวลาผ่านมาแล้ว 8 ปี ความคืบหน้าล่าสุดคือมีชื่อภาคเพิ่มเข้ามาแล้ว และหากเกมวางขายได้จริงในปีหน้า 2027 ก็จะทิ้งช่วงห่างจากภาค V: Skyrim (2011) เป็นเวลานาน 16 ปี\nเหตุผลที่ The Elder Scrolls VI ใช้เวลานานขนาดนี้ เป็นเพราะตอนแรก Bethesda ตั้งใจว่าจะทำ Starfield ให้เสร็จก่อนแล้วค่อยมาทำ TES6 แต่เมื่อ Starfield ล่าช้าไปกว่าแผนเดิมมาก ทำให้กว่า TES6 จะเริ่มเข้าสู่กระบวนการโปรดักชันจริงๆ ก็ต้องรอหลัง Starfield วางขายในปี 2023 ก่อน\n\nmk\nSat, 07/11/2026 - 10:57",
+      "pubDate": "Sat, 07 Nov 2026 03:57:44 +0000",
+      "source": "Blognone",
+      "category": "General",
+      "thumbnail": null,
+      "readTime": "3 นาที"
     },
     {
       "id": "https://www.thaicert.or.th/?p=17764",
@@ -101,39 +178,6 @@
       "readTime": "2 นาที"
     },
     {
-      "id": "152117 at https://www.blognone.com",
-      "title": "แอพ Xbox PC ปรับหน้าตาใหม่ ประสิทธิภาพดีขึ้น เรียกทำงานเร็วขึ้น 60%",
-      "link": "https://www.blognone.com/node/152117",
-      "content": "แอพ Xbox PC ปรับหน้าตาใหม่ ประสิทธิภาพดีขึ้น เรียกทำงานเร็วขึ้น 60%\n\n  \nBody\nไมโครซอฟท์ออกอัพเดตแอพ Xbox PC เวอร์ชันใหม่ที่เรียกให้ทำงานเร็วขึ้น 60%, เรียกหน้าเพจต่างๆ เร็วขึ้น 50% และเปิดหน้าต่างภายในแอพเร็วขึ้น 65%\nแอพ Xbox PC เวอร์ชันนี้ยังปรับดีไซน์ใหม่ เพิ่มรายชื่อเพื่อนไว้ใน sidebar ด้านข้าง เห็นทันทีว่าเพื่อนเล่นเกมอะไรอยู่ คลิกไปแชทกับเพื่อนได้ทันที, หน้า Library คลังเกม ปรับให้เรียบง่ายขึ้น เพิ่มฟิลเตอร์คัดกรองเกมตามเงื่อนไขที่ต้องการ, ปรับปรุงระบบ search ให้รองรับทั้งเกมที่ติดตั้งในเครื่องและส่วนเสริม (add-ons)\nแอพ Xbox PC เวอร์ชันนี้เปิดใช้งานแล้วกับกลุ่ม Xbox Insiders และจะขยายหน้าตาแบบนี้ไปยังอินเทอร์เฟซเวอร์ชันเว็บ play.xbox.com สำหรับการเล่นเกมผ่านคลาวด์ด้วย\nที่มา - Xbox\nmk\nFri, 06/11/2026 - 21:45",
-      "pubDate": "Fri, 06 Nov 2026 14:45:12 +0000",
-      "source": "Blognone",
-      "category": "General",
-      "thumbnail": null,
-      "readTime": "2 นาที"
-    },
-    {
-      "id": "152116 at https://www.blognone.com",
-      "title": "Tesla ประกาศหยุดผลิตรถกระบะ Cybertruck ช่วงกลางปี 2027",
-      "link": "https://www.blognone.com/node/152116",
-      "content": "Tesla ประกาศหยุดผลิตรถกระบะ Cybertruck ช่วงกลางปี 2027\n\n  \nBody\nElon Musk ประกาศหยุดการผลิตรถกระบะ Tesla Cybertruck ที่โรงงาน Gigafactory ในรัฐเท็กซัส เพื่อนำกำลังการผลิตส่วนนี้ไปใช้กับ Cybercab แทน โดยช่วงการหยุดผลิต Cybertruck จะอยู่ราวกลางปีหน้า\nรถกระบะทรงเหลี่ยม Cybertruck เริ่มวางขายในปี 2023 แม้มียอดจองเกิน 1 ล้านคันในช่วงก่อนเปิดตัว แต่ยอดขายจริงๆ กลับไม่เยอะนัก โดยการประเมินจากบริษัท Cox Automotive บอกว่าปี 2026 ขายได้ประมาณ 20,000 คัน ส่วนปี 2026 ขายได้ 16,000 คัน\nที่มา - Business Insider\nTesla will be winding down production of the Cybertruck at Gigafactory Texas around the middle of next year to make room for increased Cybercab production\n— Elon Musk (@elonmusk) November 6, 2026\n\n\nCyber Forever https://t.co/cUKDHOz7SV\n— Cybertruck (@cybertruck) November 6, 2026\n\n\n          \nmk\nFri, 06/11/2026 - 20:33",
-      "pubDate": "Fri, 06 Nov 2026 13:33:23 +0000",
-      "source": "Blognone",
-      "category": "Security",
-      "thumbnail": null,
-      "readTime": "3 นาที"
-    },
-    {
-      "id": "152115 at https://www.blognone.com",
-      "title": "OpenAI อัปเดต GPT-6 Cyber โมเดลเจาะระบบรุ่นใหม่ เก่งขึ้น อัตราทำงานนอกเหนือคำสั่งน้อยลง",
-      "link": "https://www.blognone.com/node/152115",
-      "content": "OpenAI อัปเดต GPT-6 Cyber โมเดลเจาะระบบรุ่นใหม่ เก่งขึ้น อัตราทำงานนอกเหนือคำสั่งน้อยลง\n\n  \nBody\nOpenAI เปิดตัว GPT-6 Cyber โมเดล AI สำหรับงานความปลอดภัยโดยเฉพาะรุ่นใหม่ ระบุว่าสามารถหาช่องโหว่ได้ดีขึ้น มีพฤติกรรมทำงานนอกเหนือจากคำสั่งที่ไปเจาะระบบอื่นน้อยลง\nผลทดสอบพบว่า GPT-6 Cyber ทำงานนอกเหนือคำสั่งน้อยกว่า 1% ดีกว่ารุ่นก่อนหน้า GPT‑5.6 Cyber ซึ่งอยู่ที่ประมาณ 5% ส่วนคะแนนทดสอบความสามารถการหาช่องโหว่ ExploitGym ได้คะแนน 48.5% ดีกว่า GPT‑5.6 Cyber ซึ่งทำได้ 32.1% โมเดลใหม่นี้ยังมีส่วนช่วยค้นหาช่องโหว่ในเบราว์เซอร์ Firefox ถึง 81 รายการ ซึ่ง Mozilla ได้ออกอัปเดตไปแล้วก่อนหน้านี้\nGPT-6 Cyber เปิดให้ใช้งานแบบจำกัดเฉพาะสมาชิกโครงการ Daybreak Red เพื่อใช้กับงานค้นหาช่องโหว่ความปลอดภัยเท่านั้นบางรายก่อน และจะขยายไปยังสมาชิกทั้งหมดต่อไป\nที่มา: OpenAI\narjin\nFri, 06/11/2026 - 16:46",
-      "pubDate": "Fri, 06 Nov 2026 09:46:37 +0000",
-      "source": "Blognone",
-      "category": "Security",
-      "thumbnail": null,
-      "readTime": "2 นาที"
-    },
-    {
       "id": "https://techsauce.co/news/grabnext-2026-thai-food-soft-power",
       "title": "GrabNEXT 2026 ถอดรหัสกลยุทธ์ T.A.S.T.E ดันอาหารไทยและ Soft Power สร้างเศรษฐกิจ",
       "link": "https://techsauce.co/news/grabnext-2026-thai-food-soft-power",
@@ -154,17 +198,6 @@
       "category": "AI",
       "thumbnail": "https://storage.googleapis.com/techsauce-prod/ugc/uploads/2026/11/1793957637_Perplexity_%E0%B9%80%E0%B8%9B%E0%B8%B4%E0%B8%94%E0%B8%95%E0%B8%B1%E0%B8%A7_Teammates_800_%281%29.webp",
       "readTime": "1 นาที"
-    },
-    {
-      "id": "152114 at https://www.blognone.com",
-      "title": "หุ้น Tech สหรัฐร่วงแรงเมื่อคืนนี้ จากความกังวลนโยบาย Data Center ในประเทศ",
-      "link": "https://www.blognone.com/node/152114",
-      "content": "หุ้น Tech สหรัฐร่วงแรงเมื่อคืนนี้ จากความกังวลนโยบาย Data Center ในประเทศ\n\n  \nBody\nเมื่อคืนนี้หุ้นสหรัฐจำนวนมากปรับตัวลงแรง โดยเฉพาะหุ้นของบริษัทเทคโนโลยีที่เกี่ยวกับ AI โดยในภาพรวมดัชนี Nasdaq ปรับลดลงถึง 5.82% มากที่สุดนับตั้งแต่ 4 เมษายน 2025 ส่วนหุ้น 7 นางฟ้า (Magnificent Seven) มูลค่ากิจการรวมกันหายไปมากกว่า 1 ล้านล้านดอลลาร์ เฉพาะ NVIDIA ลดลง 4.4 แสนล้านดอลลาร์ และทำให้ผลตอบแทนจากราคาหุ้น NVIDIA นับตั้งแต่ต้นปีกลับมาขาดทุน\nก่อนหน้านี้ตลาดหุ้นสหรัฐมีความกังวลในหุ้นกลุ่มเทคโนโลยีที่เกี่ยวข้องกับ AI อยู่แล้ว จากประเด็นหนี้สินของบริษัทรายใหญ่ที่เพิ่มสูงมากเช่น Amazon หรือ Alphabet ที่กระแสเงินสดอิสระติดลบอีกไตรมาส เมื่อผลการเลือกตั้งกลางเทอมของสหรัฐออกมาว่าพรรคเดโมแครตได้เสียงข้างมากทั้งวุฒิสภาและสภาผู้แทนราษฎร จึงทำให้เกิดความกังวลว่าจะมีนโยบายควบคุมการขยายศูนย์ข้อมูล (Data Center) ซึ่งเป็นหนึ่งในหัวข้อที่ทำให้พรรคเดโมแครตชนะการเลือกตั้ง\nการปรับลดลงนี้ยังส่งผลต่อตลาดหุ้นในทวีปเอเชียวันศุกร์ โดยเฉพาะหุ้นที่ได้ประโยชน์จาก AI ในช่วงที่ผ่านมาทั้ง SK Hynix ลบ 8%, Samsung Electronics ลบ 7%, SoftBank ลบ 11.6%, Advantest ลบ 12.2%\nที่มา: The Wall Street Journal และ CNBC\narjin\nFri, 06/11/2026 - 15:42",
-      "pubDate": "Fri, 06 Nov 2026 08:42:38 +0000",
-      "source": "Blognone",
-      "category": "AI",
-      "thumbnail": null,
-      "readTime": "3 นาที"
     },
     {
       "id": "https://techsauce.co/ai/perplexity-teammates-ai-agents-ongoing-work",
@@ -297,28 +330,6 @@
       "category": "ภัยคุกคามทางไซเบอร์",
       "thumbnail": "https://www.thaicert.or.th/wp-content/uploads/2026/11/Google-Patch-Android-1024x576.jpg",
       "readTime": "1 นาที"
-    },
-    {
-      "id": "152113 at https://www.blognone.com",
-      "title": "ไมโครซอฟท์บอก Windows 11 ใช้แรมน้อยลง ตอบสนองเร็วขึ้น 40% บนพีซีแรม 8GB",
-      "link": "https://www.blognone.com/node/152113",
-      "content": "ไมโครซอฟท์บอก Windows 11 ใช้แรมน้อยลง ตอบสนองเร็วขึ้น 40% บนพีซีแรม 8GB\n\n  \nBody\nไมโครซอฟท์ออกคลิปโปรโมทพัฒนาการของ Windows 11 ว่าทำงานบนพีซีแรมน้อย 8GB ได้เร็วขึ้นสูงสุด 40% ซึ่ง เพิ่มจากตัวเลขก่อนหน้า 20% เมื่อกลางเดือนนี้\nวิธีการวัดของไมโครซอฟท์บอกว่าเทียบจาก Windows build ล่าสุด 26300.9550 คิดเทียบกับ build 26200.7628 ที่ออกเมื่อเดือนมกราคม 2026 โดยวัดค่าการทำงานของ Search, Start, Settings, Snipping Tool, File Explorer บนพีซีแรม 8GB\nแนวทางของไมโครซอฟท์คือให้แอพพลิเคชันต่างๆ ใช้แรมน้อยลงด้วยเทคนิคการรีดประสิทธิภาพต่างๆ เช่น ให้ Edge ปรับค่าแท็บให้หลับหลังไม่ใช้งาน 15 นาที เทียบกับของเดิม 2 ชั่วโมง ผลคือ Teams ใช้แรมน้อยลง 375MB หรือถ้าวัดรวม 6 ตัวคือ Teams, Edge, Word, Excel, PowerPoint, Outlook ใช้แรมลดลง 900MB\nที่มา - ExtremeTech\n\nmk\nFri, 06/11/2026 - 09:08",
-      "pubDate": "Fri, 06 Nov 2026 02:08:25 +0000",
-      "source": "Blognone",
-      "category": "General",
-      "thumbnail": null,
-      "readTime": "2 นาที"
-    },
-    {
-      "id": "152112 at https://www.blognone.com",
-      "title": "โมเดลสร้างวิดีโอ Gemini Omni 1.2 Flash สร้างคลิปยาวขึ้นเป็น 15 วินาที, ราคาถูกลง 30%",
-      "link": "https://www.blognone.com/node/152112",
-      "content": "โมเดลสร้างวิดีโอ Gemini Omni 1.2 Flash สร้างคลิปยาวขึ้นเป็น 15 วินาที, ราคาถูกลง 30%\n\n  \nBody\nข่าวโมเดลใหม่ประจำวันนี้ขอเสนอ Gemini Omni 1.2 Flash โมเดลสร้างวิดีโอ เวอร์ชันอัพเกรดจาก Gemini Omni 1.1 Flash ที่เพิ่งออกช่วงปลายเดือนสิงหาคม\nของใหม่ที่สำคัญใน Gemini Omni 1.2 Flash คือสร้างวิดีโอได้ยากขึ้นจากเดิม 10 วินาทีเป็น 15 วินาที และสามารถสั่งกำหนดความยาวได้ในช่วง 3-15 วินาที (ขยับเพิ่มทีละ 1 วินาที) ช่วยให้ผู้สร้างคลิปมีความยืดหยุ่นมากขึ้นในการสร้างคลิปต่อเนื่องกัน\nอีกประเด็นสำคัญคือ Gemini Omni 1.2 Flash ลดราคาลงอีก 30% จากเวอร์ชัน 1.1 ส่งผลให้ราคาตอนนี้อยู่ที่ 0.07 ดอลลาร์ต่อวินาที ที่วิดีโอความละเอียด 720p โดยสามารถสร้างคลิป 360p/720p มาลองดูก่อน แก้ไขจนพอใจ แล้วค่อยอัพสเกลเป็น 1080p/4K ภายหลังได้\nกูเกิลยังบอกว่า Gemini Omni 1.2 Flash จะปฏิบัติตามคำสั่งของเรา เช่น สไตล์ตัวละคร สไตล์ภาพ อย่างสม่ำเสมอตลอดคลิปมากขึ้น ไม่ว่าจะหมุนมุมกล้องอย่างไร ใบหน้า เสื้อผ้า ตัวอักษร สีของแบรนด์ จะเหมือนเดิมตลอดทั้งคลิป\nตอนนี้ Gemini Omni 1.2 Flash เปิดใช้งานแล้วผ่าน API และผลิตภัณฑ์ต่างๆ ของกูเกิล เช่น Google Vids, Flow และแอพ Gemini\nที่มา - Google\nMeet Gemini Omni 1.2 Flash, our updated video generation model from @GoogleDeepMind 🎬\n\nGet stronger consistency, more creative control, and faster, more cost-effective video creation at scale:\n⚡ Fast & 30% lower cost: Draft at 360p or 720p ($0.07/s) and upscale to 1080p or 4K\n⏱️ Longer clips: Generate and edit videos up to 15s, or pick any exact length from 3s to 15s\n💬 Edit in conversation: Swap backgrounds, subjects, or lighting turn by turn without starting over from scratch\n🗣️ More natural speech: Create fluid, multi-speaker dialogue with clearer lip-sync\n🎬 More controllable shots: Direct continuous camera moves with fewer jump cuts\nSee these updates in action ↓\n— Google (@Google) November 5, 2026\n\n\n          \nmk\nFri, 06/11/2026 - 08:57",
-      "pubDate": "Fri, 06 Nov 2026 01:57:39 +0000",
-      "source": "Blognone",
-      "category": "AI",
-      "thumbnail": null,
-      "readTime": "5 นาที"
     },
     {
       "id": "https://www.techtalkthai.com/?p=171880",
@@ -648,17 +659,6 @@
       "source": "Techsauce",
       "category": "AI",
       "thumbnail": "https://storage.googleapis.com/techsauce-prod/ugc/uploads/2026/11/1793765656_%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B8%8D%E0%B9%88%E0%B8%B2%E0%B8%AD%E0%B8%A2%E0%B9%88%E0%B8%B2%E0%B8%A2%E0%B8%B8%E0%B9%88%E0%B8%87_%E0%B8%9B%E0%B8%81%E0%B8%82%E0%B9%88%E0%B8%B2%E0%B8%A71200x800_-_2026-11-04T111357.932.webp",
-      "readTime": "1 นาที"
-    },
-    {
-      "id": "https://it24hrs.com/?p=170901",
-      "title": "ChatGPT เตรียมรวม Chat และ Work พร้อมใช้โควตาร่วมกับ Codex",
-      "link": "https://it24hrs.com/2026/chatgpt-chat-work-codex-shared-usage/",
-      "content": "ChatGPT เตรียมรวม Chat และ Work ในที่เดียวแบบไม่ต้องเลื […]\nThe post ChatGPT เตรียมรวม Chat และ Work พร้อมใช้โควตาร่วมกับ Codex appeared first on iT24Hrs by ปานระพี.",
-      "pubDate": "Tue, 03 Nov 2026 06:18:47 +0000",
-      "source": "IT24Hrs",
-      "category": "AI",
-      "thumbnail": null,
       "readTime": "1 นาที"
     },
     {
