@@ -19,31 +19,31 @@
       "link": "https://github.com/"
     },
     {
-      "id": "https://www.techtalkthai.com/?p=171898",
-      "title": "ความต้องการด้าน AI ในประเทศไทยเพิ่มสูงขึ้น การเช่า GPU จึงกลายเป็นทางเลือกใหม่ขององค์กรในการจัดหาทรัพยากรการประมวลผล [Guest Post]",
-      "category": "AI",
+      "id": "https://www.techtalkthai.com/?p=171972",
+      "title": "Automattic เปิดตัว Spacefast แพลตฟอร์ม Deploy แอป Vibe Coding ท้าชน Lovable",
+      "category": "Security",
       "source": "TechTalk Thai",
-      "summary": "รัฐบาลไทยมีการส่งเสริมการพัฒนา AI อย่างจริงจังในช่วงไม่กี่ปีที่ผ่านมา โดยไม่เพียงแต่กำหนดกฎระเบียบที่เกี่ยวข้องเท่านั้น ...",
-      "thumbnail": "https://www.techtalkthai.com/wp-content/uploads/2026/11/Cover-TTT-GWS6-640x335.png",
-      "link": "https://www.techtalkthai.com/gws-cloud-rising-ai-demand-thailand-gpu-rental-guest-post/"
+      "summary": "Automattic บริษัทแม่ของ WordPress.com และ WooCommerce เปิดตัว Spacefast บริการโครงสร้างพื้นฐานสำหรับ Deploy เว็บไซต์และแ...",
+      "thumbnail": "https://www.techtalkthai.com/wp-content/uploads/2026/11/TTT-2026-11-10T110428.994-640x336.jpg",
+      "link": "https://www.techtalkthai.com/automattic-debuts-spacefast-for-vibe-coding/"
     },
     {
-      "id": "https://www.thaicert.or.th/?p=17777",
-      "title": "แจ้งเตือน พบช่องโหว่ใน OpenSSH บน Alpine Linux เสี่ยงถูกเข้าสู่ระบบโดยไม่ต้องทราบรหัสผ่าน",
+      "id": "https://www.thaicert.or.th/?p=17814",
+      "title": "แจ้งเตือน! ช่องโหว่ใน React Server Components เสี่ยงถูกโจมตีระบบได้โดยไม่ต้องยืนยันตัวตน ควรอัปเดตเป็นเวอร์ชันล่าสุดทันที",
       "category": "ภัยคุกคามทางไซเบอร์",
       "source": "ThaiCERT",
-      "summary": "ศูนย์ประสานการรักษาความมั่นคงปลอดภัยระบบคอมพิวเตอร์แห่ง […]\nThe post แจ้งเตือน พบช่องโหว่ใน OpenSSH บน Alpine Linux เสี่...",
-      "thumbnail": "https://www.thaicert.or.th/wp-content/uploads/2026/11/OpenSSH-บน-Alpine-Linux-1024x597.png",
-      "link": "https://www.thaicert.or.th/2026/11/09/%e0%b9%81%e0%b8%88%e0%b9%89%e0%b8%87%e0%b9%80%e0%b8%95%e0%b8%b7%e0%b8%ad%e0%b8%99-%e0%b8%9e%e0%b8%9a%e0%b8%8a%e0%b9%88%e0%b8%ad%e0%b8%87%e0%b9%82%e0%b8%ab%e0%b8%a7%e0%b9%88%e0%b9%83%e0%b8%99-openssh/"
+      "summary": "ศูนย์ประสานการรักษาความมั่นคงปลอดภัยระบบคอมพิวเตอร์แห่ง […]\nThe post แจ้งเตือน! ช่องโหว่ใน React Server Components เสี่ย...",
+      "thumbnail": "https://www.thaicert.or.th/wp-content/uploads/2026/11/React-Server-Components-1024x577.png",
+      "link": "https://www.thaicert.or.th/2026/11/10/%e0%b9%81%e0%b8%88%e0%b9%89%e0%b8%87%e0%b9%80%e0%b8%95%e0%b8%b7%e0%b8%ad%e0%b8%99-%e0%b8%8a%e0%b9%88%e0%b8%ad%e0%b8%87%e0%b9%82%e0%b8%ab%e0%b8%a7%e0%b9%88%e0%b9%83%e0%b8%99-react-server-components/"
     },
     {
-      "id": "152134 at https://www.blognone.com",
-      "title": "NVIDIA ประกาศสอบสวน Jensen Huang ประเด็นคบหากับคนที่อาจเป็นสายลับ - Jensen ขอโทษต่อเรื่องที่เกิดขึ้น",
+      "id": "152144 at https://www.blognone.com",
+      "title": "[ลือ] ซีอีโอ Apple ตั้งเป้าเร่งพัฒนา Siri AI ให้มีความสามารถผู้ช่วยที่มากขึ้น คาดเห็นความก้าวหน้าใน iOS 28",
       "category": "AI",
       "source": "Blognone",
-      "summary": "NVIDIA ประกาศสอบสวน Jensen Huang ประเด็นคบหากับคนที่อาจเป็นสายลับ - Jensen ขอโทษต่อเรื่องที่เกิดขึ้น\n\n  \nBody\nบอร์ด NVID...",
+      "summary": "[ลือ] ซีอีโอ Apple ตั้งเป้าเร่งพัฒนา Siri AI ให้มีความสามารถผู้ช่วยที่มากขึ้น คาดเห็นความก้าวหน้าใน iOS 28\n\n  \nBody\nข่าว...",
       "thumbnail": null,
-      "link": "https://www.blognone.com/node/152134"
+      "link": "https://www.blognone.com/node/152144"
     }
   ],
   "articles": [
@@ -52,7 +52,7 @@
       "title": "แนวทางปฏิบัติการตั้งรหัสผ่านให้ปลอดภัยสำหรับบุคลากร",
       "link": "https://github.com/",
       "content": "1. รหัสผ่านต้องมีความยาวอย่างน้อย 8 ตัวอักษร\n2. ประกอบด้วยอักษรตัวพิมพ์ใหญ่ ตัวพิมพ์เล็ก ตัวเลข และสัญลักษณ์พิเศษ\n3. ห้ามใช้ข้อมูลส่วนตัว เช่น วันเกิด หรือเบอร์โทรศัพท์\n4. เปลี่ยนรหัสผ่านใหม่ทุกๆ 3-6 เดือนเพื่อความปลอดภัย",
-      "pubDate": "2026-11-09T02:27:30.461Z",
+      "pubDate": "2026-11-10T04:30:40.803Z",
       "source": "คู่มือภายในองค์กร",
       "category": "Internal",
       "thumbnail": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=500&auto=format&fit=crop&q=60"
@@ -62,10 +62,351 @@
       "title": "คลังกฎหมายและระเบียบที่เกี่ยวข้องกับการปฏิบัติราชการ",
       "link": "https://github.com/",
       "content": "### ⚖️ ศูนย์รวมลิงก์กฎหมายฉบับเต็มและแนวทางปฏิบัติงาน\n\nเพื่อความสะดวกและถูกต้องในการอ้างอิงข้อกฎหมายของเจ้าหน้าที่ในการปฏิบัติราชการ ศูนย์ไอทีได้รวบรวมลิงก์ตรงไปยังระบบสืบค้นกฎหมายของสำนักงานคณะกรรมการกฤษฎีกา และไฟล์ PDF ฉบับราชกิจจานุเบกษาไว้ในจุดเดียว ดังนี้ครับ:\n\n---\n\n### 🛒 1. หมวดการบริหารงานพัสดุและการจัดซื้อจัดจ้าง\n*   **พ.ร.บ. การจัดซื้อจัดจ้างและการบริหารพัสดุภาครัฐ พ.ศ. 2560**\n    *   🔗 [อ่านกฎหมายฉบับเต็ม (เว็บกฤษฎีกา)](https://www.ocs.go.th/)\n    *   📄 [ดาวน์โหลดไฟล์ PDF ฉบับประกาศราชกิจจานุเบกษา](https://www.gprocurement.go.th/wps/portal/egp/Regulation/!ut/p/z1/04_Sj9CPykssy0xPLMnMz0vMAfIjo8zifQ3djQydnQ18_T3dzA0czU0NfANMLQ1MPIz1w8EKDHAARwP9KGL041EQhd_4cP0oNCvCjM2AJgT4OvsHehgYOBtCFeAxoyA3NMIg01ERAHhSDzY!/dz/d5/L0lDUmlTUSEhL3dHa0FKRnNBLzROV3FpQSEhL3Ro/)\n*   **ระเบียบกระทรวงการคลังว่าด้วยการจัดซื้อจัดจ้างและการบริหารพัสดุภาครัฐ พ.ศ. 2560**\n    *   🔗 [อ่านระเบียบฉบับเต็มและกฎกระทรวงที่เกี่ยวข้อง](https://www.gprocurement.go.th/wps/portal/egp/Regulation/Ministry_of_Finance_Regularity/)\n\n---\n\n### 🏢 2. หมวดการปฏิบัติราชการและวิธีพิจารณาทางปกครอง\n*   **พ.ร.บ. วิธีปฏิบัติราชการทางปกครอง พ.ศ. 2539 (และฉบับแก้ไขเพิ่มเติม)**\n    *   🔗 [อ่านกฎหมายฉบับเต็ม (เว็บกฤษฎีกา)](https://www.ocs.go.th/)\n*   **พ.ร.บ. ความรับผิดทางละเมิดของเจ้าหน้าที่ พ.ศ. 2539**\n    *   🔗 [อ่านกฎหมายฉบับเต็ม (เว็บกฤษฎีกา)](https://www.ocs.go.th/)\n*   **พ.ร.บ. การปฏิบัติราชการทางอิเล็กทรอนิกส์ พ.ศ. 2565** *(สำคัญมากสำหรับงานไอทีและบริการประชาชน)*\n    *   🔗 [อ่านกฎหมายฉบับเต็ม (เว็บกฤษฎีกา)](https://www.ocs.go.th/)\n\n---\n\n### 🛡️ 3. หมวดคุ้มครองข้อมูลและความมั่นคงปลอดภัยไซเบอร์\n*   **พ.ร.บ. คุ้มครองข้อมูลส่วนบุคคล พ.ศ. 2562 (PDPA)**\n    *   🔗 [สืบค้นกฎหมายและแนวทางปฏิบัติจาก สคส.](https://www.pdpc.or.th)\n*   **พ.ร.บ. การรักษาความมั่นคงปลอดภัยไซเบอร์ พ.ศ. 2562**\n    *   🔗 [สืบค้นกฎหมายและประกาศจาก สกมช. (NCSA)](https://www.ncsa.or.th/standards/laws)\n*   **พ.ร.บ. ว่าด้วยการกระทำความผิดเกี่ยวกับคอมพิวเตอร์ (ฉบับที่ 2) พ.ศ. 2560**\n    *   🔗 [อ่านกฎหมายฉบับเต็ม (เว็บกฤษฎีกา)](https://www.ocs.go.th/)\n\n---\n\n### 💡 แนะนำการใช้งานสำหรับเจ้าหน้าที่\n> หากต้องการสืบค้นกฎหมายอื่น ๆ เพิ่มเติม นอกเหนือจากรายการข้างต้น สามารถเข้าใช้งานระบบกฎหมายดิจิทัลโดยตรงได้ที่ **[ระบบสืบค้นกฎหมาย สำนักงานคณะกรรมการกฤษฎีกา](https://www.ocs.go.th/)** เพื่อข้อมูลที่อัปเดตและเป็นปัจจุบันที่สุด",
-      "pubDate": "2026-11-09T02:27:30.461Z",
+      "pubDate": "2026-11-10T04:30:40.803Z",
       "source": "ศูนย์รวมกฎหมายภาครัฐ",
       "category": "Law",
       "thumbnail": "https://images.unsplash.com/photo-1589829545856-d10d557cf95f?w=500"
+    },
+    {
+      "id": "https://www.techtalkthai.com/?p=171972",
+      "title": "Automattic เปิดตัว Spacefast แพลตฟอร์ม Deploy แอป Vibe Coding ท้าชน Lovable",
+      "link": "https://www.techtalkthai.com/automattic-debuts-spacefast-for-vibe-coding/",
+      "content": "Automattic บริษัทแม่ของ WordPress.com และ WooCommerce เปิดตัว Spacefast บริการโครงสร้างพื้นฐานสำหรับ Deploy เว็บไซต์และแอปพลิเคชันที่สร้างด้วยการ Vibe Coding โดยวางตำแหน่งเป็นแพลตฟอร์มเปิดที่พร้อมรองรับเอเจนต์ AI ชั้นนำ เพื่อตอบสนองการสร้างซอฟต์แวร์รูปแบบใหม่ที่กำลังเปลี่ยนโฉมการพัฒนาเว็บไซต์และแอปพลิเคชัน Spacefast ถูกออกแบบมาเพื่อแก้ปัญหาคอขวดของแอปพลิเคชันแบบ Vibe Coding ที่แม้จะสร้างอินเทอร์เฟซขึ้นมาได้อย่างรวดเร็ว แต่ยังขาดระบบหลังบ้านที่พร้อมทำงานจริง โดย Spacefast จะทำหน้าที่จัดเตรียมโครงสร้างพื้นฐานให้แบบเบ็ดเสร็จดังนี้ Database สำหรับจัดเก็บข้อมูลแอปพลิเคชัน Authentication เพื่อจัดการผู้ใช้งานและความปลอดภัย File Uploads & Emails รองรับการส่งข้อมูลและการสื่อสาร Analytics ติดตามการใช้งานของระบบ จุดเด่นสำคัญของ Spacefast คือความยืดหยุ่นในการเชื่อมต่อ โดยผู้ใช้งานสามารถผสานการทำงานร่วมกับ AI Agents และแชตบอตภายนอกได้อย่างอิสระ ไม่ว่าจะเป็น ChatGPT, Claude, Hermes, OpenClaw, Grok Bot, Muse, Pi, Cursor, OpenCode และ …",
+      "pubDate": "Tue, 10 Nov 2026 04:06:54 +0000",
+      "source": "TechTalk Thai",
+      "category": "Security",
+      "thumbnail": "https://www.techtalkthai.com/wp-content/uploads/2026/11/TTT-2026-11-10T110428.994-640x336.jpg",
+      "readTime": "3 นาที"
+    },
+    {
+      "id": "https://www.thaicert.or.th/?p=17814",
+      "title": "แจ้งเตือน! ช่องโหว่ใน React Server Components เสี่ยงถูกโจมตีระบบได้โดยไม่ต้องยืนยันตัวตน ควรอัปเดตเป็นเวอร์ชันล่าสุดทันที",
+      "link": "https://www.thaicert.or.th/2026/11/10/%e0%b9%81%e0%b8%88%e0%b9%89%e0%b8%87%e0%b9%80%e0%b8%95%e0%b8%b7%e0%b8%ad%e0%b8%99-%e0%b8%8a%e0%b9%88%e0%b8%ad%e0%b8%87%e0%b9%82%e0%b8%ab%e0%b8%a7%e0%b9%88%e0%b9%83%e0%b8%99-react-server-components/",
+      "content": "ศูนย์ประสานการรักษาความมั่นคงปลอดภัยระบบคอมพิวเตอร์แห่ง […]\nThe post แจ้งเตือน! ช่องโหว่ใน React Server Components เสี่ยงถูกโจมตีระบบได้โดยไม่ต้องยืนยันตัวตน ควรอัปเดตเป็นเวอร์ชันล่าสุดทันที first appeared on Thailand Computer Emergency Response Team (ThaiCERT).",
+      "pubDate": "Tue, 10 Nov 2026 04:06:11 +0000",
+      "source": "ThaiCERT",
+      "category": "ภัยคุกคามทางไซเบอร์",
+      "thumbnail": "https://www.thaicert.or.th/wp-content/uploads/2026/11/React-Server-Components-1024x577.png",
+      "readTime": "1 นาที"
+    },
+    {
+      "id": "152144 at https://www.blognone.com",
+      "title": "[ลือ] ซีอีโอ Apple ตั้งเป้าเร่งพัฒนา Siri AI ให้มีความสามารถผู้ช่วยที่มากขึ้น คาดเห็นความก้าวหน้าใน iOS 28",
+      "link": "https://www.blognone.com/node/152144",
+      "content": "[ลือ] ซีอีโอ Apple ตั้งเป้าเร่งพัฒนา Siri AI ให้มีความสามารถผู้ช่วยที่มากขึ้น คาดเห็นความก้าวหน้าใน iOS 28\n\n  \nBody\nข่าวสารแอปเปิลประจำสัปดาห์นี้จากจดหมายข่าว Power On โดย Mark Gurman แห่ง Bloomberg พูดถึงแผนการพัฒนา Siri AI ผู้ช่วยอัจฉริยะซึ่งเริ่มมีใน iOS 27\nโดยเขาบอกว่า John Ternus ซีอีโอแอปเปิล ได้ให้ความสำคัญกับ Siri AI มากตอนนี้ มีการประชุมแบบจริงจังกับ Craig Federighi หัวหน้าฝ่ายวิศวกรรมซอฟต์แวร์ ตั้งเป้าหมายให้ Siri AI เป็นผู้ช่วย AI ที่ทำงานเชิงรุกกับผู้ใช้งานในแบบเดียวกับ Dots, Muse หรือ Grok Bot ซึ่ง Ternus ต้องการเห็นความก้าวหน้าเร็วที่สุดเท่าที่ทำได้ จึงอาจได้เห็น Siri AI ที่มีความสามารถมากกว่าเดิมใน iOS 28 ปีหน้าเลย\nนอกจากนี้แอปเปิลยังปรับแผนการพัฒนาฟีเจอร์และฮาร์ดแวร์ เพื่อให้วิศวกรฮาร์ดแวร์-ซอฟต์แวร์สามารถสร้างสิ่งใหม่ได้มากขึ้น โดยเพิ่มเวลา จากเดิมที่แบ่งรอบเป็น 2x4 สัปดาห์ (โค้ด+รวมฟีเจอร์) ตอนนี้ได้ปรับใหม่เป็น 6+2 สัปดาห์แทน เพิ่มเวลาในการพัฒนาและเขียนโค้ดมากขึ้น\nที่มา: Bloomberg\narjin\nTue, 10/11/2026 - 10:58",
+      "pubDate": "Tue, 10 Nov 2026 03:58:56 +0000",
+      "source": "Blognone",
+      "category": "AI",
+      "thumbnail": null,
+      "readTime": "3 นาที"
+    },
+    {
+      "id": "https://www.techtalkthai.com/?p=171961",
+      "title": "มากกว่าแค่ติดตั้งระบบ เปิดเบื้องหลังทีม MFEC ขับเคลื่อน ServiceNow สู่ Business Impact [Guest Post]",
+      "link": "https://www.techtalkthai.com/mfec-servicenow-business-impact/",
+      "content": "ท่ามกลางการเร่งนำ AI มาใช้ องค์กรต้องเผชิญความท้าทายมากกว่าการเลือกเทคโนโลยี ไม่ว่าจะเป็นกระบวนการทำงานที่ซับซ้อน ข้อมูลที่แยกส่วน หรือระบบที่ยังไม่เชื่อมโยงกันอย่างเต็มประสิทธิภาพ การเปลี่ยนเทคโนโลยีให้เกิดคุณค่าทางธุรกิจจึงต้องอาศัยทั้งแพลตฟอร์มที่เหมาะสมและความเชี่ยวชาญในการนำไปใช้งานจริง ด้วยประสบการณ์การทำงานร่วมกับ ServiceNow มากกว่า 7 ปี และสถานะ ServiceNow Elite Partner ในปัจจุบัน MFEC มุ่งนำความสามารถของแพลตฟอร์มมาประยุกต์ใช้กับความต้องการขององค์กร ตั้งแต่การปรับปรุง Workflow ไปจนถึงการวางรากฐานสำหรับ Automation และ AI เพื่อรองรับการเติบโตในระยะยาว Expertise at Scale: 50+ ServiceNow-Focused Engineers ความเชี่ยวชาญที่พร้อมรองรับโจทย์ขององค์กร MFEC มีวิศวกรมากกว่า 50 คนที่มุ่งเน้นด้าน ServiceNow ครอบคลุมตั้งแต่ IT Service Management (ITSM), IT Asset Management (ITAM), IT Operations Management (ITOM), AppEngine, Governance, Risk …",
+      "pubDate": "Tue, 10 Nov 2026 03:21:59 +0000",
+      "source": "TechTalk Thai",
+      "category": "AI",
+      "thumbnail": "https://www.techtalkthai.com/wp-content/uploads/2026/11/S__2302033-640x427.jpg",
+      "readTime": "3 นาที"
+    },
+    {
+      "id": "https://www.techtalkthai.com/?p=171944",
+      "title": "Omnissa ร่วมกับ VST ECS (Thailand) จับมือ Google จัดงาน Omnissa and Google Workshop ในประเทศไทย ชูแนวทางยกระดับความปลอดภัยและประสิทธิภาพการทำงานยุค Modern Workspace และ Agentic Endpoint [Guest Post]",
+      "link": "https://www.techtalkthai.com/omnissa-vst-ecs-google-workshop-thailand-modern-workspace-agentic-endpoint-guest-post/",
+      "content": "ในยุคที่องค์กรกำลังปรับเปลี่ยนรูปแบบการทำงานสู่ Digital Workplace และ Hybrid Work การบริหารจัดการอุปกรณ์ปลายทาง (Endpoint Management) ควบคู่ไปกับการรักษาความปลอดภัยในการเข้าถึงระบบและข้อมูลขององค์กร กลายเป็นหนึ่งในโจทย์สำคัญของฝ่าย IT และผู้บริหารด้านเทคโนโลยี โดยเฉพาะเมื่อองค์กรต้องรองรับการทำงานจากทุกที่ ทุกอุปกรณ์ และทุกเครือข่ายอย่างปลอดภัย Omnissa และ Google จึงร่วมกันจัดงาน “Omnissa and Google Workshop Bangkok, Thailand” เมื่อวันที่ 20 ตุลาคม 2026 ณ Google Bangkok Office อาคาร Park Ventures Ecoplex กรุงเทพฯ เพื่อแลกเปลี่ยนความรู้และนำเสนอแนวทางด้านเทคโนโลยีสำหรับองค์กร ครอบคลุมทั้ง Android Enterprise, Chrome Enterprise Premium และ Omnissa Secure Access Suite โซลูชันด้านความปลอดภัยสำหรับ Modern Workforce และ …",
+      "pubDate": "Tue, 10 Nov 2026 02:15:07 +0000",
+      "source": "TechTalk Thai",
+      "category": "Security",
+      "thumbnail": "https://www.techtalkthai.com/wp-content/uploads/2026/11/omnissa-Google.png",
+      "readTime": "2 นาที"
+    },
+    {
+      "id": "152143 at https://www.blognone.com",
+      "title": "Anthropic เปิดตัว Claude Fable 5.2 ทวงแชมป์คืนสำเร็จ ตอบเร็วขึ้น ราคาถูกลง",
+      "link": "https://www.blognone.com/node/152143",
+      "content": "Anthropic เปิดตัว Claude Fable 5.2 ทวงแชมป์คืนสำเร็จ ตอบเร็วขึ้น ราคาถูกลง\n\n  \nBody\nAnthropic อัพเกรดโมเดลระดับเรือธง Claude Fable 5.2 และ Claude Mythos 5.2 ขยับเลขเวอร์ชันเพิ่มอีก 0.1 (ยังไม่ขยับเลขเป็น 5.5 เหมือนกับ Opus) ด้วยเหตุผลว่ายังใช้โมเดลฐานตัวเดิม แต่ปรับแต่งให้ประสิทธิภาพดีขึ้น\nความแตกต่างของ Fable 5.2 กับ Mythos 5.2 ยังเหมือนเดิม นั่นคือ Fable เป็นโมเดลสำหรับคนทั่วไป มีระบบป้องกันการนำไปใช้ด้านความปลอดภัยไซเบอร์และการวิจัยด้านชีวภาพ ป้องกันการนำไปใช้ทางที่ผิด ส่วน Mythos สามารถทำงาน 2 อย่างนี้ได้มากกว่า และต้องสมัครเข้าร่วมโครงการคัดกรองพิเศษถึงจะมีสิทธิได้ใช้งาน\nตัวเลขเบนช์มาร์คของ Fable 5.2 สามารถเอาชนะคู่แข่ง Gemini 4 Carbon และ GPT-6 Astra ได้ในหลายการทดสอบ นอกจากนี้ยังใช้โทเคนน้อยลง และตอบเร็วขึ้นกว่า Fable 5.1 ถึง 30%\nความโดดเด่นอีกประการของ Fable 5.2 คือ Anthropic ลดราคาลงจากเดิม เหลือ 8 ดอลลาร์ต่อล้านโทเคน (อินพุต) และ 40 ดอลลาร์ต่อล้านโทเคน (เอาต์พุต) นอกจากนี้ยังมี fast mode ที่เร่งความเร็วโทเคนอีก 2.5 เท่า แต่ก็ขึ้นราคาเพิ่มเท่าตัวเป็น 8 และ 80 ดอลลาร์ ตามลำดับ\nAnthropic แนะนำว่า Fable 5.2 เหมาะกับงานยากๆ งานแก้ปัญหาเทคนิคแบบปลายเปิด ส่วนการเขียนโค้ดทั่วไป แนะนำให้ใช้ Opus 5.5 เป็นตัวหลัก แล้วปรับขึ้นหรือปรับลดระดับของโมเดลตามโจทย์การใช้งาน (บางงานที่ไม่ซับซ้อนจะลดลงมาเป็น Sonnet หรือ Haiku ก็ประหยัดกว่า)\nที่มา - Anthropic\nIntroducing Claude Fable 5.2 and Claude Mythos 5.2, designed to tackle the most daunting technical challenges.\n\nThey’re capable collaborators on ambitious projects in many fields, and show improvements in areas like coding, reasoning, and vision. https://t.co/jP0AutLxXb\n— Claude (@claudeai) November 9, 2026\n\n\nmk\nTue, 10/11/2026 - 09:14",
+      "pubDate": "Tue, 10 Nov 2026 02:14:55 +0000",
+      "source": "Blognone",
+      "category": "Security",
+      "thumbnail": "https://www.blognone.com/sites/default/files/files-2026/2026-10/fable-table.webp",
+      "readTime": "5 นาที"
+    },
+    {
+      "id": "https://www.techtalkthai.com/?p=171917",
+      "title": "Ridge Security Webinar: ยกระดับ Cybersecurity สู่ยุค AI ก้าวข้ามขีดจำกัดของ LLMs สู่ Autonomous Red Teaming [27 พ.ย. | 14:00]",
+      "link": "https://www.techtalkthai.com/ridge-security-and-3tsky-webinar-2026/",
+      "content": "Ridge Security ร่วมกับ 3T Sky ขอเชิญผู้บริหารระดับ C-Level (CISO, CIO, CRO) ผู้นำด้านไอที และผู้ที่สนใจด้านความปลอดภัยไซเบอร์ เข้าร่วมงาน Webinar ในหัวข้อ “AI Era The Harness Advantage: Powering Autonomous Offensive Red Teaming Beyond Large Language Models” ยกระดับ Cybersecurity สู่ยุค AI ก้าวข้ามขีดจำกัดของ LLMs สู่ Autonomous Red Teaming เตรียมพร้อมรับมือเมื่อ AI ไม่ได้แค่ “คิด” แต่สามารถ “วางแผน วิเคราะห์ และทดสอบการโจมตี” ได้อย่างอัตโนมัติ วันที่ 27 พฤศจิกายน 2026 เวลา 14:00 – …",
+      "pubDate": "Tue, 10 Nov 2026 02:13:49 +0000",
+      "source": "TechTalk Thai",
+      "category": "Security",
+      "thumbnail": "https://www.techtalkthai.com/wp-content/uploads/2026/11/Ridge-Security-Webinar-FB-WB.png",
+      "readTime": "2 นาที"
+    },
+    {
+      "id": "152142 at https://www.blognone.com",
+      "title": "[ลือ] ซัมซุงเริ่มทดสอบแพ็กเกจ Galaxy AI Premium แบบเสียเงิน",
+      "link": "https://www.blognone.com/node/152142",
+      "content": "[ลือ] ซัมซุงเริ่มทดสอบแพ็กเกจ Galaxy AI Premium แบบเสียเงิน\n\n  \nBody\nหลังจากเปิดฟีเจอร์ Galaxy AI ให้ใช้ฟรีมาสักพักใหญ่ๆ ล่าสุดมีข่าวว่า ซัมซุงกำลังทดสอบแพ็กเกจ Galaxy AI Premium แบบเสียเงินแล้ว\nเว็บข่าวสายซัมซุง 2 ราย ยังให้ข้อมูลระดับราคาแพ็กเกจที่ไม่ตรงกัน โดย SamMobile บอกว่าแพ็กเกจ Galaxy AI Premium มี 3 ระดับ (tier) คือ Starter, Plus, Pro ส่วน Sammy Guru บอกว่ามี 2 ระดับคือ Standard, Max จึงเป็นไปได้ว่าซัมซุงกำลังทดสอบแพ็กเกจราคาที่ต่างกันอยู่\nตามข่าวบอกว่าแพ็กเกจราคาเริ่มต้นเดือนละ 4.99 ดอลลาร์ หรือปีละ 47.99 ดอลลาร์ โดยฟีเจอร์ที่ยังให้ทุกคนใช้ฟรีอยู่เหมือนเดิม ได้แก่ Browsing Assist, Creative Studio, Memory, Now Brief, Photo Studio, Smart capture, Samsung Keyboard แต่จำกัดโควต้าการใช้งาน\nส่วนลูกค้าที่จ่ายเงินจะได้โควต้าเพิ่ม และได้ฟีเจอร์เพิ่มดังนี้\nBixby Action เปลี่ยน Bixby เป็น agent ตามสั่ง ต้องจ่าย tier บนสุด (Pro)\nDaily Briefing คล้ายๆ กับ Now Brief อยู่ใน tier ระดับ Plus\nGen Video แปลงรูปภาพเป็นคลิป\nGalaxy Claw ทำงานประจำวันให้อัตโนมัติ\nที่มา - SamMobile, Sammy Guru\nmk\nTue, 10/11/2026 - 08:46",
+      "pubDate": "Tue, 10 Nov 2026 01:46:48 +0000",
+      "source": "Blognone",
+      "category": "AI",
+      "thumbnail": null,
+      "readTime": "3 นาที"
+    },
+    {
+      "id": "152141 at https://www.blognone.com",
+      "title": "Meta เปิดตัว Muse Ember, AI ตัวเล็กราคาถูก ขายผ่าน Google Cloud, Oracle",
+      "link": "https://www.blognone.com/node/152141",
+      "content": "Meta เปิดตัว Muse Ember, AI ตัวเล็กราคาถูก ขายผ่าน Google Cloud, Oracle\n\n  \nBody\nMeta เปิดตัว Muse Ember โมเดลปัญญาประดิษฐ์ขนาดเล็กที่เน้นความคุ้มค่า มีความสามารถในการอ่านได้ทั้งข้อความ, ภาพ, เสียง, และวิดีโอ\nผลทดสอบของ Muse Ember เทียบกับคู่แข่งราคาระดับเดียวกัน อย่าง GPT-6 Luna และ Claude Haiku 5.5 นั้นแซงได้แทบทุกชุดทดสอบ โดยเฉพาะความสามารถด้านการเขียนโค้ด ทำให้ตอนนี้มันกลายเป็นโมเดลในกลุ่มราคาถูกที่แซงหน้าโมเดลอื่นๆ\nค่าใช้ API อยู่ที่ 0.1/0.5 ดอลลาร์ต่อล้านโทเค็น และค่าแคชถูกเพียง 0.004 ดอลลาร์ต่อล้านโทเค็น โดยรองรับอินพุต 1M และเอาท์พุต 512K การเปิดตัวครั้งนี้ยังเป็นครั้งแรกที่ Meta ขาย API ผ่าน Google Cloud และ Oracle Cloud โดยขายทั้ง Muse Ember, Muse Spark, และ Muse Wonder\nที่มา - Meta\nlew\nTue, 10/11/2026 - 07:47",
+      "pubDate": "Tue, 10 Nov 2026 00:47:06 +0000",
+      "source": "Blognone",
+      "category": "AI",
+      "thumbnail": null,
+      "readTime": "2 นาที"
+    },
+    {
+      "id": "https://www.techtalkthai.com/?p=171937",
+      "title": "Anthropic เปิดตัว Claude Fable 5.2 และ Mythos 5.2 เร็วขึ้น 30% ราคาถูกลง สำหรับงานเทคนิคที่ซับซ้อน",
+      "link": "https://www.techtalkthai.com/anthropic-launches-claude-fable-5-2-mythos-5-2-faster-cheaper/",
+      "content": "Anthropic เปิดตัว Claude Fable 5.2 และ Claude Mythos 5.2 โมเดล AI สำหรับงานเทคนิคที่ซับซ้อน ปรับปรุงความสามารถด้าน coding, reasoning และ vision สร้าง output ได้เร็วขึ้นสูงสุด 30% และมีราคาต่ำกว่ารุ่น 5.1 Claude Fable และ Claude Mythos เป็นโมเดลพื้นฐานตัวเดียวกัน ต่างกันที่ Fable มี safeguards ด้าน cybersecurity และชีววิทยาเพื่อป้องกันการนำไปใช้ในทางที่ผิด จึงเปิดให้ผู้ใช้งานทั่วไปใช้ได้ ส่วน Mythos เปิดให้เฉพาะองค์กรด้าน cybersecurity และการวิจัยด้านชีวการแพทย์ที่ผ่านการคัดกรองจาก Cyber Verification Program และ Life Sciences Verification Program Anthropic แนะนำให้งาน coding และงานด้านความรู้ทั่วไปเริ่มจาก Claude …",
+      "pubDate": "Mon, 09 Nov 2026 20:02:03 +0000",
+      "source": "TechTalk Thai",
+      "category": "Security",
+      "thumbnail": "https://www.techtalkthai.com/wp-content/uploads/2026/02/Anthropic-Claude-Code-logo-640x335.png",
+      "readTime": "2 นาที"
+    },
+    {
+      "id": "https://www.techtalkthai.com/?p=171936",
+      "title": "Google เปิดตัว TPU 8tx และ TPU 8i Max เน้น Confidential Inference และ Context ขนาดใหญ่",
+      "link": "https://www.techtalkthai.com/google-launches-tpu-8tx-8i-max-confidential-inference-large-context/",
+      "content": "Google เปิดตัว TPU 8tx และ TPU 8i Max ระบบใหม่ในตระกูล TPU รุ่นที่ 8 โดย TPU 8tx เน้นงาน inference ที่ต้องปกป้องข้อมูลในระดับฮาร์ดแวร์ ส่วน TPU 8i Max รวมชิป TPU 8i จำนวน 2 ตัวไว้ในแพ็กเกจเดียวเพื่อรองรับ context window ขนาดใหญ่ ก่อนหน้านี้ Google ได้เปิดตัว TPU 8t สำหรับการฝึกโมเดลขนาดใหญ่ และ TPU 8i สำหรับงาน reasoning แบบ real-time ในงาน Google Cloud Next เมื่อเดือนเมษายน โดย TPU 8t ให้ประสิทธิภาพการฝึกโมเดลดีขึ้นสูงสุด 2.7 เท่า …",
+      "pubDate": "Mon, 09 Nov 2026 20:01:51 +0000",
+      "source": "TechTalk Thai",
+      "category": "General",
+      "thumbnail": "https://www.techtalkthai.com/wp-content/uploads/2026/11/TPU-8tx_and_8i-Max.width-2200.format-webp-640x360.webp",
+      "readTime": "2 นาที"
+    },
+    {
+      "id": "152140 at https://www.blognone.com",
+      "title": "สถิติ CPU-Z เผย พีซีที่ใช้แรม 32GB และ 64GB มีสัดส่วนลดลง จากปัญหาแรมแพง",
+      "link": "https://www.blognone.com/node/152140",
+      "content": "สถิติ CPU-Z เผย พีซีที่ใช้แรม 32GB และ 64GB มีสัดส่วนลดลง จากปัญหาแรมแพง\n\n  \nBody\nCPU-Z แอพวัดประสิทธิภาพซีพียูและชิ้นส่วนพีซีชื่อดัง เผยสถิติว่าสัดส่วนพีซีที่มีแรมเยอะระดับ 32GB และ 64GB ลดลง สะท้อนปัญหา \"แรมแพง\" ที่ส่งผลสะเทือนวงการอยู่ในขณะนี้\nพีซีที่มีแรม 32GB มีสัดส่วนลดลง 2.5% และพีซีแรม 64GB สัดส่วนลดลงถึง 18% ในขณะที่พีซีแรม 16GB โตสวนทางที่ 12.9% กับพีซีแรม 8GB ก็เพิ่มขึ้นเช่นกันที่ 5.5%\nถ้าดูภาพรวม พีซีแรม 32GB ยังมีสัดส่วนสูงเป็นอันดับหนึ่งที่ 37.2% แต่พีซีแรม 16GB ก็ไล่กวดมาติดๆ ที่ 33% ตามด้วยอันดับสาม พีซีแรม 8GB ที่ 11% และอันดับสี่ พีซีแรม 64GB ที่ 7.3%\nที่มา - CPU-Z via Tom's Hardware\nFresh stats from CPU-Z! 🔎\n— Doc TB (@d0cTB) November 6, 2026\n\n\n          \nmk\nMon, 09/11/2026 - 22:13",
+      "pubDate": "Mon, 09 Nov 2026 15:13:37 +0000",
+      "source": "Blognone",
+      "category": "General",
+      "thumbnail": null,
+      "readTime": "2 นาที"
+    },
+    {
+      "id": "152138 at https://www.blognone.com",
+      "title": "กูเกิลเพิ่มรุ่นชิป TPU รุ่นที่ 8 เพิ่มรุ่น Max อัดแรมและ HBM ขึ้นสูงสุด 384GB พร้อม SRAM 768MB",
+      "link": "https://www.blognone.com/node/152138",
+      "content": "กูเกิลเพิ่มรุ่นชิป TPU รุ่นที่ 8 เพิ่มรุ่น Max อัดแรมและ HBM ขึ้นสูงสุด 384GB พร้อม SRAM 768MB\n\n  \nBody\nกูเกิลเปิดตัว TPU รุ่นที่ 8 ที่เดิมเปิดตัวมาสองรุ่นตั้งแต่งาน Google I/O ได้แก่ TPU 8t และ TPU 8i มาอีกสองรุ่น ได้แก่ TPU 8tx และ TPU 8i Max ที่ตอบสนองตลาดเฉพาะทางกว่าเดิม\nTPU 8tx เป็นชิปที่ใช้เทคโนโลยีเข้ารหัสแรมของ AMD โดยในตัวชิปเป็น AMD EPYC รุ่นที่ 5 การเพิ่มความสามารถเข้ารหัสแรมทำให้ลูกค้าองค์กรที่ต้องการความมั่นใจว่าข้อมูลไม่หลุดออกไปภายนอกสามารถนำข้อมูลมาฝึกบนคลาวด์ได้สะดวกขึ้น\nTPU 8i Max เป็นรุ่นแก้ปัญหา memory bandwidth ที่เป็นคอขวดของการผลิตโทเค็นใน LLM โดยอาศัยการเพิ่ม SRAM บนตัวชิป เป็น 768MB และเพิ่มแรม HBM เป็น 384GB ที่แบนวิดท์ 17.2TB/s\nกูเกิลระบุว่าชิปรุ่นใหม่นี้อาศัย AlphaChip ปัญญาประดิษฐ์ออกแบบชิปมาช่วยลดเวลาทำงานลง งานบางส่วนที่ต้องใช้เวลานับสัปดาห์ลดเหลือเพียงไม่กี่ชั่วโมง และคาดว่าในอนาคตก็จะใช้ AI มาพัฒนา AI มากขึ้นเรื่อยๆ\nที่มา - Google\nlew\nMon, 09/11/2026 - 22:08",
+      "pubDate": "Mon, 09 Nov 2026 15:08:17 +0000",
+      "source": "Blognone",
+      "category": "AI",
+      "thumbnail": null,
+      "readTime": "3 นาที"
+    },
+    {
+      "id": "152139 at https://www.blognone.com",
+      "title": "Huawei เปิดตัวพีซี HarmonyOS Desktop ชิ้นส่วน 100% ผลิตในจีน",
+      "link": "https://www.blognone.com/node/152139",
+      "content": "Huawei เปิดตัวพีซี HarmonyOS Desktop ชิ้นส่วน 100% ผลิตในจีน\n\n  \nBody\nHuawei เปิดตัวคอมพิวเตอร์เดสก์ท็อปที่ระบุว่าใช้ชิ้นส่วนผลิตในจีน 100% และใช้ระบบปฏิบัติการ HarmonyOS ของตัวเอง\nพีซีรุ่นนี้ชื่อว่า Qingyun HM650 เน้นตลาดองค์กรและหน่วยงานภาครัฐ ใช้ซีพียู Kirin X90 ที่ใช้กับโน้ตบุ๊ก MateBook Pro รุ่นของปีที่แล้ว แรม LPDDR5 16GB, สตอเรจ 512GB, ระบบปฏิบัติการใช้ HarmonyOS V1.0 Enterprise Edition ที่มีผู้ช่วย AI ชื่อ Xiaoyi รองรับการรัน local AI ภายในเครื่อง ราคาขายเครื่องละ 7,199 หยวน หรือประมาณ 36,000 บาท\nจุดต่างสำคัญของ Qingyun HM650 กับพีซีโน้ตบุ๊ก HarmonyOS ก่อนหน้านี้คือ Qingyun HM650 ได้ใบรับรองว่าผลิตทุกอย่างในจีน 100% จาก Zhejiang Kezheng Electronic Information Product Inspection ทั้งตัวชิป ซอฟต์แวร์ และกระบวนการผลิต (แม้ Huawei ไม่ได้ผลิตเองทั้งหมด แต่ก็ผลิตในจีนทั้งหมด) ก็น่าสนใจว่าพีซีลักษณะนี้จะมีบทบาทอย่างไรในยุคสงครามเทคโนโลยีระหว่างจีนกับสหรัฐที่เข้มข้น\nที่มา - Huawei, Huawei Central, Tom's Hardware\nmk\nMon, 09/11/2026 - 22:00",
+      "pubDate": "Mon, 09 Nov 2026 15:00:38 +0000",
+      "source": "Blognone",
+      "category": "AI",
+      "thumbnail": null,
+      "readTime": "3 นาที"
+    },
+    {
+      "id": "https://techsauce.co/tech-and-biz/behind-ttb-humanized-digital-banking",
+      "title": "ถอดสูตร ttb: สร้างดิจิทัลแบงก์กิ้งที่ใช่ [รู้ใจคุณ] เพื่อยกระดับประสบการณ์ทางการเงินไร้รอยต่อและบริการที่รู้ใจลูกค้า",
+      "link": "https://techsauce.co/tech-and-biz/behind-ttb-humanized-digital-banking",
+      "content": "แนวคิด Humanized Digital Banking หรือดิจิทัลแบงก์กิ้งที่ใช่ [รู้ใจคุณ] ที่ต้องพัฒนา Digital x Human x AI ควบคู่กันทั้ง เทคโนโลยี วิธีทำงานและการเชื่อมต่อบริการ โดยเริ่มจากการทำความเข้าใจปัญหาของลูกค้า",
+      "pubDate": "Mon, 09 Nov 2026 18:14:24 +0700",
+      "source": "Techsauce",
+      "category": "AI",
+      "thumbnail": "https://storage.googleapis.com/techsauce-prod/ugc/uploads/2026/11/1794197666_Keng_%E0%B8%9B%E0%B8%81%E0%B8%82%E0%B9%88%E0%B8%B2%E0%B8%A71200x800_%2878%29.webp",
+      "readTime": "1 นาที"
+    },
+    {
+      "id": "https://www.techtalkthai.com/?p=171933",
+      "title": "Salesforce เผยยอดใช้งาน Agentforce Coworker ในองค์กรเติบโต 21 เท่าใน 3 เดือน สะท้อนบทบาท AI ที่พร้อมรับมอบหมายงานจริงจากพนักงาน [PR]",
+      "link": "https://www.techtalkthai.com/salesforce-agentforce-coworker-report-pr/",
+      "content": "Salesforce (NYSE: CRM) ผู้นำอันดับ 1 ด้าน AI CRM ระดับโลก ประกาศขยายขีดความสามารถของ Agentforce Coworker ครั้งสำคัญ ด้วยการเพิ่มความสามารถด้าน AI บริบททางธุรกิจที่ครอบคลุมยิ่งขึ้น และประสบการณ์การใช้งานรูปแบบใหม่ผ่าน Microsoft Teams อุปกรณ์เคลื่อนที่ และคอมพิวเตอร์เดสก์ท็อป ต่อยอดจากการเติบโตของยอดใช้งานถึง 21 เท่าภายในเวลาเพียง 3 เดือน โดยความสามารถ Skills ที่สามารถนำกลับมาใช้ซ้ำได้ ช่วยให้พนักงานทำงานผ่านขั้นตอนที่ผ่านการพิสูจน์แล้ว แทนการเริ่มต้นใหม่ทุกครั้งหรือกังวลว่า AI จะสามารถทำงานได้ถูกต้องตามที่ต้องการหรือไม่ ขณะที่ Conversation History ช่วยให้พนักงานกลับมาทำงานต่อจากจุดเดิมได้ทันที ส่วนฟีเจอร์ scheduled tasks ที่เตรียมเปิดให้ใช้งาน จะช่วยให้งานดำเนินต่อไปได้โดยไม่จำเป็นต้องคอยติดตามหรือสั่งงานซ้ำอยู่ตลอดเวลา นอกจากนี้ ด้วยค่าบริการ 50 เหรียญสหรัฐต่อผู้ใช้งานต่อเดือน ซึ่งมีรูปแบบราคาที่ชัดเจนและคาดการณ์ได้ ยังช่วยให้องค์กรสามารถวางแผนงบประมาณและขยายการใช้งานได้อย่างมั่นใจ Credit: Salesforce ด้วยรากฐานความสัมพันธ์กับลูกค้า กระบวนการทางธุรกิจ และข้อมูลระดับองค์กรที่ได้รับความไว้วางใจและสั่งสมมาอย่างยาวนาน Coworker จึงสามารถนำศักยภาพทั้งหมดของ …",
+      "pubDate": "Mon, 09 Nov 2026 10:37:24 +0000",
+      "source": "TechTalk Thai",
+      "category": "AI",
+      "thumbnail": "https://www.techtalkthai.com/wp-content/uploads/2023/12/salesforce_logo_banner-640x335.png",
+      "readTime": "3 นาที"
+    },
+    {
+      "id": "https://www.techtalkthai.com/?p=171930",
+      "title": "ฟอร์ติเน็ต ยกระดับระบบรักษาความปลอดภัย AI เปิดบริการใหม่ FortiGuard Inline AI Security Service [PR]",
+      "link": "https://www.techtalkthai.com/fortinet-fortiguard-inline-ai-security-service-pr/",
+      "content": "ฟอร์ติเน็ต ผู้นำระดับโลกด้านไซเบอร์ซีเคียวริตี้ที่ขับเคลื่อนการผสานรวมของระบบเครือข่ายและระบบรักษาความปลอดภัยเข้าด้วยกัน ประกาศเปิดตัว FortiGuard Inline AI Security Service บริการใหม่ผ่านคลาวด์ที่มาพร้อมความสามารถในการตรวจสอบ ควบคุมและป้องกันการใช้งาน AI โดยเฉพาะสำหรับลูกค้า FortiGate ช่วยให้มองเห็นกิจกรรมของ AI ได้ครอบคลุมยิ่งขึ้น สกัดกั้นภัยคุกคามจาก AI และป้องกันการเปิดเผยข้อมูลผ่านโซลูชันของฟอร์ติเน็ตที่ใช้งานอยู่แล้ว นวัตกรรมของ FortiAIGate  พัฒนาอย่างต่อเนื่องเพื่อเพิ่มขีดความสามารถให้มีประสิทธิภาพสูงยิ่งขึ้น ทั้งควบคุมและป้องกัน AI ขยายขอบเขตการเข้าถึงและควบคุมด้านการปฏิบัติตามข้อกำหนด ตรวจสอบการใช้งาน Shadow AI และเอเจนต์ AI ให้มองเห็นได้ชัดเจนยิ่งขึ้น รวมถึงเทคโนโลยีจากการเข้าซื้อกิจการ Virtue AI   ฟอร์ติเน็ตมีฐานการใช้งาน FortiGateอย่างกว้างขวาง ช่วยให้องค์กรสามารถนำระบบรักษาความปลอดภัย AI ขั้นสูงมาใช้งานได้ง่ายขึ้นผ่านโครงสร้างพื้นฐานที่ใช้งานอยู่ ลูกค้าสามารถเปิดใช้งาน FortiGuard Inline AI Security Service ได้โดยไม่ต้องติดตั้งและจัดการโครงสร้างพื้นฐานระบบรักษาความปลอดภัย AI แยกจากกัน ทำให้องค์กรสามารถเข้าถึงระบบรักษาความปลอดภัย AI ขั้นสูงได้มากยิ่งขึ้น  สำหรับลูกค้าที่มีข้อกำหนดด้านความปลอดภัย ความเป็นส่วนตัว และอธิปไตยทางข้อมูล …",
+      "pubDate": "Mon, 09 Nov 2026 10:26:38 +0000",
+      "source": "TechTalk Thai",
+      "category": "Security",
+      "thumbnail": "https://www.techtalkthai.com/wp-content/uploads/2024/11/fortinet-640x335.jpg",
+      "readTime": "3 นาที"
+    },
+    {
+      "id": "https://www.techtalkthai.com/?p=171928",
+      "title": "Thinking Machines เปิดตัว Inkling 2 Small ท่ามกลางกระแสข่าวระดมทุน 5 พันล้านดอลลาร์",
+      "link": "https://www.techtalkthai.com/thinking-machines-debuts-inkling-2-small-amid-reported-5b-fundraising-push/",
+      "content": "Thinking Machines เปิดตัวโมเดลภาษาขนาดใหญ่รุ่นใหม่ที่สามารถทำงานด้านการฝึกสอนปัญญาประดิษฐ์ได้โดยอัตโนมัติ อัลกอริทึม Inkling 2 Small เปิดตัวอย่างเป็นทางการในช่วงปลายวันพฤหัสบดี ในเวลาใกล้เคียงกันมีรายงานจาก Business Insider ระบุว่า Thinking Machines กำลังอยู่ในระหว่างการระดมทุนรอบใหม่มูลค่า 5 พันล้านดอลลาร์โดยมี Accel เป็นแกนนำ บริษัทแห่งนี้ก่อตั้งขึ้นเมื่อปีที่แล้วโดย Mira Murati อดีตประธานเจ้าหน้าที่ฝ่ายเทคโนโลยีของ OpenAI และคาดว่าจะได้รับการประเมินมูลค่าบริษัทอยู่ที่ 4 หมื่นล้านดอลลาร์ Thinking Machines ฝึก Inkling 2 Small บนคลัสเตอร์ของแร็ก GB300 NVL72 โดยระบบแต่ละชุดประกอบด้วยกราฟิกการ์ด Blackwell Ultra จำนวน 72 ตัวและหน่วยประมวลผลกลางอีกจำนวนครึ่งหนึ่ง บริษัทเสร็จสิ้นขั้นตอนก่อนการฝึกเบื้องต้นภายในเวลา 68 ชั่วโมง และปรับแต่งโมเดลในเวลาต่อมาผ่านเวิร์กโฟลว์การเรียนรู้แบบเสริมกำลังเป็นเวลา 9 วัน รวมถึงยังมีขั้นตอนการฝึกสอนระดับกลางอีกจำนวนหนึ่ง Thinking Machines ขัดเกลาความสามารถในการเขียนโปรแกรมของ Inkling 2 Small …",
+      "pubDate": "Mon, 09 Nov 2026 09:56:23 +0000",
+      "source": "TechTalk Thai",
+      "category": "AI",
+      "thumbnail": "https://www.techtalkthai.com/wp-content/uploads/2025/04/ThinkingMachines-logo.png",
+      "readTime": "3 นาที"
+    },
+    {
+      "id": "https://www.techtalkthai.com/?p=171926",
+      "title": "OpenAI ระดมทุนอีก 1.1 หมื่นล้านดอลลาร์",
+      "link": "https://www.techtalkthai.com/openai-reportedly-raises-11b-in-new-funding/",
+      "content": "มีรายงานว่า OpenAI ได้ระดมทุนไปแล้ว 1.1 หมื่นล้านดอลลาร์ในรอบการระดมทุนครั้งใหม่ ซึ่งอาจมีขนาดเพิ่มขึ้นเกือบสองเท่าในอีกไม่กี่สัปดาห์ข้างหน้า โดยแหล่งข่าวแจ้งกับ Bloomberg ว่านักลงทุนได้โอนเงินให้กับบริษัทเป็นที่เรียบร้อยแล้ว แหล่งข่าวไม่ได้ระบุชื่อผู้สนับสนุนรายต่าง ๆ โดยรายชื่อของผู้ที่มีความเป็นไปได้ว่าจะเข้าร่วม ได้แก่ Microsoft ซึ่งเคยสนับสนุน OpenAI มาแล้วอย่างน้อย 4 รอบก่อนหน้านี้ รวมถึงการระดมทุนครั้งล่าสุดมูลค่า 1.22 แสนล้านดอลลาร์ในเดือนมีนาคมที่ผ่านมา ซึ่งมี Nvidia, Amazon.com และบริษัทอื่น ๆ อีกกว่า 20 แห่งเข้าร่วมด้วย เป็นที่คาดการณ์ว่า OpenAI อาจระดมทุนได้เพิ่มอีกสูงสุด 9 พันล้านดอลลาร์ในรอบนี้ ข้อตกลงดังกล่าวคาดว่าจะทำให้บริษัทมีมูลค่ากิจการอยู่ที่ 1.25 ล้านล้านดอลลาร์ ซึ่งอาจส่งผลให้บริษัทมีแนวโน้มที่จะแซงหน้ามูลค่าตามราคาตลาดของ Anthropic Anthropic หวังว่าจะสร้างมูลค่ากิจการให้ถึง 1.5 ล้านล้านดอลลาร์ในการเสนอขายหุ้นต่อสาธารณชนครั้งแรกที่กำลังจะมาถึง อย่างไรก็ตาม มีรายงานว่านักลงทุนหลายรายไม่เห็นด้วยว่าเป้าหมายดังกล่าวจะเป็นจริงได้ ตามรายงานของ Wall Street Journal ผู้ถือหุ้นรายหนึ่งเสนอแนะว่าบริษัทควรตั้งเป้ามูลค่ากิจการให้ใกล้เคียงกับ 1 ล้านล้านดอลลาร์มากกว่า เอกสารการยื่นขอเสนอขายหุ้นต่อสาธารณชนของ Anthropic …",
+      "pubDate": "Mon, 09 Nov 2026 09:42:47 +0000",
+      "source": "TechTalk Thai",
+      "category": "AI",
+      "thumbnail": "https://www.techtalkthai.com/wp-content/uploads/2026/10/OpenAI-logo.png",
+      "readTime": "3 นาที"
+    },
+    {
+      "id": "https://techsauce.co/ai/ethan-mollick-co-existence-ai-cognitive-surrender-human-agency",
+      "title": "ศาสตราจารย์ด้าน AI เตือน อย่ายกงานคิดให้ AI จนเสียทักษะตัวเอง",
+      "link": "https://techsauce.co/ai/ethan-mollick-co-existence-ai-cognitive-surrender-human-agency",
+      "content": "Ethan Mollick ศาสตราจารย์ Wharton เตือนว่าการยกงานคิดให้ AI อาจทำให้เสียทักษะแบบเอาคืนไม่ได้ พร้อมชี้วิธีใช้รสนิยม การคิดเองก่อน และการบริหารเอเจนต์ ให้ผลงานยังเป็นของเรา",
+      "pubDate": "Mon, 09 Nov 2026 16:14:55 +0700",
+      "source": "Techsauce",
+      "category": "AI",
+      "thumbnail": "https://storage.googleapis.com/techsauce-prod/ugc/uploads/2026/11/1794215425_Personal_Finance_in_Claude_800.webp",
+      "readTime": "1 นาที"
+    },
+    {
+      "id": "https://techsauce.co/news/boi-reinvent-thailand-7-industries",
+      "title": "เปิดเป้า Reinvent Thailand 7 อุตสาหกรรม ดันรายได้เพิ่มกว่า 5.4 ล้านล้านบาทในปี 2573",
+      "link": "https://techsauce.co/news/boi-reinvent-thailand-7-industries",
+      "content": "บีโอไอเผย รองนายกรัฐมนตรี เอกนิติ นิติทัณฑ์ประภาศ หารือ กกร. และผู้แทน 7 กลุ่มอุตสาหกรรม ชูข้อเสนอ Reinvent Thailand ตั้งเป้าสร้างรายได้เพิ่มรวมกว่า 5.4 ล้านล้านบาทภายในปี 2573",
+      "pubDate": "Mon, 09 Nov 2026 14:31:51 +0700",
+      "source": "Techsauce",
+      "category": "General",
+      "thumbnail": "https://storage.googleapis.com/techsauce-prod/ugc/uploads/2026/11/1794208833_boi-reinvent-thailand-body-1-2400x1600.webp",
+      "readTime": "1 นาที"
+    },
+    {
+      "id": "https://techsauce.co/ai/how-to-use-personal-finance-in-claude",
+      "title": "สอนใช้ Personal Finance in Claude เชื่อมบัญชีผ่าน Plaid ง่าย ๆ ใน 5 ขั้นตอน",
+      "link": "https://techsauce.co/ai/how-to-use-personal-finance-in-claude",
+      "content": "สอนใช้ Personal Finance in Claude แบบ Step by Step เชื่อมบัญชีธนาคารผ่าน Plaid ให้ Claude ช่วยสรุปยอดใช้จ่าย หาค่าธรรมเนียมแฝง และคาดการณ์บิล พร้อมข้อมูลที่ Claude เห็น ข้อจำกัด และวิธียกเลิกการเชื่อมต่อ",
+      "pubDate": "Mon, 09 Nov 2026 14:07:02 +0700",
+      "source": "Techsauce",
+      "category": "AI",
+      "thumbnail": "https://storage.googleapis.com/techsauce-prod/ugc/uploads/2026/11/1794207943_Personal_Finance_in_Claude_800.webp",
+      "readTime": "1 นาที"
+    },
+    {
+      "id": "https://www.thaicert.or.th/?p=17785",
+      "title": "CISA เตือนช่องโหว่ SonicOS SSL VPN ถูกใช้โจมตีจริง เสี่ยงถูกข้ามการยืนยันตัวตนแบบ MFA",
+      "link": "https://www.thaicert.or.th/2026/11/09/cisa-%e0%b9%80%e0%b8%95%e0%b8%b7%e0%b8%ad%e0%b8%99%e0%b8%8a%e0%b9%88%e0%b8%ad%e0%b8%87%e0%b9%82%e0%b8%ab%e0%b8%a7%e0%b9%88-sonicos-ssl-vpn-%e0%b8%96%e0%b8%b9%e0%b8%81%e0%b9%83%e0%b8%8a%e0%b9%89/",
+      "content": "615/69 (IT) ประจำวันจันทร์ที่ 9 พฤศจิกายน 2569 SonicWal […]\nThe post CISA เตือนช่องโหว่ SonicOS SSL VPN ถูกใช้โจมตีจริง เสี่ยงถูกข้ามการยืนยันตัวตนแบบ MFA first appeared on Thailand Computer Emergency Response Team (ThaiCERT).",
+      "pubDate": "Mon, 09 Nov 2026 07:02:00 +0000",
+      "source": "ThaiCERT",
+      "category": "ภัยคุกคามทางไซเบอร์",
+      "thumbnail": "https://www.thaicert.or.th/wp-content/uploads/2026/11/3_0-3-1024x768.png",
+      "readTime": "1 นาที"
+    },
+    {
+      "id": "https://www.thaicert.or.th/?p=17784",
+      "title": "ธนาคาร Crédit Mutuel Arkéa ในฝรั่งเศสถูกโจมตีผ่านผู้ให้บริการภายนอก พบธุรกรรมฉ้อโกงมูลค่าราว 100 ล้านยูโร",
+      "link": "https://www.thaicert.or.th/2026/11/09/%e0%b8%98%e0%b8%99%e0%b8%b2%e0%b8%84%e0%b8%b2%e0%b8%a3-credit-mutuel-arkea-%e0%b9%83%e0%b8%99%e0%b8%9d%e0%b8%a3%e0%b8%b1%e0%b9%88%e0%b8%87%e0%b9%80%e0%b8%a8%e0%b8%aa%e0%b8%96%e0%b8%b9%e0%b8%81/",
+      "content": "614/69 (IT) ประจำวันจันทร์ที่ 9 พฤศจิกายน 2569 ธนาคาร C […]\nThe post ธนาคาร Crédit Mutuel Arkéa ในฝรั่งเศสถูกโจมตีผ่านผู้ให้บริการภายนอก พบธุรกรรมฉ้อโกงมูลค่าราว 100 ล้านยูโร first appeared on Thailand Computer Emergency Response Team (ThaiCERT).",
+      "pubDate": "Mon, 09 Nov 2026 07:01:00 +0000",
+      "source": "ThaiCERT",
+      "category": "ภัยคุกคามทางไซเบอร์",
+      "thumbnail": "https://www.thaicert.or.th/wp-content/uploads/2026/11/2_0-3-1024x768.png",
+      "readTime": "1 นาที"
+    },
+    {
+      "id": "https://www.thaicert.or.th/?p=17781",
+      "title": "พบผู้ไม่หวังดีใช้ช่องโหว่บน WordPress เพื่อยึดเว็บไซต์ระหว่างขั้นตอนการอัปเดต",
+      "link": "https://www.thaicert.or.th/2026/11/09/%e0%b8%9e%e0%b8%9a%e0%b8%9c%e0%b8%b9%e0%b9%89%e0%b9%84%e0%b8%a1%e0%b9%88%e0%b8%ab%e0%b8%a7%e0%b8%b1%e0%b8%87%e0%b8%94%e0%b8%b5%e0%b9%83%e0%b8%8a%e0%b9%89%e0%b8%8a%e0%b9%88%e0%b8%ad%e0%b8%87%e0%b9%82/",
+      "content": "613/69 (IT) ประจำวันจันทร์ที่ 9 พฤศจิกายน 2569 CISA ออก […]\nThe post พบผู้ไม่หวังดีใช้ช่องโหว่บน WordPress เพื่อยึดเว็บไซต์ระหว่างขั้นตอนการอัปเดต first appeared on Thailand Computer Emergency Response Team (ThaiCERT).",
+      "pubDate": "Mon, 09 Nov 2026 07:00:00 +0000",
+      "source": "ThaiCERT",
+      "category": "ภัยคุกคามทางไซเบอร์",
+      "thumbnail": "https://www.thaicert.or.th/wp-content/uploads/2026/11/1_0-3-1024x768.png",
+      "readTime": "1 นาที"
+    },
+    {
+      "id": "https://www.techtalkthai.com/?p=171909",
+      "title": "ขอเชิญร่วมงาน Transformation NOW! Thailand | 12 พฤศจิกายน 2569 @The Athenee Hotel, Bangkok | (PR)",
+      "link": "https://www.techtalkthai.com/nbds-transformation-now-thailand-12-nov-2569-the-athenee-hotel-bangkok-pr/",
+      "content": "เมื่อ AI ไม่ใช่แค่เทรนด์ แต่กำลังกลายเป็นหัวใจสำคัญของการขับเคลื่อนธุรกิจ และเทคโนโลยี Cloud ERP กำลังเปลี่ยนวิธีบริหารองค์กร คำถามสำคัญคือ ธุรกิจของคุณจะปรับตัวอย่างไรให้ทัน และเปลี่ยนเทคโนโลยีให้กลายเป็นความได้เปรียบทางการแข่งขัน? NTT DATA Business Solutions (Thailand) ขอเชิญร่วมงาน Transformation NOW! 2026 Thailand ภายใต้แนวคิด Today’s Inspiration. Tomorrow’s Success. งานสัมมนาที่จะพาคุณเปิดมุมมองใหม่ของโลกธุรกิจ พร้อมค้นพบแนวทางการนำเทคโนโลยีมาสร้างคุณค่าให้กับองค์กรอย่างแท้จริง พบกับไฮไลต์ที่ไม่ควรพลาด! – เจาะลึกเทรนด์ AI, Cloud ERP และ Digital Transformation ที่องค์กรยุคใหม่ต้องรู้ – อัปเดตนวัตกรรมและแนวคิดจากผู้นำเทคโนโลยีระดับโลก อาทิ SAP, Google Cloud, Microsoft และ AWS – เรียนรู้แนวทางยกระดับประสิทธิภาพธุรกิจด้วย SAP Cloud ERP และ SAP Business …",
+      "pubDate": "Mon, 09 Nov 2026 06:34:02 +0000",
+      "source": "TechTalk Thai",
+      "category": "AI",
+      "thumbnail": "https://www.techtalkthai.com/wp-content/uploads/2026/11/transformationnowpr-640x335.png",
+      "readTime": "2 นาที"
+    },
+    {
+      "id": "https://www.techtalkthai.com/?p=171911",
+      "title": "Alibaba Cloud ขอเชิญร่วมงานสัมมนา QwenWork Day Thailand [17 พ.ย. 2026 – 9.00น.]",
+      "link": "https://www.techtalkthai.com/alibaba-cloud-qwenwork-day-thailand/",
+      "content": "Alibaba Cloud, depa, SquareX, AGICafet และ TechTalkThai ขอเรียนเชิญ CAIO, CTO, CIO, CDO, AI Leader, IT Manager, AI Engineer, Data Engineer และทุกท่านที่สนใจเข้าร่วมงานสัมมนา QwenWork Day Thailand เพื่อร่วมเรียนรู้เทคโนโลยี AI Work Platform ล่าสุดของ Alibaba Cloud พร้อมร่วม AI Workshop เพื่อสร้าง AI Workflow ที่ใช้งานจริงได้โดยไม่ต้องมีประสบการณ์ในการใช้งาน AI มาก่อน งานสัมมนานี้จะจัดขึ้นในวันอังคารที่ 17 พฤศจิกายน 2026 เวลา 9.00น. – 16.00น. ณ Digital Economy Promotion Agency (Headquarter) โดยผู้ที่สนใจสามารถตรวจสอบรายละเอียด …",
+      "pubDate": "Mon, 09 Nov 2026 06:27:40 +0000",
+      "source": "TechTalk Thai",
+      "category": "AI",
+      "thumbnail": "https://www.techtalkthai.com/wp-content/uploads/2026/11/896050264_1113861001434461_8588068856563808936_n-512x640.jpg",
+      "readTime": "2 นาที"
+    },
+    {
+      "id": "https://techsauce.co/news/alice-huang-megaspeed-jensen-huang-nvidia",
+      "title": "Alice Huang คือใคร สรุปประวัติ ผู้บริหาร Megaspeed ถูกโยงสายลับจีน Jensen Huang",
+      "link": "https://techsauce.co/news/alice-huang-megaspeed-jensen-huang-nvidia",
+      "content": "สรุป Alice Huang คือใคร เจาะโปรไฟล์อดีตผู้บริหาร Megaspeed บริษัทคลาวด์สิงคโปร์ หลังถูกข่าวกรองสหรัฐฯ โยงข้อหาสายลับจีนและประเด็นความสัมพันธ์กับ Jensen Huang ซีอีโอ Nvidia",
+      "pubDate": "Mon, 09 Nov 2026 13:03:19 +0700",
+      "source": "Techsauce",
+      "category": "AI",
+      "thumbnail": "https://storage.googleapis.com/techsauce-prod/ugc/uploads/2026/11/1794203928_%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B8%8D%E0%B9%88%E0%B8%B2%E0%B8%AD%E0%B8%A2%E0%B9%88%E0%B8%B2%E0%B8%A2%E0%B8%B8%E0%B9%88%E0%B8%87_%E0%B8%9B%E0%B8%81%E0%B8%82%E0%B9%88%E0%B8%B2%E0%B8%A71200x800_-_2026-11-09T124801.467.webp",
+      "readTime": "1 นาที"
+    },
+    {
+      "id": "https://it24hrs.com/?p=171017",
+      "title": "Jensen Huang ยอมรับนอกใจภรรยา บอร์ด NVIDIA เร่งสอบปมข่าวกรองจีน",
+      "link": "https://it24hrs.com/2026/nvidia-ceo-jensen-huang-affair-investigation/",
+      "content": "Jensen Huang ผู้ก่อตั้งและซีอีโอ NVIDIA ยอมรับว่านอกใจภ […]\nThe post Jensen Huang ยอมรับนอกใจภรรยา บอร์ด NVIDIA เร่งสอบปมข่าวกรองจีน appeared first on iT24Hrs by ปานระพี.",
+      "pubDate": "Mon, 09 Nov 2026 05:32:52 +0000",
+      "source": "IT24Hrs",
+      "category": "AI",
+      "thumbnail": null,
+      "readTime": "1 นาที"
+    },
+    {
+      "id": "https://techsauce.co/sustainable-focus/eco-expo-asia-2026-next-chapter-green-buildings-policy-to-practice",
+      "title": "พลิกบทใหม่ Green Buildings นโยบายต้องกลายเป็นผลงานจริง  บทต่อไปของ Green Buildings คือการเปลี่ยนนโยบายให้เกิดขึ้นจริงในไซต์งานก่อสร้าง",
+      "link": "https://techsauce.co/sustainable-focus/eco-expo-asia-2026-next-chapter-green-buildings-policy-to-practice",
+      "content": "สรุปเวที The Next Chapter of Green Buildings ใน Eco Expo Asia 2026 ผู้เชี่ยวชาญจาก CIC, China State, EnerRight และ Mabosa ชี้วิธีเปลี่ยนนโยบายอาคารเขียวให้เกิดขึ้นจริง ตั้งแต่ข้อมูลกลาง หุ่นยนต์ในไซต์ ถึงวัสดุหมุนเวียน",
+      "pubDate": "Mon, 09 Nov 2026 11:54:33 +0700",
+      "source": "Techsauce",
+      "category": "General",
+      "thumbnail": "https://storage.googleapis.com/techsauce-prod/ugc/uploads/2026/11/1794198580_4_Eco_Expo_Asia_2026_800.webp",
+      "readTime": "1 นาที"
+    },
+    {
+      "id": "https://www.techtalkthai.com/?p=171905",
+      "title": "Palo Alto Networks จ่อปิดดีลซื้อ Clutch Security สตาร์ตอัปความปลอดภัย AI Agent มูลค่า 500 ล้านดอลลาร์",
+      "link": "https://www.techtalkthai.com/palo-alto-networks-clutch-security-acquisition/",
+      "content": "Palo Alto Networks อยู่ระหว่างการเจรจาเข้าซื้อกิจการ Clutch Security สตาร์ตอัปผู้พัฒนาโซลูชันควบคุมความมั่นคงปลอดภัยการเข้าถึงระบบของ AI Agent ด้วยมูลค่าราว 500 ล้านดอลลาร์สหรัฐ รับกระแสองค์กรธุรกิจเริ่มนำ AI Agent เข้ามาเชื่อมต่อกับระบบงานและฐานข้อมูลหลัก จนประเด็นด้านการควบคุมสิทธิ์และการป้องกันภัยคุกคามรูปแบบใหม่จึงกลายเป็นโจทย์เร่งด่วนที่เวนเดอร์ระดับโลกต้องรีบปิดจุดอ่อน Clutch Security ก่อตั้งมาได้เพียง 3 ปี โดยระดมทุนรอบ Series A ไปเมื่อเดือนมกราคม 2025 เป็นจำนวน 20 ล้านดอลลาร์ นำโดย Lightspeed และ SignalFire ซึ่งในเวลานั้นบริษัทมีมูลค่าประเมินอยู่ที่ 85 ล้านดอลลาร์ ดังนั้นการเสนอซื้อด้วยมูลค่าที่เพิ่มขึ้นมาก สะท้อนถึงความต้องการโซลูชันความปลอดภัยด้าน AI ที่กำลังพุ่งสูงขึ้นอย่างรวดเร็ว และหากการเจรจาสำเร็จ ดีลนี้จะเป็นการเข้าซื้อกิจการครั้งที่ 7 ของ Palo Alto Networks ในรอบปี ตามข้อมูลของ PitchBook ซึ่งสอดคล้องกับยุทธศาสตร์หลักของบริษัทที่เน้นซื้อเทคโนโลยีนวัตกรรมเข้ามาเติมพอร์ตโฟลิโอ แทนที่จะพัฒนาขึ้นมาเองตั้งแต่ต้น เพื่อให้ทันกับความเร็วของภัยคุกคามที่ขับเคลื่อนด้วย AI …",
+      "pubDate": "Mon, 09 Nov 2026 04:12:52 +0000",
+      "source": "TechTalk Thai",
+      "category": "Security",
+      "thumbnail": "https://www.techtalkthai.com/wp-content/uploads/2026/11/TTT-2026-11-09T110533.332-640x336.jpg",
+      "readTime": "3 นาที"
     },
     {
       "id": "https://www.techtalkthai.com/?p=171898",
@@ -90,50 +431,6 @@
       "readTime": "1 นาที"
     },
     {
-      "id": "152134 at https://www.blognone.com",
-      "title": "NVIDIA ประกาศสอบสวน Jensen Huang ประเด็นคบหากับคนที่อาจเป็นสายลับ - Jensen ขอโทษต่อเรื่องที่เกิดขึ้น",
-      "link": "https://www.blognone.com/node/152134",
-      "content": "NVIDIA ประกาศสอบสวน Jensen Huang ประเด็นคบหากับคนที่อาจเป็นสายลับ - Jensen ขอโทษต่อเรื่องที่เกิดขึ้น\n\n  \nBody\nบอร์ด NVIDIA ออกแถลงการณ์ว่าบริษัทได้เริ่มดำเนินการสอบสวนผ่านคณะกรรมการอิสระ หลังจากมีข่าวว่า Jensen Huang ซีอีโอและผู้ก่อตั้งบริษัทอาจเป็นเป้าหมายติดตามโดยสายลับต่างชาติ\nบอร์ด NVIDIA บอกว่าการสอบสวนนี้มีขึ้นเนื่องจากบริษัทให้ความสำคัญกับความมั่นคงของสหรัฐ ซึ่งถือเป็นประโยชน์สูงสุดต่อทุกฝ่าย ทั้งนี้ข้อมูลที่บอร์ดมีปัจจุุบันยังไม่มีการบ่งชี้ว่าข้อมูลความมั่นคง หรือความลับของ NVIDIA มีความเสียหายหรือรั่วไหล แต่กระบวนการสอบสวนจะทำให้ครอบคลุมมากที่สุด และ Jensen Huang ก็พร้อมให้ความร่วมมือในการตรวจสอบ โดยบอร์ดบอกว่าพวกเขายังเชื่อมั่นในตัว Jensen ตลอดจนทีมผู้บริหารทั้งหมด\nหลังจากบอร์ดออกแถลงการณ์ Jensen Huang ก็ส่งอีเมลถึงพนักงาน NVIDIA ยอมรับว่าเขาได้นอกใจภรรยาจริง ขอโทษต่อสิ่งที่เกิดขึ้นโดยไม่มีข้อแก้ตัวใด ๆ และขอรับผิดชอบต่อเรื่องที่เกิดขึ้นทั้งหมดแต่เพียงผู้เดียว ครอบครัวไม่มีส่วนเกี่ยวข้องทั้งสิ้น เขายืนยันว่าจะทำงานอย่างเต็มที่เพื่อเรียกความเชื่อมั่นจากทุกฝ่ายที่เกี่ยวข้องกลับคืนมา ส่วนประเด็นเรื่องความมั่นคง เขายินดีให้ความร่วมมืออย่างเต็มที่ จะปกป้องสนับสนุนทั้ง NVIDIA และความมั่นคงของสหรัฐอเมริกา\nที่มา: NVIDIA และ The New York Times\narjin\nMon, 09/11/2026 - 07:24",
-      "pubDate": "Mon, 09 Nov 2026 00:24:43 +0000",
-      "source": "Blognone",
-      "category": "AI",
-      "thumbnail": null,
-      "readTime": "3 นาที"
-    },
-    {
-      "id": "152131 at https://www.blognone.com",
-      "title": "Nintendo ขาย Switch 2 ในไตรมาสที่ผ่านมาได้ 2.67 ล้านเครื่อง ลดลงถึง 41%",
-      "link": "https://www.blognone.com/node/152131",
-      "content": "Nintendo ขาย Switch 2 ในไตรมาสที่ผ่านมาได้ 2.67 ล้านเครื่อง ลดลงถึง 41%\n\n  \nBody\nนินเทนโดรายงานผลประกอบการประจำไตรมาสเดือนกันยายน ยอดขายลดลง 12% จากช่วงเดียวกันในปีก่อนเป็น 9.66 แสนล้านเยน กำไรสุทธิอยู่ที่ 2.21 แสนล้านเยน ซึ่งปัจจัยหลักที่ทำให้รายได้ลดลงคือ Switch 2 ขายได้ 2.67 ล้านเครื่อง ลดลงถึง 41% ส่วนเกมขายได้ 15.03 ล้านชุด เพิ่มขึ้น 26% เกมเด่นในไตรมาสคือ Tomodachi Life: Living the Dream\nSwitch 2 มียอดขายสะสมนับตั้งแต่เปิดตัว 26.35 ล้านเครื่อง ซึ่งคอนโซลใกล้เคียงกันที่น่าจะแซงได้ในลำดับถัดไปคือ Nintendo 64 (32.93 ล้านเครื่อง)\nเกมเด่นของนินเทนโดในไตรมาสปัจจุบัน ที่คาดว่าจะทำยอดขายสูงและอาจช่วยยอดขาย Switch 2 ได้ ก็คือรีเมกของ The Legend of Zelda: Ocarina of Time ที่ได้คะแนนรีวิวสูงมาก\nที่มา: นินเทนโด (pdf)\narjin\nSun, 08/11/2026 - 22:46",
-      "pubDate": "Sun, 08 Nov 2026 15:46:00 +0000",
-      "source": "Blognone",
-      "category": "General",
-      "thumbnail": null,
-      "readTime": "2 นาที"
-    },
-    {
-      "id": "152133 at https://www.blognone.com",
-      "title": "Macronix ผู้ผลิต ROM สำหรับตลับเกม Nintendo Switch แจ้งลดการผลิตสินค้ากลุ่มนี้ลง",
-      "link": "https://www.blognone.com/node/152133",
-      "content": "Macronix ผู้ผลิต ROM สำหรับตลับเกม Nintendo Switch แจ้งลดการผลิตสินค้ากลุ่มนี้ลง\n\n  \nBody\nเรื่องนี้เป็นการวิเคราะห์ล้วน ๆ โดยเริ่มจากบริษัทผู้ผลิตหน่วยความจำ Macronix ซึ่งผลิตหน่วยความจำแบบ ROM ที่ใช้กับตลับเกมของ Nintendo Switch ด้วย รายงานผลประกอบการไตรมาสล่าสุด โดยบอกว่าตอนนี้สินค้ากลุ่ม ROM ทำเงินน้อยกว่า 5% ของรายได้ทั้งหมด ลดลงถึง 39% โดยบริษัทจะหยุดการรายงานตัวเลขของ ROM ตั้งแต่ไตรมาสถัดไป และจะเน้นสินค้า NOR และ eMMC มากขึ้น\nDavid Gibson ที่เป็นนักวิเคราะห์ให้ความเห็นว่าเรื่องนี้อาจส่งสัญญาณว่านินเทนโดจะต้องหาผู้ผลิต ROM รายอื่นมาทดแทน ซึ่งบริษัทน่าจะมีอยู่แล้ว แต่สถานการณ์นี้ก็อาจทำให้นินเทนโดต้องพิจารณาเรื่องการขายเกมแบบตลับด้วยเช่นกัน ซึ่งนินเทนโดก็ทำตลับเกมไม่มีเกม game-key ออกมารออยู่แล้วด้วย\nที่มา: Nintendo Life\narjin\nSun, 08/11/2026 - 22:33",
-      "pubDate": "Sun, 08 Nov 2026 15:33:10 +0000",
-      "source": "Blognone",
-      "category": "General",
-      "thumbnail": null,
-      "readTime": "2 นาที"
-    },
-    {
-      "id": "152130 at https://www.blognone.com",
-      "title": "Sony รายงานผลประกอบการไตรมาส - PS6 มีความคืบหน้าตามแผนงาน แต่ไม่ได้บอกว่าจะมาปีไหน",
-      "link": "https://www.blognone.com/node/152130",
-      "content": "Sony รายงานผลประกอบการไตรมาส - PS6 มีความคืบหน้าตามแผนงาน แต่ไม่ได้บอกว่าจะมาปีไหน\n\n  \nBody\nSony รายงานผลประกอบการประจำเดือนกันยายน 2026 ยอดขายรวม 3.43 ล้านล้านเยน เพิ่มขึ้น 10% จากช่วงเดียวกันในปีก่อน และมีกำไรสุทธิ 4.50 แสนล้านเยน เพิ่มขึ้น 44%\nกลุ่มธุรกิจที่มีรายได้เติบโตโดดเด่นไตรมาสนี้คือภาพยนตร์ เพิ่มขึ้นถึง 48% เป็น 5.14 แสนล้านเยน ซึ่งมาจากภาพยนตร์ Spider-Man: Brand New Day ที่ทำรายได้ทั่วโลกมากกว่า 2.5 พันล้านดอลลาร์ ส่วนเกมที่เป็นธุรกิจหลักของบริษัท รายได้ 1.21 ล้านล้านเยน เพิ่มขึ้น 9% จากยอดขายเกมทั้ง First Party และ Third Party ที่เพิ่มขึ้น\nPS5 ขายได้เพิ่มขึ้นอีก 2.6 ล้านเครื่อง ทำให้ยอดขายรวมนับตั้งแต่เปิดตัวอยู่ที่ 97.9 ล้านเครื่อง\nLin Tao ซีเอฟโอ Sony ให้ข้อมูลเพิ่มเติมในช่วงแถลงผลประกอบการเกี่ยวกับ PS6 บริษัทยังมีความคืบหน้าในการพัฒนาแพลตฟอร์มคอนโซลรุ่นใหม่ เพื่อรองรับ PS5 ที่มียอดขายลดลงซึ่งเป็นไปตามวัฏจักรของคอนโซลแต่ละรุ่น โดยเขาให้ข้อมูลว่าบริษัทได้สั่งซื้อชิปหน่วยความจำในปริมาณที่เพียงพอสำหรับการผลิตคอนโซลในปีการเงินถัดไปแล้ว ทั้งนี้ Sony เคยมีข่าวว่า PS6 อาจต้องเลื่อนเปิดตัวเป็นปี 2028-2029 เพราะปัญหาแรมแพง\nที่มา: Sony (pdf) และ VGC\narjin\nSun, 08/11/2026 - 22:33",
-      "pubDate": "Sun, 08 Nov 2026 15:33:00 +0000",
-      "source": "Blognone",
-      "category": "General",
-      "thumbnail": null,
-      "readTime": "3 นาที"
-    },
-    {
       "id": "https://www.thaicert.or.th/?p=17774",
       "title": "แจ้งเตือนช่องโหว่ความปลอดภัยในผลิตภัณฑ์ Cisco, WatchGuard และ SonicWall",
       "link": "https://www.thaicert.or.th/2026/11/08/%e0%b9%81%e0%b8%88%e0%b9%89%e0%b8%87%e0%b9%80%e0%b8%95%e0%b8%b7%e0%b8%ad%e0%b8%99%e0%b8%8a%e0%b9%88%e0%b8%ad%e0%b8%87%e0%b9%82%e0%b8%ab%e0%b8%a7%e0%b9%88%e0%b8%84%e0%b8%a7%e0%b8%b2%e0%b8%a1%e0%b8%9b-4/",
@@ -143,39 +440,6 @@
       "category": "ภัยคุกคามทางไซเบอร์",
       "thumbnail": "https://www.thaicert.or.th/wp-content/uploads/2026/11/Global-Management-System-1024x576.png",
       "readTime": "1 นาที"
-    },
-    {
-      "id": "152132 at https://www.blognone.com",
-      "title": "Sony ออกหูฟังมีสายเรโทร MDR-3R ที่ออกแบบตามหูฟังต้นฉบับปี 1979",
-      "link": "https://www.blognone.com/node/152132",
-      "content": "Sony ออกหูฟังมีสายเรโทร MDR-3R ที่ออกแบบตามหูฟังต้นฉบับปี 1979\n\n  \nBody\nSony เปิดตัวหูฟัง MDR-3R ที่นำหูฟังคลาสสิกซีรีส์ MDR-3 กลับมาอีกครั้งตามสไตล์สินค้าเรโทร ซึ่งหูฟัง MDR-3L2 ที่เป็นรุ่นต้นแบบนั้น Sony ผลิตออกมาในปี 1979 พร้อมกับการขายเครื่องฟังเพลงพกพา Walkman ในตอนนั้น การออกแบบของหูฟังเป็นการโลหะคาดศีรษะ หูฟังเป็นแบบ on-ear ซึ่งแตกต่างจากหูฟังที่นิยมในปัจจุบัน\nMDR-3R ยังคงรูปแบบเป็นหูฟังแบบมีสาย แต่เป็น USB-C ใช้ไดรเวอร์เสียงแบบเดียวกับตระกูล MDR-3 เพื่อให้ได้เสียงที่เหมือนกับรุ่นต้นแบบ นอกจากนี้ยังเพิ่มรีโมทควบคุมในสายสำหรับควบคุมการเล่นเพลง และเป็นไมโครโฟนสำหรับการคุยเสียง\nหูฟัง MDR-3R มีทั้งรุ่นต้นแบบ และรุ่นพิเศษ Stranger Things ราคาขายในสหรัฐเริ่มต้น 60 ดอลลาร์ ส่วนราคาไทยยังไม่ประกาศ\nที่มา: Ars Technica\narjin\nSun, 08/11/2026 - 20:17",
-      "pubDate": "Sun, 08 Nov 2026 13:17:00 +0000",
-      "source": "Blognone",
-      "category": "General",
-      "thumbnail": null,
-      "readTime": "2 นาที"
-    },
-    {
-      "id": "152129 at https://www.blognone.com",
-      "title": "Uber ไตรมาส 3/2026 รายได้ธุรกิจรถโดยสารลดลง เหตุบริษัทต้องใช้เงินมากขึ้นเพื่อเพิ่มคนขับรถให้เพียงพอ",
-      "link": "https://www.blognone.com/node/152129",
-      "content": "Uber ไตรมาส 3/2026 รายได้ธุรกิจรถโดยสารลดลง เหตุบริษัทต้องใช้เงินมากขึ้นเพื่อเพิ่มคนขับรถให้เพียงพอ\n\n  \nBody\nUber รายงานผลประกอบการของไตรมาสที่ 3 ปี 2026 รายได้รวมเพิ่มขึ้น 10% จากช่วงเดียวกันในปีก่อนเป็น 14,766 ล้านดอลลาร์ มีกำไรสุทธิตามบัญชี GAAP 512 ล้านดอลลาร์ ที่น่าสนใจคือรายได้จากธุรกิจรถโดยสารในไตรมาสลดลง 2% เป็น 7,520 ล้านดอลลาร์ แต่รายรับสุทธิ (GMV) เพิ่มขึ้น 18% เป็น 29,512 ล้านดอลลาร์ โดย Uber บอกว่าสถานการณ์ของธุรกิจรถโดยสารคือความต้องการของลูกค้ายังสูง แต่คนขับรถไม่ได้เพิ่มจำนวนตาม บริษัทจึงต้องใช้เงินมากขึ้นเพื่อเพิ่มจำนวนผู้ให้บริการรถ โดยเฉพาะในตลาดสำคัญทั้งอินเดีย บราซิล รวมทั้งสหรัฐอเมริกา\nรายได้ธุรกิจเดลิเวอรี่ 5,488 ล้านดอลลาร์ เพิ่มขึ้น 23% และธุรกิจขนส่งสินค้า 1,758 ล้านดอลลาร์ เพิ่มขึ้นโดดเด่น 34%\nDara Khosrowshahi ซีอีโอ Uber บอกว่าการลงทุนหนึ่งที่สำคัญเพื่อรองรับธุรกิจรถโดยสารตลอดจนธุรกิจเดลิเวอรี่คือการเพิ่มรถขับเคลื่อนอัตโนมัติ โดยคาดว่าภายในสิ้นปีจะมีรถอัตโนมัติในระบบ 700 คัน และเพิ่มเป็นมากกว่า 2,000 คัน ในปี 2027\nที่มา: Uber\narjin\nSun, 08/11/2026 - 20:16",
-      "pubDate": "Sun, 08 Nov 2026 13:16:00 +0000",
-      "source": "Blognone",
-      "category": "General",
-      "thumbnail": null,
-      "readTime": "3 นาที"
-    },
-    {
-      "id": "152128 at https://www.blognone.com",
-      "title": "Grab ไตรมาส 3/2026 รายได้รวมโต 27%, กลุ่มการเงินมีกำไรเป็นไตรมาสแรก",
-      "link": "https://www.blognone.com/node/152128",
-      "content": "Grab ไตรมาส 3/2026 รายได้รวมโต 27%, กลุ่มการเงินมีกำไรเป็นไตรมาสแรก\n\n  \nBody\nเก็บตกผลประกอบการของบริษัทในช่วงสัปดาห์ที่ผ่านมา Grab รายงานตัวเลขของไตรมาสที่ 3 ปี 2026 รายได้รวมเพิ่มขึ้น 27% จากไตรมาสเดียวกันในปีก่อนเป็น 1,112 ล้านดอลลาร์ มีกำไรจากการดำเนินงาน 108 ล้านดอลลาร์ และมีกำไรสุทธิ 18 ล้านดอลลาร์\nกลุ่มธุรกิจการเงินของ Grab มีรายได้เฉพาะกลุ่ม 201 ล้านดอลลาร์ เพิ่มขึ้น 124% มูลค่าสินเชื่อรวม 2,711 ล้านดอลลาร์ และมีกำไร EBITDA ปรับปรุงเป็นบวกครั้งแรก 12 ล้านดอลลาร์ จากที่ผ่านมาขาดทุนตลอด อัตรา NPL 2.6%\nกลุ่มเดลิเวอรี่รายได้ 561 ล้านดอลลาร์ เพิ่มขึ้น 21% จากมูลค่าสุทธิ (GMV) 4,500 ล้านดอลลาร์ ส่วนธุรกิจรถโดยสาร รายได้ 349 ล้านดอลลาร์ จากมูลค่าสุทธิ 2,335 ล้านดอลลาร์\nGrab ปรับเพิ่มคาดการณ์รายได้ของปี 2026 เป็น 4.15-4.20 พันล้านดอลลาร์ โดยให้เหตุผลแม้ตอนนี้จะมีปัญหาต้นทุนน้ำมันที่สูงขึ้น และเงินเฟ้อในสินค้าหลายรายการ แต่ลูกค้าก็ยังคงใช้งานแพลตฟอร์มกันต่อเนื่อง\nDisclaimer - Blognone เป็นบริษัทในเครือของ LINE MAN Wongnai\nที่มา: Grab และ Reuters\narjin\nSun, 08/11/2026 - 20:15",
-      "pubDate": "Sun, 08 Nov 2026 13:15:00 +0000",
-      "source": "Blognone",
-      "category": "General",
-      "thumbnail": null,
-      "readTime": "3 นาที"
     },
     {
       "id": "https://www.thaicert.or.th/?p=17771",
@@ -288,39 +552,6 @@
       "readTime": "1 นาที"
     },
     {
-      "id": "https://www.thaicert.or.th/?p=17734",
-      "title": "UNM Health ถูกโจมตีทางไซเบอร์ ส่งผลให้โรงพยาบาลระงับรับผู้ป่วยและยกเลิกการนัดหมายชั่วคราว",
-      "link": "https://www.thaicert.or.th/2026/11/06/unm-health-%e0%b8%96%e0%b8%b9%e0%b8%81%e0%b9%82%e0%b8%88%e0%b8%a1%e0%b8%95%e0%b8%b5%e0%b8%97%e0%b8%b2%e0%b8%87%e0%b9%84%e0%b8%8b%e0%b9%80%e0%b8%9a%e0%b8%ad%e0%b8%a3%e0%b9%8c-%e0%b8%aa%e0%b9%88/",
-      "content": "611/69 (IT) ประจำวันศุกร์ที่ 6 พฤศจิกายน 2569 Universit […]\nThe post UNM Health ถูกโจมตีทางไซเบอร์ ส่งผลให้โรงพยาบาลระงับรับผู้ป่วยและยกเลิกการนัดหมายชั่วคราว first appeared on Thailand Computer Emergency Response Team (ThaiCERT).",
-      "pubDate": "Fri, 06 Nov 2026 07:11:00 +0000",
-      "source": "ThaiCERT",
-      "category": "ภัยคุกคามทางไซเบอร์",
-      "thumbnail": "https://www.thaicert.or.th/wp-content/uploads/2026/11/2_0-2-1024x768.png",
-      "readTime": "1 นาที"
-    },
-    {
-      "id": "https://www.thaicert.or.th/?p=17733",
-      "title": "ตรวจพบการโจมตี Zyxel Switch ผ่านช่องโหว่ Zero-Day หมายเลข CVE-2026-107441",
-      "link": "https://www.thaicert.or.th/2026/11/06/%e0%b8%95%e0%b8%a3%e0%b8%a7%e0%b8%88%e0%b8%9e%e0%b8%9a%e0%b8%81%e0%b8%b2%e0%b8%a3%e0%b9%82%e0%b8%88%e0%b8%a1%e0%b8%95%e0%b8%b5-zyxel-switch-%e0%b8%9c%e0%b9%88%e0%b8%b2%e0%b8%99%e0%b8%8a%e0%b9%88/",
-      "content": "610/69 (IT) ประจำวันศุกร์ที่ 6 พฤศจิกายน 2569 บริษัทผู้ […]\nThe post ตรวจพบการโจมตี Zyxel Switch ผ่านช่องโหว่ Zero-Day หมายเลข CVE-2026-107441 first appeared on Thailand Computer Emergency Response Team (ThaiCERT).",
-      "pubDate": "Fri, 06 Nov 2026 07:10:00 +0000",
-      "source": "ThaiCERT",
-      "category": "ภัยคุกคามทางไซเบอร์",
-      "thumbnail": "https://www.thaicert.or.th/wp-content/uploads/2026/11/1_0-2-1024x768.png",
-      "readTime": "1 นาที"
-    },
-    {
-      "id": "https://techsauce.co/news/kbank-talk-2026-quality-growth-customer-strategy",
-      "title": "ธนาคารยุคนี้ไม่ได้แข่งกันที่ผลิตภัณฑ์ แต่แข่งกันที่ ‘ความเข้าใจลูกค้า’ เปิดมุมมองโตอย่างมีคุณภาพของผู้บริหารกสิกรไทย",
-      "link": "https://techsauce.co/news/kbank-talk-2026-quality-growth-customer-strategy",
-      "content": "ถอดมุมมองผู้บริหารกสิกรไทยบนเวที KBank Talk 2026 กับยุทธศาสตร์ 3+1 & P การเติบโตอย่างมีคุณภาพในเศรษฐกิจ K-shape ตั้งแต่ Wealth, K PLUS โฉมใหม่, ธุรกิจรายใหญ่, SME, ESG ไปจนถึง AI",
-      "pubDate": "Fri, 06 Nov 2026 13:18:14 +0700",
-      "source": "Techsauce",
-      "category": "AI",
-      "thumbnail": "https://storage.googleapis.com/techsauce-prod/ugc/uploads/2026/11/1793945766_kbank_talk_2026_800.webp",
-      "readTime": "1 นาที"
-    },
-    {
       "id": "https://it24hrs.com/?p=170964",
       "title": "ข้อมูลจองตั๋ว Singapore Airlines รั่ว 46,000 รายการ เกิดอะไรขึ้น?",
       "link": "https://it24hrs.com/2026/singapore-airlines-amadeus-data-breach/",
@@ -343,17 +574,6 @@
       "readTime": "4 นาที"
     },
     {
-      "id": "https://techsauce.co/news/hp-walmsley-ceo-appointed",
-      "title": "HP แต่งตั้งอดีต CEO GSK เอ็มมา วอล์มสลีย์ เป็น CEO คนใหม่ เริ่มงาน 4 ม.ค. 2027",
-      "link": "https://techsauce.co/news/hp-walmsley-ceo-appointed",
-      "content": "HP Inc. แต่งตั้ง เอ็มมา วอล์มสลีย์ อดีต CEO ของ GSK เป็น CEO คนใหม่ มีผลตั้งแต่วันที่ 4 มกราคม 2027 ต่อจาก Bruce Broussard ที่รักษาการมาตั้งแต่เดือนกุมภาพันธ์ 2026",
-      "pubDate": "Fri, 06 Nov 2026 11:27:19 +0700",
-      "source": "Techsauce",
-      "category": "General",
-      "thumbnail": "https://storage.googleapis.com/techsauce-prod/ugc/uploads/2026/11/1793939193_Keng_%E0%B8%9B%E0%B8%81%E0%B8%82%E0%B9%88%E0%B8%B2%E0%B8%A71200x800_%2863%29.webp",
-      "readTime": "1 นาที"
-    },
-    {
       "id": "https://www.techtalkthai.com/?p=171889",
       "title": "OpenAI ประกาศคำมั่นศูนย์ข้อมูลใหม่และข้อเสนอแนะนโยบาย AI",
       "link": "https://www.techtalkthai.com/openai-makes-new-data-center-commitments-ai-policy-recommendations/",
@@ -374,17 +594,6 @@
       "category": "AI",
       "thumbnail": "https://www.techtalkthai.com/wp-content/uploads/2026/11/Dropbox-Tigris.png",
       "readTime": "3 นาที"
-    },
-    {
-      "id": "https://www.thaicert.or.th/?p=17730",
-      "title": "Google ออกแพทช์แก้ไขช่องโหว่ใน Android ที่อาจทำให้สามารถเข้าถึงอุปกรณ์ได้โดยไม่ต้องมีการโต้ตอบจากผู้ใช้",
-      "link": "https://www.thaicert.or.th/2026/11/06/google-%e0%b8%ad%e0%b8%ad%e0%b8%81%e0%b9%81%e0%b8%9e%e0%b8%97%e0%b8%8a%e0%b9%8c%e0%b9%81%e0%b8%81%e0%b9%89%e0%b9%84%e0%b8%82%e0%b8%8a%e0%b9%88%e0%b8%ad%e0%b8%87%e0%b9%82%e0%b8%ab%e0%b8%a7%e0%b9%88/",
-      "content": "ศูนย์ประสานการรักษาความมั่นคงปลอดภัยระบบคอมพิวเตอร์แห่ง […]\nThe post Google ออกแพทช์แก้ไขช่องโหว่ใน Android ที่อาจทำให้สามารถเข้าถึงอุปกรณ์ได้โดยไม่ต้องมีการโต้ตอบจากผู้ใช้ first appeared on Thailand Computer Emergency Response Team (ThaiCERT).",
-      "pubDate": "Fri, 06 Nov 2026 02:24:16 +0000",
-      "source": "ThaiCERT",
-      "category": "ภัยคุกคามทางไซเบอร์",
-      "thumbnail": "https://www.thaicert.or.th/wp-content/uploads/2026/11/Google-Patch-Android-1024x576.jpg",
-      "readTime": "1 นาที"
     },
     {
       "id": "https://www.techtalkthai.com/?p=171880",
@@ -420,28 +629,6 @@
       "readTime": "1 นาที"
     },
     {
-      "id": "https://www.techtalkthai.com/?p=171871",
-      "title": "Nutanix สร้างรากฐานที่รวดเร็วยิ่งขึ้นสำหรับ AI ระดับการใช้งานจริง [Press Realease]",
-      "link": "https://www.techtalkthai.com/nutanix-infra-ready-for-ai-adoption-in-practice/",
-      "content": "นูทานิคซ์ (Nutanix: NASDAQ: NTNX) ผู้นำด้านไฮบริด   คลาวด์และแพลตฟอร์ม AI ประกาศความร่วมมือกับ NVIDIA, Supermicro และ Netris เพื่อให้บริการโซลูชัน AI ใหม่ที่มุ่งลดความซับซ้อนด้านโครงสร้างพื้นฐานสำหรับการนำ AI ไปใช้งานจริง (production AI) และช่วยให้องค์กรสามารถใช้งานขีดความสามารถใหม่ ๆ ได้เร็วขึ้น การผสานซอฟต์แวร์ของ Nutanix เข้ากับเทคโนโลยีด้านฮาร์ดแวร์ ระบบเครือข่าย และชิปประมวลผลชั้นนำ จะช่วยให้องค์กรสามารถติดตั้ง ใช้งาน และขยายสภาพแวดล้อม production AI สเกลใหญ่ได้อย่างมีประสิทธิภาพมากขึ้น รูปภาพจากซ้ายไปขวา คุณ Noppadol Punyatipat, Country Manager Nutanix Thailand , คุณ Jordan Reizes, Vice President, APJ Marketing Nutanix, คุณ Naresh Purohit, Senior …",
-      "pubDate": "Thu, 05 Nov 2026 09:02:43 +0000",
-      "source": "TechTalk Thai",
-      "category": "AI",
-      "thumbnail": "https://www.techtalkthai.com/wp-content/uploads/2026/11/Nutanix-on-Press-in-NEXT-on-Tour-2026-รูปรวมผู้บริหาร.jpg",
-      "readTime": "2 นาที"
-    },
-    {
-      "id": "https://www.thaicert.or.th/?p=17708",
-      "title": "พบเหตุโจมตีทางไซเบอร์กระทบระบบทำความเย็นของหน่วยงานบริการโลหิตในฝรั่งเศส",
-      "link": "https://www.thaicert.or.th/2026/11/05/%e0%b8%9e%e0%b8%9a%e0%b9%80%e0%b8%ab%e0%b8%95%e0%b8%b8%e0%b9%82%e0%b8%88%e0%b8%a1%e0%b8%95%e0%b8%b5%e0%b8%97%e0%b8%b2%e0%b8%87%e0%b9%84%e0%b8%8b%e0%b9%80%e0%b8%9a%e0%b8%ad%e0%b8%a3%e0%b9%8c%e0%b8%81/",
-      "content": "609/69 (IT) ประจำวันพฤหัสบดีที่ 5 พฤศจิกายน 2569 หน่วยง […]\nThe post พบเหตุโจมตีทางไซเบอร์กระทบระบบทำความเย็นของหน่วยงานบริการโลหิตในฝรั่งเศส first appeared on Thailand Computer Emergency Response Team (ThaiCERT).",
-      "pubDate": "Thu, 05 Nov 2026 07:03:00 +0000",
-      "source": "ThaiCERT",
-      "category": "ภัยคุกคามทางไซเบอร์",
-      "thumbnail": "https://www.thaicert.or.th/wp-content/uploads/2026/11/4-1-1024x768.png",
-      "readTime": "1 นาที"
-    },
-    {
       "id": "https://it24hrs.com/?p=170952",
       "title": "ChatGPT สร้างไฟล์ GIF ได้แล้ว เปิดตัว Images 2.6 ทำภาพเร็วขึ้น พร้อมเปลี่ยนภาพนิ่งให้ขยับได้",
       "link": "https://it24hrs.com/2026/chatgpt-images-2-6-create-animated-gifs/",
@@ -451,116 +638,6 @@
       "category": "AI",
       "thumbnail": "https://it24hrs.com/wp-content/uploads/2026/11/chatgpt-images-2-6-create-animated-gifs-d1.mp4",
       "readTime": "1 นาที"
-    },
-    {
-      "id": "https://techsauce.co/saucy-thoughts/brian-chesky-founder-mode-airbnb",
-      "title": "เคยเป็น Founder ที่ดี แต่เป็น CEO ที่แย่ ถอดบทเรียนจาก Brian Chesky ที่พา Airbnb โตต่อได้ในช่วงวิกฤต",
-      "link": "https://techsauce.co/saucy-thoughts/brian-chesky-founder-mode-airbnb",
-      "content": "ในวันที่ Airbnb เข้าตลาดหุ้นเมื่อเดือนธันวาคม 2020 แม้มูลค่าบริษัทจะพุ่งทะลุ 1 แสนล้านดอลลาร์สหรัฐ แต่ Brian Chesky กลับเล่าว่า เช้าวันรุ่งขึ้นคือหนึ่งในช่วงเวลาที่โดดเดี่ยวที่สุดในชีวิต เขาไม่ได้ตื่นมาเป็นคนใหม่ ไม่ได้มีความสุขขึ้นอย่างมีนัยสำคัญ",
-      "pubDate": "Thu, 05 Nov 2026 12:34:04 +0700",
-      "source": "Techsauce",
-      "category": "General",
-      "thumbnail": "https://storage.googleapis.com/techsauce-prod/ugc/uploads/2026/11/1793856693_Keng_%E0%B8%9B%E0%B8%81%E0%B8%82%E0%B9%88%E0%B8%B2%E0%B8%A71200x800_%2862%29.webp",
-      "readTime": "1 นาที"
-    },
-    {
-      "id": "https://www.techtalkthai.com/?p=171868",
-      "title": "Phaze ระดมทุน 8.75 ล้านดอลลาร์ มอบการเข้าถึงเวิร์กสเตชันประสิทธิภาพสูงจากระยะไกลให้เอเจนต์ AI",
-      "link": "https://www.techtalkthai.com/phaze-raises-8-75m-to-give-ai-agents-remote-access-to-powerful-workstations/",
-      "content": "หากเอเจนต์ AI แบบอัตโนมัติกำลังจะกลายเป็นอนาคตขององค์กรจริง ๆ พวกมันย่อมจำเป็นต้องมีคอมพิวเตอร์เป็นของตัวเอง เพื่อให้สามารถดำเนินงานต่อไปได้โดยไม่รบกวนการทำงานของผู้อื่น ผู้ก่อตั้งบริษัทรีโมทเดสก์ท็อป Parsec Technologies ได้คิดค้นข้อเสนอใหม่ที่ออกแบบมาเพื่อมอบการเข้าถึงคอมพิวเตอร์ที่จำเป็นให้แก่เอเจนต์เหล่านี้ โดยสตาร์ทอัพแห่งใหม่ที่มีชื่อว่า Phaze ได้เปิดตัวบริการอย่างเป็นทางการหลังจากระดมทุนรอบ Seed มูลค่า 8.75 ล้านดอลลาร์จาก Andreessen Horowitz ได้สำเร็จนอกจากนี้ยังมีการเข้าร่วมลงทุนจาก Index, NextView, Makers และ Lerer Hippeau ในรอบนี้อีกด้วย Phaze ได้พัฒนาแพลตฟอร์มรีโมทเดสก์ท็อปประสิทธิภาพสูงที่ออกแบบมาเพื่อรองรับทั้งมนุษย์และเอเจนต์ AI โดยเปิดโอกาสให้สามารถเข้าถึงคอมพิวเตอร์สมรรถนะสูง รวมถึงเวิร์กสเตชันระดับไฮเอนด์ได้ ด้วยแพลตฟอร์มนี้ ผู้ใช้สามารถควบคุมเวิร์กสเตชันที่อยู่ห่างไกลได้ด้วยการตอบสนองที่มีความหน่วงต่ำและความคมชัดของภาพเสมือนกับการเข้าถึงฮาร์ดแวร์ในพื้นที่นั้นจริง ๆ ทางสตาร์ทอัพกล่าวว่า พวกเขากำลังพยายามแก้ไขปัญหาด้านประสิทธิภาพที่เห็นได้ชัดในหลายองค์กร ปัญหาหนึ่งคือการเกิดขึ้นของเอเจนต์สำหรับการใช้งานคอมพิวเตอร์ที่มักจะเข้าแทรกแซงหน้าจอของพนักงานในขณะที่กำลังทำงานประจำวันโดยอัตโนมัติ ซึ่งเป็นการลดประสิทธิภาพการทำงานของมนุษย์ลง อีกหนึ่งความท้าทายคือองค์กรจำนวนมากลงทุนกับเวิร์กสเตชันประสิทธิภาพสูงที่สามารถเรนเดอร์กราฟิก 3D ที่ซับซ้อนและคอมไพล์โค้ดจำนวนมหาศาล ซึ่งอาจมีราคามากกว่า 10,000 ดอลลาร์ แม้เครื่องเหล่านี้จะเป็นสิ่งจำเป็น แต่แผนกเทคโนโลยีสารสนเทศหลายแห่งมักมีนโยบายจัดสรรเครื่องหนึ่งเครื่องต่อพนักงานหนึ่งคน ซึ่งหมายความว่าฮาร์ดแวร์ราคาแพงเหล่านี้มักถูกทิ้งไว้เฉย ๆ ในขณะที่พนักงานออกไปทานมื้อเที่ยง เข้าประชุม หรือลาหยุดงานหลายวัน แนวทางแก้ไขของ Phaze คือการเปลี่ยนเวิร์กสเตชันเหล่านั้นให้กลายเป็นกลุ่มทรัพยากรประมวลผลแบบยืดหยุ่นที่ใช้ร่วมกันได้ …",
-      "pubDate": "Thu, 05 Nov 2026 05:25:13 +0000",
-      "source": "TechTalk Thai",
-      "category": "AI",
-      "thumbnail": "https://www.techtalkthai.com/wp-content/uploads/2026/11/Phaze-logo.png",
-      "readTime": "5 นาที"
-    },
-    {
-      "id": "https://www.techtalkthai.com/?p=171865",
-      "title": "Tencent เปิดตัว Hy4 โมเดล AI ชั้นแนวหน้าทรงพลัง มาพร้อมความเข้าใจภาพและการใช้งานคอมพิวเตอร์",
-      "link": "https://www.techtalkthai.com/tencent-releases-hy4-a-powerful-frontier-ai-model-introducing-visual-understanding-and-computer-use/",
-      "content": "Tencent ได้เปิดตัว Hy4 ซึ่งเป็นโมเดลภาษาขนาดใหญ่รุ่นใหม่ที่เพิ่มขีดความสามารถในการใช้งานคอมพิวเตอร์เป็นครั้งแรก โดยใช้ประโยชน์จากความเข้าใจภาพ การให้เหตุผล และการเรียกใช้งานเครื่องมือขั้นสูง เพื่อส่งมอบประสิทธิภาพการทำงานแบบเอเจนต์ในระยะยาว บริษัทระบุว่าโมเดลนี้ถือเป็นการก้าวกระโดดครั้งสำคัญด้านประสิทธิภาพเมื่อเทียบกับ Hy4 Preview ที่เปิดตัวไปเมื่อวันที่ 28 สิงหาคม โดย Hy4 มีพารามิเตอร์รวม 7.7 แสนล้านตัว และมีพารามิเตอร์ที่ทำงานจริง 4.9 หมื่นล้านตัว ทั้งสองเวอร์ชันมาพร้อมหน้าต่างบริบทขนาด 1 ล้านโทเคน ซึ่งจัดอยู่ในระดับเดียวกับโมเดลแบบเปิดรุ่นล่าสุดจากนักพัฒนาในยุโรปและจีน รวมถึง Mistral AI, Beijing Moonshot Technology และ Z.AI บริษัทกล่าวว่าได้ขยายทั้งกระบวนการก่อนและหลังการฝึกฝนขึ้นอย่างมาก โดยรายงานว่ามีพัฒนาการที่ดีขึ้นกว่าเวอร์ชันพรีวิวในด้านการปฏิบัติตามคำสั่ง การทำความเข้าใจบริบทที่ยาวนาน การทำงานแบบเอเจนต์ในระยะยาว และการวิจัยเชิงลึก นอกจากนี้ Tencent ยังพบปัญหาเรื่องการให้เหตุผลที่มากเกินไปและการตรวจสอบซ้ำซ้อนในกระบวนการ “คิด” ของเวอร์ชันก่อนหน้านี้ด้วย โมเดลใหม่นี้ให้ความสำคัญอย่างมากกับประสิทธิภาพการทำงานในโลกความเป็นจริงสำหรับการทำงานร่วมกันในที่ทำงาน ประสบการณ์ของมนุษย์ และงานระดับมืออาชีพ บริษัทระบุว่าได้ปรับปรุงขีดความสามารถในการเรียนรู้บริบทที่ยาวนานเพื่อทำความเข้าใจข้อมูลที่ซับซ้อน ไม่ว่าจะเป็นการพัฒนาเว็บไซต์ การสรุปเอกสาร งานสร้างสรรค์เชิงภาพ การนำเสนอเอกสาร และอื่น ๆ อีกมากมาย …",
-      "pubDate": "Thu, 05 Nov 2026 04:56:43 +0000",
-      "source": "TechTalk Thai",
-      "category": "AI",
-      "thumbnail": "https://www.techtalkthai.com/wp-content/uploads/2026/11/Tencent-Hy4.jpg",
-      "readTime": "4 นาที"
-    },
-    {
-      "id": "https://www.techtalkthai.com/?p=171862",
-      "title": "OpenAI เตรียมซื้อ Pierre Computer สตาร์ทอัพเครื่องมือนักพัฒนา",
-      "link": "https://www.techtalkthai.com/openai-to-acquire-developer-tooling-startup-pierre-computer/",
-      "content": "OpenAI ได้ประกาศแผนการเข้าซื้อกิจการ Pierre Computer ซึ่งเป็นสตาร์ทอัพด้านเครื่องมือสำหรับนักพัฒนาที่ไม่ได้เป็นที่รู้จักมากนัก โดยไม่มีการเปิดเผยเงื่อนไขของข้อตกลงดังกล่าว บรรดาผู้สังเกตการณ์มองว่านี่คือความพยายามในการท้าชน GitHub แพลตฟอร์มรีโพซิทอรีซอฟต์แวร์โอเพนซอร์สของ Microsoft เพื่อก้าวเข้าสู่ยุคของเอเจนต์ AI Pierre ดำเนินธุรกิจบริการคลาวด์ที่เอเจนต์ AI สามารถใช้จัดเก็บโค้ดที่สร้างขึ้นได้ รวมถึงสามารถจัดเก็บไฟล์ที่เกี่ยวข้อง เช่น ใบอนุญาตซอฟต์แวร์และองค์ประกอบการออกแบบอินเทอร์เฟซ โดยทาง Pierre ระบุว่าบริการนี้ให้ประสิทธิภาพที่เหนือกว่าเทคโนโลยีคู่แข่งอย่างเห็นได้ชัด และเคยช่วยให้ลูกค้าอย่างสตาร์ทอัพ AI ที่ชื่อว่า Lovable สามารถลดความหน่วงในการเรียกค้นโค้ดลงได้ประมาณ 70% นอกจากนี้ Pierre ยังพัฒนาชุดไลบรารีโอเพนซอร์สยอดนิยมหลายรายการ โดยมีสองไลบรารีคือ Trees และ Diffs ซึ่งเป็นรากฐานสำคัญของอินเทอร์เฟซในเครื่องมือเขียนโปรแกรม Codex ของ OpenAI โปรเจกต์ซอฟต์แวร์ขนาดใหญ่มักประกอบด้วยไฟล์โค้ดจำนวนหลายร้อยไฟล์ที่ถูกจัดระเบียบอยู่ในโฟลเดอร์ต่าง ๆ มากมาย เครื่องมือการเขียนโปรแกรมจำนวนมากจึงมีแถบด้านข้างที่ออกแบบมาเพื่อช่วยนำทางนักพัฒนาผ่านโฟลเดอร์เหล่านั้น โดย Trees ซึ่งเป็นไลบรารีตัวแรกที่พัฒนาโดย Pierre และถูกนำมาใช้ใน Codex ช่วยให้การสร้างแถบนำทางดังกล่าวทำได้ง่ายยิ่งขึ้น Trees สามารถเพิ่มคุณสมบัติการค้นหาและตัวควบคุมแบบลากแล้ววางสำหรับการย้ายโฟลเดอร์ย่อยให้กับแถบนำทางโฟลเดอร์ได้ นอกจากนี้ยังมีการทำเครื่องหมายไฟล์โค้ดที่เพิ่งถูกเพิ่มหรืออัปเดต เพื่อให้นักพัฒนาสามารถตรวจสอบไฟล์เหล่านั้นเป็นอันดับแรกเมื่อต้องดำเนินการต่าง ๆ …",
-      "pubDate": "Thu, 05 Nov 2026 04:28:57 +0000",
-      "source": "TechTalk Thai",
-      "category": "AI",
-      "thumbnail": "https://www.techtalkthai.com/wp-content/uploads/2026/10/OpenAI-logo.png",
-      "readTime": "4 นาที"
-    },
-    {
-      "id": "https://techsauce.co/ai/godfather-of-ai-geoffrey-hinton-warns-world-better-without-ai",
-      "title": "Geoffrey Hinton เจ้าพ่อ AI ยอมรับ บางทีโลกอาจดีกว่านี้ ถ้าเราไม่เคยสร้าง AI ขึ้นมา",
-      "link": "https://techsauce.co/ai/godfather-of-ai-geoffrey-hinton-warns-world-better-without-ai",
-      "content": "โลกอาจดีกว่านี้ถ้าเราไม่เคยสร้างมันขึ้นมา เจาะลึกคำเตือนสะเทือนโลกจาก Geoffrey Hinton เจ้าพ่อ AI",
-      "pubDate": "Thu, 05 Nov 2026 11:25:44 +0700",
-      "source": "Techsauce",
-      "category": "AI",
-      "thumbnail": "https://storage.googleapis.com/techsauce-prod/ugc/uploads/2026/11/1793852656_%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B8%8D%E0%B9%88%E0%B8%B2%E0%B8%AD%E0%B8%A2%E0%B9%88%E0%B8%B2%E0%B8%A2%E0%B8%B8%E0%B9%88%E0%B8%87_%E0%B8%9B%E0%B8%81%E0%B8%82%E0%B9%88%E0%B8%B2%E0%B8%A71200x800_-_2026-11-05T112154.357.webp",
-      "readTime": "1 นาที"
-    },
-    {
-      "id": "https://www.techtalkthai.com/?p=171847",
-      "title": "HPE Networking ฉลองความสำเร็จ ‘Kimi Antonelli’ แชมป์โลก F1 ปี 2026 พร้อมจัดกิจกรรมแจกเสื้อทีม Mercedes-AMG สุดเอ็กซ์คลูซีฟ [Guest Post]",
-      "link": "https://www.techtalkthai.com/hpe-networking-celebrates-kimi-antonelli-f1-champion-2026-mercedes-giveaway-guest-post/",
-      "content": "HPE Networking และ VST ECS ร่วมแสดงความยินดีกับ Kimi Antonelli ที่คว้าตำแหน่งแชมป์โลก Formula 1 ประจำปี 2026 พร้อมจารึกชื่อเป็นผู้นำแชมเปียนชิพที่อายุน้อยที่สุดในประวัติศาสตร์ของการแข่งขัน F1  เพื่อเป็นการเฉลิมฉลองชัยชนะครั้งนี้ HPE Networking ได้เปิดตัวกิจกรรมพิเศษภายใต้แคมเปญ “THE SELF-DRIVING NETWORK” โดยเปิดโอกาสให้ผู้สนใจร่วมสนุกผ่านการตอบคำถามว่า “เมื่อระบบเครือข่ายสามารถคิดและดูแลตัวเองได้อัตโนมัติ (Self-Driving Network) จนคุณไม่ต้องกังวลเรื่องเน็ตหลุดหรือระบบล่มอีกต่อไป… คุณจะเอาเวลาว่างหรือความสบายใจที่เพิ่มขึ้นไปทำอะไรมากที่สุด?” ผู้ที่ตอบคำถามได้ถูกใจทีมงานมากที่สุด จะได้รับรางวัล เสื้อ MERCEDES – AMG PETRONAS FORMULA 1 TEAM ENGINEERS POLO Shirt จำนวน 3 รางวัล และยังมีรางวัลอื่นๆ ให้ร่วมลุ้นอีกกว่า 10 รางวัล ผู้ที่สนใจสามารถเข้าร่วมกิจกรรมได้ตั้งแต่วันที่ 3 – 13 พฤศจิกายน 2569 นี้เท่านั้น โดยการ …",
-      "pubDate": "Thu, 05 Nov 2026 02:27:11 +0000",
-      "source": "TechTalk Thai",
-      "category": "General",
-      "thumbnail": "https://www.techtalkthai.com/wp-content/uploads/2026/11/Design_FB-Activity-2.png-640x335.jpg",
-      "readTime": "3 นาที"
-    },
-    {
-      "id": "https://www.techtalkthai.com/?p=171843",
-      "title": "ใช้ AI แล้วประหยัดเวลาจริงหรือ? งานวิจัยชี้กลุ่ม Heavy User ทำงานนานขึ้น 90 นาทีต่อวัน แถมสมาธิแตกกระจาย",
-      "link": "https://www.techtalkthai.com/activtrak-report-heavy-ai-users-work-longer/",
-      "content": "กระแสการนำ AI มาเพิ่ม Productivity กลายเป็นกลยุทธ์หลักของทุกองค์กร แต่ผลสำรวจพฤติกรรมคนทำงานจริงกลับสะท้อนภาพตรงกันข้าม รายงานวิจัยล่าสุดจาก ActivTrak ผู้พัฒนาซอฟต์แวร์วิเคราะห์ผลิตภาพแรงงาน ระบุว่า พนักงานระดับ AI Heavy Users กลับมีชั่วโมงการทำงานต่อวันยาวนานขึ้นสูงสุดถึง 90 นาที และต้องสลับการใช้งานแอปพลิเคชันบ่อยครั้งขึ้น สวนทางกับข้ออ้างของผู้ให้บริการที่ระบุว่า AI จะช่วยประหยัดเวลาการทำงาน งานวิจัยฉบับนี้เก็บข้อมูลพฤติกรรมจากพนักงานจำนวน 9,140 คนใน 467 องค์กร ระหว่างเดือนเมษายนถึงกันยายน 2026 โดยพบประเด็นสำคัญที่น่าสนใจดังนี้ ชั่วโมงการทำงานเพิ่มขึ้น: กลุ่ม Heavy User ทำงานเฉลี่ย 8.42 ถึง 9.08 ชั่วโมงต่อวัน ขณะที่พนักงานที่ไม่ใช้ AI ทำงานเฉลี่ย 7.58 ชั่วโมงต่อวัน Focus Session หดสั้นลง: กลุ่มผู้ใช้ AI หนักมีช่วงเวลาโฟกัสกับงานสั้นลง 22% เฉลี่ย 37.8 นาที เทียบกับ 48.2 …",
-      "pubDate": "Thu, 05 Nov 2026 01:36:28 +0000",
-      "source": "TechTalk Thai",
-      "category": "AI",
-      "thumbnail": "https://www.techtalkthai.com/wp-content/uploads/2026/11/TTT-2026-11-05T083432.189-640x336.jpg",
-      "readTime": "2 นาที"
-    },
-    {
-      "id": "https://www.techtalkthai.com/?p=171797",
-      "title": "ABeam Consulting ยกระดับบริการ AMS สู่ Real Partner ดัน CxO Agenda และเสถียรภาพระบบระดับเอ็นเตอร์ไพรส์ เพราะทำแค่ Ticket-Based คงไม่พอ",
-      "link": "https://www.techtalkthai.com/abeam-consulting-application-management-services/",
-      "content": "ตลาด Application Management Services หรือ AMS กำลังเจอจุดเปลี่ยนสำคัญ เพราะก่อนหน้านี้องค์กรธุรกิจมักมองหาผู้ให้บริการเอาต์ซอร์สเพื่อทำหน้าที่หลังบ้าน เช่น คอยเปิด-ปิด Ticket แก้ไขข้อผิดพลาดประจำวัน และวัดผลงานด้วย SLA เป็นหลัก แต่เมื่อภาพของเทคโนโลยีระดับองค์กรมีความซับซ้อนขึ้น โดยเฉพาะระบบแกนหลักอย่าง ERP ควบคู่ไปกับการเข้ามาของระบบ Automation และ AI โมเดลการคิดค่าบริการตามปริมาณ Ticket เริ่มไม่มีประสิทธิภาพ และไม่ได้สร้างคุณค่าให้กับองค์กรได้อย่างยั่งยืน จากการเปลี่ยนแปลงดังกล่าว ABeam Consulting Thailand จึงทรานส์ฟอร์มบริการ AMS จากจุดรับเรื่องต่าง ๆ สู่การเป็น Real Partner for CxO ที่ช่วยขับเคลื่อนยุทธศาสตร์องค์กร พร้อมพาธุรกิจก้าวข้ามข้อจำกัดของระบบไอทีแบบเดิม โดยมีรายละเอียดดังนี้ เมื่อ AI ลด Ticket แต่โจทย์ธุรกิจต้องการ Value คือจุดเปลี่ยน คุณจิรวัฒน์ เมฆวัฒนา, Head of Operational Excellence …",
-      "pubDate": "Thu, 05 Nov 2026 01:12:49 +0000",
-      "source": "TechTalk Thai",
-      "category": "AI",
-      "thumbnail": "https://www.techtalkthai.com/wp-content/uploads/2026/11/TTT-2026-11-04T150053.359-640x336.jpg",
-      "readTime": "3 นาที"
-    },
-    {
-      "id": "https://www.techtalkthai.com/?p=171835",
-      "title": "Broadcom เปิดตัว VMware vSphere Express สำหรับองค์กรขนาดเล็ก พร้อมอัปเดต VCF ด้าน Private AI",
-      "link": "https://www.techtalkthai.com/broadcom-launches-vmware-vsphere-express-small-environments-vcf-updates/",
-      "content": "Broadcom เปิดตัว VMware vSphere Express ชุด virtualization พื้นฐานสำหรับองค์กรที่มีสภาพแวดล้อมขนาดเล็ก เปิดให้ใช้งานได้ทันทีทุกภูมิภาค พร้อมอัปเดต VMware Cloud Foundation (VCF) ด้าน Private AI ความปลอดภัย Compliance และ Disaster Recovery รวมถึงเพิ่ม Advanced Services ใหม่ VMware vSphere Express พัฒนาบนพื้นฐานของ vSphere 9 โดยมุ่งให้ความสามารถด้าน compute virtualization หลักที่จำเป็นในราคาที่คุ้มค่า สำหรับลูกค้าที่มี 128 cores รวมทุกสภาพแวดล้อม ตัวผลิตภัณฑ์ออกแบบมาให้ใช้งานได้ง่าย เพื่อช่วยให้องค์กรที่มีระบบขนาดเล็กปรับปรุงระบบให้ทันสมัย (modernization) ได้สะดวกขึ้น ความสามารถหลักที่รวมมาใน vSphere Express เช่น vMotion: ย้าย Virtual Machine ที่กำลังทำงานอยู่แบบ live migration …",
-      "pubDate": "Wed, 04 Nov 2026 22:14:05 +0000",
-      "source": "TechTalk Thai",
-      "category": "Security",
-      "thumbnail": "https://www.techtalkthai.com/wp-content/uploads/2026/11/vmware-logo-16x9-banner-img-2026-640x360.png",
-      "readTime": "2 นาที"
-    },
-    {
-      "id": "https://www.techtalkthai.com/?p=171833",
-      "title": "Meta เข้าซื้อกิจการ Conductor สตาร์ทอัพ AI Coding ที่ให้ Agent หลายตัวทำงานคู่ขนานกัน",
-      "link": "https://www.techtalkthai.com/meta-buys-conductor-parallel-ai-coding-agents-startup/",
-      "content": "Meta เข้าซื้อกิจการ Conductor สตาร์ทอัพด้าน AI coding ที่ให้ผู้ใช้งานสร้างโปรเจกต์ซอฟต์แวร์ด้วยการ deploy Agent หลายตัวให้ทำงานคู่ขนานกันใน workspace ที่แยกจากกัน โดย Meta ไม่เปิดเผยรายละเอียดของดีล Conductor ก่อตั้งขึ้นในปี 2024 และเพิ่งเปิดตัวผลิตภัณฑ์หลักเมื่อช่วงฤดูร้อนที่ผ่านมา จุดเด่นของแพลตฟอร์มคือทีม Agent (agentic teams) ที่ช่วยให้วิศวกรซอฟต์แวร์แบ่งโปรเจกต์ออกเป็นส่วนย่อยที่แยกจากกัน แล้วให้ Agent แต่ละตัวรับผิดชอบงานแต่ละส่วนไปพร้อมกัน ผู้ใช้งานเลือก deploy ทีม Agent ได้ทั้งบน Cloud บนเครื่อง local หรือสั่งงานผ่านโทรศัพท์มือถือ ทั้งนี้ Conductor ไม่ได้พัฒนา Agent ขึ้นเอง แต่ใช้ Agent จาก AI lab รายใหญ่อย่าง Anthropic และ OpenAI Conductor ประกาศข่าวการเข้าร่วม Meta ผ่าน blog …",
-      "pubDate": "Wed, 04 Nov 2026 22:10:42 +0000",
-      "source": "TechTalk Thai",
-      "category": "AI",
-      "thumbnail": "https://www.techtalkthai.com/wp-content/uploads/2021/10/meta-banner-2021.png",
-      "readTime": "2 นาที"
     },
     {
       "id": "https://it24hrs.com/?p=170946",
@@ -574,17 +651,6 @@
       "readTime": "1 นาที"
     },
     {
-      "id": "https://www.techtalkthai.com/?p=171823",
-      "title": "เก่ง AI อย่างเดียวไม่พอ! เปิดแนวคิด The Human Advantage เจาะกรณีศึกษาสร้าง AI ที่ใช้งานได้จริง จาก LINE THAILAND DEVELOPER CONFERENCE 2026 [PR]",
-      "link": "https://www.techtalkthai.com/line-thailand-developer-conference-2026-realworld-pr/",
-      "content": "ในวันที่ AI ฉลาดขึ้นและช่วยมนุษย์สร้างเทคโนโลยีใหม่ได้รวดเร็วกว่าที่เคย คำถามสำคัญจึงอาจไม่ใช่เพียงว่า “AI ทำอะไรได้บ้าง” แต่คือ “มนุษย์จะใช้ AI สร้างอะไรให้มีคุณค่าได้มากกว่าเดิม” เพราะความได้เปรียบของนักพัฒนายุคใหม่ไม่ได้อยู่เพียงความสามารถในการใช้เทคโนโลยี แต่ยังรวมถึงความรู้ ความคิดริเริ่ม และความเข้าใจปัญหาของผู้คน เพื่อเปลี่ยนศักยภาพของ AI ให้กลายเป็นโซลูชันที่ใช้งานได้จริง  แนวคิดดังกล่าวเป็นหนึ่งในไฮไลท์จากงาน LINE THAILAND DEVELOPER CONFERENCE 2026 ภายใต้ธีม “Build the Next-Frontier” ในแทร็ก Real-World Use Cases ที่รวบรวมมุมมองและประสบการณ์จากผู้เชี่ยวชาญด้านเทคโนโลยี ตั้งแต่แนวคิดพัฒนาศักยภาพนักพัฒนา ไปจนถึงการสร้าง AI Agent และโครงสร้างพื้นฐานที่พร้อมรองรับการใช้งานจริง ผ่านกรณีศึกษาที่สะท้อนว่าเทคโนโลยีจะสร้างคุณค่าได้อย่างแท้จริง เมื่อเริ่มต้นจากความเข้าใจปัญหาและความต้องการของผู้ใช้งาน The Human Advantage: เมื่อ AI ยิ่งเก่ง มนุษย์ยิ่งต้องสร้างคุณค่าให้มากกว่าเดิม กษิดิศ สตางค์มงคล ผู้เชี่ยวชาญด้าน Data Analytics / AI และผู้ก่อตั้งเพจ DataRockie …",
-      "pubDate": "Wed, 04 Nov 2026 10:45:07 +0000",
-      "source": "TechTalk Thai",
-      "category": "AI",
-      "thumbnail": "https://www.techtalkthai.com/wp-content/uploads/2026/11/linedverealworlper-640x335.png",
-      "readTime": "3 นาที"
-    },
-    {
       "id": "152095 at https://www.blognone.com",
       "title": "Influencer Marketing ยุคนี้ ต้องมี AI มาช่วยงาน Data ด้าน AnotherDot เลยเปิดตัวแพลตฟอร์มใหม่ ใช้ AI ช่วยแคมเปญต้ั้งแต่นัดหมาย ถึงสรุปผล",
       "link": "https://www.blognone.com/node/152095",
@@ -594,72 +660,6 @@
       "category": "AI",
       "thumbnail": "https://www.blognone.com/sites/default/files/files-2026/2026-11/image1.jpg",
       "readTime": "11 นาที"
-    },
-    {
-      "id": "https://www.techtalkthai.com/?p=171819",
-      "title": "Vertiv ช่วยองค์กรในการเปลี่ยนผ่านจากโครงการนำร่อง AI สู่การใช้งานจริงในระดับ Production [PR]",
-      "link": "https://www.techtalkthai.com/vertiv-announces-enterprise-ai-deployment-guide-pr/",
-      "content": "Vertiv Holdings Co. (NYSE: VRT) หรือ เวอร์ทิฟ ผู้ให้บริการโครงสร้างพื้นฐานดิจิทัลสำคัญระดับโลก ร่วมกับ Deloitte Center for Integrated Research ประกาศความร่วมมือเพื่อช่วยให้องค์กรก้าวข้ามความท้าทายสำคัญในการเปลี่ยนผ่านการใช้งานปัญญาประดิษฐ์ (AI) จากขั้นการทดลองไปสู่การใช้งานจริงในระดับ Production โดยช่วยให้องค์กรสามารถประเมินได้ว่าเวิร์กโหลด AI ควรดำเนินงานอยู่ที่ใด และโครงสร้างพื้นฐานทางกายภาพที่มีอยู่สามารถรองรับการใช้งานดังกล่าวได้หรือไม่ แนวทางที่อิงตามเวิร์กโหลด ช่วยเชื่อมโยงความต้องการทางธุรกิจกับรูปแบบโครงสร้างพื้นฐานและ Reference Design ที่เหมาะสม เพื่อลดความเสี่ยงในการติดตั้งใช้งาน AI คู่มือ  Vertiv Designing Infrastructure for Enterprise AI Guide ฉบับใหม่ ซึ่งพัฒนาร่วมกันโดย Vertiv และ STL Partners บริษัทวิจัยด้านโครงสร้างพื้นฐานดิจิทัล ช่วยให้ผู้บริหารสายธุรกิจ ไอที และฝ่ายบริหารอาคารมีกรอบแนวทางการตัดสินใจโดยอ้างอิงจากลักษณะเวิร์กโหลด เพื่อประเมินความเหมาะสมก่อนลงทุนหรือวางแผนโครงสร้างพื้นฐาน องค์กรสามารถเริ่มต้นจากเป้าหมายทางธุรกิจและเวิร์กโหลด AI ที่ต้องการรองรับ เพื่อประเมินตำแหน่งที่เหมาะสมสำหรับการติดตั้งใช้งาน ความต้องการด้านโครงสร้างพื้นฐาน รวมถึงความพร้อมของสถานที่ ก่อนเชื่อมโยงแต่ละเวิร์กโหลดเข้ากับรูปแบบโครงสร้างพื้นฐานทางกายภาพและแบบอ้างอิง …",
-      "pubDate": "Wed, 04 Nov 2026 10:11:21 +0000",
-      "source": "TechTalk Thai",
-      "category": "AI",
-      "thumbnail": "https://www.techtalkthai.com/wp-content/uploads/2026/11/vertiveenterprisepr-640x335.png",
-      "readTime": "3 นาที"
-    },
-    {
-      "id": "https://it24hrs.com/?p=170935",
-      "title": "Xiaomi HyperOS 4 มีอะไรใหม่? รวมฟีเจอร์ AI หน้าตา UI ดีไซน์ใหม่ และกำหนดอัปเดต",
-      "link": "https://it24hrs.com/2026/xiaomi-hyperos-4-new-features-update/",
-      "content": "ข่าวดีสำหรับผู้ใช้สมาร์ทโฟน และแท็บเล็ตในเครือของ Xiaom […]\nThe post Xiaomi HyperOS 4 มีอะไรใหม่? รวมฟีเจอร์ AI หน้าตา UI ดีไซน์ใหม่ และกำหนดอัปเดต appeared first on iT24Hrs by ปานระพี.",
-      "pubDate": "Wed, 04 Nov 2026 10:06:47 +0000",
-      "source": "IT24Hrs",
-      "category": "AI",
-      "thumbnail": null,
-      "readTime": "1 นาที"
-    },
-    {
-      "id": "https://www.techtalkthai.com/?p=171816",
-      "title": "รายงาน Kyndryl ชี้ ผู้นำในเอเชียแปซิฟิกเน้นผลลัพธ์ทางธุรกิจเป็นอันดับแรก ในยุคที่ AI ขยายบทบาทในการยกระดับไอทีให้ทันสมัย [PR]",
-      "link": "https://www.techtalkthai.com/kyndryl-modernization-report-pr/",
-      "content": "คินดริล (Kyndryl – NYSE: KD) ผู้นำด้านการให้บริการเทคโนโลยีสารสนเทศสำหรับส่วนงานสำคัญในระดับองค์กร เผยผลสำรวจของภูมิภาคเอเชียแปซิฟิกซึ่งเป็นส่วนหนึ่งของ Modernization Report ฉบับทั่วโลกที่จัดทำขึ้นเป็นครั้งแรก ผลสำรวจพบว่าองค์กรต่างขยายการลงทุนทั้งแพลตฟอร์มดั้งเดิมที่ใช้อยู่และแพลตฟอร์มสมัยใหม่ การปรับระบบให้ทันสมัยต้องการกระบวนการทำงานทางธุรกิจที่สอดประสานกันมากขึ้น ไม่ใช่การรวมเทคโนโลยีต่าง ๆ เข้าด้วยกันเพียงอย่างเดียว คุณเมกาวาตี คีย์ รองประธานและกรรมการผู้จัดการประจำภูมิภาคอาเซียนและเกาหลีของคินดริล กล่าวว่า “สำหรับภูมิภาคเอเชียแปซิฟิกนั้น การปรับระบบให้ทันสมัยไม่ได้เป็นเพียงตัวเลือกระหว่างการลงทุนด้าน AI และการเสริมแกร่งให้เทคโนโลยีที่รองรับ AI เท่านั้นอีกต่อไป องค์กรต้องทำทั้งสองอย่างควบคู่กันไป สภาพแวดล้อมทางเทคโนโลยีที่กระจายตัวมากขึ้น เป็นความท้าทายในการตัดสินใจว่าจะลงทุนด้านใด จะปรับระบบใดให้ทันสมัย และจะทำอย่างไรให้สภาพแวดล้อมเหล่านั้นปลอดภัย แข็งแกร่ง และพร้อมรับอนาคตอยู่เสมอ” รายงานนี้มาจากการสำรวจความคิดเห็นเชิงลึกของผู้นำทางธุรกิจและเทคโนโลยี 2,000 คนในห้าทวีปจาก 12 ประเภทอุตสาหกรรม ทั้งนี้ 30% เป็นองค์กรที่อยู่ในเอเชียแปซิฟิก ผลสำรวจแสดงให้เห็นวิธีการที่ AI พลิกโฉมการจัดลำดับความสำคัญของการลงทุนทั้งในเรื่องของโครงสร้างพื้นฐานและแอปพลิเคชัน รวมถึงความท้าทายต่อรูปแบบการดำเนินงานขององค์กร ในเอเชียแปซิฟิก AI เป็นหนึ่งในลำดับความสำคัญของการปรับระบบให้ทันสมัยซึ่งมีอยู่หลายด้านและมีความสำคัญใกล้เคียงกัน ผู้ตอบแบบสำรวจ 36% ให้ความสำคัญเท่ากันในด้านการเพิ่มประสิทธิภาพการทำงาน, ความปลอดภัย และการทำงานร่วมกัน; การเพิ่มความคล่องตัวทางธุรกิจ, นวัตกรรม และการขยายขนาด; …",
-      "pubDate": "Wed, 04 Nov 2026 09:59:51 +0000",
-      "source": "TechTalk Thai",
-      "category": "Security",
-      "thumbnail": "https://www.techtalkthai.com/wp-content/uploads/2026/11/kyndrylmodenizationpr-640x335.png",
-      "readTime": "4 นาที"
-    },
-    {
-      "id": "https://www.techtalkthai.com/?p=171803",
-      "title": "CommScope Webinar : Beyond the Core ยกระดับเครือข่ายดาต้าเซ็นเตอร์ให้พร้อมสำหรับยุค AI [19 พ.ย. 2569 –13.30น.]",
-      "link": "https://www.techtalkthai.com/commscope-webinar-beyond-the-core-19112026/",
-      "content": "CommScope ขอเชิญ CIO, CTO, IT Director, IT Infrastructure Manager, Network Engineer, Network Architect, Data Center Operations,  System Integrator (SI) และผู้เกี่ยวข้องกับการวางแผน พัฒนา หรือยกระดับโครงสร้างพื้นฐานดาต้าเซ็นเตอร์ เข้าร่วมงานสัมมนาออนไลน์ในหัวข้อ “Beyond the Core ยกระดับเครือข่ายดาต้าเซ็นเตอร์ให้พร้อมสำหรับยุค AI” การลงทุนด้าน AI กำลังเร่งตัวขึ้นทั่วภูมิภาค แต่หลายองค์กรพบว่าอุปสรรคสำคัญไม่ใช่ตัว GPU หรือเซิร์ฟเวอร์ หากแต่เป็นโครงสร้างพื้นฐานระดับเครือข่ายเบื้องหลังอย่างสายสัญญาณก็เป็นประเด็นใหญ่ไม่แพ้กัน ในงานสัมมนาครั้งนี้เราจะพาทุกท่านไปรับฟังมุมมองของผู้เชี่ยวชาญจาก CommScope เพื่อเป็นแนวทางให้ท่านได้ประเมินว่าโครงสร้างพื้นฐานของท่านพร้อมสำหรับ AI เพียงใด ควรลงทุนอย่างไรให้คุ้มค่าและขยายต่อได้ในอนาคต พร้อมกันนี้ยังมีแขกรับเชิญพิเศษจาก STT GDC Thailand ที่จะมาพูดถึงประเด็นเกี่ยวกับความพร้อมของประเทศไทยในการเป็นฮับด้าน AI Data Center ต่อด้วยเนื้อหาแบบเจาะลึกจากโซลูชันเครือข่ายอัตโนมัติจาก HPE Networking โดยงานจะจัดขึ้นใน วันพฤหัสบดีที่ 19 …",
-      "pubDate": "Wed, 04 Nov 2026 08:28:27 +0000",
-      "source": "TechTalk Thai",
-      "category": "AI",
-      "thumbnail": "https://www.techtalkthai.com/wp-content/uploads/2026/11/CommScope-Webinar_Banner_1200x628.png",
-      "readTime": "3 นาที"
-    },
-    {
-      "id": "https://techsauce.co/news/boi-japan-roadshow-chip-energy-automotive",
-      "title": "“เอกนิติ–บีโอไอ” นำทีมเอกชนโรดโชว์ญี่ปุ่น ดึงลงทุนชิป - พลังงาน - ต่อยอดยานยนต์ยุคใหม่",
-      "link": "https://techsauce.co/news/boi-japan-roadshow-chip-energy-automotive",
-      "content": "รองนายกฯ เอกนิติ นำคณะบีโอไอและผู้นำ 3 องค์กรธุรกิจไทย เยือนญี่ปุ่น 18–20 พฤศจิกายน 2569 เพื่อดึงลงทุนด้านชิป พลังงาน และยานยนต์",
-      "pubDate": "Wed, 04 Nov 2026 11:54:10 +0700",
-      "source": "Techsauce",
-      "category": "General",
-      "thumbnail": "https://storage.googleapis.com/techsauce-prod/ugc/uploads/2026/11/1793768046_%E0%B8%A3%E0%B8%99%E0%B8%A1%2B%E0%B8%A5%E0%B8%81%E0%B8%97_photo.webp",
-      "readTime": "1 นาที"
-    },
-    {
-      "id": "https://techsauce.co/news/canva-team-restructure",
-      "title": "Canva ปรับโครงสร้างครั้งใหญ่ กระทบพนักงาน 1,271 คน หรือ 22% หลังการเติบโตชะลอลงครั้งแรกในรอบทศวรรษ",
-      "link": "https://techsauce.co/news/canva-team-restructure",
-      "content": "Canva แพลตฟอร์มออกแบบที่มีผู้ใช้หลายร้อยล้านคน ประกาศปรับโครงสร้างองค์กรครั้งใหญ่ ซึ่งกระทบพนักงาน 1,271 คน หรือ 22% ของบริษัท Melanie Perkins Co-Founder และ CEO แจ้งพนักงานผ่านบันทึกภายในที่เผยแพร่ใน Canva Newsroom",
-      "pubDate": "Wed, 04 Nov 2026 11:20:08 +0700",
-      "source": "Techsauce",
-      "category": "General",
-      "thumbnail": "https://storage.googleapis.com/techsauce-prod/ugc/uploads/2026/11/1793766000_Keng_%E0%B8%9B%E0%B8%81%E0%B8%82%E0%B9%88%E0%B8%B2%E0%B8%A71200x800_%2861%29.webp",
-      "readTime": "1 นาที"
     },
     {
       "id": "152032 at https://www.blognone.com",
