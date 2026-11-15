@@ -19,31 +19,31 @@
       "link": "https://github.com/"
     },
     {
-      "id": "https://www.thaicert.or.th/?p=17994",
-      "title": "เตือนภัย! ช่องโหว่ PHP2Shell ใน Check Point Security Gateway ถูกใช้โจมตีจริง เสี่ยงถูกเข้าควบคุมและกระทบระบบสำคัญขององค์กร",
-      "category": "ภัยคุกคามทางไซเบอร์",
-      "source": "ThaiCERT",
-      "summary": "ศูนย์ประสานการรักษาความมั่นคงปลอดภัยระบบคอมพิวเตอร์แห่ง […]\nThe post เตือนภัย! ช่องโหว่ PHP2Shell ใน Check Point Securit...",
-      "thumbnail": "https://www.thaicert.or.th/wp-content/uploads/2026/11/PHP2Shell-Checkpoint-1024x576.png",
-      "link": "https://www.thaicert.or.th/2026/11/14/%e0%b9%80%e0%b8%95%e0%b8%b7%e0%b8%ad%e0%b8%99%e0%b8%a0%e0%b8%b1%e0%b8%a2-%e0%b8%8a%e0%b9%88%e0%b8%ad%e0%b8%87%e0%b9%82%e0%b8%ab%e0%b8%a7%e0%b9%88-php2shell-%e0%b9%83%e0%b8%99-check-point-security-gat/"
-    },
-    {
-      "id": "152177 at https://www.blognone.com",
-      "title": "FAA สั่งเที่ยวบินสหรัฐหยุดบินทั่วประเทศ ไม่ใช่ก่อการร้าย แต่ซอฟต์แวร์ขัดข้อง",
-      "category": "AI",
+      "id": "152180 at https://www.blognone.com",
+      "title": "วันหยุดจบแล้ว ไมโครซอฟท์กู้ระบบทั้งหมดเสร็จสิ้น ยืนยันไม่ใช่การโจมตีไซเบอร์",
+      "category": "Security",
       "source": "Blognone",
-      "summary": "FAA สั่งเที่ยวบินสหรัฐหยุดบินทั่วประเทศ ไม่ใช่ก่อการร้าย แต่ซอฟต์แวร์ขัดข้อง\n\n  \nBody\nFederal Aviation Administration (F...",
+      "summary": "วันหยุดจบแล้ว ไมโครซอฟท์กู้ระบบทั้งหมดเสร็จสิ้น ยืนยันไม่ใช่การโจมตีไซเบอร์\n\n  \nBody\nไมโครซอฟท์ประกาศว่า บริการทั้งหมดกล...",
       "thumbnail": null,
-      "link": "https://www.blognone.com/node/152177"
+      "link": "https://www.blognone.com/node/152180"
     },
     {
-      "id": "https://www.thaicert.or.th/?p=17991",
-      "title": "แจ้งเตือนช่องโหว่ระดับ Critical ใน N-able N-central เสี่ยงถูกโจมตีผ่านช่องโหว่ RCE และเข้าควบคุมระบบโดยไม่ได้รับอนุญาต",
+      "id": "152179 at https://www.blognone.com",
+      "title": "เบื้องหลังระบบสื่อสารการบิน FAA ล่ม เกิดจากอัพเดตเราเตอร์เก่าผิดพลาด",
+      "category": "Security",
+      "source": "Blognone",
+      "summary": "เบื้องหลังระบบสื่อสารการบิน FAA ล่ม เกิดจากอัพเดตเราเตอร์เก่าผิดพลาด\n\n  \nBody\nสำนักข่าว CBS อ้างแหล่งข่าวระดับสูงของรัฐบ...",
+      "thumbnail": null,
+      "link": "https://www.blognone.com/node/152179"
+    },
+    {
+      "id": "https://www.thaicert.or.th/?p=18008",
+      "title": "แจ้งเตือน! ช่องโหว่บน MongoDB อาจเปิดช่องให้แฮกเกอร์โจมตีเซิร์ฟเวอร์ได้",
       "category": "ภัยคุกคามทางไซเบอร์",
       "source": "ThaiCERT",
-      "summary": "ศูนย์ประสานการรักษาความมั่นคงปลอดภัยระบบคอมพิวเตอร์แห่ง […]\nThe post แจ้งเตือนช่องโหว่ระดับ Critical ใน N-able N-central...",
-      "thumbnail": "https://www.thaicert.or.th/wp-content/uploads/2026/11/N-central-1024x576.png",
-      "link": "https://www.thaicert.or.th/2026/11/13/%e0%b9%81%e0%b8%88%e0%b9%89%e0%b8%87%e0%b9%80%e0%b8%95%e0%b8%b7%e0%b8%ad%e0%b8%99%e0%b8%8a%e0%b9%88%e0%b8%ad%e0%b8%87%e0%b9%82%e0%b8%ab%e0%b8%a7%e0%b9%88%e0%b8%a3%e0%b8%b0%e0%b8%94%e0%b8%b1%e0%b8%9a-3/"
+      "summary": "ศูนย์ประสานการรักษาความมั่นคงปลอดภัยระบบคอมพิวเตอร์แห่ง […]\nThe post แจ้งเตือน! ช่องโหว่บน MongoDB อาจเปิดช่องให้แฮกเกอร...",
+      "thumbnail": "https://www.thaicert.or.th/wp-content/uploads/2026/11/CVE-2026-118383-บน-MongoDB-1024x576.jpg",
+      "link": "https://www.thaicert.or.th/2026/11/14/%e0%b9%81%e0%b8%88%e0%b9%89%e0%b8%87%e0%b9%80%e0%b8%95%e0%b8%b7%e0%b8%ad%e0%b8%99-%e0%b8%8a%e0%b9%88%e0%b8%ad%e0%b8%87%e0%b9%82%e0%b8%ab%e0%b8%a7%e0%b9%88%e0%b8%9a%e0%b8%99-mongodb-%e0%b8%ad%e0%b8%b2/"
     }
   ],
   "articles": [
@@ -52,7 +52,7 @@
       "title": "แนวทางปฏิบัติการตั้งรหัสผ่านให้ปลอดภัยสำหรับบุคลากร",
       "link": "https://github.com/",
       "content": "1. รหัสผ่านต้องมีความยาวอย่างน้อย 8 ตัวอักษร\n2. ประกอบด้วยอักษรตัวพิมพ์ใหญ่ ตัวพิมพ์เล็ก ตัวเลข และสัญลักษณ์พิเศษ\n3. ห้ามใช้ข้อมูลส่วนตัว เช่น วันเกิด หรือเบอร์โทรศัพท์\n4. เปลี่ยนรหัสผ่านใหม่ทุกๆ 3-6 เดือนเพื่อความปลอดภัย",
-      "pubDate": "2026-11-14T02:56:11.814Z",
+      "pubDate": "2026-11-15T02:27:02.599Z",
       "source": "คู่มือภายในองค์กร",
       "category": "Internal",
       "thumbnail": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=500&auto=format&fit=crop&q=60"
@@ -62,10 +62,109 @@
       "title": "คลังกฎหมายและระเบียบที่เกี่ยวข้องกับการปฏิบัติราชการ",
       "link": "https://github.com/",
       "content": "### ⚖️ ศูนย์รวมลิงก์กฎหมายฉบับเต็มและแนวทางปฏิบัติงาน\n\nเพื่อความสะดวกและถูกต้องในการอ้างอิงข้อกฎหมายของเจ้าหน้าที่ในการปฏิบัติราชการ ศูนย์ไอทีได้รวบรวมลิงก์ตรงไปยังระบบสืบค้นกฎหมายของสำนักงานคณะกรรมการกฤษฎีกา และไฟล์ PDF ฉบับราชกิจจานุเบกษาไว้ในจุดเดียว ดังนี้ครับ:\n\n---\n\n### 🛒 1. หมวดการบริหารงานพัสดุและการจัดซื้อจัดจ้าง\n*   **พ.ร.บ. การจัดซื้อจัดจ้างและการบริหารพัสดุภาครัฐ พ.ศ. 2560**\n    *   🔗 [อ่านกฎหมายฉบับเต็ม (เว็บกฤษฎีกา)](https://www.ocs.go.th/)\n    *   📄 [ดาวน์โหลดไฟล์ PDF ฉบับประกาศราชกิจจานุเบกษา](https://www.gprocurement.go.th/wps/portal/egp/Regulation/!ut/p/z1/04_Sj9CPykssy0xPLMnMz0vMAfIjo8zifQ3djQydnQ18_T3dzA0czU0NfANMLQ1MPIz1w8EKDHAARwP9KGL041EQhd_4cP0oNCvCjM2AJgT4OvsHehgYOBtCFeAxoyA3NMIg01ERAHhSDzY!/dz/d5/L0lDUmlTUSEhL3dHa0FKRnNBLzROV3FpQSEhL3Ro/)\n*   **ระเบียบกระทรวงการคลังว่าด้วยการจัดซื้อจัดจ้างและการบริหารพัสดุภาครัฐ พ.ศ. 2560**\n    *   🔗 [อ่านระเบียบฉบับเต็มและกฎกระทรวงที่เกี่ยวข้อง](https://www.gprocurement.go.th/wps/portal/egp/Regulation/Ministry_of_Finance_Regularity/)\n\n---\n\n### 🏢 2. หมวดการปฏิบัติราชการและวิธีพิจารณาทางปกครอง\n*   **พ.ร.บ. วิธีปฏิบัติราชการทางปกครอง พ.ศ. 2539 (และฉบับแก้ไขเพิ่มเติม)**\n    *   🔗 [อ่านกฎหมายฉบับเต็ม (เว็บกฤษฎีกา)](https://www.ocs.go.th/)\n*   **พ.ร.บ. ความรับผิดทางละเมิดของเจ้าหน้าที่ พ.ศ. 2539**\n    *   🔗 [อ่านกฎหมายฉบับเต็ม (เว็บกฤษฎีกา)](https://www.ocs.go.th/)\n*   **พ.ร.บ. การปฏิบัติราชการทางอิเล็กทรอนิกส์ พ.ศ. 2565** *(สำคัญมากสำหรับงานไอทีและบริการประชาชน)*\n    *   🔗 [อ่านกฎหมายฉบับเต็ม (เว็บกฤษฎีกา)](https://www.ocs.go.th/)\n\n---\n\n### 🛡️ 3. หมวดคุ้มครองข้อมูลและความมั่นคงปลอดภัยไซเบอร์\n*   **พ.ร.บ. คุ้มครองข้อมูลส่วนบุคคล พ.ศ. 2562 (PDPA)**\n    *   🔗 [สืบค้นกฎหมายและแนวทางปฏิบัติจาก สคส.](https://www.pdpc.or.th)\n*   **พ.ร.บ. การรักษาความมั่นคงปลอดภัยไซเบอร์ พ.ศ. 2562**\n    *   🔗 [สืบค้นกฎหมายและประกาศจาก สกมช. (NCSA)](https://www.ncsa.or.th/standards/laws)\n*   **พ.ร.บ. ว่าด้วยการกระทำความผิดเกี่ยวกับคอมพิวเตอร์ (ฉบับที่ 2) พ.ศ. 2560**\n    *   🔗 [อ่านกฎหมายฉบับเต็ม (เว็บกฤษฎีกา)](https://www.ocs.go.th/)\n\n---\n\n### 💡 แนะนำการใช้งานสำหรับเจ้าหน้าที่\n> หากต้องการสืบค้นกฎหมายอื่น ๆ เพิ่มเติม นอกเหนือจากรายการข้างต้น สามารถเข้าใช้งานระบบกฎหมายดิจิทัลโดยตรงได้ที่ **[ระบบสืบค้นกฎหมาย สำนักงานคณะกรรมการกฤษฎีกา](https://www.ocs.go.th/)** เพื่อข้อมูลที่อัปเดตและเป็นปัจจุบันที่สุด",
-      "pubDate": "2026-11-14T02:56:11.814Z",
+      "pubDate": "2026-11-15T02:27:02.599Z",
       "source": "ศูนย์รวมกฎหมายภาครัฐ",
       "category": "Law",
       "thumbnail": "https://images.unsplash.com/photo-1589829545856-d10d557cf95f?w=500"
+    },
+    {
+      "id": "152180 at https://www.blognone.com",
+      "title": "วันหยุดจบแล้ว ไมโครซอฟท์กู้ระบบทั้งหมดเสร็จสิ้น ยืนยันไม่ใช่การโจมตีไซเบอร์",
+      "link": "https://www.blognone.com/node/152180",
+      "content": "วันหยุดจบแล้ว ไมโครซอฟท์กู้ระบบทั้งหมดเสร็จสิ้น ยืนยันไม่ใช่การโจมตีไซเบอร์\n\n  \nBody\nไมโครซอฟท์ประกาศว่า บริการทั้งหมดกลับมาเป็นปกติแล้ว หลังจาก ระบบล่มครั้งใหญ่ตั้งแต่วันที่ 13 พฤศจิกายน\nในโพสต์ของไมโครซอฟท์ยืนยันว่าปัญหาระบบล่มครั้งนี้เป็นความผิดพลาดทางเทคนิค ไม่ใช่การโจมตีไซเบอร์ สาเหตุเกิดจากการอัพเกรดเครือข่าย ซึ่งจะมาแถลงรายละเอียดเพิ่มเติมในระยะถัดไป\nWe have completed our efforts to address the underlying issue of the incident and restored service to the remaining impacted customers and regions. Further updates can be found at MO1550821 in the Microsoft 365 admin center.\n— Microsoft 365 Status (@MSFT365Status) November 14, 2026\n\n\nWe are deeply sorry for the disruption this incident has caused our customers and partners. We know the trust they place in our services and take that responsibility extremely seriously. We are seeing broad recovery and stability across our services.\n\nThis was a technical issue not related to cyber or AI / agents. The incident was introduced by an issue during an earlier network capacity upgrade that surfaced following a recent network change. We have addressed the underlying issue and continue to restore service to remaining customers and regions.\nGiven the scale of demand, we restored services gradually, validating stability at each stage. While this took longer, it helped ensure a stable restoration.\nWe will provide a full post-incident report once our review is complete.\n— Microsoft (@Microsoft) November 13, 2026\n\n\n          \nmk\nSun, 15/11/2026 - 06:26",
+      "pubDate": "Sat, 14 Nov 2026 23:26:31 +0000",
+      "source": "Blognone",
+      "category": "Security",
+      "thumbnail": null,
+      "readTime": "4 นาที"
+    },
+    {
+      "id": "152179 at https://www.blognone.com",
+      "title": "เบื้องหลังระบบสื่อสารการบิน FAA ล่ม เกิดจากอัพเดตเราเตอร์เก่าผิดพลาด",
+      "link": "https://www.blognone.com/node/152179",
+      "content": "เบื้องหลังระบบสื่อสารการบิน FAA ล่ม เกิดจากอัพเดตเราเตอร์เก่าผิดพลาด\n\n  \nBody\nสำนักข่าว CBS อ้างแหล่งข่าวระดับสูงของรัฐบาลสหรัฐ ระบุสาเหตุของ ปัญหาระบบควบคุมการบินของสหรัฐล่ม จนทำให้ FAA ต้องสั่งเครื่องบินหยุดบินทั่วประเทศ ว่าเกิดจากการอัพเดตเราเตอร์ผิดพลาด\nข้อมูลจาก Markwayne Mullin รัฐมนตรีกระทรวงความมั่นคงแห่งมาตุภูมิ (Homeland Security) ให้สัมภาษณ์ว่าเกิดจากการอัพเดตแพตช์ความปลอดภัยในระบบเดิม เกิดปริมาณข้อมูลมหาศาลจนเราเตอร์รับไม่ไหว\nส่วนแหล่งข่าวอย่างไม่เป็นทางการของ CBS ให้ข้อมูลผลการสอบสวนเบื้องต้นของ FAA ว่าเกิดจากเราเตอร์เก่า Cisco Series 600 ที่ผลิตระหว่างปี 2001-2006 เมื่ออัพเดตแล้วทำงานผิดพลาด และส่งแพ็กเกตข้อมูลเข้ามาในระบบเครือข่าย จนทำให้การสื่อสารด้วยเสียงมีปัญหา และหน้าจอกะพริบหรือจอดำไปเลย\nระบบสื่อสารของหอบังคับการบินมีชื่อว่า FAA Telecommunications Infrastructure (FTI) โดยมีบริษัท L3Harris เป็นผู้ดูแลระบบมาตั้งแต่ปี 2022 อย่างไรก็ตาม FAA ได้ทบทวนโครงสร้างของ FTI ในปี 2023 และฟันธงว่าระบบล้าสมัย เพราะต้องพึ่งพาเทคโนโลยีสื่อสารแบบเก่าชื่อ TDM ที่ปัจจุบันไม่ใช้กันแล้ว ส่วนบริษัท L3Harris ระบุผ่านหน้าเว็บว่ากำลังอัพเกรดระบบนี้ให้ทันสมัยขึ้นอยู่\nที่มา - CBS\nภาพโครงข่ายของระบบ FTI จากเว็บไซต์ L3Harris\nmk\nSat, 14/11/2026 - 22:11",
+      "pubDate": "Sat, 14 Nov 2026 15:11:34 +0000",
+      "source": "Blognone",
+      "category": "Security",
+      "thumbnail": null,
+      "readTime": "3 นาที"
+    },
+    {
+      "id": "https://www.thaicert.or.th/?p=18008",
+      "title": "แจ้งเตือน! ช่องโหว่บน MongoDB อาจเปิดช่องให้แฮกเกอร์โจมตีเซิร์ฟเวอร์ได้",
+      "link": "https://www.thaicert.or.th/2026/11/14/%e0%b9%81%e0%b8%88%e0%b9%89%e0%b8%87%e0%b9%80%e0%b8%95%e0%b8%b7%e0%b8%ad%e0%b8%99-%e0%b8%8a%e0%b9%88%e0%b8%ad%e0%b8%87%e0%b9%82%e0%b8%ab%e0%b8%a7%e0%b9%88%e0%b8%9a%e0%b8%99-mongodb-%e0%b8%ad%e0%b8%b2/",
+      "content": "ศูนย์ประสานการรักษาความมั่นคงปลอดภัยระบบคอมพิวเตอร์แห่ง […]\nThe post แจ้งเตือน! ช่องโหว่บน MongoDB อาจเปิดช่องให้แฮกเกอร์โจมตีเซิร์ฟเวอร์ได้ first appeared on Thailand Computer Emergency Response Team (ThaiCERT).",
+      "pubDate": "Sat, 14 Nov 2026 14:58:17 +0000",
+      "source": "ThaiCERT",
+      "category": "ภัยคุกคามทางไซเบอร์",
+      "thumbnail": "https://www.thaicert.or.th/wp-content/uploads/2026/11/CVE-2026-118383-บน-MongoDB-1024x576.jpg",
+      "readTime": "1 นาที"
+    },
+    {
+      "id": "152178 at https://www.blognone.com",
+      "title": "[ลือ] บอร์ด NVIDIA สนใจ Rene Haas ซีอีโอ Arm ที่เคยอยู่ NVIDIA มาก่อน",
+      "link": "https://www.blognone.com/node/152178",
+      "content": "[ลือ] บอร์ด NVIDIA สนใจ Rene Haas ซีอีโอ Arm ที่เคยอยู่ NVIDIA มาก่อน\n\n  \nBody\nหนังสือพิมพ์ Financial Times รายงานข้อมูลจากแหล่งข่าวว่า บอร์ดของ NVIDIA ทาบทาม Rene Haas ซีอีโอของ Arm เพื่อมารับตำแหน่งแทน Jensen Huang แล้ว\nHaas เคยทำงานกับ NVIDIA มานาน 7 ปี ก่อนย้ายมาอยู่ Arm ในปี 2013 และได้ขึ้นเป็นซีอีโอของ Arm ในปี 2022 ผลงานเด่นของเขาคือ การพาบริษัท Arm ขายหุ้น IPO เข้าตลาดหลักทรัพย์ในปี 2023 หลังจากนั้น บริษัทก็เติบโตทั้งรายได้และผลกำไรเกือบเท่าตัว\nเนื่องจาก Arm เป็นบริษัทในเครือ SoftBank ทำให้ Haas ยังมีอีกหน้าที่คือเป็นซีอีโอของ SoftBank Group International ด้วย\nFinancial Times ระบุว่า Haas เป็นหนึ่งในตัวเลือก ส่วนรายชื่ออื่นที่มีในข่าวคือ Lisa Su ซีอีโอ AMD ที่อาจสนใจย้ายข้ามวิก, Colette Kress ซีเอฟโอและรักษาการซีอีโอ, Ian Buck หัวหน้าฝ่ายธุรกิจศูนย์ข้อมูลของ NVIDIA\nที่มา - Financial Times\nภาพจากรายการ podcast ของ Arm ที่ Haas เป็นคนจัดรายการ และเชิญ Jensen Huang มาออกรายการ\nmk\nSat, 14/11/2026 - 21:56",
+      "pubDate": "Sat, 14 Nov 2026 14:56:05 +0000",
+      "source": "Blognone",
+      "category": "AI",
+      "thumbnail": null,
+      "readTime": "3 นาที"
+    },
+    {
+      "id": "https://techsauce.co/ai/openai-control-room-emergency-stop-ai-research",
+      "title": "AI ที่วิจัยเก่งขึ้นเรื่อย ๆ OpenAI เลยต้องมี ‘ปุ่มหยุดฉุกเฉิน’ รู้จักระบบ Control Room ที่หยุด AI ในห้องวิจัย ได้ภายใน 35 วินาที",
+      "link": "https://techsauce.co/ai/openai-control-room-emergency-stop-ai-research",
+      "content": "OpenAI เปิดเผย Control Room ระบบหยุด AI ฉุกเฉินในห้องวิจัย ทุกงานต้องขออนุญาตก่อนให้ AI ตอบ หยุดได้ใน 35 วินาที และถ้าระบบล่ม AI ทุกตัวจะหยุดทันที",
+      "pubDate": "Sat, 14 Nov 2026 21:26:14 +0700",
+      "source": "Techsauce",
+      "category": "AI",
+      "thumbnail": "https://storage.googleapis.com/techsauce-prod/ugc/uploads/2026/11/1794666169_OpenAI_control_room_800.webp",
+      "readTime": "1 นาที"
+    },
+    {
+      "id": "https://techsauce.co/ai/thailand-tech-talent-connect-2026-invest-in-people",
+      "title": "ศ. ดร. ยศชนัน ชี้ยุคที่ AI รู้ทุกอย่าง คนเก่งต้อง ‘รวมศาสตร์’ ไม่ใช่เป็น ‘เป็ด’",
+      "link": "https://techsauce.co/ai/thailand-tech-talent-connect-2026-invest-in-people",
+      "content": "ศ.ดร.ยศชนัน วงศ์สวัสดิ์ รองนายกฯ และ รมว.อว. กล่าวเปิดงาน Thailand Tech Talent Connect 2026 ชี้ไทยต้องลงทุนที่คน สร้างผู้สร้างงานแทนผู้หางาน เก่งลึกก่อนรวมศาสตร์ และประกอบโครงสร้างพื้นฐานวิทยาศาสตร์เอง เพื่อขยับจากผู้ซื้อเป็นผู้สร้างเทคโนโลยี",
+      "pubDate": "Sat, 14 Nov 2026 20:28:26 +0700",
+      "source": "Techsauce",
+      "category": "AI",
+      "thumbnail": "https://storage.googleapis.com/techsauce-prod/ugc/uploads/2026/11/1794661596_P_Mimee_Thailand_Tech_Talent_Connect_2026_6_800.webp",
+      "readTime": "1 นาที"
+    },
+    {
+      "id": "https://www.thaicert.or.th/?p=18001",
+      "title": "เตือนภัย! PTC ออกแพตช์ด่วนอุดช่องโหว่บนซอฟต์แวร์ Windchill และ FlexPLM เสี่ยงถูกแฮกเกอร์เรียกใช้คำสั่งอันตราย",
+      "link": "https://www.thaicert.or.th/2026/11/14/%e0%b9%80%e0%b8%95%e0%b8%b7%e0%b8%ad%e0%b8%99%e0%b8%a0%e0%b8%b1%e0%b8%a2-ptc-%e0%b8%ad%e0%b8%ad%e0%b8%81%e0%b9%81%e0%b8%9e%e0%b8%95%e0%b8%8a%e0%b9%8c%e0%b8%94%e0%b9%88%e0%b8%a7%e0%b8%99%e0%b8%ad/",
+      "content": "ศูนย์ประสานการรักษาความมั่นคงปลอดภัยระบบคอมพิวเตอร์แห่ง […]\nThe post เตือนภัย! PTC ออกแพตช์ด่วนอุดช่องโหว่บนซอฟต์แวร์ Windchill และ FlexPLM เสี่ยงถูกแฮกเกอร์เรียกใช้คำสั่งอันตราย first appeared on Thailand Computer Emergency Response Team (ThaiCERT).",
+      "pubDate": "Sat, 14 Nov 2026 11:30:00 +0000",
+      "source": "ThaiCERT",
+      "category": "ภัยคุกคามทางไซเบอร์",
+      "thumbnail": "https://www.thaicert.or.th/wp-content/uploads/2026/11/Winchill-and-FlexPLM-1024x576.jpg",
+      "readTime": "1 นาที"
+    },
+    {
+      "id": "https://it24hrs.com/?p=171103",
+      "title": "เปิดตัว ChatGPT Wallet ให้ AI ช้อปแทนได้",
+      "link": "https://it24hrs.com/2026/chatgpt-wallet-ai-agent-payments/",
+      "content": "OpenAI เปิดตัว ChatGPT Wallet เมื่อวันที่ 13 พฤศจิกายน  […]\nThe post เปิดตัว ChatGPT Wallet ให้ AI ช้อปแทนได้ appeared first on iT24Hrs by ปานระพี.",
+      "pubDate": "Sat, 14 Nov 2026 10:56:24 +0000",
+      "source": "IT24Hrs",
+      "category": "AI",
+      "thumbnail": "https://it24hrs.com/wp-content/uploads/2026/11/chatgpt-wallet-ai-agent-payments-d.mp4",
+      "readTime": "1 นาที"
+    },
+    {
+      "id": "https://www.thaicert.or.th/?p=18000",
+      "title": "เตือน! พบช่องโหว่ใน Red Hat Quay เสี่ยงข้อมูล Container Images รั่วไหลและถูกแก้ไขโดยไม่ได้รับอนุญาต",
+      "link": "https://www.thaicert.or.th/2026/11/14/%e0%b9%80%e0%b8%95%e0%b8%b7%e0%b8%ad%e0%b8%99-%e0%b8%9e%e0%b8%9a%e0%b8%8a%e0%b9%88%e0%b8%ad%e0%b8%87%e0%b9%82%e0%b8%ab%e0%b8%a7%e0%b9%88%e0%b9%83%e0%b8%99-red-hat-quay-%e0%b9%80%e0%b8%aa%e0%b8%b5/",
+      "content": "ศูนย์ประสานการรักษาความมั่นคงปลอดภัยระบบคอมพิวเตอร์แห่ง […]\nThe post เตือน! พบช่องโหว่ใน Red Hat Quay เสี่ยงข้อมูล Container Images รั่วไหลและถูกแก้ไขโดยไม่ได้รับอนุญาต first appeared on Thailand Computer Emergency Response Team (ThaiCERT).",
+      "pubDate": "Sat, 14 Nov 2026 07:30:00 +0000",
+      "source": "ThaiCERT",
+      "category": "ภัยคุกคามทางไซเบอร์",
+      "thumbnail": "https://www.thaicert.or.th/wp-content/uploads/2026/11/Red-Hat-quay-1024x576.png",
+      "readTime": "1 นาที"
     },
     {
       "id": "https://www.thaicert.or.th/?p=17994",
@@ -82,12 +181,23 @@
       "id": "152177 at https://www.blognone.com",
       "title": "FAA สั่งเที่ยวบินสหรัฐหยุดบินทั่วประเทศ ไม่ใช่ก่อการร้าย แต่ซอฟต์แวร์ขัดข้อง",
       "link": "https://www.blognone.com/node/152177",
-      "content": "FAA สั่งเที่ยวบินสหรัฐหยุดบินทั่วประเทศ ไม่ใช่ก่อการร้าย แต่ซอฟต์แวร์ขัดข้อง\n\n  \nBody\nFederal Aviation Administration (FAA) หน่วยงานควบคุมการบินของรัฐบาลสหรัฐอเมริกา สั่งให้เที่ยวบินทั่วประเทศจอดรอที่สนามบิน ไม่ให้บินขึ้น ด้วยเหตุผลเรื่องซอฟต์แวร์การสื่อสารระหว่างศูนย์ควบคุมการบิน (Air Route Traffic Control Centers) ขัดข้อง\nFAA ยืนยันว่านี่ไม่เกี่ยวข้องกับเหตุการณ์ก่อการร้ายใดๆ แต่ตอนนี้ยังไม่มีรายละเอียดว่าซอฟต์แวร์ขัดข้องอย่างไร ในประกาศของ FAA ใช้คำว่า temporary telecommunications outage\nเว็บไซต์ Ars Technica ให้ข้อมูลว่า FAA เพิ่งเปิดระบบ AI ช่วยจัดการเส้นทางบินตัวใหม่ชื่อ SMART ไปเมื่อวันที่ 10 พฤศจิกายน ซึ่งอาจเป็นเหตุผลของซอฟต์แวร์ขัดข้องครั้งนี้\nที่มา - Ars Technica, TechCrunch\nภาพแผนที่เครื่องบินจาก FlightRadar25 เป็นสนามบินย่าน San Francisco Bay Area สามแห่ง เวลาไทยประมาณ 6:40 น. ของวันที่ 14 พย.\nThere has been a temporary telecommunications outage - out of an abundance of caution all flights have been halted. Every flight has been accounted for and international flights will be handled on a case by case basis.\n— The FAA ✈️ (@FAANews) November 13, 2026\n\n\n          \nmk\nSat, 14/11/2026 - 06:44",
+      "content": "FAA สั่งเที่ยวบินสหรัฐหยุดบินทั่วประเทศ ไม่ใช่ก่อการร้าย แต่ซอฟต์แวร์ขัดข้อง\n\n  \nBody\nFederal Aviation Administration (FAA) หน่วยงานควบคุมการบินของรัฐบาลสหรัฐอเมริกา สั่งให้เที่ยวบินทั่วประเทศจอดรอที่สนามบิน ไม่ให้บินขึ้น ด้วยเหตุผลเรื่องซอฟต์แวร์การสื่อสารระหว่างศูนย์ควบคุมการบิน (Air Route Traffic Control Centers) ขัดข้อง\nFAA ยืนยันว่านี่ไม่เกี่ยวข้องกับเหตุการณ์ก่อการร้ายใดๆ แต่ตอนนี้ยังไม่มีรายละเอียดว่าซอฟต์แวร์ขัดข้องอย่างไร ในประกาศของ FAA ใช้คำว่า temporary telecommunications outage\nเว็บไซต์ Ars Technica ให้ข้อมูลว่า FAA เพิ่งเปิดระบบ AI ช่วยจัดการเส้นทางบินตัวใหม่ชื่อ SMART ไปเมื่อวันที่ 10 พฤศจิกายน ซึ่งอาจเป็นเหตุผลของซอฟต์แวร์ขัดข้องครั้งนี้\nที่มา - Ars Technica, TechCrunch\nภาพแผนที่เครื่องบินจาก FlightRadar24 เป็นสนามบินย่าน San Francisco Bay Area สามแห่ง เวลาไทยประมาณ 6:40 น. ของวันที่ 14 พย.\nThere has been a temporary telecommunications outage - out of an abundance of caution all flights have been halted. Every flight has been accounted for and international flights will be handled on a case by case basis.\n— The FAA ✈️ (@FAANews) November 13, 2026\n\n\n          \nmk\nSat, 14/11/2026 - 06:44",
       "pubDate": "Fri, 13 Nov 2026 23:44:03 +0000",
       "source": "Blognone",
       "category": "AI",
       "thumbnail": null,
       "readTime": "3 นาที"
+    },
+    {
+      "id": "https://techsauce.co/basedon/techsauce-thailand-tech-talent-connect-2026-deep-tech-visibility",
+      "title": "ไทยเป็นผู้ใช้เทคโนโลยีมาตลอด อะไรจะทำให้เรา ‘เป็นผู้สร้างได้จริง’? 15 ปี Techsauce มากกว่างานประชุม คือพื้นที่ผลักดัน Deep Tech ไทยสู่ตลาดโลก",
+      "link": "https://techsauce.co/basedon/techsauce-thailand-tech-talent-connect-2026-deep-tech-visibility",
+      "content": "อรนุช เลิศสุวรรณกิจ ซีอีโอ Techsauce เล่าบนเวที Thailand Tech Talent Connect 2026 ถึงเส้นทางจากงานพบปะ 150 คน สู่เวทีที่รวมคนจากกว่า 60 ประเทศ พร้อมชี้ว่า Deep Tech ไทยต้องถูกมองเห็น เพื่อพาประเทศจากผู้ใช้สู่ผู้สร้างเทคโนโลยี",
+      "pubDate": "Sat, 14 Nov 2026 00:00:36 +0700",
+      "source": "Techsauce",
+      "category": "General",
+      "thumbnail": "https://storage.googleapis.com/techsauce-prod/ugc/uploads/2026/11/1794663157_P_Mimee_Thailand_Tech_Talent_Connect_2026_6_800__%281%29.webp",
+      "readTime": "1 นาที"
     },
     {
       "id": "https://www.thaicert.or.th/?p=17991",
@@ -266,28 +376,6 @@
       "readTime": "1 นาที"
     },
     {
-      "id": "https://www.thaicert.or.th/?p=17957",
-      "title": "พบเว็บไซต์ปลอมเลียนแบบเครื่องมือ AI กว่า 186 โดเมน ใช้หลอกติดตั้ง Malware และขโมยข้อมูลการค้นหาผ่าน Browser Extension",
-      "link": "https://www.thaicert.or.th/2026/11/13/%e0%b8%9e%e0%b8%9a%e0%b9%80%e0%b8%a7%e0%b9%87%e0%b8%9a%e0%b9%84%e0%b8%8b%e0%b8%95%e0%b9%8c%e0%b8%9b%e0%b8%a5%e0%b8%ad%e0%b8%a1%e0%b9%80%e0%b8%a5%e0%b8%b5%e0%b8%a2%e0%b8%99%e0%b9%81%e0%b8%9a%e0%b8%9a/",
-      "content": "626/69 (IT) ประจำวันศุกร์ที่ 13 พฤศจิกายน 2569 บริษัท C […]\nThe post พบเว็บไซต์ปลอมเลียนแบบเครื่องมือ AI กว่า 186 โดเมน ใช้หลอกติดตั้ง Malware และขโมยข้อมูลการค้นหาผ่าน Browser Extension first appeared on Thailand Computer Emergency Response Team (ThaiCERT).",
-      "pubDate": "Fri, 13 Nov 2026 08:01:00 +0000",
-      "source": "ThaiCERT",
-      "category": "ภัยคุกคามทางไซเบอร์",
-      "thumbnail": "https://www.thaicert.or.th/wp-content/uploads/2026/11/2_0-7-1024x768.png",
-      "readTime": "1 นาที"
-    },
-    {
-      "id": "https://www.thaicert.or.th/?p=17956",
-      "title": "แจ้งเตือนแคมเปญ wfx-loot ใช้บัญชี GitHub กว่า 4,800 บัญชี เพื่อขโมยข้อมูลรับรองระบบคลาวด์และระบบ CI/CD",
-      "link": "https://www.thaicert.or.th/2026/11/13/%e0%b9%81%e0%b8%88%e0%b9%89%e0%b8%87%e0%b9%80%e0%b8%95%e0%b8%b7%e0%b8%ad%e0%b8%99%e0%b9%81%e0%b8%84%e0%b8%a1%e0%b9%80%e0%b8%9b%e0%b8%8d-wfx-loot-%e0%b9%83%e0%b8%8a%e0%b9%89%e0%b8%9a%e0%b8%b1%e0%b8%8d/",
-      "content": "625/69 (IT) ประจำวันศุกร์ที่ 13 พฤศจิกายน 2569 นักวิจัย […]\nThe post แจ้งเตือนแคมเปญ wfx-loot ใช้บัญชี GitHub กว่า 4,800 บัญชี เพื่อขโมยข้อมูลรับรองระบบคลาวด์และระบบ CI/CD first appeared on Thailand Computer Emergency Response Team (ThaiCERT).",
-      "pubDate": "Fri, 13 Nov 2026 08:00:00 +0000",
-      "source": "ThaiCERT",
-      "category": "ภัยคุกคามทางไซเบอร์",
-      "thumbnail": "https://www.thaicert.or.th/wp-content/uploads/2026/11/1_0-7-1024x768.png",
-      "readTime": "1 นาที"
-    },
-    {
       "id": "https://www.techtalkthai.com/?p=172153",
       "title": "สยามพิวรรธน์ ผนึก Amity Robotics นำร่องหุ่นยนต์ AI แห่งแรกของไทย [PR]",
       "link": "https://www.techtalkthai.com/spw-x-amity-robotics-for-robot-concierge-pr/",
@@ -310,17 +398,6 @@
       "readTime": "1 นาที"
     },
     {
-      "id": "152171 at https://www.blognone.com",
-      "title": "12 ชั่วโมงผ่านไป - Microsoft ระบุ ถึงตอนนี้ยังไม่พบว่า Microsoft 365 ล่ม เกิดจากการโจมตีที่เป็นอันตราย",
-      "link": "https://www.blognone.com/node/152171",
-      "content": "12 ชั่วโมงผ่านไป - Microsoft ระบุ ถึงตอนนี้ยังไม่พบว่า Microsoft 365 ล่ม เกิดจากการโจมตีที่เป็นอันตราย\n\n  \nBody\nผ่านไปแล้วมากกว่า 12 ชั่วโมง ปัญหาของ Microsoft 365 ที่ไม่สามารถใช้งานได้ตามปกติ กระทบผู้ใช้งานทั่วโลก ซึ่งรวมทั้ง Outlook, Teams และ Copilot ยังคงไม่กลับมาเป็นปกติ\nในช่วงแรกไมโครซอฟท์บอกว่าปัญหาเกิดจากเซิร์ฟเวอร์ไม่สามารถทำ Automated health check ได้ แต่เมื่อแก้ไขแล้วก็ยังไม่ใช่สาเหตุ ต่อมาไมโครซอฟท์บอกว่าได้แก้ปัญหาเพิ่มเติมหลายอย่างทั้ง การขยายทรัพยากรให้รองรับเวิร์กโหลดมากขึ้น, ปรับคอนฟิกหลายอย่าง, ตรวจสอบทราฟิกที่สร้างผลกระทบเพื่อปรับสมดุล ซึ่งตอนนี้ก็ยังไม่ยืนยันว่าจะแก้ปัญหาได้\nทั้งนี้ในทุกการรายงานสถานะของปัญหา ไมโครซอฟท์ได้ระบุว่าในตอนนี้ยังไม่พบพฤติกรรมการถูกโจมตีที่เป็นอันตรายจากภายนอกและสร้างปัญหาให้ระบบ\nWe're continuing to work on recovering our frontend servers while implementing further traffic optimization actions to improve service stability and increase capacity. A more comprehensive update can be found at MO1550821 in the Microsoft 365 admin center, as well as https://t.co/pYdahqxDv3 if the admin center is not available to you.\n— Microsoft 365 Status (@MSFT365Status) November 13, 2026\n\nที่มา: The Register\narjin\nFri, 13/11/2026 - 14:24",
-      "pubDate": "Fri, 13 Nov 2026 07:24:10 +0000",
-      "source": "Blognone",
-      "category": "AI",
-      "thumbnail": null,
-      "readTime": "3 นาที"
-    },
-    {
       "id": "https://www.techtalkthai.com/?p=172150",
       "title": "เลอโนโวประกาศจัดงาน Tech World @ CES 2027 ชูวิสัยทัศน์ Hybrid AI ขับเคลื่อนอนาคตเทคโนโลยี [PR]",
       "link": "https://www.techtalkthai.com/lenovo-tech-world-hybrid-ai-at-ces-2027-pr/",
@@ -330,28 +407,6 @@
       "category": "AI",
       "thumbnail": "https://www.techtalkthai.com/wp-content/uploads/2026/11/lenovotechevnetpr-640x335.png",
       "readTime": "4 นาที"
-    },
-    {
-      "id": "https://www.thaicert.or.th/?p=17964",
-      "title": "เตือนภัย! ช่องโหว่ Zero-day ใน Microsoft Outlook ถูกใช้โจมตีจริง เสี่ยงข้อมูลยืนยันตัวตนรั่วไหล เร่งอัปเดตทันที",
-      "link": "https://www.thaicert.or.th/2026/11/13/%e0%b9%80%e0%b8%95%e0%b8%b7%e0%b8%ad%e0%b8%99%e0%b8%a0%e0%b8%b1%e0%b8%a2-%e0%b8%8a%e0%b9%88%e0%b8%ad%e0%b8%87%e0%b9%82%e0%b8%ab%e0%b8%a7%e0%b9%88-zero-day-%e0%b9%83%e0%b8%99-microsoft-outlook/",
-      "content": "ศูนย์ประสานการรักษาความมั่นคงปลอดภัยระบบคอมพิวเตอร์แห่ง […]\nThe post เตือนภัย! ช่องโหว่ Zero-day ใน Microsoft Outlook ถูกใช้โจมตีจริง เสี่ยงข้อมูลยืนยันตัวตนรั่วไหล เร่งอัปเดตทันที first appeared on Thailand Computer Emergency Response Team (ThaiCERT).",
-      "pubDate": "Fri, 13 Nov 2026 06:35:35 +0000",
-      "source": "ThaiCERT",
-      "category": "ภัยคุกคามทางไซเบอร์",
-      "thumbnail": "https://www.thaicert.or.th/wp-content/uploads/2026/11/Microsoft-Outlook-Office-1024x576.png",
-      "readTime": "1 นาที"
-    },
-    {
-      "id": "152170 at https://www.blognone.com",
-      "title": "สตูดิโอ MachineGames เริ่มพัฒนาเกม Wolfenstein 3 แล้ว",
-      "link": "https://www.blognone.com/node/152170",
-      "content": "สตูดิโอ MachineGames เริ่มพัฒนาเกม Wolfenstein 3 แล้ว\n\n  \nBody\nAsha Sharma ซีอีโอของ Xbox โพสต์ภาพยืนยันว่าสตูดิโอ MachineGames กำลังเดินหน้าพัฒนาเกม Wolfenstein ภาค 3 โดยภาพถ่ายสคริปต์บทเกมยืนยันว่า ยังเป็นตัวเอก  William \"B.J.\" Blazkowicz คนเดิม ต่อสู้กับฝ่ายนาซีเหมือนเดิม แต่ยังไม่มีรายละเอียดอื่นใดมากกว่านี้\nWolfenstein เป็นเกมซีรีส์ที่บุกเบิกเกมแนว FPS โดยเริ่มจาก Wolfenstein 3D ของค่าย id Software ตั้งแต่ปี 1992 (ก่อนจะไปทำ Doom ในปี 1993) ส่วนเกมในยุคหลังของ MachineGames เริ่มจาก Wolfenstein: The New Order (2014) และ Wolfenstein II: The New Colossus (2017)\nWolfenstein 3 is officially in production at @MachineGames. One of gaming's most important franchises, and a team that has done remarkable work bringing it forward. Looking forward to sharing more. https://t.co/YyX8LrbTvh\n— ASHA (@asha_shar) November 12, 2026\n\n\n          \nmk\nFri, 13/11/2026 - 13:13",
-      "pubDate": "Fri, 13 Nov 2026 06:13:54 +0000",
-      "source": "Blognone",
-      "category": "General",
-      "thumbnail": null,
-      "readTime": "3 นาที"
     },
     {
       "id": "https://www.techtalkthai.com/?p=172147",
@@ -431,17 +486,6 @@
       "readTime": "2 นาที"
     },
     {
-      "id": "https://techsauce.co/healthtech/whoop-humans-health-social-network",
-      "title": "เปิดตัว Whoop Humansโซเชียลของคนรักสุขภาพ แชร์ข้อมูลสุขภาพในชีวิตประจำวันให้เพื่อนติดตามได้",
-      "link": "https://techsauce.co/healthtech/whoop-humans-health-social-network",
-      "content": "WHOOP เปิดตัว WHOOP Humans ฟีเจอร์โซเชียลในแอปที่ให้สมาชิกติดตามเพื่อนและครอบครัว พร้อมเลือกแชร์ข้อมูลสุขภาพและการออกกำลังกายของตัวเองได้ ตั้งแต่ Sleep, Recovery, Strain, HRV ไปจนถึง resting heart rate รวมถึงกิจกรรมและความสำเร็จส่วนตัว",
-      "pubDate": "Fri, 13 Nov 2026 11:19:24 +0700",
-      "source": "Techsauce",
-      "category": "General",
-      "thumbnail": "https://storage.googleapis.com/techsauce-prod/ugc/uploads/2026/11/1794543562_Keng_%E0%B8%9B%E0%B8%81%E0%B8%82%E0%B9%88%E0%B8%B2%E0%B8%A71200x800_%2841%29.webp",
-      "readTime": "1 นาที"
-    },
-    {
       "id": "152161 at https://www.blognone.com",
       "title": "จากเขียนโค้ดด้วย AI สู่การสร้าง Agent-Native Architecture เจาะลึกเนื้อหา Deep Tech จากงาน LINE THAILAND DEVELOPER CONFERENCE 2026",
       "link": "https://www.blognone.com/node/152161",
@@ -462,17 +506,6 @@
       "category": "AI",
       "thumbnail": "https://www.techtalkthai.com/wp-content/uploads/2026/11/TTT-2026-11-13T102536.595-640x336.jpg",
       "readTime": "3 นาที"
-    },
-    {
-      "id": "152168 at https://www.blognone.com",
-      "title": "ฉันจะเป็น IG ให้ได้! X/Twitter ขยายลิมิต อัปรูปใน 1 โพสต์ สูงสุด 20 รูป",
-      "link": "https://www.blognone.com/node/152168",
-      "content": "ฉันจะเป็น IG ให้ได้! X/Twitter ขยายลิมิต อัปรูปใน 1 โพสต์ สูงสุด 20 รูป\n\n  \nBody\nJonah Katz หัวหน้าทีมวิศวกรแอปมือถือของ X หรือ Twitter เดิม โพสต์รายงานฟีเจอร์ใหม่ที่เริ่มทยอยอัปเดตกับผู้ใช้งานทุกคน โดยในหนึ่งโพสต์ ขยายรองรับการใส่รูปภาพและวิดีโอรวมกันสูงสุดเป็น 20 รูป\nที่ผ่านมา X หรือย้อนไปตั้งแต่ยุค Twitter จำนวนรูปที่ใส่สูงสุดจำกัดไว้ที่ 4 มาโดยตลอดตั้งแต่ปี 2014 และรองรับการผสมคอนเทนต์ (รูป+วิดีโอ) ในปี 2022 แต่ก็จำกัดจำนวนไว้ที่ 4 เช่นกัน Katz จึงบอกว่านี่เป็นอัปเดตครั้งใหญ่สำหรับผู้ใช้งาน X\nจำนวน 20 รูปนี้ ทำให้ X รองรับการใส่รูปภาพต่อโพสต์ในจำนวนที่เท่ากับ Instagram ซึ่งรองรับโพสต์แบบ Carousel สูงสุด 20 รูป ตั้งแต่สองปีที่แล้ว\nที่มา: Jonah Katz\narjin\nFri, 13/11/2026 - 09:56",
-      "pubDate": "Fri, 13 Nov 2026 02:56:32 +0000",
-      "source": "Blognone",
-      "category": "General",
-      "thumbnail": null,
-      "readTime": "2 นาที"
     },
     {
       "id": "https://www.techtalkthai.com/?p=171695",
@@ -508,17 +541,6 @@
       "readTime": "3 นาที"
     },
     {
-      "id": "https://techsauce.co/news/scbx-quantum-outlook-2026-finance-opportunity",
-      "title": "SCBX เผยรายงาน Quantum Outlook 2026 ควอนตัมไม่ได้มีแค่ภัยต่อระบบเข้ารหัส แต่เปิดโอกาสธุรกิจการเงิน",
-      "link": "https://techsauce.co/news/scbx-quantum-outlook-2026-finance-opportunity",
-      "content": "SCBX เปิดตัวรายงาน Quantum Outlook 2026 ชี้ควอนตัมเป็นทั้งความเสี่ยงต่อระบบเข้ารหัสและโอกาสของธุรกิจการเงิน พร้อมวิจัยร่วมจุฬาฯ และเสนอ 5 แนวทางให้องค์กรไทย",
-      "pubDate": "Thu, 12 Nov 2026 18:34:54 +0700",
-      "source": "Techsauce",
-      "category": "General",
-      "thumbnail": "https://storage.googleapis.com/techsauce-prod/ugc/uploads/2026/11/1794483154_2569-11-12___SCBX_Quantum_Outlook_EN___%E0%B8%9B%E0%B8%81_800.webp",
-      "readTime": "1 นาที"
-    },
-    {
       "id": "https://www.techtalkthai.com/?p=172099",
       "title": "ซิสโก้เปิดตัวการทดสอบเจาะระบบ AI ขั้นสูง และติดตามตรวจสอบ Agent เพื่อยกระดับความปลอดภัยให้กับองค์กรในยุค AI [PR]",
       "link": "https://www.techtalkthai.com/cisco-x-anthropic-ai-red-training-pr/",
@@ -528,17 +550,6 @@
       "category": "Security",
       "thumbnail": "https://www.techtalkthai.com/wp-content/uploads/2026/11/ciscoanthropicpr-640x335.png",
       "readTime": "3 นาที"
-    },
-    {
-      "id": "https://techsauce.co/ai/line-thailand-developer-conference-2026-ai-agent",
-      "title": "สรุปไฮไลต์ LINEDEVCONF 2026 เปิดสนาม AI Agent พร้อมคู่มือชี้ทาง Dev ไทยยุค AI",
-      "link": "https://techsauce.co/ai/line-thailand-developer-conference-2026-ai-agent",
-      "content": "สรุปไฮไลต์ LINEDEVCONF 2026 เมื่อ LINE เปิดสนามผลักดัน AI Agent ผ่าน LINE BOT MCP Server พร้อมอัปเดตเครื่องมือและแนวทางปรับตัวของคนสายเทคฯ",
-      "pubDate": "Thu, 12 Nov 2026 17:22:01 +0700",
-      "source": "Techsauce",
-      "category": "AI",
-      "thumbnail": "https://storage.googleapis.com/techsauce-prod/ugc/uploads/2026/11/1794460233_%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B8%8D%E0%B9%88%E0%B8%B2%E0%B8%AD%E0%B8%A2%E0%B9%88%E0%B8%B2%E0%B8%A2%E0%B8%B8%E0%B9%88%E0%B8%87_%E0%B8%9B%E0%B8%81%E0%B8%82%E0%B9%88%E0%B8%B2%E0%B8%A71200x800_-_2026-11-12T120847.799.webp",
-      "readTime": "1 นาที"
     },
     {
       "id": "https://it24hrs.com/?p=171080",
@@ -647,17 +658,6 @@
       "pubDate": "Sat, 07 Nov 2026 04:05:58 +0000",
       "source": "IT24Hrs",
       "category": "AI",
-      "thumbnail": null,
-      "readTime": "1 นาที"
-    },
-    {
-      "id": "https://it24hrs.com/?p=170964",
-      "title": "ข้อมูลจองตั๋ว Singapore Airlines รั่ว 46,000 รายการ เกิดอะไรขึ้น?",
-      "link": "https://it24hrs.com/2026/singapore-airlines-amadeus-data-breach/",
-      "content": "Singapore Airlines (SIA) เปิดเผยเมื่อวันที่ 3 พฤศจิกายน […]\nThe post ข้อมูลจองตั๋ว Singapore Airlines รั่ว 46,000 รายการ เกิดอะไรขึ้น? appeared first on iT24Hrs by ปานระพี.",
-      "pubDate": "Fri, 06 Nov 2026 05:54:46 +0000",
-      "source": "IT24Hrs",
-      "category": "General",
       "thumbnail": null,
       "readTime": "1 นาที"
     },
