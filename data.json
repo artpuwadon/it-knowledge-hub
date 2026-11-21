@@ -1,15 +1,6 @@
 {
   "dailySummary": [
     {
-      "id": "local-cybersecurity-101.md",
-      "title": "แนวทางปฏิบัติการตั้งรหัสผ่านให้ปลอดภัยสำหรับบุคลากร",
-      "category": "Internal",
-      "source": "คู่มือภายในองค์กร",
-      "summary": "1. รหัสผ่านต้องมีความยาวอย่างน้อย 8 ตัวอักษร\n2. ประกอบด้วยอักษรตัวพิมพ์ใหญ่ ตัวพิมพ์เล็ก ตัวเลข และสัญลักษณ์พิเศษ\n3. ห้า...",
-      "thumbnail": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=500&auto=format&fit=crop&q=60",
-      "link": "https://github.com/"
-    },
-    {
       "id": "local-law-hub.md",
       "title": "คลังกฎหมายและระเบียบที่เกี่ยวข้องกับการปฏิบัติราชการ",
       "category": "Law",
@@ -19,53 +10,227 @@
       "link": "https://github.com/"
     },
     {
-      "id": "https://www.thaicert.or.th/?p=18120",
-      "title": "แจ้งเตือนพบแพ็กเกจ Microsoft Agent Framework บน PyPI ถูกฝังมัลแวร์ เสี่ยงถูกขโมยข้อมูลรับรองและ Token สำหรับเข้าถึงระบบ Cloud",
-      "category": "ภัยคุกคามทางไซเบอร์",
-      "source": "ThaiCERT",
-      "summary": "ศูนย์ประสานการรักษาความมั่นคงปลอดภัยระบบคอมพิวเตอร์แห่ง […]\nThe post แจ้งเตือนพบแพ็กเกจ Microsoft Agent Framework บน PyP...",
-      "thumbnail": "https://www.thaicert.or.th/wp-content/uploads/2026/11/7-1024x576.png",
-      "link": "https://www.thaicert.or.th/2026/11/20/%e0%b9%81%e0%b8%88%e0%b9%89%e0%b8%87%e0%b9%80%e0%b8%95%e0%b8%b7%e0%b8%ad%e0%b8%99%e0%b8%9e%e0%b8%9a%e0%b9%81%e0%b8%9e%e0%b9%87%e0%b8%81%e0%b9%80%e0%b8%81%e0%b8%88-microsoft-agent-framework-%e0%b8%9a/"
+      "id": "local-cybersecurity-101.md",
+      "title": "แนวทางปฏิบัติการตั้งรหัสผ่านให้ปลอดภัยสำหรับบุคลากร",
+      "category": "Internal",
+      "source": "คู่มือภายในองค์กร",
+      "summary": "1. รหัสผ่านต้องมีความยาวอย่างน้อย 8 ตัวอักษร\n2. ประกอบด้วยอักษรตัวพิมพ์ใหญ่ ตัวพิมพ์เล็ก ตัวเลข และสัญลักษณ์พิเศษ\n3. ห้า...",
+      "thumbnail": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=500&auto=format&fit=crop&q=60",
+      "link": "https://github.com/"
     },
     {
-      "id": "https://www.thaicert.or.th/?p=18113",
-      "title": "แจ้งเตือน PHP เผยแพร่อัปเดตแก้ไขช่องโหว่ระดับ Critical หลายรายการ เสี่ยงถูกโจมตีผ่านช่องโหว่ RCE",
-      "category": "ภัยคุกคามทางไซเบอร์",
-      "source": "ThaiCERT",
-      "summary": "ศูนย์ประสานการรักษาความมั่นคงปลอดภัยระบบคอมพิวเตอร์แห่ง […]\nThe post แจ้งเตือน PHP เผยแพร่อัปเดตแก้ไขช่องโหว่ระดับ Criti...",
-      "thumbnail": "https://www.thaicert.or.th/wp-content/uploads/2026/11/6-1024x576.png",
-      "link": "https://www.thaicert.or.th/2026/11/20/%e0%b9%81%e0%b8%88%e0%b9%89%e0%b8%87%e0%b9%80%e0%b8%95%e0%b8%b7%e0%b8%ad%e0%b8%99-php-%e0%b9%80%e0%b8%9c%e0%b8%a2%e0%b9%81%e0%b8%9e%e0%b8%a3%e0%b9%88%e0%b8%ad%e0%b8%b1%e0%b8%9b%e0%b9%80%e0%b8%94/"
+      "id": "152227 at https://www.blognone.com",
+      "title": "PostgreSQL 19 ออกตัวจริง บีบตารางได้โดยไม่ล็อกฐานข้อมูล, เพิ่มคำสั่ง SQL และฟังก์ชัน JSON",
+      "category": "General",
+      "source": "Blognone",
+      "summary": "PostgreSQL 19 ออกตัวจริง บีบตารางได้โดยไม่ล็อกฐานข้อมูล, เพิ่มคำสั่ง SQL และฟังก์ชัน JSON\n\n  \nBody\nPostgreSQL ฐานข้อมูลย...",
+      "thumbnail": null,
+      "link": "https://www.blognone.com/node/152227"
     },
     {
-      "id": "https://www.thaicert.or.th/?p=18112",
-      "title": "แจ้งเตือน พบช่องโหว่ใน NGINX ที่เปิดใช้งาน HTTP/2 เสี่ยงถูกสั่งประมวลผลคำสั่งโดยไม่ต้องเข้าสู่ระบบ",
-      "category": "ภัยคุกคามทางไซเบอร์",
-      "source": "ThaiCERT",
-      "summary": "ศูนย์ประสานการรักษาความมั่นคงปลอดภัยระบบคอมพิวเตอร์แห่ง […]\nThe post แจ้งเตือน พบช่องโหว่ใน NGINX ที่เปิดใช้งาน HTTP/2 เ...",
-      "thumbnail": "https://www.thaicert.or.th/wp-content/uploads/2026/11/5-2-1024x576.png",
-      "link": "https://www.thaicert.or.th/2026/11/20/%e0%b9%81%e0%b8%88%e0%b9%89%e0%b8%87%e0%b9%80%e0%b8%95%e0%b8%b7%e0%b8%ad%e0%b8%99-%e0%b8%9e%e0%b8%9a%e0%b8%8a%e0%b9%88%e0%b8%ad%e0%b8%87%e0%b9%82%e0%b8%ab%e0%b8%a7%e0%b9%88%e0%b9%83%e0%b8%99-nginx/"
+      "id": "152226 at https://www.blognone.com",
+      "title": "Anthropic ปรับลดระยะเวลาเปิดเผยช่องโหว่เหลือ 30 วัน",
+      "category": "Security",
+      "source": "Blognone",
+      "summary": "Anthropic ปรับลดระยะเวลาเปิดเผยช่องโหว่เหลือ 30 วัน\n\n  \nBody\nAnthropic ประกาศปรับลดระยะเวลาเปิดเผยช่องโหว่ จากเดิมให้เวล...",
+      "thumbnail": null,
+      "link": "https://www.blognone.com/node/152226"
+    },
+    {
+      "id": "152225 at https://www.blognone.com",
+      "title": "เปิดตัว Windows Baseline Protection ชุดคอนฟิกความปลอดภัยขั้นต่ำของ Windows",
+      "category": "Security",
+      "source": "Blognone",
+      "summary": "เปิดตัว Windows Baseline Protection ชุดคอนฟิกความปลอดภัยขั้นต่ำของ Windows\n\n  \nBody\nไมโครซอฟท์เปิดตัว Windows Baseline P...",
+      "thumbnail": null,
+      "link": "https://www.blognone.com/node/152225"
     }
   ],
   "articles": [
-    {
-      "id": "local-cybersecurity-101.md",
-      "title": "แนวทางปฏิบัติการตั้งรหัสผ่านให้ปลอดภัยสำหรับบุคลากร",
-      "link": "https://github.com/",
-      "content": "1. รหัสผ่านต้องมีความยาวอย่างน้อย 8 ตัวอักษร\n2. ประกอบด้วยอักษรตัวพิมพ์ใหญ่ ตัวพิมพ์เล็ก ตัวเลข และสัญลักษณ์พิเศษ\n3. ห้ามใช้ข้อมูลส่วนตัว เช่น วันเกิด หรือเบอร์โทรศัพท์\n4. เปลี่ยนรหัสผ่านใหม่ทุกๆ 3-6 เดือนเพื่อความปลอดภัย",
-      "pubDate": "2026-11-20T03:53:38.480Z",
-      "source": "คู่มือภายในองค์กร",
-      "category": "Internal",
-      "thumbnail": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=500&auto=format&fit=crop&q=60"
-    },
     {
       "id": "local-law-hub.md",
       "title": "คลังกฎหมายและระเบียบที่เกี่ยวข้องกับการปฏิบัติราชการ",
       "link": "https://github.com/",
       "content": "### ⚖️ ศูนย์รวมลิงก์กฎหมายฉบับเต็มและแนวทางปฏิบัติงาน\n\nเพื่อความสะดวกและถูกต้องในการอ้างอิงข้อกฎหมายของเจ้าหน้าที่ในการปฏิบัติราชการ ศูนย์ไอทีได้รวบรวมลิงก์ตรงไปยังระบบสืบค้นกฎหมายของสำนักงานคณะกรรมการกฤษฎีกา และไฟล์ PDF ฉบับราชกิจจานุเบกษาไว้ในจุดเดียว ดังนี้ครับ:\n\n---\n\n### 🛒 1. หมวดการบริหารงานพัสดุและการจัดซื้อจัดจ้าง\n*   **พ.ร.บ. การจัดซื้อจัดจ้างและการบริหารพัสดุภาครัฐ พ.ศ. 2560**\n    *   🔗 [อ่านกฎหมายฉบับเต็ม (เว็บกฤษฎีกา)](https://www.ocs.go.th/)\n    *   📄 [ดาวน์โหลดไฟล์ PDF ฉบับประกาศราชกิจจานุเบกษา](https://www.gprocurement.go.th/wps/portal/egp/Regulation/!ut/p/z1/04_Sj9CPykssy0xPLMnMz0vMAfIjo8zifQ3djQydnQ18_T3dzA0czU0NfANMLQ1MPIz1w8EKDHAARwP9KGL041EQhd_4cP0oNCvCjM2AJgT4OvsHehgYOBtCFeAxoyA3NMIg01ERAHhSDzY!/dz/d5/L0lDUmlTUSEhL3dHa0FKRnNBLzROV3FpQSEhL3Ro/)\n*   **ระเบียบกระทรวงการคลังว่าด้วยการจัดซื้อจัดจ้างและการบริหารพัสดุภาครัฐ พ.ศ. 2560**\n    *   🔗 [อ่านระเบียบฉบับเต็มและกฎกระทรวงที่เกี่ยวข้อง](https://www.gprocurement.go.th/wps/portal/egp/Regulation/Ministry_of_Finance_Regularity/)\n\n---\n\n### 🏢 2. หมวดการปฏิบัติราชการและวิธีพิจารณาทางปกครอง\n*   **พ.ร.บ. วิธีปฏิบัติราชการทางปกครอง พ.ศ. 2539 (และฉบับแก้ไขเพิ่มเติม)**\n    *   🔗 [อ่านกฎหมายฉบับเต็ม (เว็บกฤษฎีกา)](https://www.ocs.go.th/)\n*   **พ.ร.บ. ความรับผิดทางละเมิดของเจ้าหน้าที่ พ.ศ. 2539**\n    *   🔗 [อ่านกฎหมายฉบับเต็ม (เว็บกฤษฎีกา)](https://www.ocs.go.th/)\n*   **พ.ร.บ. การปฏิบัติราชการทางอิเล็กทรอนิกส์ พ.ศ. 2565** *(สำคัญมากสำหรับงานไอทีและบริการประชาชน)*\n    *   🔗 [อ่านกฎหมายฉบับเต็ม (เว็บกฤษฎีกา)](https://www.ocs.go.th/)\n\n---\n\n### 🛡️ 3. หมวดคุ้มครองข้อมูลและความมั่นคงปลอดภัยไซเบอร์\n*   **พ.ร.บ. คุ้มครองข้อมูลส่วนบุคคล พ.ศ. 2562 (PDPA)**\n    *   🔗 [สืบค้นกฎหมายและแนวทางปฏิบัติจาก สคส.](https://www.pdpc.or.th)\n*   **พ.ร.บ. การรักษาความมั่นคงปลอดภัยไซเบอร์ พ.ศ. 2562**\n    *   🔗 [สืบค้นกฎหมายและประกาศจาก สกมช. (NCSA)](https://www.ncsa.or.th/standards/laws)\n*   **พ.ร.บ. ว่าด้วยการกระทำความผิดเกี่ยวกับคอมพิวเตอร์ (ฉบับที่ 2) พ.ศ. 2560**\n    *   🔗 [อ่านกฎหมายฉบับเต็ม (เว็บกฤษฎีกา)](https://www.ocs.go.th/)\n\n---\n\n### 💡 แนะนำการใช้งานสำหรับเจ้าหน้าที่\n> หากต้องการสืบค้นกฎหมายอื่น ๆ เพิ่มเติม นอกเหนือจากรายการข้างต้น สามารถเข้าใช้งานระบบกฎหมายดิจิทัลโดยตรงได้ที่ **[ระบบสืบค้นกฎหมาย สำนักงานคณะกรรมการกฤษฎีกา](https://www.ocs.go.th/)** เพื่อข้อมูลที่อัปเดตและเป็นปัจจุบันที่สุด",
-      "pubDate": "2026-11-20T03:53:38.480Z",
+      "pubDate": "2026-11-21T03:49:48.096Z",
       "source": "ศูนย์รวมกฎหมายภาครัฐ",
       "category": "Law",
       "thumbnail": "https://images.unsplash.com/photo-1589829545856-d10d557cf95f?w=500"
+    },
+    {
+      "id": "local-cybersecurity-101.md",
+      "title": "แนวทางปฏิบัติการตั้งรหัสผ่านให้ปลอดภัยสำหรับบุคลากร",
+      "link": "https://github.com/",
+      "content": "1. รหัสผ่านต้องมีความยาวอย่างน้อย 8 ตัวอักษร\n2. ประกอบด้วยอักษรตัวพิมพ์ใหญ่ ตัวพิมพ์เล็ก ตัวเลข และสัญลักษณ์พิเศษ\n3. ห้ามใช้ข้อมูลส่วนตัว เช่น วันเกิด หรือเบอร์โทรศัพท์\n4. เปลี่ยนรหัสผ่านใหม่ทุกๆ 3-6 เดือนเพื่อความปลอดภัย",
+      "pubDate": "2026-11-21T03:49:48.095Z",
+      "source": "คู่มือภายในองค์กร",
+      "category": "Internal",
+      "thumbnail": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=500&auto=format&fit=crop&q=60"
+    },
+    {
+      "id": "152227 at https://www.blognone.com",
+      "title": "PostgreSQL 19 ออกตัวจริง บีบตารางได้โดยไม่ล็อกฐานข้อมูล, เพิ่มคำสั่ง SQL และฟังก์ชัน JSON",
+      "link": "https://www.blognone.com/node/152227",
+      "content": "PostgreSQL 19 ออกตัวจริง บีบตารางได้โดยไม่ล็อกฐานข้อมูล, เพิ่มคำสั่ง SQL และฟังก์ชัน JSON\n\n  \nBody\nPostgreSQL ฐานข้อมูลยอดนิยมออกเวอร์ชัน 19 หลังต้องเลื่อนกำหนดและยกเลิกฟีเจอร์บางส่วน แม้ฟีเจอร์บางส่วนจะถูกถอดไปแต่ก็ยังมีฟีเจอร์สำคัญเพิ่มเข้ามา เช่น\nคำสั่ง REPACK (CONCURRENTLY) สามารถขอบีบตารางที่บวมขึ้นจากการเขียนและลบหลายๆ ครั้ง โดยไม่ต้องใช้คำสั่ง VACUUM FULL ที่ล็อกตารางไปเลยระหว่างการทำงาน โดยระหว่าง REPACK จะอ่านและเขียนตารางได้ต่อไป\nคำสั่ง INSERT ... ON CONFLICT DO SELECT ช่วยลดความยุ่งยากในการใส่ข้อมูลที่ชนกับข้อมูลในตารางเดิม โดยสามารถดึงข้อมูลที่มีอยู่เดิมออกมาใช้งานต่อได้ทันที\nเพิ่มฟังก์ชันสำหรับ JSON Path เช่น lower, upper, replace\nฟังก์ชัน random รองรับการสุ่มวันที่และเวลา\nสำหรับผู้ดูแลระบบ PostgreSQL 19 รองรับ TLS SNI ทำให้สามารถใช้ชื่อโดเมนหลายชื่อพร้อมใบรับรองเข้ารหัสแยกกันสำหรับแต่ละชื่อได้ ในเวอร์ชันนี้จะเริ่มแจ้งเตือนเมื่อผู้ใช้ล็อกอินด้วยรหัสผ่านที่แฮชแบบ MD5 และเตรียมจะถอดกระบวนการล็อกอินแบบนี้ออกไป\nที่มา - PostgreSQL\nlew\nSat, 21/11/2026 - 08:55",
+      "pubDate": "Sat, 21 Nov 2026 01:55:38 +0000",
+      "source": "Blognone",
+      "category": "General",
+      "thumbnail": null,
+      "readTime": "3 นาที"
+    },
+    {
+      "id": "152226 at https://www.blognone.com",
+      "title": "Anthropic ปรับลดระยะเวลาเปิดเผยช่องโหว่เหลือ 30 วัน",
+      "link": "https://www.blognone.com/node/152226",
+      "content": "Anthropic ปรับลดระยะเวลาเปิดเผยช่องโหว่เหลือ 30 วัน\n\n  \nBody\nAnthropic ประกาศปรับลดระยะเวลาเปิดเผยช่องโหว่ จากเดิมให้เวลา 90 วันตามมาตรฐาน มาเป็น 30 วันสำหรับช่องโหว่ร้ายแรงสูงและร้ายแรงวิกฤติ ส่วนช่องโหว่อื่นๆ ยังให้เวลา 45 วัน\nนอกจากการลดระยะเวลาเปิดเผยช่องโหว่ ทางบริษัทยังลดเวลาเปิดเผยข้อมูลวงปิดให้กับผู้ประสานงานอื่น ในกรณีที่ผู้รับผิดชอบโครงการโดยตรงไม่ตอบสนองต่อรายงาน โดยลดเหลือ 15 วัน\nตอนนี้มีช่องโหว่ระดับร้ายแรงสูงและระดับวิกฤติจำนวนหนึ่งที่ทางบริษัทรอมาเกิน 90 วันแล้ว โครงการเหล่านี้จะได้เวลาเพิ่มรอบสุดท้าย 30 วันและเปิดเผยช่องโหว่ออกทั้งหมด\nแนวทางของ Anthropic ใกล้เคียงกับแนวทางของ Project Zero ที่ประกาศลดระยะเวลาเปิดเผยช่องโหว่เช่นกัน แต่ Project Zero ให้เวลาปรับตัวนานกว่ามาก โดยจะลดระยะเวลาเหลือ 30 วันต้นปี 2028\nที่มา - Anthropic\nlew\nSat, 21/11/2026 - 08:29",
+      "pubDate": "Sat, 21 Nov 2026 01:29:47 +0000",
+      "source": "Blognone",
+      "category": "Security",
+      "thumbnail": null,
+      "readTime": "2 นาที"
+    },
+    {
+      "id": "152225 at https://www.blognone.com",
+      "title": "เปิดตัว Windows Baseline Protection ชุดคอนฟิกความปลอดภัยขั้นต่ำของ Windows",
+      "link": "https://www.blognone.com/node/152225",
+      "content": "เปิดตัว Windows Baseline Protection ชุดคอนฟิกความปลอดภัยขั้นต่ำของ Windows\n\n  \nBody\nไมโครซอฟท์เปิดตัว Windows Baseline Protection เป็นชุดคอนฟิกดีฟอลต์ เพื่อบอกว่าพีซี Windows นั้น \"ปลอดภัย\" ตามมาตรฐานขั้นต่ำ (baseline/floor) ที่ไมโครซอฟท์อยากให้เป็น ตามที่เคยประกาศมาตั้งแต่เดือนกุมภาพันธ์ แต่เพิ่งเริ่มเปิดให้ใช้งานแบบพรีวิวใน Windows Insiders\nWindows Baseline Protection ไม่ใช่ฟีเจอร์ใหม่ แต่เป็นการกำหนดว่าพีซีเครื่องนั้นต้องเปิดใช้คอนฟิกหรือฟีเจอร์ความปลอดภัยต่างๆ (ที่มีอยู่แล้วใน Windows 11) ให้ครบตามที่ระบุไว้ เพื่อให้ผ่านมาตรฐานขั้นต่ำของพีซียุคใหม่  ในเบื้องต้นคอนฟิก 8 ข้อ ได้แก่\nSecurity processor (เช่น TPM)\nSecure boot\nVirtualization-based security (VBS)\nMemory integrity\nSigned drivers only\nWindows-certified drivers\nKernel debugger protection\nVulnerable driver protection\nข้อดีของการจัดชุด Windows Baseline Protection คือเดิมทีแอพอาจต้องตรวจสอบว่าพีซีเปิดใช้ฟีเจอร์แต่ละอย่างหรือไม่เป็นรายฟีเจอร์ แต่พอมี Windows Baseline Protection แล้วก็ตรวจครั้งเดียวพอ ว่าผ่านสเปกทั้งชุด Windows Baseline Protection หรือไม่\nตัวอย่างรายชื่อบริษัทที่ประกาศว่าจะอัพเดตแอพของตัวเองให้เช็ค Windows Baseline Protection ได้แก่ 1Password, Adobe, Battle.net, CrowdStrike, Dropbox, Epic Games, Foxit เป็นต้น\nWindows Baseline Protection จะเริ่มใช้งานจริง (general available) ในปี 2027 และไมโครซอฟท์บอกว่าจะวิวัฒนาการค่าคอนฟิกดีฟอลต์เหล่านี้ไปเรื่อยๆ ในอนาคต\nที่มา - Microsoft\nmk\nSat, 21/11/2026 - 07:55",
+      "pubDate": "Sat, 21 Nov 2026 00:55:50 +0000",
+      "source": "Blognone",
+      "category": "Security",
+      "thumbnail": null,
+      "readTime": "4 นาที"
+    },
+    {
+      "id": "152220 at https://www.blognone.com",
+      "title": "Bending Spoons ซื้อกิจการ Mailchimp จาก Intuit มูลค่าดีล 3.68 พันล้านดอลลาร์",
+      "link": "https://www.blognone.com/node/152220",
+      "content": "Bending Spoons ซื้อกิจการ Mailchimp จาก Intuit มูลค่าดีล 3.68 พันล้านดอลลาร์\n\n  \nBody\nIntuit บริษัทซอฟต์แวร์การเงินและภาษีประกาศบรรลุข้อตกลงเพื่อขายกิจการ Mailchimp แพลตฟอร์มสำหรับการตลาดทางอีเมล ให้กับ Bending Spoons บริษัทซอฟต์แวร์ที่ตอนนี้เน้นซื้อกิจการบริษัทต่าง ๆ เข้ามาในพอร์ตโฟลิโอ มูลค่าของการซื้อขายอยู่ที่ 3,680 ล้านดอลลาร์ โดย Bending Spoons จะจ่ายเป็นเงินสด 3,680 ล้านดอลลาร์ และอีก 368 ล้านดอลลาร์ เป็นหุ้นของบริษัท\nIntuit ซื้อกิจการ Mailchimp ในปี 2021 ด้วยมูลค่า 12,000 ล้านดอลลาร์ การขายกิจการออกไปนี้จึงเป็นการขายขาดทุน เนื่องจากผลการดำเนินงานของ Mailchimp ไม่เติบโตอย่างที่คาดหวัง กระทบต่องบการเงินรวมของบริษัท\nดีลนี้ทำให้ Mailchimp เป็นอีกหนึ่งบริษัทภายใต้ Bending Spoons ซึ่งตอนนี้บริษัทมีทั้ง AOL, Eventbrite, Evernote, Meetup, Vimeo, WeTransfer และอื่น ๆ\nที่มา: CNBC\narjin\nFri, 20/11/2026 - 21:29",
+      "pubDate": "Fri, 20 Nov 2026 14:29:00 +0000",
+      "source": "Blognone",
+      "category": "General",
+      "thumbnail": null,
+      "readTime": "3 นาที"
+    },
+    {
+      "id": "152224 at https://www.blognone.com",
+      "title": "Windows 11 เปิดตัว Endpoint Security Platform แก้ปัญหา CrowdStrike ทำระบบล่ม",
+      "link": "https://www.blognone.com/node/152224",
+      "content": "Windows 11 เปิดตัว Endpoint Security Platform แก้ปัญหา CrowdStrike ทำระบบล่ม\n\n  \nBody\nถ้ายังจำกันได้ เหตุการณ์ปี 2024 ที่ บั๊กในซอฟต์แวร์ CrowdStrike ลากพีซี Windows จอฟ้าเป็นจำนวนมาก ส่งผลให้ภาคธุรกิจหยุดชะงัก สาเหตุเกิดจาก CrowdStrike ใช้ช่องทางไดรเวอร์ใน kernel mode ของ Windows เพื่อควบคุมเครื่อง พอเกิดบั๊กขึ้นทำให้ระบบปฏิบัติการล่มตามไปด้วย\nหลังจากเหตุการณ์นั้นไม่นาน ไมโครซอฟท์พยายามแก้ปัญหานี้ โดยเชิญบริษัทความปลอดภัยหลายราย ร่วมกันออกแบบช่องทางใหม่ที่ไม่ต้องยุ่งกับเคอร์เนล แล้วเรื่องนี้ก็หายไปนานเกือบ 2 ปี\nสัปดาห์ที่ผ่านมา ไมโครซอฟท์เปิดตัว Windows Endpoint Security Platform (WESP) เป็นช่องทางใหม่ให้แอพความปลอดภัยภายนอก เข้ามามอนิเตอร์และป้องกันมัลแวร์ แบบไม่ต้องยุ่งกับเคอร์เนลโดยตรง เพราะสถานะของ WESP เป็น API ที่รันฝั่ง user mode  (ดูภาพประกอบ)\nWESP เริ่มใช้งานแล้วกับ Windows 11 ที่อัพเดตแพตช์รอบเดือนตุลาคม 2026 เบื้องต้นยังจำกัดเฉพาะบริษัทความปลอดภัยที่เป็นสมาชิกโครงการ Microsoft Virus Initiative (MVI) ตอนนี้มีทั้งหมด 8 ราย ได้แก่\nBitdefender Antivirus Free\nCrowdStrike Falcon\nESET Endpoint Protection\nMicrosoft Defender\nSentinelOne Singularity\nSophos Endpoint\nTrellix EDRF\nTrendAI Vision One\nสองบริษัทแรกที่จะเริ่มใช้ช่องทาง WESP กับไคลเอนต์ของตัวเองคือ Bitdefender กับ Sophos ที่จะเริ่มในไตรมาส 4/2026 นี้เลย ส่วนบริษัทอื่นๆ จะทยอยตามมาภายในไตรมาสแรกของปี 2027\nที่มา - Microsoft, Microsoft\n\nmk\nFri, 20/11/2026 - 21:28",
+      "pubDate": "Fri, 20 Nov 2026 14:28:52 +0000",
+      "source": "Blognone",
+      "category": "Security",
+      "thumbnail": "https://www.blognone.com/sites/default/files/files-2026/2026-11/windows-endpoint-security-platform.png",
+      "readTime": "4 นาที"
+    },
+    {
+      "id": "152221 at https://www.blognone.com",
+      "title": "Gemini บน Mac รองรับ Computer Use แล้ว - ตอนนี้ให้เฉพาะในอเมริกาก่อน",
+      "link": "https://www.blognone.com/node/152221",
+      "content": "Gemini บน Mac รองรับ Computer Use แล้ว - ตอนนี้ให้เฉพาะในอเมริกาก่อน\n\n  \nBody\nกูเกิลขยายความสามารถของ Gemini บน Mac รองรับการควบคุม-ทำงานในคอมพิวเตอร์ (Computer Use) ทั้งการใช้งานแอป, จัดการไฟล์ จนถึงการกรอกข้อมูลเว็บไซต์\nGemini บน Mac ทำงานแบบเบื้องหลัง โดยแสดงตัวอย่างในหน้าแชทเพื่อให้ผู้ใช้งานทราบสถานะการทำงาน และตรวจสอบ-ควบคุม-สั่งหยุดได้เมื่อต้องการ\nฟีเจอร์นี้เริ่มอัปเดตให้เฉพาะผู้ใช้งานในสหรัฐอเมริกา และเฉพาะภาษาอังกฤษก่อน ต้องเป็นลูกค้าระดับ Google AI Plus ขึ้นไป\nที่มา: กูเกิล\narjin\nFri, 20/11/2026 - 21:28",
+      "pubDate": "Fri, 20 Nov 2026 14:28:00 +0000",
+      "source": "Blognone",
+      "category": "AI",
+      "thumbnail": null,
+      "readTime": "2 นาที"
+    },
+    {
+      "id": "152223 at https://www.blognone.com",
+      "title": "Google เลือก Blue Origin ในการส่งดาวเทียม Suncatcher ที่จะสร้างศูนย์ข้อมูล AI ในอวกาศ",
+      "link": "https://www.blognone.com/node/152223",
+      "content": "Google เลือก Blue Origin ในการส่งดาวเทียม Suncatcher ที่จะสร้างศูนย์ข้อมูล AI ในอวกาศ\n\n  \nBody\nกูเกิลประกาศความร่วมมือกับ Blue Origin สำหรับ Project Suncatcher ที่กูเกิลต้องการสร้างศูนย์ข้อมูลประมวลผล AI ในอวกาศ โดยใช้พลังงานแสงอาทิตย์ ซึ่งทาง Blue Origin จะเป็นผู้ดำเนินการปล่อยจรวดสำหรับลำเลียงดาวเทียมขึ้นสู่วงโคจร\nกูเกิลบอกว่าการส่งจรวดมีกำหนดในช่วงไตรมาสที่ 1 ปี 2029 เป็นการลำเลียงดาวเทียมขนาดใหญ่ ดาวเทียมแต่ละดวงมีกำลังประมวลผลเทียบเท่ากับ 1 แร็กเซิร์ฟเวอร์ในศูนย์ข้อมูล ซึ่งทั้งหมดยังเป็นโครงการทดสอบความเป็นไปได้ในระยะยาว ซึ่งมีหลายประเด็นที่กูเกิลต้องทดลองและศึกษาเพิ่มเติมต่อไป\nก่อนหน้านี้กูเกิลได้ทดลองส่งดาวเทียม TPU ขึ้นไปในอวกาศเพื่อทดสอบว่าสามารถทำงานได้หรือไม่ ซึ่งเบื้องต้น TPU สามารถประมวลผลคำสั่งและตอบกลับมาได้ ซึ่งครั้งนั้นกูเกิลใช้บริการจรวด Falcon 9 ของ SpaceX\nที่มา: Blue Origin\narjin\nFri, 20/11/2026 - 20:55",
+      "pubDate": "Fri, 20 Nov 2026 13:55:00 +0000",
+      "source": "Blognone",
+      "category": "AI",
+      "thumbnail": null,
+      "readTime": "3 นาที"
+    },
+    {
+      "id": "https://techsauce.co/ai/openai-chatgpt-live-dictation-privacy-risk",
+      "title": "OpenAI อัปเกรด ChatGPT เปิดตัว ‘Live Dictation’  ถอดเสียงสดแบบเรียลไทม์ ไม่จำกัดเวลา",
+      "link": "https://techsauce.co/ai/openai-chatgpt-live-dictation-privacy-risk",
+      "content": "OpenAI เปิดตัวฟีเจอร์ใหม่ Live Dictation บน ChatGPT ถอดเสียงพูดสดไม่จำกัดเวลา ใช้งานฟรีทุกแพลน พร้อมเตือนความเสี่ยงข้อมูลส่วนตัวหลุดไปเทรน AI และวิธีปิดตั้งค่า",
+      "pubDate": "Fri, 20 Nov 2026 16:42:25 +0700",
+      "source": "Techsauce",
+      "category": "AI",
+      "thumbnail": "https://storage.googleapis.com/techsauce-prod/ugc/uploads/2026/11/1795167462_%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B8%8D%E0%B9%88%E0%B8%B2%E0%B8%AD%E0%B8%A2%E0%B9%88%E0%B8%B2%E0%B8%A2%E0%B8%B8%E0%B9%88%E0%B8%87_%E0%B8%9B%E0%B8%81%E0%B8%82%E0%B9%88%E0%B8%B2%E0%B8%A71200x800_-_2026-11-20T163337.054.webp",
+      "readTime": "1 นาที"
+    },
+    {
+      "id": "https://techsauce.co/news/muang-thai-life-bangchak-fry-to-fly-saf-used-cooking-oil",
+      "title": "เมืองไทยประกันชีวิต จับมือ บางจาก ในแคมเปญ ‘Fry to Fly & ไม่ทอดซ้ำ’ เปลี่ยนน้ำมันทอดใช้แล้วเป็นเชื้อเพลิงเครื่องบิน ลดคาร์บอนได้สูงสุด 80%",
+      "link": "https://techsauce.co/news/muang-thai-life-bangchak-fry-to-fly-saf-used-cooking-oil",
+      "content": "เมืองไทยประกันชีวิต จับมือกลุ่มบริษัทบางจาก เปิดแคมเปญ ‘Fry to Fly & ไม่ทอดซ้ำ’ ติดตั้งตู้ Ucollect Box รับซื้อน้ำมันปรุงอาหารใช้แล้วอัตโนมัติ ส่งต่อผลิตเชื้อเพลิงอากาศยานยั่งยืน (SAF) ลดคาร์บอนสูงสุด 80%",
+      "pubDate": "Fri, 20 Nov 2026 16:39:58 +0700",
+      "source": "Techsauce",
+      "category": "General",
+      "thumbnail": "https://storage.googleapis.com/techsauce-prod/ugc/uploads/2026/11/1795167384_%E0%B9%80%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%87%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%81%E0%B8%B1%E0%B8%99%E0%B8%8A%E0%B8%B5%E0%B8%A7%E0%B8%B4%E0%B8%95_%E0%B8%88%E0%B8%B1%E0%B8%9A%E0%B8%A1%E0%B8%B7%E0%B8%AD_%E0%B8%9A%E0%B8%B2%E0%B8%87%E0%B8%88%E0%B8%B2%E0%B8%81_800_%282%29.webp",
+      "readTime": "1 นาที"
+    },
+    {
+      "id": "https://techsauce.co/ai/google-gemini-mac-computer-use-ai-agent",
+      "title": "Google เปิดฟีเจอร์ Computer Use คลิก พิมพ์ กรอกฟอร์ม ทำได้หมด แค่พิมพ์บอก AI จะช่วยทำงานอยู่เบื้องหลัง",
+      "link": "https://techsauce.co/ai/google-gemini-mac-computer-use-ai-agent",
+      "content": "Google เพิ่มฟีเจอร์ Computer Use ให้แอป Gemini บน Mac ให้ AI คลิก พิมพ์ และกรอกฟอร์มข้ามไฟล์ แอป และเว็บในหน้าต่างเบื้องหลัง ผู้ใช้เลือกแอปที่อนุญาตและหยุดได้ทุกเมื่อ เริ่มที่สหรัฐฯ สำหรับสมาชิก Google AI",
+      "pubDate": "Fri, 20 Nov 2026 15:50:52 +0700",
+      "source": "Techsauce",
+      "category": "AI",
+      "thumbnail": "https://storage.googleapis.com/techsauce-prod/ugc/uploads/2026/11/1795164416_Computer_Use_800.webp",
+      "readTime": "1 นาที"
+    },
+    {
+      "id": "https://www.thaicert.or.th/?p=18125",
+      "title": "ช่องโหว่ระดับ Critical ใน Drupal เสี่ยงถูกติดตั้งระบบใหม่และเข้าควบคุมเว็บไซต์",
+      "link": "https://www.thaicert.or.th/2026/11/20/%e0%b8%8a%e0%b9%88%e0%b8%ad%e0%b8%87%e0%b9%82%e0%b8%ab%e0%b8%a7%e0%b9%88%e0%b8%a3%e0%b8%b0%e0%b8%94%e0%b8%b1%e0%b8%9a-critical-%e0%b9%83%e0%b8%99-drupal-%e0%b9%80%e0%b8%aa%e0%b8%b5%e0%b9%88%e0%b8%a2/",
+      "content": "642/69 (IT) ประจำวันศุกร์ที่ 20 พฤศจิกายน 2569 Drupal เ […]\nThe post ช่องโหว่ระดับ Critical ใน Drupal เสี่ยงถูกติดตั้งระบบใหม่และเข้าควบคุมเว็บไซต์ first appeared on Thailand Computer Emergency Response Team (ThaiCERT).",
+      "pubDate": "Fri, 20 Nov 2026 08:34:55 +0000",
+      "source": "ThaiCERT",
+      "category": "ภัยคุกคามทางไซเบอร์",
+      "thumbnail": "https://www.thaicert.or.th/wp-content/uploads/2026/11/3-4-1024x768.png",
+      "readTime": "1 นาที"
+    },
+    {
+      "id": "https://www.thaicert.or.th/?p=18124",
+      "title": "คณะกรรมาธิการยุโรปถูกโจมตีทางไซเบอร์ ระบบภายในขัดข้องกว่า 10 วัน สงสัยผู้โจมตีใช้เครื่องมือ AI ชื่อ ARTEX",
+      "link": "https://www.thaicert.or.th/2026/11/20/%e0%b8%84%e0%b8%93%e0%b8%b0%e0%b8%81%e0%b8%a3%e0%b8%a3%e0%b8%a1%e0%b8%b2%e0%b8%98%e0%b8%b4%e0%b8%81%e0%b8%b2%e0%b8%a3%e0%b8%a2%e0%b8%b8%e0%b9%82%e0%b8%a3%e0%b8%9b%e0%b8%96%e0%b8%b9%e0%b8%81%e0%b9%82/",
+      "content": "641/69 (IT) ประจำวันศุกร์ที่ 20 พฤศจิกายน 2569 คณะกรรมา […]\nThe post คณะกรรมาธิการยุโรปถูกโจมตีทางไซเบอร์ ระบบภายในขัดข้องกว่า 10 วัน สงสัยผู้โจมตีใช้เครื่องมือ AI ชื่อ ARTEX first appeared on Thailand Computer Emergency Response Team (ThaiCERT).",
+      "pubDate": "Fri, 20 Nov 2026 08:33:47 +0000",
+      "source": "ThaiCERT",
+      "category": "ภัยคุกคามทางไซเบอร์",
+      "thumbnail": "https://www.thaicert.or.th/wp-content/uploads/2026/11/2-4-1024x768.png",
+      "readTime": "1 นาที"
+    },
+    {
+      "id": "https://www.thaicert.or.th/?p=18123",
+      "title": "PHP ออกอัปเดตเพื่อแก้ไข 7 ช่องโหว่ระดับวิกฤต ผู้ดูแลระบบควรเร่งตรวจสอบและอัปเดต",
+      "link": "https://www.thaicert.or.th/2026/11/20/php-%e0%b8%ad%e0%b8%ad%e0%b8%81%e0%b8%ad%e0%b8%b1%e0%b8%9b%e0%b9%80%e0%b8%94%e0%b8%95%e0%b9%80%e0%b8%9e%e0%b8%b7%e0%b9%88%e0%b8%ad%e0%b9%81%e0%b8%81%e0%b9%89%e0%b9%84%e0%b8%82-7-%e0%b8%8a%e0%b9%88/",
+      "content": "640/69 (IT) ประจำวันศุกร์ที่ 20 พฤศจิกายน 2569 ทีมพัฒนา […]\nThe post PHP ออกอัปเดตเพื่อแก้ไข 7 ช่องโหว่ระดับวิกฤต ผู้ดูแลระบบควรเร่งตรวจสอบและอัปเดต first appeared on Thailand Computer Emergency Response Team (ThaiCERT).",
+      "pubDate": "Fri, 20 Nov 2026 08:32:29 +0000",
+      "source": "ThaiCERT",
+      "category": "ภัยคุกคามทางไซเบอร์",
+      "thumbnail": "https://www.thaicert.or.th/wp-content/uploads/2026/11/1-4-1024x768.png",
+      "readTime": "1 นาที"
+    },
+    {
+      "id": "https://techsauce.co/tech-and-biz/anthropic-seven-founders-who-controls-what-after-biggest-ipo",
+      "title": "7 ผู้ก่อตั้ง Anthropic ใครคุมอะไร หลัง IPO ที่ใหญ่ที่สุดในประวัติศาสตร์โลก",
+      "link": "https://techsauce.co/tech-and-biz/anthropic-seven-founders-who-controls-what-after-biggest-ipo",
+      "content": "รู้จัก 7 ผู้ก่อตั้ง Anthropic ที่ถือเสียงโหวต 50.1% ร่วมกันหลัง IPO ถือหุ้นใกล้เคียงกันและมีเสียงเท่ากัน ตั้งแต่ Dario และ Daniela Amodei ไปจนถึงทีมเบื้องหลัง Scaling Laws, GPT-3 และการตีความโมเดล AI",
+      "pubDate": "Fri, 20 Nov 2026 12:58:24 +0700",
+      "source": "Techsauce",
+      "category": "AI",
+      "thumbnail": "https://storage.googleapis.com/techsauce-prod/ugc/uploads/2026/11/1795154242_7%C2%A0%E0%B8%9C%E0%B8%B9%E0%B9%89%E0%B8%81%E0%B9%88%E0%B8%AD%E0%B8%95%E0%B8%B1%E0%B9%89%E0%B8%87_Anthropic_800.webp",
+      "readTime": "1 นาที"
+    },
+    {
+      "id": "https://techsauce.co/news/thailand-japan-investment-business-dialogue-2026",
+      "title": "เอกนิติ นำ บีโอไอ - กกร. จับมือสมาพันธ์ธุรกิจญี่ปุ่น ชู Made with Thailand ลงนามความร่วมมือ 3 ฉบับ ผลักดัน 3 ห่วงโซ่อุปทานแห่งอนาคต",
+      "link": "https://techsauce.co/news/thailand-japan-investment-business-dialogue-2026",
+      "content": "รองนายกฯ เอกนิติ นำทีมบีโอไอ พร้อมผู้นำ กกร. เปิดเวที Thailand-Japan Investment and Business Dialogue 2026 ที่โตเกียว ผลักดัน 3 ห่วงโซ่อุปทานแห่งอนาคต ยกระดับความร่วมมือสู่ Made with Thailand และลงนามความร่วมมือ 3 ฉบับ",
+      "pubDate": "Fri, 20 Nov 2026 12:55:27 +0700",
+      "source": "Techsauce",
+      "category": "General",
+      "thumbnail": "https://storage.googleapis.com/techsauce-prod/ugc/uploads/2026/11/1795153217_thailand-japan-investment-business-dialogue-2026-body-1-2400x1600.webp",
+      "readTime": "1 นาที"
     },
     {
       "id": "https://www.thaicert.or.th/?p=18120",
@@ -112,17 +277,6 @@
       "readTime": "1 นาที"
     },
     {
-      "id": "152212 at https://www.blognone.com",
-      "title": "Anthropic ขายหุ้น IPO วันแรก ราคา +17%, ขึ้นเป็นบริษัทใหญ่อันดับ 12 ของโลก",
-      "link": "https://www.blognone.com/node/152212",
-      "content": "Anthropic ขายหุ้น IPO วันแรก ราคา +17%, ขึ้นเป็นบริษัทใหญ่อันดับ 12 ของโลก\n\n  \nBody\nเมื่อคืนนี้ (19 พ.ย. ตามเวลาสหรัฐ) บริษัท Anthropic ขายหุ้น IPO เข้าตลาดหลักทรัพย์ Nasdaq เป็นวันแรก ใช้ตัวย่อว่า ANT โดยตั้งราคาที่หุ้นละ 83 ดอลลาร์\nผลเป็นไปตามคาดคือ ราคาหุ้นพุ่งขึ้นไปถึงสูงสุด 111.50 ดอลลาร์ (สูงกว่าราคาเปิดตัว 34%) ก่อนปิดตลาดที่ 97.17 ดอลลาร์ (สูงกว่า 17%) มูลค่าบริษัทตามราคาหุ้นหรือ market cap ที่ประมาณ 1.27 ล้านล้านดอลลาร์ ใกล้เคียงกับมูลค่าของ Meta (1.52 ล้านล้านดอลลาร์), Tesla (1.48 ล้านล้านดอลลาร์) และสูงกว่า Berkshire Hathaway (1.21 ล้านล้านดอลลาร์) เล็กน้อย ถือเป็นบริษัทที่มีมูลค่าสูงเป็นอันดับ 12 ของโลก\nDario Amodei ซีอีโอของ Anthropic เขียนโพสต์เผยแพร่ว่า เขาเสียพ่อไปจากโรคร้ายที่สามารถรักษาได้ในยุคถัดมา เขาจึงไปเรียนชีววิทยาเพื่อหวังว่าจะเร่งความเร็วของการค้นพบวิธีรักษาโรคอื่นๆ และพบว่าจำเป็นต้องใช้การแยกแยะหาแพทเทิร์นแปลกๆ ใน DNA ซึ่งทำได้ยากมากโดยมนุษย์ แต่ตอนนี้เราสามารถสร้าง AI ที่ทรงพลังมากพอสำหรับทำงานแบบนี้ได้แล้ว\nการใช้ AI ช่วยด้านการแพทย์เป็นแค่เพียงตัวอย่างหนึ่ง เขาหวังว่า AI ของ Anthropic จะใช้แก้ปัญหาในอุตสาหกรรมอื่นๆ ให้โลกได้ด้วย แต่ Amodei ก็เตือนว่าเทคโนโลยีนี้มีความเสี่ยงสูง (very real risks) หากถูกนำไปใช้ในทางที่ผิด และขึ้นกับผู้สร้าง AI ว่าจะป้องกันการใช้งานผิดๆ มากแค่ไหน ซึ่ง Anthropic มุ่งมั่นเรื่องนี้มาตั้งแต่ตอนก่อตั้งบริษัท และเขาเชิญชวนให้บริษัทอื่นๆ หันมาสนใจเรื่อง AI safety ด้วย เพราะเป็นการแข่งขันที่ทุกคนได้ประโยชน์\nที่มา - Reuters\nRemarks from Anthropic CEO @DarioAmodei on our initial public offering:\n\nMy co-founders and I started Anthropic because we believe that the most powerful technology of our time should be built for the benefit of humankind.\nDaniela and I lost our father to a disease that, just a few years later, became curable. I started my career in biology, hoping to help future cures come sooner. In the lab, I saw the vast thicket of complexity that scientists face when they’re trying to understand disease and develop new treatments.\nSo many of the scientific tools that can cut through that thicket—tools for gene editing, gene synthesis, controlling brain cells with light—started as pure ideas. In other words, they came from thinking. From intelligence.\nHuman intelligence has already made diseases like plague, smallpox, and polio history for most of the world. But progress on other diseases has been too slow for so many patients and their families. Going from a great idea to a treatment can take decades: it took many years from the first discovery of a strange repeating pattern in DNA to the approval of the first treatment for a disease using CRISPR.\nNature is full of these patterns. But we’ve had too little intelligence to decipher most of them; too few scientists, with too little time. Now we can build that intelligence. Whether it’s protein folding, drug design, cancer genetics, or clinical trial administration, scientists across many areas of biology and medicine are finding Claude can help them do their research in a fraction of the time it would’ve taken just a couple of years ago. I believe sufficiently powerful AI, working in concert with humans, could compress a century of scientific and medical progress into a decade.\nI don’t want to get ahead of myself. At this point all we have are early results. Experiments and clinical trials will still take time. And although they involve slow and ponderous processes, I believe those processes can be substantially accelerated by AI. We hope that in the future fewer families miss a cure by just a few years.\nMedicine is just a particularly vivid example, but there are many others. Our customers—the world’s most ambitious companies, nonprofits, and individual people—are already applying the intelligence we’ve built to stimulate economic growth; lift people out of poverty; protect democracy and free societies; even make everyday services like the DMV work better. We’re proud to work alongside them. And I’m extremely optimistic about what we can do together in the future.\nAt the same time, we have always been honest that this technology has very real risks. These range from misuse of the technology by individuals or nation-states, to economic disruption, to losing control of AI systems. We discuss these risks not because we think they are inevitable, but because we think they are avoidable.\nAvoiding them depends on the choices made by the people building AI. There is a gigantic difference between how AI will go if we pay little attention to safety, versus how it will go if we are obsessed with safety. And an obsession with safety and with public benefit has been woven into Anthropic’s DNA from the start. From safeguards against biological and cyber risks, to alignment training and testing, to looking inside our models like an X-ray, Anthropic has pioneered methods for understanding and steering the behavior of AI systems.\nThere is much work still to be done, and the most difficult safety work lies ahead of us. The incredible talent of the company that has enabled us to build the most capable AI systems will need to be directed, even more so than it has already, towards double- and triple-checking that those AI systems are safe and secure.\nAnd to state it unequivocally, we will pace the training and deployment of AI systems, taking as long as is necessary to have confidence that they are safe and will remain under human control. We will not bend to either business or political pressure. Today puts the company in a stronger financial position, and in doing so only strengthens our resolve to do the right thing.\nIf we can show it’s possible to make the right choices on safety and still build an incredibly successful company, others in our industry will be inspired to do the same. We call this a race to the top. When the race to the top is working properly, it doesn’t matter which company has the best models—everyone wins because everyone is building safely. The race to the top works best when driven from the front of the pack, and we fully hope and expect to do so, but the goal is to make the whole industry better, regardless of whether Anthropic is winning or losing at any given time.\nThe advent of machine intelligence is one of the seminal moments in human history, and we have a rare opportunity to shape it for the better.\nThis moment is bigger than any one company, or any one country. It will take all of us, working together, to ensure this technology goes well for us and the many generations to come. Starting today, we hope that you’ll join us on this mission.\n— Anthropic (@AnthropicAI) November 19, 2026\n\n\n          \nmk\nFri, 20/11/2026 - 06:16",
-      "pubDate": "Thu, 19 Nov 2026 23:16:42 +0000",
-      "source": "Blognone",
-      "category": "Security",
-      "thumbnail": null,
-      "readTime": "17 นาที"
-    },
-    {
       "id": "https://techsauce.co/news/1-to-all-4th-telecom-operator-super-sim-ai-note-taker",
       "title": "โอเปอเรเตอร์รายที่ 4 ของประเทศไทยมาถึงแล้ว 1-TO-ALL เปิดตัวซิมธุรกิจที่มี AI ช่วยจดและสรุปทุกการคุยกับลูกค้า",
       "link": "https://techsauce.co/news/1-to-all-4th-telecom-operator-super-sim-ai-note-taker",
@@ -134,39 +288,6 @@
       "readTime": "1 นาที"
     },
     {
-      "id": "152211 at https://www.blognone.com",
-      "title": "Google Play ปรับเงื่อนไข แอพต้องรองรับมือถือจอพับแล้ว มีผลเมษายน 2027",
-      "link": "https://www.blognone.com/node/152211",
-      "content": "Google Play ปรับเงื่อนไข แอพต้องรองรับมือถือจอพับแล้ว มีผลเมษายน 2027\n\n  \nBody\nกูเกิลประกาศกฎใหม่ของการส่งแอพขึ้น Google Play บังคับว่าแอพจะต้องรองรับการแสดงผลแบบ adaptive กับหน้าจอขนาดใดก็ได้ (ทั้งจอใหญ่ จอพับ) โดยมีผลในเดือนเมษายน 2027\nกูเกิลมีนิยาม การรองรับจอแบบ adaptive แบ่งเป็น 3 ระดับ ได้แก่\nTier 3 (basic) แอพรันเต็มหน้าจอบนจอทุกขนาด\nTier 2 (better) ปรับแต่ง layout ของแอพให้เหมาะกับจอทุกขนาด\nTier 1 (best) มีประสบการณ์ใช้งานที่ออกแบบมาเพื่องานมัลติทาสกิง หน้าจอพับ การลากแล้ววาง และปากกาสไตลัส\nเงื่อนไขใหม่ของกูเกิลคือรองรับ Tier 3 ก็พอ แสดงแอพเต็มหน้าจอ และตอนส่งขึ้น Google Play Store จะต้องมีภาพสกรีนช็อตของการรันบนอุปกรณ์จอพับอีก 3 ภาพ เพิ่มขึ้นจากเดิมที่ต้องมีภาพเวอร์ชันสมาร์ทโฟนอย่างน้อย 2 ภาพ\nเงื่อนไขใหม่จะมีผลกับแอพใหม่ และแอพเดิมที่อัพเดต สำหรับ API level 37 (Android 17) ขึ้นไป\nที่มา - Android Developers Blog\nmk\nThu, 19/11/2026 - 21:53",
-      "pubDate": "Thu, 19 Nov 2026 14:53:18 +0000",
-      "source": "Blognone",
-      "category": "General",
-      "thumbnail": null,
-      "readTime": "3 นาที"
-    },
-    {
-      "id": "152210 at https://www.blognone.com",
-      "title": "กูเกิลเปิดแอพสร้างโลกเสมือน Project Genie ให้ลูกค้า Google AI Ultra ใช้งาน",
-      "link": "https://www.blognone.com/node/152210",
-      "content": "กูเกิลเปิดแอพสร้างโลกเสมือน Project Genie ให้ลูกค้า Google AI Ultra ใช้งาน\n\n  \nBody\nกูเกิลขยายบริการ แอพสร้างโลกเสมือน Project Genie ที่เปิดตัวแบบจำกัดในเดือนมกราคม ให้กับลูกค้า  Google AI Ultra ใช้งานแล้ว\nProject Genie เวอร์ชันเดือนพฤศจิกายน 2026 สามารถใช้ได้ทั้ง โมเดลสร้างโลก Genie 4 ตัวใหม่ล่าสุด ความสามารถเยอะที่สุด และ โมเดลรุ่นก่อนหน้า Genie 3 เวอร์ชันอัพเกรดจากเดิม ขยายอายุของโลกจาก 60 วินาทีเป็น 3 นาที (ต่อการสั่งหนึ่งครั้ง) เชื่อมหลายโลกเข้าด้วยกันได้ มีกิจกรรมเกิดขึ้นในโลกเสมือนแบบเรียลไทม์ได้\nการสร้างโลกเสมือนใน Project Genie สามารถใช้ได้ทั้งผ่านข้อความ รูปภาพ หรือจะใช้ agent คอยสั่งโมเดลตัวอื่นๆ ในจักรวาลกูเกิลให้ร่างภาพโลกที่เราอยากเห็นมาก่อน เชื่อมกับเสียงเพลงที่ต้องการ เมื่อสร้างโลกด้วย Genie เสร็จแล้ว ก็สามารถเอาโมเดล Gemini เข้ามา \"สังเกต\" โลกที่เราสร้างว่าเกิดอะไรขึ้นได้ด้วย\nกูเกิลบอกว่าในอนาคตจะขยาย Project Genie ไปยัง Google AI Pro ต่อไป\nที่มา - Google\n\nmk\nThu, 19/11/2026 - 21:34",
-      "pubDate": "Thu, 19 Nov 2026 14:34:31 +0000",
-      "source": "Blognone",
-      "category": "AI",
-      "thumbnail": null,
-      "readTime": "3 นาที"
-    },
-    {
-      "id": "152209 at https://www.blognone.com",
-      "title": "สมศักดิ์ศรี GTA 6 ได้คะแนนรีวิวเฉลี่ย 99/100 สูงสุดเป็นประวัติการณ์",
-      "link": "https://www.blognone.com/node/152209",
-      "content": "สมศักดิ์ศรี GTA 6 ได้คะแนนรีวิวเฉลี่ย 99/100 สูงสุดเป็นประวัติการณ์\n\n  \nBody\nสมความคาดหวังต่อ \"เกมแห่งปี\" อย่าง Grand Theft Auto IV ที่วางขายในวันนี้ (19 พฤศจิกายน) และสามารถทำคะแนนรีวิวเฉลี่ยสูงถึง 99/100 ถือว่าสูงสุดเป็นประวัติการณ์ เทียบเท่ากับ The Legend of Zelda: Ocarina of Time เวอร์ชันต้นฉบับปี 1998 เป็นอันดับหนึ่งร่วมกัน (Ocarina of Time เวอร์ชันรีเมคได้ 96/100)\nคะแนน 99/100 ของ Metacritic คิดมาจากคะแนนรีวิวของสื่อ 150 ราย (ณ เวลาที่เขียนข่าวนี้) นั่นแปลว่าสื่อส่วนใหญ่ให้คะแนนเต็ม และหลายรายเรียกว่า masterpiece โดยชื่นชมทั้งเรื่องกราฟิกที่สมจริงแบบสุดๆ กับเกมเพลย์ที่ให้อิสระเสรีมาก แต่โลกของเกมกลับมีคอนเทนต์และรายละเอียดอัดแน่นในระดับที่หาคู่เทียบเคียงได้ยาก และการเขียนบทที่เน้นอารมณ์ความรู้สึกตามสไตล์ของค่าย Rockstar\nสื่อหลายรายพูดตรงกันว่า ความคาดหวังต่อ GTA 6 นั้นสูงมากเป็นทุนเดิมอยู่แล้ว แต่ Rockstar ก็ทำได้ สามารถสร้างสรรค์เกมที่เหนือกว่าความคาดหวังขึ้นไปอีก\nที่มา - Metacritic, OpenCritic\n\nmk\nThu, 19/11/2026 - 21:11",
-      "pubDate": "Thu, 19 Nov 2026 14:11:53 +0000",
-      "source": "Blognone",
-      "category": "General",
-      "thumbnail": null,
-      "readTime": "3 นาที"
-    },
-    {
       "id": "https://techsauce.co/news/ekniti-meti-jetro-thailand-japan-supply-chain",
       "title": "รองนายกฯ​ เอกนิติ ผนึก METI–JETRO ดันซัพพลายเชนไทย–ญี่ปุ่นสู่อนาคต",
       "link": "https://techsauce.co/news/ekniti-meti-jetro-thailand-japan-supply-chain",
@@ -176,28 +297,6 @@
       "category": "General",
       "thumbnail": "https://storage.googleapis.com/techsauce-prod/ugc/uploads/2026/11/1795094848_meti-jetro-ekniti-body-1-2400x1600.webp",
       "readTime": "1 นาที"
-    },
-    {
-      "id": "152208 at https://www.blognone.com",
-      "title": "กูเกิลเปิดตัว Gemini 4 Neon โมเดลรุ่นกลาง คุณภาพใกล้เคียง Carbon ในราคาถูกกว่า",
-      "link": "https://www.blognone.com/node/152208",
-      "content": "กูเกิลเปิดตัว Gemini 4 Neon โมเดลรุ่นกลาง คุณภาพใกล้เคียง Carbon ในราคาถูกกว่า\n\n  \nBody\nเพียงไม่กี่วันหลัง กูเกิลเปิดตัว Gemini 4 Hydrogen รุ่นเล็ก ก็ตามมาด้วยโมเดลขนาดกลาง Gemini 4 Neon ที่ออกมาชนกับ Claude Opus 5.5 และ GPT-6.2 Sol (ที่เพิ่งออกสดๆ เมื่อวาน) โดย Neon สามารถเอาชนะได้ในแทบทุกเบนช์มาร์ค\nจุดเด่นของ Gemini 4 Neon เทียบกับโมเดลตระกูล Gemini 4 ด้วยกันเองคือ คุณภาพเทียบเท่ารุ่นใหญ่ Gemini 4 Carbon (เอาชนะได้ด้วยซ้ำในบางเบนช์มาร์ค เช่น Artificial Analysis Index) แต่ทำงานเร็วกว่า (แม้ไม่เร็วถึงขั้น Hydrogen) และราคาถูกกว่า Carbon\nมาถึงจุดนี้หลายคนอาจงงกันไปหมดแล้ว เพราะชื่อโมเดลของ Gemini 4 ชวนงงเหลือเกิน เท่าที่คำอธิบายเวอร์ชันล่าสุดกูเกิล จัดลำดับไว้ 3 ตัวคือ\nGemini 4 Carbon เป็นรุ่นใหญ่สุด\nGemini 4 Neon พี่กลาง\nGemini 4 Hydrogen น้องเล็ก\nส่วน Gemini 4 Argon พี่คนแรกของตระกูลที่ออกมาตัวแรกสุดเมื่อ 30 กันยายน น่าจะสูญพันธุ์ไปแล้วเพราะไม่ถูกพูดถึง และถือว่า Carbon คือเวอร์ชันอัพเกรดของ Argon เลยมาแทน Argon ไปเลย\nตอนนี้ Gemini 4 Neon เปิดให้ใช้งานแล้วทั้งผ่านแอพ Gemini (Pro/Ultra), ผ่าน API และผ่าน Antigravity ค่าตัวอยู่ที่ 3 ดอลลาร์ต่อ 1 ล้านอินพุตโทเคน และ 15 ดอลลาร์ต่อ 1 ล้านเอาต์พุตโทเคน ถือว่าแพงขึ้น 2 เท่าเทียบกับ Hydrogen\nที่มา - Google\n\n\nmk\nThu, 19/11/2026 - 20:22",
-      "pubDate": "Thu, 19 Nov 2026 13:22:45 +0000",
-      "source": "Blognone",
-      "category": "AI",
-      "thumbnail": "https://www.blognone.com/sites/default/files/files-2026/2026-11/gemini_4_neon_table.width-1600.format-webp.webp",
-      "readTime": "3 นาที"
-    },
-    {
-      "id": "152207 at https://www.blognone.com",
-      "title": "Lenovo รายงานผลประกอบการไตรมาส เติบโตทำสถิติสูงสุดในทุกกลุ่มธุรกิจ",
-      "link": "https://www.blognone.com/node/152207",
-      "content": "Lenovo รายงานผลประกอบการไตรมาส เติบโตทำสถิติสูงสุดในทุกกลุ่มธุรกิจ\n\n  \nBody\nLenovo รายงานผลการดำเนินงานของไตรมาสที่ 2 ตามปีการเงินบริษัท 2026/27 สิ้นสุดเดือนกันยายน รายได้รวมเติบโตทำสถิติสูงสุด 30,238 ล้านดอลลาร์ เพิ่มขึ้น 48% จากช่วงเวลาเดียวกันในปีก่อน การเติบโตมาจากทุกกลุ่มธุรกิจ ซึ่งต่างทำสถิติรายได้สูงสุดเช่นกัน\nกลุ่ม Intelligent Devices รายได้เพิ่มขึ้น 15% เป็น 1.74 หมื่นล้านดอลลาร์ ธุรกิจพีซียังครองส่วนแบ่งเป็นอันดับ 1, กลุ่ม Infrastructure Solutions รายได้โต 178% เป็น 1.13 หมื่นล้านดอลลาร์ เฉพาะเซิร์ฟเวอร์จีพียูรายได้โต 300% มีกำไรจากการดำเนินงานมากกว่า 1 พันล้านดอลลาร์ เป็นครั้งแรก และกลุ่ม Solutions and Services โต 20% รายได้ 3.1 พันล้านดอลลาร์\nWinston Cheng ซีเอฟโอ Lenovo กล่าวว่าผลการดำเนินงานที่ออกมาสะท้อนการกระจายธุรกิจทั้งกลุ่มลูกค้าและพอร์ตโฟลิโอ เพื่อส่งเสริมการเติบโตและอัตรากำไรของบริษัทในระยะยาว ด้วยเป้าหมายอัตรากำไรสุทธิระดับสูงกว่า 5% ทั้งนี้ Lenovo รายงานกำไรสุทธิในไตรมาสที่ 1,361 ล้านดอลลาร์ แต่ถ้าบันทึกตามมาตรฐานบัญชีฮ่องกง บริษัทจะขาดทุน 640 ล้านดอลลาร์ เนื่องจากต้องบันทึกค่าใช้จ่ายหุ้นกู้แปลงสภาพที่มาจากความร่วมมือกับบริษัท Alat\nที่มา: Lenovo (pdf) และ Reuters\narjin\nThu, 19/11/2026 - 18:45",
-      "pubDate": "Thu, 19 Nov 2026 11:45:38 +0000",
-      "source": "Blognone",
-      "category": "General",
-      "thumbnail": null,
-      "readTime": "3 นาที"
     },
     {
       "id": "https://techsauce.co/ai/microsoft-agent-365-business-analytics",
@@ -255,17 +354,6 @@
       "readTime": "1 นาที"
     },
     {
-      "id": "152205 at https://www.blognone.com",
-      "title": "Instagram สามารถแก้ไข Story ที่เพิ่งลงได้แล้ว มีเวลา 15 นาที ไม่ต้องลบแล้วอัปใหม่",
-      "link": "https://www.blognone.com/node/152205",
-      "content": "Instagram สามารถแก้ไข Story ที่เพิ่งลงได้แล้ว มีเวลา 15 นาที ไม่ต้องลบแล้วอัปใหม่\n\n  \nBody\nInstagram ประกาศว่าผู้ใช้งานสามารถแก้ไข Story ที่เพิ่งโพสต์ไปได้แล้ว โดยมีเวลา 15 นาที หลังจากโพสต์ จากที่ผ่านมาหากผู้ใช้งานพิมพ์ผิด อยากเปลี่ยนเพลง หรือปัญหาอื่น จะต้องลบโพสต์และลงใหม่เท่านั้น\nAdam Mosseri หัวหน้าทีม Instagram บอกว่า การแก้ไข Story ยังคงเก็บตัวเลขจำนวนวิว, ไลก์ และข้อความตอบกลับเดิมไว้ทั้งหมด ซึ่งเป็นคุณสมบัติที่ผู้ใช้งานจำนวนมากเรียกร้องเข้ามา และในที่สุดก็มีให้ใช้งานเสียที การแก้ไข Story ทำได้โดยเลือกเมนู More ที่มุมแล้วเลือก Edit Story ทั้งนี้โพสต์จะมีป้ายกำกับ edited เพื่อระบุด้วยว่ามีการแก้ไข\nInstagram ยังประกาศเพิ่มคุณสมบัติอื่นของ Story ด้วยได้แก่ สีพื้นหลังแบบไล่เฉดสี (gradient) เมื่อลงรูปใน Story, ปรับการเลือกหลายรูปภาพลงโพสต์เดียวให้ง่ายขึ้น และเพิ่มตัวเลือกสติกเกอร์ใหม่\n\nที่มา: Engadget\narjin\nThu, 19/11/2026 - 13:46",
-      "pubDate": "Thu, 19 Nov 2026 06:46:23 +0000",
-      "source": "Blognone",
-      "category": "General",
-      "thumbnail": "https://www.blognone.com/sites/default/files/files-2026/2026-11/46a84ef4-c3ec-410d-9b49-42c358c62b40.JPG",
-      "readTime": "3 นาที"
-    },
-    {
       "id": "https://techsauce.co/news/asean-defa-digital-economy-framework-agreement-thai-business",
       "title": "DEFA คืออะไร? ความตกลงดิจิทัลอาเซียน ที่ประเทศไทยเจรจาสำเร็จ",
       "link": "https://techsauce.co/news/asean-defa-digital-economy-framework-agreement-thai-business",
@@ -274,94 +362,6 @@
       "source": "Techsauce",
       "category": "General",
       "thumbnail": "https://storage.googleapis.com/techsauce-prod/ugc/uploads/2026/11/1795063968_defa_800.webp",
-      "readTime": "1 นาที"
-    },
-    {
-      "id": "https://techsauce.co/news/scbx-tokenized-deposit-regulatory-sandbox",
-      "title": "กลุ่ม SCBX ยื่นขอเข้าร่วมทดสอบ Tokenized Deposit เป็นรายแรกใน Regulatory Sandbox",
-      "link": "https://techsauce.co/news/scbx-tokenized-deposit-regulatory-sandbox",
-      "content": "ธนาคารไทยพาณิชย์ในกลุ่ม SCBX ยื่นคำขอเข้าร่วมทดสอบ Tokenized Deposit ภายใต้ Regulatory Sandbox ของธนาคารแห่งประเทศไทย เป็นรายแรก",
-      "pubDate": "Thu, 19 Nov 2026 11:54:58 +0700",
-      "source": "Techsauce",
-      "category": "General",
-      "thumbnail": "https://storage.googleapis.com/techsauce-prod/ugc/uploads/2026/11/1795064063_2569-11-19___SCBX_Tokenized_Deposit___%E0%B8%9B%E0%B8%81_800.webp",
-      "readTime": "1 นาที"
-    },
-    {
-      "id": "https://www.thaicert.or.th/?p=18089",
-      "title": "แจ้งเตือนช่องโหว่ระดับ Critical ใน Apache Roller เสี่ยงถูกโจมตีผ่านช่องโหว่ RCE โดยไม่ต้องผ่านการยืนยันตัวตน",
-      "link": "https://www.thaicert.or.th/2026/11/19/%e0%b9%81%e0%b8%88%e0%b9%89%e0%b8%87%e0%b9%80%e0%b8%95%e0%b8%b7%e0%b8%ad%e0%b8%99%e0%b8%8a%e0%b9%88%e0%b8%ad%e0%b8%87%e0%b9%82%e0%b8%ab%e0%b8%a7%e0%b9%88%e0%b8%a3%e0%b8%b0%e0%b8%94%e0%b8%b1%e0%b8%9a-6/",
-      "content": "ศูนย์ประสานการรักษาความมั่นคงปลอดภัยระบบคอมพิวเตอร์แห่ง […]\nThe post แจ้งเตือนช่องโหว่ระดับ Critical ใน Apache Roller เสี่ยงถูกโจมตีผ่านช่องโหว่ RCE โดยไม่ต้องผ่านการยืนยันตัวตน first appeared on Thailand Computer Emergency Response Team (ThaiCERT).",
-      "pubDate": "Thu, 19 Nov 2026 04:36:03 +0000",
-      "source": "ThaiCERT",
-      "category": "ภัยคุกคามทางไซเบอร์",
-      "thumbnail": "https://www.thaicert.or.th/wp-content/uploads/2026/11/4-5-1024x576.png",
-      "readTime": "1 นาที"
-    },
-    {
-      "id": "https://techsauce.co/ai/google-launches-gemini-4-neon",
-      "title": "Google เปิดตัว Gemini 4 Neon โมเดล AI ใหม่ ฉลาดเท่ารุ่นท็อปแต่ตอบไวกว่าเดิม",
-      "link": "https://techsauce.co/ai/google-launches-gemini-4-neon",
-      "content": "Google เปิดตัว Gemini 4 Neon โมเดล AI ใหม่ที่ฉลาดทัดเทียมรุ่นท็อปแต่ตอบสนองไวระดับ Flash โดดเด่นเรื่องงานเอกสาร บัญชี กฎหมาย และทำงานแทนได้จริง อัปเดตแล้ววันนี้",
-      "pubDate": "Thu, 19 Nov 2026 11:17:11 +0700",
-      "source": "Techsauce",
-      "category": "AI",
-      "thumbnail": "https://storage.googleapis.com/techsauce-prod/ugc/uploads/2026/11/1795061782_%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B8%8D%E0%B9%88%E0%B8%B2%E0%B8%AD%E0%B8%A2%E0%B9%88%E0%B8%B2%E0%B8%A2%E0%B8%B8%E0%B9%88%E0%B8%87_%E0%B8%9B%E0%B8%81%E0%B8%82%E0%B9%88%E0%B8%B2%E0%B8%A71200x800_-_2026-11-19T111425.012.webp",
-      "readTime": "1 นาที"
-    },
-    {
-      "id": "https://techsauce.co/news/thailand-japan-semiconductor-roundtable-tokyo",
-      "title": "เอกนิติ เปิดโต๊ะถกผู้นำชิปญี่ปุ่นถึงประธาน Rapidus ชวนลงทุนโฟโตนิกส์  ชิปควบคุมพลังงาน เซนเซอร์ ปูทาง ‘ชิปเมดอินไทยแลนด์’",
-      "link": "https://techsauce.co/news/thailand-japan-semiconductor-roundtable-tokyo",
-      "content": "รองนายกฯ เอกนิติ นำทีมไทยถกผู้นำชิปญี่ปุ่นถึงประธาน Rapidus ที่โตเกียว ครั้งแรกที่ไทยจัดเวทีเซมิคอนดักเตอร์ในต่างประเทศ ชวนลงทุนโฟโตนิกส์ ชิปควบคุมพลังงาน เซนเซอร์ สู่เป้า ‘ชิปเมดอินไทยแลนด์’",
-      "pubDate": "Wed, 18 Nov 2026 17:10:10 +0700",
-      "source": "Techsauce",
-      "category": "General",
-      "thumbnail": "https://storage.googleapis.com/techsauce-prod/ugc/uploads/2026/11/1794996455_Rapidus_800.webp",
-      "readTime": "1 นาที"
-    },
-    {
-      "id": "https://techsauce.co/news/evaluation-first-sovereign-ai-2-legal-ai-update",
-      "title": "SCB 10X จัดงาน Evaluation-First Sovereign AI ครั้งที่ 2 ชวนดูความก้าวหน้า Legal AI ในไทย",
-      "link": "https://techsauce.co/news/evaluation-first-sovereign-ai-2-legal-ai-update",
-      "content": "SCB 10X ร่วมกับ VISTEC, DataX และทีม Typhoon จัดงาน Evaluation-First Sovereign AI ครั้งที่ 2 ในวันที่ 25 พ.ย. 2569 เพื่อสำรวจความก้าวหน้าและความท้าทายของ Legal AI ในไทย",
-      "pubDate": "Wed, 18 Nov 2026 16:51:30 +0700",
-      "source": "Techsauce",
-      "category": "AI",
-      "thumbnail": "https://storage.googleapis.com/techsauce-prod/ugc/uploads/2026/11/1794994510_image-1794994038411.webp",
-      "readTime": "1 นาที"
-    },
-    {
-      "id": "https://techsauce.co/tech-and-biz/ingram-micro-microsoft-ai-solutions",
-      "title": "AI ที่ธุรกิจเริ่มใช้ได้วันนี้ สรุปโซลูชัน AI ใน Ecosystem ของ Ingram Micro พาร์ทเนอร์ระดับโลกของ Microsoft",
-      "link": "https://techsauce.co/tech-and-biz/ingram-micro-microsoft-ai-solutions",
-      "content": "สรุปโซลูชัน AI จาก Ecosystem ของ Ingram Micro และ Microsoft ปลดล็อก Pain Point องค์กรใหญ่และ SMEs ตั้งแต่ Generative AI บน Azure สู่ระบบช่วยบริหารธุรกิจที่เริ่มใช้ได้ทันที",
-      "pubDate": "Wed, 18 Nov 2026 16:45:05 +0700",
-      "source": "Techsauce",
-      "category": "AI",
-      "thumbnail": "https://storage.googleapis.com/techsauce-prod/ugc/uploads/2026/11/1793590383_%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B8%8D%E0%B9%88%E0%B8%B2%E0%B8%AD%E0%B8%A2%E0%B9%88%E0%B8%B2%E0%B8%A2%E0%B8%B8%E0%B9%88%E0%B8%87_%E0%B8%9B%E0%B8%81%E0%B8%82%E0%B9%88%E0%B8%B2%E0%B8%A71200x800_%2874%29.webp",
-      "readTime": "1 นาที"
-    },
-    {
-      "id": "https://www.thaicert.or.th/?p=18086",
-      "title": "แจ้งเตือนช่องโหว่ Java4Shell ใน OpenJDK เสี่ยงถูกโจมตีผ่านช่องโหว่ RCE โดยไม่ต้องผ่านการยืนยันตัวตน",
-      "link": "https://www.thaicert.or.th/2026/11/18/%e0%b9%81%e0%b8%88%e0%b9%89%e0%b8%87%e0%b9%80%e0%b8%95%e0%b8%b7%e0%b8%ad%e0%b8%99%e0%b8%8a%e0%b9%88%e0%b8%ad%e0%b8%87%e0%b9%82%e0%b8%ab%e0%b8%a7%e0%b9%88-java4shell-%e0%b9%83%e0%b8%99-openjdk/",
-      "content": "ศูนย์ประสานการรักษาความมั่นคงปลอดภัยระบบคอมพิวเตอร์แห่ง […]\nThe post แจ้งเตือนช่องโหว่ Java4Shell ใน OpenJDK เสี่ยงถูกโจมตีผ่านช่องโหว่ RCE โดยไม่ต้องผ่านการยืนยันตัวตน first appeared on Thailand Computer Emergency Response Team (ThaiCERT).",
-      "pubDate": "Wed, 18 Nov 2026 09:38:36 +0000",
-      "source": "ThaiCERT",
-      "category": "ภัยคุกคามทางไซเบอร์",
-      "thumbnail": "https://www.thaicert.or.th/wp-content/uploads/2026/11/5-1-1024x597.png",
-      "readTime": "1 นาที"
-    },
-    {
-      "id": "https://www.thaicert.or.th/?p=18065",
-      "title": "N-able เผยแพร่ Hotfix 3 แก้ช่องโหว่ N-central 17 รายการ หลังพบการโจมตี 4EverAble2Shell",
-      "link": "https://www.thaicert.or.th/2026/11/18/n-able-%e0%b9%80%e0%b8%9c%e0%b8%a2%e0%b9%81%e0%b8%9e%e0%b8%a3%e0%b9%88-hotfix-3-%e0%b9%81%e0%b8%81%e0%b9%89%e0%b8%8a%e0%b9%88%e0%b8%ad%e0%b8%87%e0%b9%82%e0%b8%ab%e0%b8%a7%e0%b9%88-n-central-17/",
-      "content": "636/69 (IT) ประจำวันพุธที่ 18 พฤศจิกายน 2569 N-able เผย […]\nThe post N-able เผยแพร่ Hotfix 3 แก้ช่องโหว่ N-central 17 รายการ หลังพบการโจมตี 4EverAble2Shell first appeared on Thailand Computer Emergency Response Team (ThaiCERT).",
-      "pubDate": "Wed, 18 Nov 2026 06:21:54 +0000",
-      "source": "ThaiCERT",
-      "category": "ภัยคุกคามทางไซเบอร์",
-      "thumbnail": "https://www.thaicert.or.th/wp-content/uploads/2026/11/3-2-1024x768.png",
       "readTime": "1 นาที"
     },
     {
