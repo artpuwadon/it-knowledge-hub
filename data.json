@@ -19,31 +19,31 @@
       "link": "https://github.com/"
     },
     {
-      "id": "https://it24hrs.com/?p=171179",
-      "title": "Microsoft To Do เตรียมปิดตัว 30 มิ.ย. 2570 ต้องหาแอปใหม่",
+      "id": "https://www.techtalkthai.com/?p=171737",
+      "title": "ทำไมต้องเร่งรีบเปลี่ยน? SYMPHONY CLOUD คงความพร้อมให้บริการบนสถาปัตยกรรม VMware ให้ลูกค้าดำเนินธุรกิจได้อย่างมั่นใจ",
       "category": "General",
-      "source": "IT24Hrs",
-      "summary": "Microsoft To Do เตรียมปิดตัว 30 มิ.ย. 2570 ใครใช้ Micro […]\nThe post Microsoft To Do เตรียมปิดตัว 30 มิ.ย. 2570 ต้องหาแอ...",
-      "thumbnail": null,
-      "link": "https://it24hrs.com/2026/microsoft-to-do-wunderlist-shutdown-2027/"
+      "source": "TechTalk Thai",
+      "summary": "“ไม่จำเป็นต้องเร่งรีบเปลี่ยน ถ้าของเดิมคือสิ่งที่ดีที่สุดสำหรับธุรกิจอยู่แล้ว ทำไมคุณต้องเอาความสำเร็จไปเสี่ยงกับการเปลี...",
+      "thumbnail": "https://www.techtalkthai.com/wp-content/uploads/2026/09/รูปภาพ1.png",
+      "link": "https://www.techtalkthai.com/why-the-rush-to-switch-symphony-cloud-maintains-service-readiness-on-a-vmware-architecture/"
     },
     {
-      "id": "152235 at https://www.blognone.com",
-      "title": "ไมโครซอฟท์เปิดตัว Aion 1.0 Instruct โมเดลขนาดเล็กสำหรับ On-Device AI",
-      "category": "AI",
-      "source": "Blognone",
-      "summary": "ไมโครซอฟท์เปิดตัว Aion 1.0 Instruct โมเดลขนาดเล็กสำหรับ On-Device AI\n\n  \nBody\nไมโครซอฟท์เปิดตัวโมเดลขนาดเล็กสำหรับรันแบบ...",
-      "thumbnail": null,
-      "link": "https://www.blognone.com/node/152235"
+      "id": "https://www.techtalkthai.com/?p=172429",
+      "title": "Bending Spoons ปิดดีลซื้อ Mailchimp มูลค่า 3,680 ล้านดอลลาร์ ต่อยอดอาณาจักร Online Marketing Automation",
+      "category": "General",
+      "source": "TechTalk Thai",
+      "summary": "Intuit ผู้พัฒนาซอฟต์แวร์บัญชีระดับโลก ตกลงขาย Mailchimp แพลตฟอร์มการตลาดผ่านอีเมลและ Marketing Automation ให้กับ Bending...",
+      "thumbnail": "https://www.techtalkthai.com/wp-content/uploads/2026/11/TTT-2026-11-23T084156.150-640x336.jpg",
+      "link": "https://www.techtalkthai.com/bending-spoons-acquire-mailchimp/"
     },
     {
-      "id": "152234 at https://www.blognone.com",
-      "title": "ร้านเกมในอังกฤษขาย GTA 6 ได้แค่ 5 กล่อง พอไม่มีแผ่น คนไปซื้อแบบดิจิทัลกันหมด",
-      "category": "Security",
-      "source": "Blognone",
-      "summary": "ร้านเกมในอังกฤษขาย GTA 6 ได้แค่ 5 กล่อง พอไม่มีแผ่น คนไปซื้อแบบดิจิทัลกันหมด\n\n  \nBody\nแม้ GTA 6 ทำเงินเฉพาะวันแรกวันเดีย...",
-      "thumbnail": null,
-      "link": "https://www.blognone.com/node/152234"
+      "id": "https://www.thaicert.or.th/?p=18147",
+      "title": "แจ้งเตือน พบช่องโหว่ Zero-Day บน Windows (FastUnlock) เปิดโอกาสให้ข้ามหน้าล็อกจอเพื่อเรียกใช้โปรแกรมได้โดยไม่ต้องลงชื่อเข้าใช้งาน",
+      "category": "ภัยคุกคามทางไซเบอร์",
+      "source": "ThaiCERT",
+      "summary": "ศูนย์ประสานการรักษาความมั่นคงปลอดภัยระบบคอมพิวเตอร์แห่ง […]\nThe post แจ้งเตือน พบช่องโหว่ Zero-Day บน Windows (FastUnloc...",
+      "thumbnail": "https://www.thaicert.or.th/wp-content/uploads/2026/11/FastUnlock-1024x576.jpg",
+      "link": "https://www.thaicert.or.th/2026/11/23/%e0%b9%81%e0%b8%88%e0%b9%89%e0%b8%87%e0%b9%80%e0%b8%95%e0%b8%b7%e0%b8%ad%e0%b8%99-%e0%b8%9e%e0%b8%9a%e0%b8%8a%e0%b9%88%e0%b8%ad%e0%b8%87%e0%b9%82%e0%b8%ab%e0%b8%a7%e0%b9%88-zero-day-%e0%b8%9a%e0%b8%99/"
     }
   ],
   "articles": [
@@ -52,7 +52,7 @@
       "title": "แนวทางปฏิบัติการตั้งรหัสผ่านให้ปลอดภัยสำหรับบุคลากร",
       "link": "https://github.com/",
       "content": "1. รหัสผ่านต้องมีความยาวอย่างน้อย 8 ตัวอักษร\n2. ประกอบด้วยอักษรตัวพิมพ์ใหญ่ ตัวพิมพ์เล็ก ตัวเลข และสัญลักษณ์พิเศษ\n3. ห้ามใช้ข้อมูลส่วนตัว เช่น วันเกิด หรือเบอร์โทรศัพท์\n4. เปลี่ยนรหัสผ่านใหม่ทุกๆ 3-6 เดือนเพื่อความปลอดภัย",
-      "pubDate": "2026-11-22T02:52:50.146Z",
+      "pubDate": "2026-11-23T03:34:38.418Z",
       "source": "คู่มือภายในองค์กร",
       "category": "Internal",
       "thumbnail": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=500&auto=format&fit=crop&q=60"
@@ -62,10 +62,98 @@
       "title": "คลังกฎหมายและระเบียบที่เกี่ยวข้องกับการปฏิบัติราชการ",
       "link": "https://github.com/",
       "content": "### ⚖️ ศูนย์รวมลิงก์กฎหมายฉบับเต็มและแนวทางปฏิบัติงาน\n\nเพื่อความสะดวกและถูกต้องในการอ้างอิงข้อกฎหมายของเจ้าหน้าที่ในการปฏิบัติราชการ ศูนย์ไอทีได้รวบรวมลิงก์ตรงไปยังระบบสืบค้นกฎหมายของสำนักงานคณะกรรมการกฤษฎีกา และไฟล์ PDF ฉบับราชกิจจานุเบกษาไว้ในจุดเดียว ดังนี้ครับ:\n\n---\n\n### 🛒 1. หมวดการบริหารงานพัสดุและการจัดซื้อจัดจ้าง\n*   **พ.ร.บ. การจัดซื้อจัดจ้างและการบริหารพัสดุภาครัฐ พ.ศ. 2560**\n    *   🔗 [อ่านกฎหมายฉบับเต็ม (เว็บกฤษฎีกา)](https://www.ocs.go.th/)\n    *   📄 [ดาวน์โหลดไฟล์ PDF ฉบับประกาศราชกิจจานุเบกษา](https://www.gprocurement.go.th/wps/portal/egp/Regulation/!ut/p/z1/04_Sj9CPykssy0xPLMnMz0vMAfIjo8zifQ3djQydnQ18_T3dzA0czU0NfANMLQ1MPIz1w8EKDHAARwP9KGL041EQhd_4cP0oNCvCjM2AJgT4OvsHehgYOBtCFeAxoyA3NMIg01ERAHhSDzY!/dz/d5/L0lDUmlTUSEhL3dHa0FKRnNBLzROV3FpQSEhL3Ro/)\n*   **ระเบียบกระทรวงการคลังว่าด้วยการจัดซื้อจัดจ้างและการบริหารพัสดุภาครัฐ พ.ศ. 2560**\n    *   🔗 [อ่านระเบียบฉบับเต็มและกฎกระทรวงที่เกี่ยวข้อง](https://www.gprocurement.go.th/wps/portal/egp/Regulation/Ministry_of_Finance_Regularity/)\n\n---\n\n### 🏢 2. หมวดการปฏิบัติราชการและวิธีพิจารณาทางปกครอง\n*   **พ.ร.บ. วิธีปฏิบัติราชการทางปกครอง พ.ศ. 2539 (และฉบับแก้ไขเพิ่มเติม)**\n    *   🔗 [อ่านกฎหมายฉบับเต็ม (เว็บกฤษฎีกา)](https://www.ocs.go.th/)\n*   **พ.ร.บ. ความรับผิดทางละเมิดของเจ้าหน้าที่ พ.ศ. 2539**\n    *   🔗 [อ่านกฎหมายฉบับเต็ม (เว็บกฤษฎีกา)](https://www.ocs.go.th/)\n*   **พ.ร.บ. การปฏิบัติราชการทางอิเล็กทรอนิกส์ พ.ศ. 2565** *(สำคัญมากสำหรับงานไอทีและบริการประชาชน)*\n    *   🔗 [อ่านกฎหมายฉบับเต็ม (เว็บกฤษฎีกา)](https://www.ocs.go.th/)\n\n---\n\n### 🛡️ 3. หมวดคุ้มครองข้อมูลและความมั่นคงปลอดภัยไซเบอร์\n*   **พ.ร.บ. คุ้มครองข้อมูลส่วนบุคคล พ.ศ. 2562 (PDPA)**\n    *   🔗 [สืบค้นกฎหมายและแนวทางปฏิบัติจาก สคส.](https://www.pdpc.or.th)\n*   **พ.ร.บ. การรักษาความมั่นคงปลอดภัยไซเบอร์ พ.ศ. 2562**\n    *   🔗 [สืบค้นกฎหมายและประกาศจาก สกมช. (NCSA)](https://www.ncsa.or.th/standards/laws)\n*   **พ.ร.บ. ว่าด้วยการกระทำความผิดเกี่ยวกับคอมพิวเตอร์ (ฉบับที่ 2) พ.ศ. 2560**\n    *   🔗 [อ่านกฎหมายฉบับเต็ม (เว็บกฤษฎีกา)](https://www.ocs.go.th/)\n\n---\n\n### 💡 แนะนำการใช้งานสำหรับเจ้าหน้าที่\n> หากต้องการสืบค้นกฎหมายอื่น ๆ เพิ่มเติม นอกเหนือจากรายการข้างต้น สามารถเข้าใช้งานระบบกฎหมายดิจิทัลโดยตรงได้ที่ **[ระบบสืบค้นกฎหมาย สำนักงานคณะกรรมการกฤษฎีกา](https://www.ocs.go.th/)** เพื่อข้อมูลที่อัปเดตและเป็นปัจจุบันที่สุด",
-      "pubDate": "2026-11-22T02:52:50.146Z",
+      "pubDate": "2026-11-23T03:34:38.418Z",
       "source": "ศูนย์รวมกฎหมายภาครัฐ",
       "category": "Law",
       "thumbnail": "https://images.unsplash.com/photo-1589829545856-d10d557cf95f?w=500"
+    },
+    {
+      "id": "https://www.techtalkthai.com/?p=171737",
+      "title": "ทำไมต้องเร่งรีบเปลี่ยน? SYMPHONY CLOUD คงความพร้อมให้บริการบนสถาปัตยกรรม VMware ให้ลูกค้าดำเนินธุรกิจได้อย่างมั่นใจ",
+      "link": "https://www.techtalkthai.com/why-the-rush-to-switch-symphony-cloud-maintains-service-readiness-on-a-vmware-architecture/",
+      "content": "“ไม่จำเป็นต้องเร่งรีบเปลี่ยน ถ้าของเดิมคือสิ่งที่ดีที่สุดสำหรับธุรกิจอยู่แล้ว ทำไมคุณต้องเอาความสำเร็จไปเสี่ยงกับการเปลี่ยนระบบในทันที?”  ในช่วงที่ผ่านมา องค์กรหลายแห่งอาจกำลังเผชิญกับความท้าทายจากสถานการณ์ของแพลตฟอร์ม Cloud โดยเฉพาะอย่างยิ่งกับความกังวลเรื่องค่าใช้จ่ายของ VMware ที่ปรับตัวสูงขึ้น ส่งผลให้ผู้ให้บริการภายในประเทศ (Local Provider) หลายรายพยายามโน้มน้าวให้ลูกค้าย้ายระบบ (Migrate) ออกจาก VMware ไปยังแพลตฟอร์มอื่นเพื่อลดต้นทุน  “ทางเลือกสำหรับองค์กรที่ต้องการใช้ VMware Cloud Infrastructure“ แต่ความจริงที่ปฏิเสธไม่ได้คือ สำหรับหลายธุรกิจ สถาปัตยกรรมและฟีเจอร์ของ VMware ยังคงเป็นรากฐานที่แข็งแกร่ง เสถียร และตอบโจทย์ระบบงานหลักได้ดีที่สุดเหนือแพลตฟอร์มใด SYMPHONY CLOUD จึงขอชวนคุณตั้งคำถามกลับเพื่อมองข้ามกระแสนี้ว่า  “ทำไมต้องเร่งเปลี่ยน?” SYMPHONY CLOUD สานต่อความสำเร็จบนแพลตฟอร์มที่คุณคุ้นเคย บริษัท ซิมโฟนี่ คอมมูนิเคชั่น จำกัด (มหาชน) หรือ SYMPHONY COMMUNICATION เข้าใจดีว่าการเร่งรีบเปลี่ยนแพลตฟอร์มอาจสร้างความเสี่ยงและผลกระทบต่อระบบงานหลักของธุรกิจ เพื่อขจัดความกังวลดังกล่าว SYMPHONY CLOUD ในฐานะผู้ให้บริการ Total Solution Provider ชั้นนำของไทย ขอตอกย้ำความเชื่อมั่นให้กับลูกค้าองค์กรทุกระดับว่า  “เราคงความพร้อมให้บริการ Cloud …",
+      "pubDate": "Mon, 23 Nov 2026 02:04:42 +0000",
+      "source": "TechTalk Thai",
+      "category": "General",
+      "thumbnail": "https://www.techtalkthai.com/wp-content/uploads/2026/09/รูปภาพ1.png",
+      "readTime": "3 นาที"
+    },
+    {
+      "id": "https://www.techtalkthai.com/?p=172429",
+      "title": "Bending Spoons ปิดดีลซื้อ Mailchimp มูลค่า 3,680 ล้านดอลลาร์ ต่อยอดอาณาจักร Online Marketing Automation",
+      "link": "https://www.techtalkthai.com/bending-spoons-acquire-mailchimp/",
+      "content": "Intuit ผู้พัฒนาซอฟต์แวร์บัญชีระดับโลก ตกลงขาย Mailchimp แพลตฟอร์มการตลาดผ่านอีเมลและ Marketing Automation ให้กับ Bending Spoons บริษัทเทคโนโลยีสัญชาติอิตาลี ด้วยมูลค่า 3,680 ล้านดอลลาร์สหรัฐ ลดลงเกือบ 3 เท่าจากราคา 12,000 ล้านดอลลาร์สหรัฐที่ Intuit เข้าซื้อกิจการมาเมื่อ 5 ปีก่อน เพื่อต่อยอดความครบวงจรของบริการ Online Marketing Automation รวมถึงซอฟต์แวร์ออนไลน์สำหรับผู้ใช้งานทั่วไป และระดับองค์กร Bending Spoons อาจไม่ใช่ชื่อที่คุ้นหูในกลุ่มผู้ใช้งานทั่วไป แต่บริษัทนี้คือผู้อยู่เบื้องหลังการเข้าซื้อกิจการซอฟต์แวร์ชื่อดังหลายรายในช่วงไม่กี่ปีที่ผ่านมา ไม่ว่าจะเป็น Evernote, Vimeo, WeTransfer, AOL, Eventbrite และ Airtable โดยกลยุทธ์หลักของ Bending Spoons คือการเข้าซื้อแพลตฟอร์มที่มีแบรนด์แข็งแกร่งและมีฐานผู้ใช้งานขนาดใหญ่ จากนั้นจึงดำเนินการปรับโครงสร้างเพื่อสร้างผลกำไรสูงสุดในระยะสั้น ผ่านขั้นตอนสำคัญดังนี้ ลดขนาดทีมงาน: ปลดพนักงานเดิมจำนวนมาก และโอนย้ายงานด้านวิศวกรรมซอฟต์แวร์ไปให้ทีมงานขนาดเล็กในยุโรปดูแลแทน ปรับขึ้นราคาค่าบริการ: เพิ่มอัตราค่าสมาชิกอย่างก้าวกระโดด เพื่อรีดรายได้จากฐานลูกค้าเดิมให้ได้มากที่สุด ลดทอนฟีเจอร์ฟรี: จำกัดการใช้งานใน …",
+      "pubDate": "Mon, 23 Nov 2026 01:44:03 +0000",
+      "source": "TechTalk Thai",
+      "category": "General",
+      "thumbnail": "https://www.techtalkthai.com/wp-content/uploads/2026/11/TTT-2026-11-23T084156.150-640x336.jpg",
+      "readTime": "3 นาที"
+    },
+    {
+      "id": "https://www.thaicert.or.th/?p=18147",
+      "title": "แจ้งเตือน พบช่องโหว่ Zero-Day บน Windows (FastUnlock) เปิดโอกาสให้ข้ามหน้าล็อกจอเพื่อเรียกใช้โปรแกรมได้โดยไม่ต้องลงชื่อเข้าใช้งาน",
+      "link": "https://www.thaicert.or.th/2026/11/23/%e0%b9%81%e0%b8%88%e0%b9%89%e0%b8%87%e0%b9%80%e0%b8%95%e0%b8%b7%e0%b8%ad%e0%b8%99-%e0%b8%9e%e0%b8%9a%e0%b8%8a%e0%b9%88%e0%b8%ad%e0%b8%87%e0%b9%82%e0%b8%ab%e0%b8%a7%e0%b9%88-zero-day-%e0%b8%9a%e0%b8%99/",
+      "content": "ศูนย์ประสานการรักษาความมั่นคงปลอดภัยระบบคอมพิวเตอร์แห่ง […]\nThe post แจ้งเตือน พบช่องโหว่ Zero-Day บน Windows (FastUnlock) เปิดโอกาสให้ข้ามหน้าล็อกจอเพื่อเรียกใช้โปรแกรมได้โดยไม่ต้องลงชื่อเข้าใช้งาน first appeared on Thailand Computer Emergency Response Team (ThaiCERT).",
+      "pubDate": "Mon, 23 Nov 2026 01:40:00 +0000",
+      "source": "ThaiCERT",
+      "category": "ภัยคุกคามทางไซเบอร์",
+      "thumbnail": "https://www.thaicert.or.th/wp-content/uploads/2026/11/FastUnlock-1024x576.jpg",
+      "readTime": "1 นาที"
+    },
+    {
+      "id": "152239 at https://www.blognone.com",
+      "title": "OpenAI เสนอวิธีวัดความสามารถโมเดล AI แบบใหม่ เพื่อประเมินขีดจำกัดได้ดีขึ้น",
+      "link": "https://www.blognone.com/node/152239",
+      "content": "OpenAI เสนอวิธีวัดความสามารถโมเดล AI แบบใหม่ เพื่อประเมินขีดจำกัดได้ดีขึ้น\n\n  \nBody\nJakub Pachocki หัวหน้าฝ่ายวิทยาศาสตร์ของ OpenAI โพสต์เนื้อหาเกี่ยวกับขีดความสามารถในการพัฒนา AI ด้วยวิธีการวัดผลแบบใหม่เรียกว่าค่าความสับสนของโมเดลหรือ perplexity (คนละอันกับเสิร์ช AI) โดยมองว่าการวัดผลความสามารถโมเดลแบบนี้ จะทำให้การพัฒนาและการป้องกันด้านความปลอดภัยตรงจุดยิ่งขึ้น\nเขาบอกว่าที่ผ่านมาผู้พัฒนา AI ต่างนำเสนอความสามารถโมเดลด้วยการวัดผลว่าทำได้ตามเงื่อนไขที่ตั้งไว้หรือไม่ ซึ่งอดีตอาจเป็นวิธีที่ดีแล้ว เพราะโมเดลยังมีความสามารถไปไม่ถึงเส้นแบ่ง แต่เมื่อโมเดลฉลาดมากขึ้น เขาเสนอให้ใช้ตัววัดผลใหม่เรียกว่าค่า perplexity โดยดูว่าโมเดลสามารถทำงานต่อเนื่องในโทเค็นถัดไปเฉลี่ยได้ดีแค่ไหน ซึ่งค่า perplexity ที่ต่ำ ย่อมแปลว่าการทำงานของโมเดลดีมากขึ้น ข้อเสนอของ OpenAI นี้เป็นการบอกไปยังผู้พัฒนารายอื่นในอุตสาหกรรมหากเห็นด้วยก็จะใช้ตัววัดผลใหม่เพื่อให้เป็นไปในทางเดียวกัน\nตัวอย่างที่นำเสนอเช่นโมเดล GPT-3.5 ค่า log-perplexity อยู่ที่ประมาณ 0.99 เมื่อมาถึง GPT-4 ที่สามารถคิดต่อเนื่องได้ดีขึ้น ค่าลดลงเป็น 0.91 ส่วนโมเดลรุ่นปัจจุบันตัวเลขต่ำกว่า 0.8 แล้ว จึงสะท้อนกลับไปที่โมเดลสามารถ AI ทำงานที่ซับซ้อนมากอย่างโจทย์คณิตศาสตร์ขั้นสูง หรือการงานความปลอดภัยไซเบอร์นั่นเอง\nอย่างไรก็ตาม Pachocki บอกว่าวิธีวัดผลแบบ perplexity มีสิ่งที่ท้าทายหลายอย่าง เช่น การเลือกใช้โมเดลพื้นฐานเปรียบเทียบที่ต่างกัน, ชุดข้อมูลอ้างอิงที่ต่างกัน, เป็นการวัดผลที่อาจไม่เชื่อมโยงกับการใช้งานในความจริง และสุดท้ายคือไม่มีทางที่จะได้ตัวเลขค่าต่ำสุดที่เป็นไปได้ (ศูนย์) เพราะไม่รู้ว่าจะต้องได้โมเดลความสามารถระดับใด\nที่มา: OpenAI\narjin\nMon, 23/11/2026 - 08:20",
+      "pubDate": "Mon, 23 Nov 2026 01:20:50 +0000",
+      "source": "Blognone",
+      "category": "Security",
+      "thumbnail": null,
+      "readTime": "4 นาที"
+    },
+    {
+      "id": "https://www.thaicert.or.th/?p=18142",
+      "title": "แจ้งเตือนพบการโจมตีจริงผ่านช่องโหว่ระดับ Critical ใน Cisco Expressway เสี่ยงถูกโจมตีผ่านช่องโหว่ RCE ด้วยสิทธิ์ root",
+      "link": "https://www.thaicert.or.th/2026/11/22/%e0%b9%81%e0%b8%88%e0%b9%89%e0%b8%87%e0%b9%80%e0%b8%95%e0%b8%b7%e0%b8%ad%e0%b8%99%e0%b8%9e%e0%b8%9a%e0%b8%81%e0%b8%b2%e0%b8%a3%e0%b9%82%e0%b8%88%e0%b8%a1%e0%b8%95%e0%b8%b5%e0%b8%88%e0%b8%a3%e0%b8%b4/",
+      "content": "ศูนย์ประสานการรักษาความมั่นคงปลอดภัยระบบคอมพิวเตอร์แห่ง […]\nThe post แจ้งเตือนพบการโจมตีจริงผ่านช่องโหว่ระดับ Critical ใน Cisco Expressway เสี่ยงถูกโจมตีผ่านช่องโหว่ RCE ด้วยสิทธิ์ root first appeared on Thailand Computer Emergency Response Team (ThaiCERT).",
+      "pubDate": "Sun, 22 Nov 2026 10:31:46 +0000",
+      "source": "ThaiCERT",
+      "category": "ภัยคุกคามทางไซเบอร์",
+      "thumbnail": "https://www.thaicert.or.th/wp-content/uploads/2026/11/Ciso-Expressway-1024x576.png",
+      "readTime": "1 นาที"
+    },
+    {
+      "id": "152238 at https://www.blognone.com",
+      "title": "ผู้ให้บริการ LLM บน OpenRouter ถูกแฮก ข้อมูลในพรอมต์ถูกนำไปใช้ หากมี API key ในพรอมต์จะเสียหายหนัก",
+      "link": "https://www.blognone.com/node/152238",
+      "content": "ผู้ให้บริการ LLM บน OpenRouter ถูกแฮก ข้อมูลในพรอมต์ถูกนำไปใช้ หากมี API key ในพรอมต์จะเสียหายหนัก\n\n  \nBody\nผู้ให้บริการ LLM สามรายที่ให้บริการผ่าน OpenRouter ได้แก่ Novita, Phala, และ Together ถูกคนร้ายแฮกระบบและดึงพรอมต์ที่ลูกค้าใช้งานออกไปได้ ส่งผลให้เกิดความเสียหายเป็นวงกว้างเนื่องจากในพรอมต์อาจมี API key หรือรหัสผ่านของระบบอื่นๆ อยู่ด้วย\nที่น่ากังวลคือผู้ให้บริการเหล่านี้บางรายให้บริการแบบ Zero Data Retention (ZDR) ที่สัญญากับลูกค้าว่าจะไม่เก็บพรอมต์ไว้ประมวลผลอื่นอีก แต่ในความเป็นจริงแล้วก็เก็บพรอมต์ไว้ในระบบอยู่ดี\nทาง Dragos ทดลองด้วยการสร้าง AWS key แล้วคุยกับ LLM โดยให้กุญแจเหล่านี้หลุดเข้าไปด้วย หลังจากนั้นเพียงวันเดียวก็มีคนร้ายพยายามใช้กุญแจเหล่านั้น หรือบางครั้งก็สร้าง URL ลับที่ไม่มีใครรู้ แต่หลังจากคุยกับ LLM แล้วก็มีไคลเอนต์เชื่อมต่อเข้ามาอย่างถูกต้อง\nด้าน OpenRouter ยืนยันว่าการแฮกครั้งนี้ไม่ใช่ช่องโหว่ของ OpenRouter เอง แต่เป็นช่องโหว่ของผู้ให้บริการอีกที นอกจากนี้ยังถอดป้าย ZDR ออกจากผู้ให้บริการอื่นๆ อีก 125 รายการ หลังจากนี้ OpenRouter จะตรวจสอบพรอมต์รั่วด้วยตัวเอง และจะขอตรวจสอบการทำงานของผู้ให้บริการว่ามีความปลอดภัยและหากประกาศว่าเป็น ZDR ต้องไม่มีการเก็บพรอมต์จริง\nที่มา - OpenRouter\nlew\nSun, 22/11/2026 - 15:08",
+      "pubDate": "Sun, 22 Nov 2026 08:08:59 +0000",
+      "source": "Blognone",
+      "category": "Security",
+      "thumbnail": null,
+      "readTime": "3 นาที"
+    },
+    {
+      "id": "152237 at https://www.blognone.com",
+      "title": "Tesla อัปเดต FSD v15 แสดงผลแบบ Reality View ขณะเดินทาง ให้ภาพที่สมจริงยิ่งขึ้น",
+      "link": "https://www.blognone.com/node/152237",
+      "content": "Tesla อัปเดต FSD v15 แสดงผลแบบ Reality View ขณะเดินทาง ให้ภาพที่สมจริงยิ่งขึ้น\n\n  \nBody\nTesla ออกอัปเดตซอฟต์แวร์ระบบขับขี่อัตโนมัติเต็มรูปแบบหรือ FSD (Full Self-Driving) ให้กับลูกค้าในเวอร์ชันล่าสุด FSD v15 โดยระบุว่าสามารถจัดการกับสถานการณ์ความปลอดภัยฉุกเฉินได้ดีขึ้น 25 เท่า และเรียนรู้การกำหนดแผนการเดินทางได้ขึ้นผ่านระบบเรียนรู้จากเครือข่าย\nของใหม่ที่โดดเด่นในอัปเดตนี้คือการแสดงผลบนหน้าจอขณะเดินทางที่ Tesla เรียกว่า Tesla Reality View ซึ่งแสดงภาพในมุมมองด้านหลังรถ พร้อมสภาพแวดล้อมที่สวยงาม 3D สมจริง ไม่ใช่แค่บล็อกถนน-อาคารแบบเดิม ผู้ขับขี่ยังเห็นข้อมูลว่า FSD กำลังวางแผนและตัดสินใจกับสิ่งที่เห็นอย่างไรด้วย ฟีเจอร์นี้ทำให้รู้สึกเหมือนกำลังเล่นเกมขับรถสักอย่าง ซึ่ง Elon Musk ก็บอกเองว่ามันคือ GTA\nการปรับปรุงอื่นใน FSD v15 มีทั้งการตรวจจับป้ายจราจร, สัตว์ขนาดเล็ก, วัตถุแปลกปลอมบนถนน, หลุมบ่อ, น้ำท่วมขัง ได้ดีขึ้น เพื่อให้รถหลบเลี่ยง\nที่มา: Tesla\nFSD v15 now starting to roll out – upgrading every part of the end-to-end driving network\n\nSafety\nTesla Reality View\nNavigation for start & end of the trip now learns end-to-end from fleet route preferences. Later v15 releases will expand this to the entire route.\nYou also should notice better detection of signs, animals, debris, potholes and standing water, plus more natural speed handling in school zones and inclement weather.\nLastly, FSD can now slow for speed cameras & Bike Rack Mode lets you enable FSD w/ bike racks or similar hitch accessories\n— Tesla (@Tesla) November 21, 2026\n\n\nIt’s like GTA\n— Elon Musk (@elonmusk) November 21, 2026\n\n\n          \narjin\nSun, 22/11/2026 - 14:43",
+      "pubDate": "Sun, 22 Nov 2026 07:43:07 +0000",
+      "source": "Blognone",
+      "category": "Security",
+      "thumbnail": null,
+      "readTime": "4 นาที"
+    },
+    {
+      "id": "https://www.thaicert.or.th/?p=18141",
+      "title": "แจ้งเตือน! Splunk แก้ไขช่องโหว่จำนวน 139 รายการ พบช่องโหว่ระดับ Critical เสี่ยงถูกข้ามการยืนยันตัวตนและโจมตีผ่านช่องโหว่ RCE",
+      "link": "https://www.thaicert.or.th/2026/11/22/%e0%b9%81%e0%b8%88%e0%b9%89%e0%b8%87%e0%b9%80%e0%b8%95%e0%b8%b7%e0%b8%ad%e0%b8%99-splunk-%e0%b9%81%e0%b8%81%e0%b9%89%e0%b9%84%e0%b8%82%e0%b8%8a%e0%b9%88%e0%b8%ad%e0%b8%87%e0%b9%82%e0%b8%ab%e0%b8%a7/",
+      "content": "ศูนย์ประสานการรักษาความมั่นคงปลอดภัยระบบคอมพิวเตอร์แห่ง […]\nThe post แจ้งเตือน! Splunk แก้ไขช่องโหว่จำนวน 139 รายการ พบช่องโหว่ระดับ Critical เสี่ยงถูกข้ามการยืนยันตัวตนและโจมตีผ่านช่องโหว่ RCE first appeared on Thailand Computer Emergency Response Team (ThaiCERT).",
+      "pubDate": "Sun, 22 Nov 2026 07:27:00 +0000",
+      "source": "ThaiCERT",
+      "category": "ภัยคุกคามทางไซเบอร์",
+      "thumbnail": "https://www.thaicert.or.th/wp-content/uploads/2026/11/Splunk-139-รายการ-V.2-1024x597.png",
+      "readTime": "1 นาที"
     },
     {
       "id": "https://it24hrs.com/?p=171179",
@@ -76,6 +164,17 @@
       "source": "IT24Hrs",
       "category": "General",
       "thumbnail": null,
+      "readTime": "1 นาที"
+    },
+    {
+      "id": "https://techsauce.co/news/cmu-cs-learn-free-computer-science-courses-youtube",
+      "title": "Carnegie Mellon University เปิดช่อง YouTube ‘CS Learn‘ เรียนเลกเชอร์เต็มเทอม 13 วิชาฟรี AI, Agents, ซอฟต์แวร์ ครบจากห้องเรียนจริง",
+      "link": "https://techsauce.co/news/cmu-cs-learn-free-computer-science-courses-youtube",
+      "content": "Carnegie Mellon เปิดตัว CS Learn ปล่อยเลกเชอร์ฉบับเต็มเทอมจากห้องเรียนจริง 13 วิชาให้เรียนฟรีบน YouTube เน้น AI และซอฟต์แวร์ พร้อมระบบ AI ฝีมือนักศึกษาที่ปกป้องความเป็นส่วนตัวของผู้เรียนในห้อง",
+      "pubDate": "Sat, 21 Nov 2026 23:56:28 +0700",
+      "source": "Techsauce",
+      "category": "AI",
+      "thumbnail": "https://storage.googleapis.com/techsauce-prod/ugc/uploads/2026/11/1795279996_Carnegie_Mellon_University_800.webp",
       "readTime": "1 นาที"
     },
     {
@@ -119,39 +218,6 @@
       "pubDate": "Sat, 21 Nov 2026 10:33:00 +0000",
       "source": "Blognone",
       "category": "Security",
-      "thumbnail": null,
-      "readTime": "3 นาที"
-    },
-    {
-      "id": "152230 at https://www.blognone.com",
-      "title": "[ไม่ยืนยัน] CrowdStrike กำลังเจรจาซื้อกิจการบริษัทความปลอดภัยไซเบอร์คู่แข่ง Zscaler",
-      "link": "https://www.blognone.com/node/152230",
-      "content": "[ไม่ยืนยัน] CrowdStrike กำลังเจรจาซื้อกิจการบริษัทความปลอดภัยไซเบอร์คู่แข่ง Zscaler\n\n  \nBody\nBloomberg อ้างแหล่งข่าวที่เกี่ยวข้องรายงานว่า CrowdStrike บริษัทด้านความปลอดภัยไซเบอร์ กำลังเจรจาเพื่อซื้อกิจการ Zscaler บริษัทด้านความปลอดภัยไซเบอร์คู่แข่ง ทั้งนี้มูลค่ากิจการตามราคาหุ้นของ Zscaler อยู่ที่ประมาณ 3.2 หมื่นล้านดอลลาร์ ซึ่งปรับเพิ่มขึ้นสูงหลังจากมีรายงานข่าวออกมา\nZscaler มีผลิตภัณฑ์ด้านความปลอดภัยไซเบอร์ที่เด่นคือระบบจัดการความปลอดภัยเครือข่ายบนคลาวด์สำหรับลูกค้าองค์กร หากดีลนี้เกิดขึ้นจึงจะเป็นการเสริมจุดแข็งให้กับ CrowdStrike ในผลิตภัณฑ์ความปลอดภัยสำหรับลูกค้าองค์กร\nทั้ง CrowdStrike และ Zscaler ปฏิเสธที่จะให้ความเห็นต่อรายงานดังกล่าว\nที่มา: Bloomberg\narjin\nSat, 21/11/2026 - 16:26",
-      "pubDate": "Sat, 21 Nov 2026 09:26:00 +0000",
-      "source": "Blognone",
-      "category": "Security",
-      "thumbnail": null,
-      "readTime": "2 นาที"
-    },
-    {
-      "id": "152232 at https://www.blognone.com",
-      "title": "Uber ทดสอบบริการใหม่ Uber Kids สำหรับเด็กอายุ 10-12 ปี ใช้งาน พ่อแม่ต้องอยู่ส่ง",
-      "link": "https://www.blognone.com/node/152232",
-      "content": "Uber ทดสอบบริการใหม่ Uber Kids สำหรับเด็กอายุ 10-12 ปี ใช้งาน พ่อแม่ต้องอยู่ส่ง\n\n  \nBody\nแอปเรียกรถแท็กซี่ Uber ทดสอบบริการใหม่ \"Uber Kids\" เพื่อให้บริการรถสำหรับเด็กอายุ 10-12 ปี โดยเริ่มทดสอบใน 3 เมืองของสหรัฐอเมริกาได้แก่ ออสติน, แนชวิลล์ และแมดิสัน\nบริการ Uber Kids เป็นการพัฒนาขยายจากบริการ Uber สำหรับเยาวชนอายุ 13-17 ปี ที่มีอยู่แล้ว โดยจับกลุ่มเป้าหมายพ่อแม่ที่ไม่สะดวกไปรับส่งลูกเอง รูปแบบการให้บริการมีการควบคุมหลายขั้นตอน ตั้งแต่พ่อแม่หรือผู้ปกครองเท่าที่สามารถกดเรียกรถโดยสารให้เด็กได้ ซึ่งต้องระบุโปรไฟล์และความเกี่ยวข้อง รวมถึงปฏิบัติตามขั้นตอนความปลอดภัยทั้งหมด ในการเดินทางพ่อแม่ต้องอยู่รอส่งเด็กขึ้นรถด้วย ขณะที่ฝั่งผู้ขับรถที่สามารถเข้าร่วมโครงการได้ ต้องมีคะแนนรีวิวสูง ผ่านการอบรมหลักสูตรเพิ่มเติม และเปิดวิดีโอไลฟ์สตรีมตลอดการเดินทางให้พ่อแม่กดเรียกดูได้ด้วย ซึ่ง Uber ก็ให้ค่าบริการกับคนขับที่สูงกว่าปกติด้วย\nUber บอกว่าข้อมูลวิดีโอถ่ายทอดสดจะถูกเก็บไว้แบบเข้ารหัส คนขับรถไม่สามารถเข้าถึงได้ และมีระบบเตือนหากพบตำแหน่งรถออกนอกเส้นทาง, หยุดรถแบบไม่คาดคิด หรือสิ้นสุดเส้นทางก่อนถึงจุดหมาย\nที่มา: TechCrunch\narjin\nSat, 21/11/2026 - 16:14",
-      "pubDate": "Sat, 21 Nov 2026 09:14:36 +0000",
-      "source": "Blognone",
-      "category": "Security",
-      "thumbnail": null,
-      "readTime": "3 นาที"
-    },
-    {
-      "id": "152229 at https://www.blognone.com",
-      "title": "KDDI กลับมาขายมือถือปุ่มกด Infobar Zero ชูจุดเด่นคือต่อเน็ตไม่ได้",
-      "link": "https://www.blognone.com/node/152229",
-      "content": "KDDI กลับมาขายมือถือปุ่มกด Infobar Zero ชูจุดเด่นคือต่อเน็ตไม่ได้\n\n  \nBody\nKDDI โอเปอเรเตอร์รายใหญ่ของญี่ปุ่น ประกาศนำโทรศัพท์แบบฟีเจอร์โฟนรุ่น Infobar ที่เคยฮิตในยุค 2000s กลับมาวางขายใหม่อีกครั้ง โดยชูจุดขายว่า \"ต่อเน็ตไม่ได้\" อย่างจงใจ\nสมาร์ทโฟนรุ่นนี้ชื่อ Infobar Zero เป็นมือถือปุ่มกดที่เอาไว้โทรศัพท์และส่งข้อความ SMS เป็นหลัก มีกล้องขนาด 2MP ที่ถ่ายแล้วเก็บไว้ในเครื่องอย่างเดียว กดแชร์โซเชียลไม่ได้ ฟีเจอร์อื่นของ Infobar Zero เป็นไปตามมือถือสมัยใหม่ เช่น USB-C, Wi-Fi, Bluetooth 4.2\nเหตุผลที่ KDDI เลือกออกมือถือรุ่นนี้ เป็นเพราะว่า KDDI เพิ่งออกบริการ \"หมายเลขที่สอง\" สำหรับลูกค้าที่ต้องการความเป็นส่วนตัว ไม่อยากแชร์เบอร์ตัวเองในการลงทะเบียนออนไลน์ จึงออก Infobar Zero มาเผื่อใช้เป็นมือถือเครื่องที่สองนั่นเอง\nInfobar Zero มีกำหนดวางขายวันคริสต์มาส 25 ธันวาคม ยังไม่ประกาศราคา\nที่มา - KDDI, Japan Times\n🟥⬜「INFOBAR ZERO」の\nINFOBAR ZEROは、通話とSMSを中心に、【コミュニケーションに必要な機能】に絞り込んだ携帯電話📞\nあえてインターネットブラウジングやSNSの利用には対応せず、電話本来の価値にフォーカスしています。 https://t.co/GbP6CKNUaO\n— KDDI公式 (@official_kddi) November 19, 2026\n\n\n          \nmk\nSat, 21/11/2026 - 12:56",
-      "pubDate": "Sat, 21 Nov 2026 05:56:02 +0000",
-      "source": "Blognone",
-      "category": "General",
       "thumbnail": null,
       "readTime": "3 นาที"
     },
@@ -497,17 +563,6 @@
       "readTime": "2 นาที"
     },
     {
-      "id": "https://www.thaicert.or.th/?p=18094",
-      "title": "Google อัปเดต Chrome 158 แก้ไขช่องโหว่ 204 รายการ เสี่ยงถูกโจมตีผ่านเบราว์เซอร์",
-      "link": "https://www.thaicert.or.th/2026/11/19/google-%e0%b8%ad%e0%b8%b1%e0%b8%9b%e0%b9%80%e0%b8%94%e0%b8%95-chrome-158-%e0%b9%81%e0%b8%81%e0%b9%89%e0%b9%84%e0%b8%82%e0%b8%8a%e0%b9%88%e0%b8%ad%e0%b8%87%e0%b9%82%e0%b8%ab%e0%b8%a7%e0%b9%88-204/",
-      "content": "639/69 (IT) ประจำวันพฤหัสบดีที่ 19 พฤศจิกายน 2569 Googl […]\nThe post Google อัปเดต Chrome 158 แก้ไขช่องโหว่ 204 รายการ เสี่ยงถูกโจมตีผ่านเบราว์เซอร์ first appeared on Thailand Computer Emergency Response Team (ThaiCERT).",
-      "pubDate": "Thu, 19 Nov 2026 07:49:47 +0000",
-      "source": "ThaiCERT",
-      "category": "ภัยคุกคามทางไซเบอร์",
-      "thumbnail": "https://www.thaicert.or.th/wp-content/uploads/2026/11/3-3-1024x768.png",
-      "readTime": "1 นาที"
-    },
-    {
       "id": "https://www.techtalkthai.com/?p=172352",
       "title": "Google เปิดตัว Gemini 4 Neon โมเดลระดับกลางรุ่นล่าสุด เร็วกว่า Carbon ถึง 3 เท่า",
       "link": "https://www.techtalkthai.com/googles-latest-midtier-model-gemini-4-neon-is-three-times-faster-than-carbon/",
@@ -517,28 +572,6 @@
       "category": "AI",
       "thumbnail": "https://www.techtalkthai.com/wp-content/uploads/2026/11/Google-Gemini-4-Neon.png",
       "readTime": "3 นาที"
-    },
-    {
-      "id": "https://www.thaicert.or.th/?p=18093",
-      "title": "CISA เพิ่มช่องโหว่ระดับ Critical ใน Perforce Puppet Enterprise ลงบัญชี KEV เสี่ยงถูกสั่งให้ระบบทำงานโดยไม่ได้รับอนุญาตและเข้าควบคุมเซิร์ฟเวอร์",
-      "link": "https://www.thaicert.or.th/2026/11/19/cisa-%e0%b9%80%e0%b8%9e%e0%b8%b4%e0%b9%88%e0%b8%a1%e0%b8%8a%e0%b9%88%e0%b8%ad%e0%b8%87%e0%b9%82%e0%b8%ab%e0%b8%a7%e0%b9%88%e0%b8%a3%e0%b8%b0%e0%b8%94%e0%b8%b1%e0%b8%9a-critical-%e0%b9%83%e0%b8%99-perf/",
-      "content": "638/69 (IT) ประจำวันพฤหัสบดีที่ 19 พฤศจิกายน 2569 สำนัก […]\nThe post CISA เพิ่มช่องโหว่ระดับ Critical ใน Perforce Puppet Enterprise ลงบัญชี KEV เสี่ยงถูกสั่งให้ระบบทำงานโดยไม่ได้รับอนุญาตและเข้าควบคุมเซิร์ฟเวอร์ first appeared on Thailand Computer Emergency Response Team (ThaiCERT).",
-      "pubDate": "Thu, 19 Nov 2026 07:47:50 +0000",
-      "source": "ThaiCERT",
-      "category": "ภัยคุกคามทางไซเบอร์",
-      "thumbnail": "https://www.thaicert.or.th/wp-content/uploads/2026/11/2-3-1024x768.png",
-      "readTime": "1 นาที"
-    },
-    {
-      "id": "https://www.thaicert.or.th/?p=18092",
-      "title": "ช่องโหว่ Java4Shell ใน OpenJDK แนะนำให้องค์กรเร่งอัปเดตแพตช์ทันที",
-      "link": "https://www.thaicert.or.th/2026/11/19/%e0%b8%8a%e0%b9%88%e0%b8%ad%e0%b8%87%e0%b9%82%e0%b8%ab%e0%b8%a7%e0%b9%88-java4shell-%e0%b9%83%e0%b8%99-openjdk-%e0%b9%81%e0%b8%99%e0%b8%b0%e0%b8%99%e0%b8%b3%e0%b9%83%e0%b8%ab%e0%b9%89%e0%b8%ad/",
-      "content": "637/69 (IT) ประจำวันพฤหัสบดีที่ 19 พฤศจิกายน 2569 นักวิ […]\nThe post ช่องโหว่ Java4Shell ใน OpenJDK แนะนำให้องค์กรเร่งอัปเดตแพตช์ทันที first appeared on Thailand Computer Emergency Response Team (ThaiCERT).",
-      "pubDate": "Thu, 19 Nov 2026 07:46:39 +0000",
-      "source": "ThaiCERT",
-      "category": "ภัยคุกคามทางไซเบอร์",
-      "thumbnail": "https://www.thaicert.or.th/wp-content/uploads/2026/11/1-3-1024x768.png",
-      "readTime": "1 นาที"
     },
     {
       "id": "https://www.techtalkthai.com/?p=172346",
@@ -561,39 +594,6 @@
       "category": "AI",
       "thumbnail": "https://www.techtalkthai.com/wp-content/uploads/2026/11/opentecbeyondaipr-640x335.png",
       "readTime": "3 นาที"
-    },
-    {
-      "id": "https://techsauce.co/news/asean-defa-digital-economy-framework-agreement-thai-business",
-      "title": "DEFA คืออะไร? ความตกลงดิจิทัลอาเซียน ที่ประเทศไทยเจรจาสำเร็จ",
-      "link": "https://techsauce.co/news/asean-defa-digital-economy-framework-agreement-thai-business",
-      "content": "อาเซียนลงนาม DEFA ความตกลงเศรษฐกิจดิจิทัลที่ไทยนั่งประธานเจรจา ช่วยให้ระบบชำระเงิน เอกสารการค้า ตัวตนดิจิทัล และข้อมูลข้ามพรมแดนเชื่อมกันมากขึ้น ธุรกิจไทยได้อะไร และต้องจับตาอะไรก่อนมีผลกลางปี 2570",
-      "pubDate": "Thu, 19 Nov 2026 11:55:30 +0700",
-      "source": "Techsauce",
-      "category": "General",
-      "thumbnail": "https://storage.googleapis.com/techsauce-prod/ugc/uploads/2026/11/1795063968_defa_800.webp",
-      "readTime": "1 นาที"
-    },
-    {
-      "id": "https://www.techtalkthai.com/?p=172329",
-      "title": "ยกระดับองค์กรสู่การทำงานยุค AI ด้วย ChatGPT Enterprise พร้อมทดลองใช้ฟรีจาก eCloudvalley [Guest Post]",
-      "link": "https://www.techtalkthai.com/ecloudvalley-elevate-business-ai-chatgpt-enterprise-free-trial-guest-post/",
-      "content": "ในยุคที่ AI เข้ามามีบทบาทสำคัญในการดำเนินธุรกิจ การนำเทคโนโลยี AI มาประยุกต์ใช้ในองค์กรไม่ใช่เพียงทางเลือกอีกต่อไป แต่เป็นโอกาสสำคัญในการเพิ่มประสิทธิภาพและสร้างความได้เปรียบทางธุรกิจ ChatGPT Enterprise ช่วยให้องค์กรนำ AI มาเป็นส่วนหนึ่งของการทำงาน ตั้งแต่การสร้างสรรค์เนื้อหา การวิเคราะห์ข้อมูล ไปจนถึงการสนับสนุนการทำงานในหลากหลายรูปแบบ เพื่อให้ทีมสามารถทำงานได้อย่างชาญฉลาดและมีประสิทธิภาพยิ่งขึ้น   eCloudvalley ขอเชิญองค์กรของคุณสัมผัสประสบการณ์ ChatGPT Enterprise พร้อมรับข้อเสนอพิเศษ! ทดลองใช้ฟรี ChatGPT Enterprise เข้าร่วมเวิร์กชอปค้นหา Use Case AI ที่ใช่สำหรับองค์กร เพื่อค้นหาโอกาสในการนำ AI มาประยุกต์ใช้กับธุรกิจ อย่าพลาดโอกาสในการเริ่มต้นและต่อยอดการใช้ AI ในองค์กรของคุณ👉 ลงทะเบียนเพื่อรับสิทธิพิเศษได้ที่นี่:https://forms.cloud.microsoft/r/bpDRcNgpRY?origin=lprLinkข้อเสนอพิเศษเป็นไปตามเงื่อนไขที่ได้รับการยินยอมจาก eCloudvalley และ OpenAI",
-      "pubDate": "Thu, 19 Nov 2026 03:22:06 +0000",
-      "source": "TechTalk Thai",
-      "category": "AI",
-      "thumbnail": "https://www.techtalkthai.com/wp-content/uploads/2026/11/Cover-TTT_eCloud-640x335.png",
-      "readTime": "3 นาที"
-    },
-    {
-      "id": "https://www.techtalkthai.com/?p=172325",
-      "title": "AIS จับมือ Huawei เปิดตัวศูนย์นวัตกรรม Autonomous Networks (AN) แห่งแรกนอกประเทศจีน เร่งเครื่องสู่ยุค AN Level 4 เต็มรูปแบบ",
-      "link": "https://www.techtalkthai.com/ais-huawei-an-level4/",
-      "content": "AIS ร่วมกับ Huawei เปิดตัวศูนย์นวัตกรรม AIS Agentic Transformation Joint Innovation Center อย่างเป็นทางการที่กรุงเทพมหานคร ถือเป็นศูนย์นวัตกรรมด้าน Autonomous Networks หรือ AN แห่งแรกที่จัดตั้งขึ้นนอกประเทศจีน เพื่อยกระดับการพัฒนาและการใช้งานจริงเชิงพาณิชย์ของ AN Level 4 ที่ขับเคลื่อนด้วยเทคโนโลยี AI ความร่วมมือครั้งนี้ต่อยอดจากการทำงานร่วมกันเชิงกลยุทธ์ด้าน AN ตั้งแต่ปี 2022 โดย AIS วางแผนให้ AN เป็นแกนหลักของการเปลี่ยนผ่านโครงสร้างพื้นฐานสู่ความอัจฉริยะ ศูนย์นวัตกรรมแห่งใหม่นี้จะเน้นการพัฒนาและทดสอบในสถานการณ์จริงที่มีมูลค่าสูง ทั้งด้านการบำรุงรักษา การปรับแต่งประสิทธิภาพ และการบริหารจัดการโครงข่าย ครอบคลุมการทำงานของ AI Agent ทั้งแบบ Single-domain และ Cross-domain ในทุกส่วนของโครงข่าย ได้แก่ Wireless, Datacom, Optical และ Core Network ตลอดระยะเวลา 4 ปีที่ผ่านมา ความร่วมมือระหว่าง …",
-      "pubDate": "Thu, 19 Nov 2026 03:09:48 +0000",
-      "source": "TechTalk Thai",
-      "category": "AI",
-      "thumbnail": "https://www.techtalkthai.com/wp-content/uploads/2026/11/TTT-2026-11-19T100800.385-640x336.jpg",
-      "readTime": "2 นาที"
     },
     {
       "id": "https://it24hrs.com/?p=171117",
