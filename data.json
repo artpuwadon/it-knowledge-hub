@@ -19,31 +19,31 @@
       "link": "https://github.com/"
     },
     {
-      "id": "152267 at https://www.blognone.com",
-      "title": "Satya Nadella ยอมรับไมโครซอฟท์มองพลาด ไม่เห็นว่า Claude Code จะมาฆ่า IDE",
-      "category": "AI",
-      "source": "Blognone",
-      "summary": "Satya Nadella ยอมรับไมโครซอฟท์มองพลาด ไม่เห็นว่า Claude Code จะมาฆ่า IDE\n\n  \nBody\nSatya Nadella ซีอีโอไมโครซอฟท์ ให้สัมภ...",
-      "thumbnail": null,
-      "link": "https://www.blognone.com/node/152267"
-    },
-    {
-      "id": "152266 at https://www.blognone.com",
-      "title": "Shinji Mikami ผู้สร้าง Resident Evil บอกบางครั้งก็อยากให้ AI หายไปจากโลก",
-      "category": "AI",
-      "source": "Blognone",
-      "summary": "Shinji Mikami ผู้สร้าง Resident Evil บอกบางครั้งก็อยากให้ AI หายไปจากโลก\n\n  \nBody\nShinji Mikami บิดาผู้ให้กำเนิดซีรีส์ R...",
-      "thumbnail": null,
-      "link": "https://www.blognone.com/node/152266"
-    },
-    {
-      "id": "152264 at https://www.blognone.com",
-      "title": "X เพิ่มระบบ Parental Control ผู้ปกครองควบคุมบัญชีเด็ก 13-17 ปี ได้แล้ว",
+      "id": "https://techsauce.co/healthtech/world-first-stem-cell-brain-alzheimers-trial",
+      "title": "ครั้งแรกของโลก ฉีดสเต็มเซลล์เข้าสมองผู้ป่วยอัลไซเมอร์โดยตรง",
       "category": "General",
-      "source": "Blognone",
-      "summary": "X เพิ่มระบบ Parental Control ผู้ปกครองควบคุมบัญชีเด็ก 13-17 ปี ได้แล้ว\n\n  \nBody\nX เพิ่มระบบที่ผู้ปกครองสามารถควบคุมดูแลบ...",
-      "thumbnail": null,
-      "link": "https://www.blognone.com/node/152264"
+      "source": "Techsauce",
+      "summary": "ครั้งแรกของโลก Regeneration Biomedical ทดลองฉีดสเต็มเซลล์ของผู้ป่วยเองเข้าสมองผู้ป่วยอัลไซเมอร์ ผลระยะแรกพบว่าปลอดภัย แล...",
+      "thumbnail": "https://storage.googleapis.com/techsauce-prod/ugc/uploads/2026/11/1795775647_1200_x_800__%284%29.webp",
+      "link": "https://techsauce.co/healthtech/world-first-stem-cell-brain-alzheimers-trial"
+    },
+    {
+      "id": "https://www.thaicert.or.th/?p=18279",
+      "title": "แจ้งเตือน พบช่องโหว่ใน Hex.pm เสี่ยงถูกสั่งประมวลผลคำสั่งและเข้าถึงข้อมูลบัญชีผู้ใช้งาน",
+      "category": "ภัยคุกคามทางไซเบอร์",
+      "source": "ThaiCERT",
+      "summary": "ศูนย์ประสานการรักษาความมั่นคงปลอดภัยระบบคอมพิวเตอร์แห่ง […]\nThe post แจ้งเตือน พบช่องโหว่ใน Hex.pm เสี่ยงถูกสั่งประมวลผล...",
+      "thumbnail": "https://www.thaicert.or.th/wp-content/uploads/2026/11/Hex.pm_-1024x576.jpg",
+      "link": "https://www.thaicert.or.th/2026/11/27/%e0%b9%81%e0%b8%88%e0%b9%89%e0%b8%87%e0%b9%80%e0%b8%95%e0%b8%b7%e0%b8%ad%e0%b8%99-%e0%b8%9e%e0%b8%9a%e0%b8%8a%e0%b9%88%e0%b8%ad%e0%b8%87%e0%b9%82%e0%b8%ab%e0%b8%a7%e0%b9%88%e0%b9%83%e0%b8%99-hex-pm/"
+    },
+    {
+      "id": "https://www.techtalkthai.com/?p=172647",
+      "title": "แคสเปอร์สกี้เผยฟิชชิงเป็นภัยคุกคามที่ได้รับรายงานมากที่สุดในเอเชียแปซิฟิก กระทบธุรกิจหนึ่งในสี่ – ไทยกระทบ 23% [PR]",
+      "category": "Security",
+      "source": "TechTalk Thai",
+      "summary": "ผลวิจัยฉบับใหม่จากแคสเปอร์สกี้ ระบุว่า ธุรกิจในภูมิภาคเอเชียแปซิฟิก (APAC) จำนวนเกือบ 1 ใน 4 (24%) รายงานว่าเคยเผชิญกับฟ...",
+      "thumbnail": "https://www.techtalkthai.com/wp-content/uploads/2026/11/kasperphising-640x335.png",
+      "link": "https://www.techtalkthai.com/kaspersky-phishing-report-2026-pr/"
     }
   ],
   "articles": [
@@ -52,7 +52,7 @@
       "title": "แนวทางปฏิบัติการตั้งรหัสผ่านให้ปลอดภัยสำหรับบุคลากร",
       "link": "https://github.com/",
       "content": "1. รหัสผ่านต้องมีความยาวอย่างน้อย 8 ตัวอักษร\n2. ประกอบด้วยอักษรตัวพิมพ์ใหญ่ ตัวพิมพ์เล็ก ตัวเลข และสัญลักษณ์พิเศษ\n3. ห้ามใช้ข้อมูลส่วนตัว เช่น วันเกิด หรือเบอร์โทรศัพท์\n4. เปลี่ยนรหัสผ่านใหม่ทุกๆ 3-6 เดือนเพื่อความปลอดภัย",
-      "pubDate": "2026-11-27T04:51:09.667Z",
+      "pubDate": "2026-11-28T04:35:49.104Z",
       "source": "คู่มือภายในองค์กร",
       "category": "Internal",
       "thumbnail": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=500&auto=format&fit=crop&q=60"
@@ -62,10 +62,230 @@
       "title": "คลังกฎหมายและระเบียบที่เกี่ยวข้องกับการปฏิบัติราชการ",
       "link": "https://github.com/",
       "content": "### ⚖️ ศูนย์รวมลิงก์กฎหมายฉบับเต็มและแนวทางปฏิบัติงาน\n\nเพื่อความสะดวกและถูกต้องในการอ้างอิงข้อกฎหมายของเจ้าหน้าที่ในการปฏิบัติราชการ ศูนย์ไอทีได้รวบรวมลิงก์ตรงไปยังระบบสืบค้นกฎหมายของสำนักงานคณะกรรมการกฤษฎีกา และไฟล์ PDF ฉบับราชกิจจานุเบกษาไว้ในจุดเดียว ดังนี้ครับ:\n\n---\n\n### 🛒 1. หมวดการบริหารงานพัสดุและการจัดซื้อจัดจ้าง\n*   **พ.ร.บ. การจัดซื้อจัดจ้างและการบริหารพัสดุภาครัฐ พ.ศ. 2560**\n    *   🔗 [อ่านกฎหมายฉบับเต็ม (เว็บกฤษฎีกา)](https://www.ocs.go.th/)\n    *   📄 [ดาวน์โหลดไฟล์ PDF ฉบับประกาศราชกิจจานุเบกษา](https://www.gprocurement.go.th/wps/portal/egp/Regulation/!ut/p/z1/04_Sj9CPykssy0xPLMnMz0vMAfIjo8zifQ3djQydnQ18_T3dzA0czU0NfANMLQ1MPIz1w8EKDHAARwP9KGL041EQhd_4cP0oNCvCjM2AJgT4OvsHehgYOBtCFeAxoyA3NMIg01ERAHhSDzY!/dz/d5/L0lDUmlTUSEhL3dHa0FKRnNBLzROV3FpQSEhL3Ro/)\n*   **ระเบียบกระทรวงการคลังว่าด้วยการจัดซื้อจัดจ้างและการบริหารพัสดุภาครัฐ พ.ศ. 2560**\n    *   🔗 [อ่านระเบียบฉบับเต็มและกฎกระทรวงที่เกี่ยวข้อง](https://www.gprocurement.go.th/wps/portal/egp/Regulation/Ministry_of_Finance_Regularity/)\n\n---\n\n### 🏢 2. หมวดการปฏิบัติราชการและวิธีพิจารณาทางปกครอง\n*   **พ.ร.บ. วิธีปฏิบัติราชการทางปกครอง พ.ศ. 2539 (และฉบับแก้ไขเพิ่มเติม)**\n    *   🔗 [อ่านกฎหมายฉบับเต็ม (เว็บกฤษฎีกา)](https://www.ocs.go.th/)\n*   **พ.ร.บ. ความรับผิดทางละเมิดของเจ้าหน้าที่ พ.ศ. 2539**\n    *   🔗 [อ่านกฎหมายฉบับเต็ม (เว็บกฤษฎีกา)](https://www.ocs.go.th/)\n*   **พ.ร.บ. การปฏิบัติราชการทางอิเล็กทรอนิกส์ พ.ศ. 2565** *(สำคัญมากสำหรับงานไอทีและบริการประชาชน)*\n    *   🔗 [อ่านกฎหมายฉบับเต็ม (เว็บกฤษฎีกา)](https://www.ocs.go.th/)\n\n---\n\n### 🛡️ 3. หมวดคุ้มครองข้อมูลและความมั่นคงปลอดภัยไซเบอร์\n*   **พ.ร.บ. คุ้มครองข้อมูลส่วนบุคคล พ.ศ. 2562 (PDPA)**\n    *   🔗 [สืบค้นกฎหมายและแนวทางปฏิบัติจาก สคส.](https://www.pdpc.or.th)\n*   **พ.ร.บ. การรักษาความมั่นคงปลอดภัยไซเบอร์ พ.ศ. 2562**\n    *   🔗 [สืบค้นกฎหมายและประกาศจาก สกมช. (NCSA)](https://www.ncsa.or.th/standards/laws)\n*   **พ.ร.บ. ว่าด้วยการกระทำความผิดเกี่ยวกับคอมพิวเตอร์ (ฉบับที่ 2) พ.ศ. 2560**\n    *   🔗 [อ่านกฎหมายฉบับเต็ม (เว็บกฤษฎีกา)](https://www.ocs.go.th/)\n\n---\n\n### 💡 แนะนำการใช้งานสำหรับเจ้าหน้าที่\n> หากต้องการสืบค้นกฎหมายอื่น ๆ เพิ่มเติม นอกเหนือจากรายการข้างต้น สามารถเข้าใช้งานระบบกฎหมายดิจิทัลโดยตรงได้ที่ **[ระบบสืบค้นกฎหมาย สำนักงานคณะกรรมการกฤษฎีกา](https://www.ocs.go.th/)** เพื่อข้อมูลที่อัปเดตและเป็นปัจจุบันที่สุด",
-      "pubDate": "2026-11-27T04:51:09.667Z",
+      "pubDate": "2026-11-28T04:35:49.104Z",
       "source": "ศูนย์รวมกฎหมายภาครัฐ",
       "category": "Law",
       "thumbnail": "https://images.unsplash.com/photo-1589829545856-d10d557cf95f?w=500"
+    },
+    {
+      "id": "https://techsauce.co/healthtech/world-first-stem-cell-brain-alzheimers-trial",
+      "title": "ครั้งแรกของโลก ฉีดสเต็มเซลล์เข้าสมองผู้ป่วยอัลไซเมอร์โดยตรง",
+      "link": "https://techsauce.co/healthtech/world-first-stem-cell-brain-alzheimers-trial",
+      "content": "ครั้งแรกของโลก Regeneration Biomedical ทดลองฉีดสเต็มเซลล์ของผู้ป่วยเองเข้าสมองผู้ป่วยอัลไซเมอร์ ผลระยะแรกพบว่าปลอดภัย และ 4 ใน 5 คนความจำดีขึ้น",
+      "pubDate": "Fri, 27 Nov 2026 22:43:53 +0700",
+      "source": "Techsauce",
+      "category": "General",
+      "thumbnail": "https://storage.googleapis.com/techsauce-prod/ugc/uploads/2026/11/1795775647_1200_x_800__%284%29.webp",
+      "readTime": "1 นาที"
+    },
+    {
+      "id": "https://www.thaicert.or.th/?p=18279",
+      "title": "แจ้งเตือน พบช่องโหว่ใน Hex.pm เสี่ยงถูกสั่งประมวลผลคำสั่งและเข้าถึงข้อมูลบัญชีผู้ใช้งาน",
+      "link": "https://www.thaicert.or.th/2026/11/27/%e0%b9%81%e0%b8%88%e0%b9%89%e0%b8%87%e0%b9%80%e0%b8%95%e0%b8%b7%e0%b8%ad%e0%b8%99-%e0%b8%9e%e0%b8%9a%e0%b8%8a%e0%b9%88%e0%b8%ad%e0%b8%87%e0%b9%82%e0%b8%ab%e0%b8%a7%e0%b9%88%e0%b9%83%e0%b8%99-hex-pm/",
+      "content": "ศูนย์ประสานการรักษาความมั่นคงปลอดภัยระบบคอมพิวเตอร์แห่ง […]\nThe post แจ้งเตือน พบช่องโหว่ใน Hex.pm เสี่ยงถูกสั่งประมวลผลคำสั่งและเข้าถึงข้อมูลบัญชีผู้ใช้งาน first appeared on Thailand Computer Emergency Response Team (ThaiCERT).",
+      "pubDate": "Fri, 27 Nov 2026 14:35:00 +0000",
+      "source": "ThaiCERT",
+      "category": "ภัยคุกคามทางไซเบอร์",
+      "thumbnail": "https://www.thaicert.or.th/wp-content/uploads/2026/11/Hex.pm_-1024x576.jpg",
+      "readTime": "1 นาที"
+    },
+    {
+      "id": "https://www.techtalkthai.com/?p=172647",
+      "title": "แคสเปอร์สกี้เผยฟิชชิงเป็นภัยคุกคามที่ได้รับรายงานมากที่สุดในเอเชียแปซิฟิก กระทบธุรกิจหนึ่งในสี่ – ไทยกระทบ 23% [PR]",
+      "link": "https://www.techtalkthai.com/kaspersky-phishing-report-2026-pr/",
+      "content": "ผลวิจัยฉบับใหม่จากแคสเปอร์สกี้ ระบุว่า ธุรกิจในภูมิภาคเอเชียแปซิฟิก (APAC) จำนวนเกือบ 1 ใน 4 (24%) รายงานว่าเคยเผชิญกับฟิชชิงในช่วงเดือนมีนาคม 2025 ถึงเดือนมีนาคม 2026 ฟิชชิงจึงกลายเป็นภัยคุกคามทางไซเบอร์ที่มีการรายงานเข้ามาบ่อยที่สุดในภูมิภาคนี้ ฟิชชิงกลายเป็นภัยคุกคามทางไซเบอร์ภายนอกที่อันตรายที่สุดเป็นอันดับสองในการประเมินของธุรกิจใน APAC รองจากการโจมตีที่หาประโยชน์จากจุดอ่อนด้านความปลอดภัยในซอฟต์แวร์และระบบ โดยธุรกิจในประเทศอินเดียและอินโดนีเซียมีรายงานเหตุการณ์ฟิชชิงสูงสุดที่ 28% เท่ากัน ตามมาด้วยมาเลเซียที่ 26% ซึ่งสูงกว่าค่าเฉลี่ยของภูมิภาคที่ 24% ไทยรายงานเหตุการณ์ฟิชชิงที่ 23% APAC เป็นภูมิภาคที่สำคัญต่อเศรษฐกิจโลก โดยกองทุนการเงินระหว่างประเทศ (IMF) คาดการณ์ว่าผลผลิตทางเศรษฐกิจของภูมิภาคจะสูงถึง 44.46 ล้านล้านดอลลาร์สหรัฐในปี 2026 กิจกรรมทางเศรษฐกิจในระดับนี้ยังเกี่ยวข้องกับข้อมูลธุรกิจและข้อมูลลูกค้าจำนวนมหาศาลซึ่งมีค่ามากสำหรับอาชญากรไซเบอร์ สิ่งที่อาชญากรไซเบอร์มุ่งเป้าและผลกระทบต่อภาคธุรกิจ ผลสำรวจของแคสเปอร์สกี้ระบุว่า ข้อมูลสำคัญขององค์กรและข้อมูลส่วนบุคคลของลูกค้าเป็นเป้าหมายหลักที่อาชญากรไซเบอร์ต้องการ โดยในกลุ่มผู้ตอบแบบสอบถามจาก APAC ที่เคยเผชิญกับเหตุการณ์โจมตีทางไซเบอร์นั้น พบว่า 33% ระบุว่าผู้โจมตีมุ่งเป้าไปที่ข้อมูลทางธุรกิจที่มีความสำคัญ เช่น ข้อมูลทางการเงินและเอกสารทางกฎหมาย ในเหตุการณ์ที่สร้างความเสียหายรุนแรงที่สุด ขณะที่ผู้ตอบแบบสอบถาม 32% ระบุว่าข้อมูลส่วนบุคคลของลูกค้าคือเป้าหมายของการโจมตีดังกล่าว สำหรับภาคธุรกิจ ผลกระทบจากการโจมตีทางไซเบอร์ไม่ได้จำกัดอยู่เพียงแค่การถูกขโมยข้อมูลเท่านั้น ผู้ตอบแบบสำรวจยังระบุถึงปัญหาอื่น ๆ เช่น …",
+      "pubDate": "Fri, 27 Nov 2026 13:11:18 +0000",
+      "source": "TechTalk Thai",
+      "category": "Security",
+      "thumbnail": "https://www.techtalkthai.com/wp-content/uploads/2026/11/kasperphising-640x335.png",
+      "readTime": "4 นาที"
+    },
+    {
+      "id": "https://www.thaicert.or.th/?p=18278",
+      "title": "แจ้งเตือนช่องโหว่ใน MONAI Label (CVE-2026-133968 ) เสี่ยงถูกเข้าถึงและแก้ไขไฟล์ภายในระบบโดยไม่ได้รับอนุญาต",
+      "link": "https://www.thaicert.or.th/2026/11/27/%e0%b9%81%e0%b8%88%e0%b9%89%e0%b8%87%e0%b9%80%e0%b8%95%e0%b8%b7%e0%b8%ad%e0%b8%99%e0%b8%8a%e0%b9%88%e0%b8%ad%e0%b8%87%e0%b9%82%e0%b8%ab%e0%b8%a7%e0%b9%88%e0%b9%83%e0%b8%99-monai-label-cve-2026-133968/",
+      "content": "ศูนย์ประสานการรักษาความมั่นคงปลอดภัยระบบคอมพิวเตอร์แห่ง […]\nThe post แจ้งเตือนช่องโหว่ใน MONAI Label (CVE-2026-133968 ) เสี่ยงถูกเข้าถึงและแก้ไขไฟล์ภายในระบบโดยไม่ได้รับอนุญาต first appeared on Thailand Computer Emergency Response Team (ThaiCERT).",
+      "pubDate": "Fri, 27 Nov 2026 12:30:00 +0000",
+      "source": "ThaiCERT",
+      "category": "ภัยคุกคามทางไซเบอร์",
+      "thumbnail": "https://www.thaicert.or.th/wp-content/uploads/2026/11/MONAI-Label-1024x576.jpg",
+      "readTime": "1 นาที"
+    },
+    {
+      "id": "https://techsauce.co/tech-and-biz/singapore-fintech-festival-2026-ai-agents-tokenisation",
+      "title": "สิงคโปร์วางรากฐานการเงินยุค AI จากสกัดมิจฉาชีพ สู่ระบบที่ Agent ทำธุรกรรมได้ภายใต้การควบคุม",
+      "link": "https://techsauce.co/tech-and-biz/singapore-fintech-festival-2026-ai-agents-tokenisation",
+      "content": "เมื่อ AI เริ่มทำงานแทนคนได้มากกว่าการตอบคำถาม และอาจก้าวไปถึงการเคลื่อนย้ายเงิน ระบบการเงินก็ต้องตอบให้ได้ว่า AI ได้รับอนุญาตให้ทำอะไรบ้าง และใครรับผิดชอบหากเกิดข้อผิดพลาด",
+      "pubDate": "Fri, 27 Nov 2026 17:32:23 +0700",
+      "source": "Techsauce",
+      "category": "AI",
+      "thumbnail": "https://storage.googleapis.com/techsauce-prod/ugc/uploads/2026/11/1795775502_Keng_%E0%B8%9B%E0%B8%81%E0%B8%82%E0%B9%88%E0%B8%B2%E0%B8%A71200x800_%2899%29.webp",
+      "readTime": "1 นาที"
+    },
+    {
+      "id": "https://techsauce.co/video/healthspan-ep-3-neuroscience",
+      "title": "คุยกับนักวิทย์ไทยจาก Cambridge เรียนเรื่องสมองเกือบ 10 ปี ได้รู้อะไรบ้าง? l Healthspan EP. 4",
+      "link": "https://techsauce.co/video/healthspan-ep-3-neuroscience",
+      "content": "ทำไมการมีชีวิตยืนยาวถึงไร้ความหมาย ถ้าสมองคุณไม่ทำงาน? และเทคโนโลยี Neuroscience ยุคใหม่จะเข้ามาเปลี่ยนวิธีดูแลสุขภาพจิต สุขภาพสมอง และการรักษาโรคทางระบบประสาทได้อย่างไร? สรุปบทเรียนจากรายการ Techsauce Healthspan Podcast EP.4 โดยกระทิง - เรืองโรจน์ พ",
+      "pubDate": "Fri, 27 Nov 2026 17:00:00 +0700",
+      "source": "Techsauce",
+      "category": "General",
+      "thumbnail": null,
+      "readTime": "1 นาที"
+    },
+    {
+      "id": "https://www.thaicert.or.th/?p=18277",
+      "title": "แจ้งเตือน พบช่องโหว่ใน Drupal เสี่ยงถูกควบคุมเว็บไซต์และสั่งประมวลผลคำสั่งโดยไม่ต้องยืนยันตัวตน",
+      "link": "https://www.thaicert.or.th/2026/11/27/%e0%b9%81%e0%b8%88%e0%b9%89%e0%b8%87%e0%b9%80%e0%b8%95%e0%b8%b7%e0%b8%ad%e0%b8%99-%e0%b8%9e%e0%b8%9a%e0%b8%8a%e0%b9%88%e0%b8%ad%e0%b8%87%e0%b9%82%e0%b8%ab%e0%b8%a7%e0%b9%88%e0%b9%83%e0%b8%99-drupal/",
+      "content": "ศูนย์ประสานการรักษาความมั่นคงปลอดภัยระบบคอมพิวเตอร์แห่ง […]\nThe post แจ้งเตือน พบช่องโหว่ใน Drupal เสี่ยงถูกควบคุมเว็บไซต์และสั่งประมวลผลคำสั่งโดยไม่ต้องยืนยันตัวตน first appeared on Thailand Computer Emergency Response Team (ThaiCERT).",
+      "pubDate": "Fri, 27 Nov 2026 09:30:00 +0000",
+      "source": "ThaiCERT",
+      "category": "ภัยคุกคามทางไซเบอร์",
+      "thumbnail": "https://www.thaicert.or.th/wp-content/uploads/2026/11/Drupal-1024x576.jpg",
+      "readTime": "1 นาที"
+    },
+    {
+      "id": "https://techsauce.co/news/boi-2570-investment-promotion-reform",
+      "title": "บีโอไอปรับเกณฑ์ปี 2570 ลงทุนขั้นต่ำกิจการผลิตเป็น 20 ล้านบาท เปิดทาง SMEs ไทยลงทุนเริ่มต้น 5 แสน พร้อมอนุมัติ 2 โครงการใหญ่ มูลค่ากว่า 1 หมื่นล้านบาท",
+      "link": "https://techsauce.co/news/boi-2570-investment-promotion-reform",
+      "content": "บอร์ดบีโอไอเห็นชอบมาตรการปรับทิศทางส่งเสริมการลงทุนปี 2570 ผูกสิทธิประโยชน์กับการสร้างงานและการใช้วัตถุดิบในประเทศ ยกเกณฑ์ลงทุนขั้นต่ำกิจการผลิตเป็น 20 ล้านบาท และเปิดทางให้ SMEs ไทยลงทุนเริ่มต้น 5 แสนบาท",
+      "pubDate": "Fri, 27 Nov 2026 16:21:46 +0700",
+      "source": "Techsauce",
+      "category": "General",
+      "thumbnail": "https://storage.googleapis.com/techsauce-prod/ugc/uploads/2026/11/1795768138_boi-2570-investment-promotion-reform-body-1-2400x1600.webp",
+      "readTime": "1 นาที"
+    },
+    {
+      "id": "https://techsauce.co/news/us-tariffs-14-countries-asean",
+      "title": "14 ประเทศที่สหรัฐฯ เสนอขึ้นภาษี อาเซียนโดนอ่วม 6 ประเทศ เวียดนามหนักสุด 35%",
+      "link": "https://techsauce.co/news/us-tariffs-14-countries-asean",
+      "content": "ไทยโดนเสนอภาษีสูงสุด 18% ในการสอบสวนมาตรา 301 ของสหรัฐฯ เทียบ 14 ประเทศ ใครโดนเท่าไร ข้อหาอะไร และจะมีผลเมื่อไร",
+      "pubDate": "Fri, 27 Nov 2026 15:25:35 +0700",
+      "source": "Techsauce",
+      "category": "General",
+      "thumbnail": "https://storage.googleapis.com/techsauce-prod/ugc/uploads/2026/11/1795767590_%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B8%8D%E0%B9%88%E0%B8%B2%E0%B8%AD%E0%B8%A2%E0%B9%88%E0%B8%B2%E0%B8%A2%E0%B8%B8%E0%B9%88%E0%B8%87_%E0%B8%9B%E0%B8%81%E0%B8%82%E0%B9%88%E0%B8%B2%E0%B8%A71200x800_-_2026-11-27T151430.069.webp",
+      "readTime": "1 นาที"
+    },
+    {
+      "id": "https://techsauce.co/news/sea-openai-codex-hackathon-thailand",
+      "title": "Sea จับมือ OpenAI จัดงาน Codex Hackathon ใช้ AI สร้างผลงานจริงในวันเดียว ตั้งแต่ผู้กำกับไลฟ์อัจฉริยะ ถึงผู้ช่วยวางแผนการลงทุน",
+      "link": "https://techsauce.co/news/sea-openai-codex-hackathon-thailand",
+      "content": "Sea และ OpenAI จัด Codex Hackathon รอบไทย คัด 40 ทีมจากผู้สมัคร 1,160 คน ใช้ Codex สร้างผลงาน AI ในวันเดียว แชมป์คือ Nobi Invest ผู้ช่วยวางแผนการลงทุน ตามด้วยผู้กำกับไลฟ์ SnapPromo Live และ Shopshop",
+      "pubDate": "Fri, 27 Nov 2026 14:16:48 +0700",
+      "source": "Techsauce",
+      "category": "Security",
+      "thumbnail": "https://storage.googleapis.com/techsauce-prod/ugc/uploads/2026/11/1795576187_Sea_%E0%B8%88%E0%B8%B1%E0%B8%9A%E0%B8%A1%E0%B8%B7%E0%B8%AD_OpenAI_800.webp",
+      "readTime": "1 นาที"
+    },
+    {
+      "id": "https://www.techtalkthai.com/?p=172634",
+      "title": "ปิดงบไอทีปลายปีทันเวลาแบบไม่ต้องรอ Lead Time ด้วย HPE ProLiant Gen11 Smart Choice พร้อมส่งทันทีโดย Ingram Micro",
+      "link": "https://www.techtalkthai.com/hpe-proliant-gen11-smart-choice/",
+      "content": "ช่วงไตรมาสสุดท้ายของปีถือเป็นวาระเร่งด่วนของทั้งผู้บริหารฝ่ายไอทีและพาร์ทเนอร์ System Integrator ที่ต้องเร่งเบิกจ่ายงบประมาณและส่งมอบโครงการโครงสร้างพื้นฐานให้เสร็จสมบูรณ์ตามแผน แต่ความท้าทายสำคัญที่ทำให้หลายโครงการสะดุดคือการสั่งประกอบเซิร์ฟเวอร์แบบ Custom ซึ่งมักเผชิญกับระยะเวลา Lead Time จากโรงงานนานหลายสัปดาห์จนเสี่ยงส่งมอบไม่ทันปิดงบปลายปี เพื่อปลดล็อกข้อจำกัดดังกล่าว Ingram Micro (Thailand) จึงนำเสนอแคมเปญ HPE Smart Choice Series ที่คัดเลือกเซิร์ฟเวอร์ตระกูล HPE ProLiant Gen11 รุ่นยอดนิยมสเปกมาตรฐานจำนวน 4 รุ่น มาจัดเตรียมสต็อกไว้ในประเทศไทยในรูปแบบ Pre-configured Model พร้อมจัดส่งถึงมือองค์กรทันที ช่วยให้ธุรกิจเดินหน้าติดตั้งระบบและปิดงบประมาณได้อย่างแม่นยำตามกำหนด ทำไม Pre-configured Model จึงตอบโจทย์ทั้งองค์กรและ SI Partners แนวคิดของกลุ่มผลิตภัณฑ์ HPE Smart Choice เกิดจากการวิเคราะห์ความต้องการใช้งานจริงของตลาดองค์กรในประเทศไทย จนได้ชุดสเปกตั้งต้น หรือ Baseline Spec ที่สมดุลและพร้อมขึ้นระบบปฏิบัติการจริงได้ทันทีโดยไม่ต้องเสียเวลาออกแบบสเปกใหม่ตั้งแต่ศูนย์ เซิร์ฟเวอร์ทุกรุ่นในแคมเปญนี้มาพร้อมหน่วยความจำความเร็วสูง 64GB DDR5 (2×32GB) หน่วยความจำถาวรแบบ Enterprise SSD ขนาด …",
+      "pubDate": "Fri, 27 Nov 2026 07:15:55 +0000",
+      "source": "TechTalk Thai",
+      "category": "General",
+      "thumbnail": "https://www.techtalkthai.com/wp-content/uploads/2026/11/image1-3-640x427.jpg",
+      "readTime": "3 นาที"
+    },
+    {
+      "id": "https://techsauce.co/news/netherlands-fights-us-match-act-asml-export-curbs",
+      "title": "เนเธอร์แลนด์ประกาศสู้สหรัฐฯ ปกป้อง ASML จากร่างกฎหมายคุมชิป ที่สหรัฐฯ เร่งดันหลังประเด็นอื้อฉาว Nvidia ชี้ย้อนแย้ง สหรัฐฯ ยังปล่อยชิป AI ขายให้จีน",
+      "link": "https://techsauce.co/news/netherlands-fights-us-match-act-asml-export-curbs",
+      "content": "เนเธอร์แลนด์ประกาศค้าน MATCH Act ร่างกฎหมายสหรัฐฯ ที่จะบีบพันธมิตรคุมขายและซ่อมเครื่องผลิตชิปให้จีน ชี้ก้าวก่ายอธิปไตยและคุกคาม ASML ยังไม่ผ่านสภา ลุ้นโหวตกลางธันวาคม",
+      "pubDate": "Fri, 27 Nov 2026 14:13:11 +0700",
+      "source": "Techsauce",
+      "category": "AI",
+      "thumbnail": "https://storage.googleapis.com/techsauce-prod/ugc/uploads/2026/11/1795762928_%E0%B8%9B%E0%B8%81%E0%B8%9B%E0%B9%89%E0%B8%AD%E0%B8%87_ASML_800.webp",
+      "readTime": "1 นาที"
+    },
+    {
+      "id": "https://www.thaicert.or.th/?p=18257",
+      "title": "เตือนภัยมัลแวร์ SYS010 แพร่ผ่านโฆษณาปลอม เสี่ยงถูกขโมยบัญชีและข้อมูลอีเมล",
+      "link": "https://www.thaicert.or.th/2026/11/27/%e0%b9%80%e0%b8%95%e0%b8%b7%e0%b8%ad%e0%b8%99%e0%b8%a0%e0%b8%b1%e0%b8%a2%e0%b8%a1%e0%b8%b1%e0%b8%a5%e0%b9%81%e0%b8%a7%e0%b8%a3%e0%b9%8c-sys010-%e0%b9%81%e0%b8%9e%e0%b8%a3%e0%b9%88%e0%b8%9c%e0%b9%88/",
+      "content": "657/69 (IT) ประจำวันศุกร์ที่ 27 พฤศจิกายน 2569 นักวิจัย […]\nThe post เตือนภัยมัลแวร์ SYS010 แพร่ผ่านโฆษณาปลอม เสี่ยงถูกขโมยบัญชีและข้อมูลอีเมล first appeared on Thailand Computer Emergency Response Team (ThaiCERT).",
+      "pubDate": "Fri, 27 Nov 2026 07:12:00 +0000",
+      "source": "ThaiCERT",
+      "category": "ภัยคุกคามทางไซเบอร์",
+      "thumbnail": "https://www.thaicert.or.th/wp-content/uploads/2026/11/3_0-11-1024x768.png",
+      "readTime": "1 นาที"
+    },
+    {
+      "id": "https://www.techtalkthai.com/?p=172627",
+      "title": "ยกระดับ Data Center ด้วยสถาปัตยกรรม HPE ProLiant Gen11 พร้อมเจาะลึกความปลอดภัยระดับซิลิคอนและการบริหารจัดการยุคใหม่",
+      "link": "https://www.techtalkthai.com/hpe-proliant-gen11-data-center/",
+      "content": "การขยายตัวของ Enterprise Workload ในองค์กรไทยกำลังเปลี่ยนผ่านจากระบบ Virtualization แบบดั้งเดิม ไปสู่การประมวลผล Data Analytics และแอปพลิเคชัน AI ที่ซับซ้อนยิ่งขึ้น ความเปลี่ยนแปลงนี้สร้างแรงกดดันโดยตรงต่อโครงสร้างพื้นฐานภายใน Data Center เพราะเซิร์ฟเวอร์ยุคใหม่ไม่ได้ต้องการเพียงพลังการประมวลผลที่สูงขึ้นเท่านั้น แต่ต้องมีเกราะป้องกันภัยคุกคามตั้งแต่ระดับฮาร์ดแวร์ ควบคู่กับความคล่องตัวในการบริหารจัดการระยะไกลเพื่อลดภาระงานของทีมดูแลระบบ HPE ได้พัฒนาสถาปัตยกรรมตระกูล HPE ProLiant ภายใต้มาตรฐานวิศวกรรมที่เข้มงวด โดยเซิร์ฟเวอร์ทุกรุ่นต้องผ่านการทดสอบมากกว่า 1,000 รายการ และใช้เวลาตรวจสอบเสถียรภาพรวมกว่า 10,000 ชั่วโมงก่อนส่งมอบถึงมือองค์กร เพื่อให้มั่นใจว่าระบบสามารถรองรับงานสำคัญทางธุรกิจได้ต่อเนื่อง สำหรับองค์กรในประเทศไทย Ingram Micro ได้คัดเลือกกลุ่มผลิตภัณฑ์ HPE ProLiant Gen11 Smart Choice Series ซึ่งเป็นโมเดลสเปกมาตรฐานยอดนิยมที่ออกแบบมาให้สมดุลทั้งด้านประสิทธิภาพ ความปลอดภัย และการขยายตัวในอนาคต เพื่อช่วยให้องค์กรยกระดับโครงสร้างพื้นฐานได้อย่างรวดเร็ว เจาะลึกสถาปัตยกรรมความปลอดภัยระดับฮาร์ดแวร์ ภัยคุกคามทางไซเบอร์ยุคปัจจุบันไม่ได้มุ่งเป้าเพียงแค่ช่องโหว่ในระดับระบบปฏิบัติการหรือแอปพลิเคชันอีกต่อไป แต่เจาะลึกลงไปถึงระดับ Firmware และ BIOS/UEFI ซึ่งเป็นจุดที่ซอฟต์แวร์ Antivirus หรือระบบตรวจจับภัยคุกคามทั่วไปไม่สามารถมองเห็นได้ หาก Firmware …",
+      "pubDate": "Fri, 27 Nov 2026 07:11:34 +0000",
+      "source": "TechTalk Thai",
+      "category": "Security",
+      "thumbnail": "https://www.techtalkthai.com/wp-content/uploads/2026/11/image2-2-640x427.jpg",
+      "readTime": "4 นาที"
+    },
+    {
+      "id": "https://www.thaicert.or.th/?p=18258",
+      "title": "พบแคมเปญ Phishing แอบอ้างบริษัทชั้นนำ หลอกสัมภาษณ์ผู้เชี่ยวชาญพร้อมเสนอค่าตอบแทน เพื่อขโมยข้อมูลบัญชี Google และ Okta",
+      "link": "https://www.thaicert.or.th/2026/11/27/%e0%b8%9e%e0%b8%9a%e0%b9%81%e0%b8%84%e0%b8%a1%e0%b9%80%e0%b8%9b%e0%b8%8d-phishing-%e0%b9%81%e0%b8%ad%e0%b8%9a%e0%b8%ad%e0%b9%89%e0%b8%b2%e0%b8%87%e0%b8%9a%e0%b8%a3%e0%b8%b4%e0%b8%a9%e0%b8%b1%e0%b8%97/",
+      "content": "656/69 (IT) ประจำวันศุกร์ที่ 27 พฤศจิกายน 2569 บริษัทด้ […]\nThe post พบแคมเปญ Phishing แอบอ้างบริษัทชั้นนำ หลอกสัมภาษณ์ผู้เชี่ยวชาญพร้อมเสนอค่าตอบแทน เพื่อขโมยข้อมูลบัญชี Google และ Okta first appeared on Thailand Computer Emergency Response Team (ThaiCERT).",
+      "pubDate": "Fri, 27 Nov 2026 07:11:00 +0000",
+      "source": "ThaiCERT",
+      "category": "ภัยคุกคามทางไซเบอร์",
+      "thumbnail": "https://www.thaicert.or.th/wp-content/uploads/2026/11/2_0-11-1024x768.png",
+      "readTime": "1 นาที"
+    },
+    {
+      "id": "https://www.thaicert.or.th/?p=18261",
+      "title": "ระวังมัลแวร์ขโมยข้อมูล Remus แฝงตัวเป็นส่วนขยาย Google Sheets ปลอมบนเบราว์เซอร์ Chrome",
+      "link": "https://www.thaicert.or.th/2026/11/27/%e0%b8%a3%e0%b8%b0%e0%b8%a7%e0%b8%b1%e0%b8%87%e0%b8%a1%e0%b8%b1%e0%b8%a5%e0%b9%81%e0%b8%a7%e0%b8%a3%e0%b9%8c%e0%b8%82%e0%b9%82%e0%b8%a1%e0%b8%a2%e0%b8%82%e0%b9%89%e0%b8%ad%e0%b8%a1%e0%b8%b9%e0%b8%a5-r/",
+      "content": "655/69 (IT) ประจำวันศุกร์ที่ 27 พฤศจิกายน 2569 นักวิจัย […]\nThe post ระวังมัลแวร์ขโมยข้อมูล Remus แฝงตัวเป็นส่วนขยาย Google Sheets ปลอมบนเบราว์เซอร์ Chrome first appeared on Thailand Computer Emergency Response Team (ThaiCERT).",
+      "pubDate": "Fri, 27 Nov 2026 07:10:00 +0000",
+      "source": "ThaiCERT",
+      "category": "ภัยคุกคามทางไซเบอร์",
+      "thumbnail": "https://www.thaicert.or.th/wp-content/uploads/2026/11/1_0-11-1024x768.png",
+      "readTime": "1 นาที"
+    },
+    {
+      "id": "https://techsauce.co/news/indorama-ventures-70-20-10-future-ready-people-development",
+      "title": "อินโดรามา เวนเจอร์ส ชูโมเดล 70:20:10 สร้างบุคลากรพร้อมรับโลกอนาคต เชื่อมการเรียนรู้สู่ผลลัพธ์ที่ยั่งยืน",
+      "link": "https://techsauce.co/news/indorama-ventures-70-20-10-future-ready-people-development",
+      "content": "อินโดรามา เวนเจอร์ส ร่วมกับ Chula LGO และ SMU เล่าแนวทางพัฒนาบุคลากรด้วยโมเดล 70:20:10 และการเรียนรู้จากประสบการณ์จริง บนเวที SX2026",
+      "pubDate": "Fri, 27 Nov 2026 12:57:12 +0700",
+      "source": "Techsauce",
+      "category": "General",
+      "thumbnail": "https://storage.googleapis.com/techsauce-prod/ugc/uploads/2026/11/1795757651_indorama-ventures-70-20-10-future-ready-people-development-body-1-2400x1600.webp",
+      "readTime": "1 นาที"
+    },
+    {
+      "id": "https://techsauce.co/news/ustr-proposes-20-percent-tariff-singapore-excess-capacity",
+      "title": "สหรัฐฯ เสนอภาษี 20% ให้สินค้าจากสิงคโปร์ สองวันหลังแบนบริษัทคลาวด์ Megaspeed ตั้งข้อสังเกตประเด็นทางผ่านชิป AI ไปจีน",
+      "link": "https://techsauce.co/news/ustr-proposes-20-percent-tariff-singapore-excess-capacity",
+      "content": "USTR เสนอเก็บภาษีสินค้าสิงคโปร์สูงสุด 20% อ้างนโยบายสิงคโปร์ทำสินค้าล้นตลาดโลก ยังไม่มีผลบังคับใช้ อาจลดเหลือ 10% หากปิดดีลการค้า สิงคโปร์ผิดหวังอย่างมาก เตรียมยื่นค้าน ไทยโดนเพดาน 18%",
+      "pubDate": "Fri, 27 Nov 2026 12:41:09 +0700",
+      "source": "Techsauce",
+      "category": "AI",
+      "thumbnail": "https://storage.googleapis.com/techsauce-prod/ugc/uploads/2026/11/1795757875_USTR_20_800.webp",
+      "readTime": "1 นาที"
+    },
+    {
+      "id": "https://www.techtalkthai.com/?p=172616",
+      "title": "API & Agents ความเสี่ยงใหม่ในประตูบานเดิม",
+      "link": "https://www.techtalkthai.com/agents-are-new-risk-for-api-protect-with-ibm-hybrid-integration-by-cu/",
+      "content": "API ไม่ใช่เรื่องใหม่ คำนิยามนี้เกิดขึ้นมาหลายทศวรรษ เสมือนประตูเชื่อมต่อส่วนประกอบของซอฟต์แวร์เข้าด้วยกัน ตลอดระยะเวลาที่ผ่านมา API ถูกปรับปรุงพัฒนามาหลายยุคตั้งแต่ SOAP, REST, GraphQL, เราเคยรู้กันดีว่าช่องทางนี้ต้องถูกปิด เพราะแฮ็กเกอร์จ้องเล่นงานตรงนี้ได้ แต่อีกความเสี่ยงหนึ่งที่เกิดขึ้นแล้วในวันนี้คือ Agents ที่กำลังเพิ่มจำนวนขึ้น และย่อมผิดพลาดได้เช่นกัน หากเราไม่ควบคุมการเข้าถึงเหล่านี้ ในบทความนี้เราจะชวนมาคิดกันว่าเหตุใด API ถึงสำคัญยิ่งขึ้น และ IBM Hybrid Integration ในส่วน API Management จะช่วยองค์กรได้อย่างไร API ความเสี่ยงกำเนิดใหม่ในประตูบานเดิม เมื่อทศวรรษยุค ’90s องค์กรอาศัยการเชื่อมต่อแอปพลิเคชัน (API) ผ่าน SOAP ในรูปแบบ XML ซึ่งจะโซลูชันตัวกลางส่งสารทำหน้าที่เสมือนล่ามแปรภาษาของแต่ละโปรแกรมเรียกว่า Integration ต่อมาในยุค ‘2000s-2010 ที่เว็บไซต์ได้รับความนิยม API ได้ขยายเข้าสู่มาตรฐานใหม่อย่าง REST, GraphQL, gRPC ฯลฯ ที่ช่วยทำให้ระบบระหว่างธุรกิจทำงานร่วมกันได้ หรือแม้กระทั่งแนวคิดการทำงานแบบ microservices ที่ถือกำเนิดขึ้นในเวลาถัดมา อย่างไรก็ตามในทศวรรษปัจจุบัน เราได้รู้จักกับ …",
+      "pubDate": "Fri, 27 Nov 2026 05:30:10 +0000",
+      "source": "TechTalk Thai",
+      "category": "General",
+      "thumbnail": "https://www.techtalkthai.com/wp-content/uploads/2026/11/ttt_ai_agents_and_api_risk_aigen_FB_Size-V2.png",
+      "readTime": "3 นาที"
+    },
+    {
+      "id": "https://www.thaicert.or.th/?p=18260",
+      "title": "แจ้งเตือนช่องโหว่ SQL Injection ใน WHMCS อาจทำให้ผู้โจมตีเข้าถึงข้อมูลลูกค้าและแฮชรหัสผ่านผู้ดูแลระบบโดยไม่ต้องยืนยันตัวตน เร่งตรวจสอบและอัปเดตแพตช์ความมั่นคงปลอดภัย",
+      "link": "https://www.thaicert.or.th/2026/11/27/%e0%b9%81%e0%b8%88%e0%b9%89%e0%b8%87%e0%b9%80%e0%b8%95%e0%b8%b7%e0%b8%ad%e0%b8%99%e0%b8%8a%e0%b9%88%e0%b8%ad%e0%b8%87%e0%b9%82%e0%b8%ab%e0%b8%a7%e0%b9%88-sql-injection-%e0%b9%83%e0%b8%99-whmcs/",
+      "content": "ศูนย์ประสานการรักษาความมั่นคงปลอดภัยระบบคอมพิวเตอร์แห่ง […]\nThe post แจ้งเตือนช่องโหว่ SQL Injection ใน WHMCS อาจทำให้ผู้โจมตีเข้าถึงข้อมูลลูกค้าและแฮชรหัสผ่านผู้ดูแลระบบโดยไม่ต้องยืนยันตัวตน เร่งตรวจสอบและอัปเดตแพตช์ความมั่นคงปลอดภัย first appeared on Thailand Computer Emergency Response Team (ThaiCERT).",
+      "pubDate": "Fri, 27 Nov 2026 04:30:00 +0000",
+      "source": "ThaiCERT",
+      "category": "ภัยคุกคามทางไซเบอร์",
+      "thumbnail": "https://www.thaicert.or.th/wp-content/uploads/2026/11/SQL-Inject-1024x595.jpg",
+      "readTime": "1 นาที"
     },
     {
       "id": "152267 at https://www.blognone.com",
@@ -79,6 +299,17 @@
       "readTime": "5 นาที"
     },
     {
+      "id": "https://techsauce.co/news/makro-pro-asean-no1-first-party-ecommerce-rewrite",
+      "title": "Makro PRO ขึ้นแท่นอันดับ 1 แพลตฟอร์มอีคอมเมิร์ซแบบ First-party (1P) ในอาเซียน ยอดขายโตขึ้น 250-300 ล้านบาท",
+      "link": "https://techsauce.co/news/makro-pro-asean-no1-first-party-ecommerce-rewrite",
+      "content": "Makro PRO ยอดขายจากราว 12.5 ล้านบาทต่อวันเป็น 250-300 ล้านบาท ซีพี แอ็กซ์ตร้าประกาศว่า Euromonitor จัดให้เป็นแพลตฟอร์มอีคอมเมิร์ซ 1P อันดับ 1 ในอาเซียน",
+      "pubDate": "Fri, 27 Nov 2026 10:22:30 +0700",
+      "source": "Techsauce",
+      "category": "General",
+      "thumbnail": "https://storage.googleapis.com/techsauce-prod/ugc/uploads/2026/11/1795747772_makro-pro-asean-no1-first-party-ecommerce-rewrite-body-1-2400x1600.webp",
+      "readTime": "1 นาที"
+    },
+    {
       "id": "152266 at https://www.blognone.com",
       "title": "Shinji Mikami ผู้สร้าง Resident Evil บอกบางครั้งก็อยากให้ AI หายไปจากโลก",
       "link": "https://www.blognone.com/node/152266",
@@ -88,6 +319,17 @@
       "category": "AI",
       "thumbnail": null,
       "readTime": "4 นาที"
+    },
+    {
+      "id": "152265 at https://www.blognone.com",
+      "title": "MiniMax เผยตรวจความปลอดภัยการใช้งานแม้จะซื้อ API จากผู้ให้บริการรายอื่น",
+      "link": "https://www.blognone.com/node/152265",
+      "content": "MiniMax เผยตรวจความปลอดภัยการใช้งานแม้จะซื้อ API จากผู้ให้บริการรายอื่น\n\n  \nBody\nต่อเนื่องจากข่าวผู้ให้บริการ LLM บน OpenRouter ถูกแฮก อีกกรณีหนึ่งที่เกี่ยวข้องกันคือนักวิจัยพบว่าพรอมต์ที่ส่งไปยังโมเดล MiniMax หลายรายถูกอ่าน ตอนนี้ทาง MiniMax ก็ออกมายอมรับว่าเป็นระบบตรวจสอบความปลอดภัยของบริษัทเอง\nพรอมต์เหล่านี้ไม่ว่าจะซื้อกับ MiniMax เองหรือซื้อกับผู้ให้บริการรายอื่น เช่น Novita ก็มีโอกาสที่จะถูกส่งต่อกลับไปยัง MiniMax อยู่ดี\nระบบตรวจสอบความปลอดภัยภายในของ MiniMax จะดึงเอาหมายเลขไอพีและ URL ต่างๆ มาตรวจสอบความปลอดภัย ส่งผลให้เมื่อนักวิจัยส่ง URL ลับเข้าไปทางพรอมต์ ระบบตรวจจับของ MiniMax ก็จะเปิด URL เหล่านั้นขึ้นมา\nทาง MiniMax ปรับนโยบาย หลังจากนี้ระบบตรวจสอบจะไม่เปิด URL เหล่านั้นขึ้นมาอีกหากเป็นการเรียกใช้งานแบบธุรกิจ\nที่มา - MiniMax\nlew\nFri, 27/11/2026 - 08:21",
+      "pubDate": "Fri, 27 Nov 2026 01:21:28 +0000",
+      "source": "Blognone",
+      "category": "Security",
+      "thumbnail": null,
+      "readTime": "2 นาที"
     },
     {
       "id": "152264 at https://www.blognone.com",
@@ -145,17 +387,6 @@
       "readTime": "4 นาที"
     },
     {
-      "id": "https://techsauce.co/tech-and-biz/3-factors-to-consider-before-server-upgrade-2027-it",
-      "title": "ลงทุน IT อย่างไรให้คุ้มค่า? เจาะ 3 เรื่องที่องค์กรต้องคิด ก่อนอัปเกรดเซิร์ฟเวอร์รับปี 2027",
-      "link": "https://techsauce.co/tech-and-biz/3-factors-to-consider-before-server-upgrade-2027-it",
-      "content": "ลงทุนงบ IT อย่างไรให้คุ้มค่า? เจาะลึก 3 มิติสำคัญด้านผลลัพธ์ธุรกิจ ความคล่องตัว และความปลอดภัย ก่อนตัดสินใจอัปเกรดเซิร์ฟเวอร์รับปี 2027",
-      "pubDate": "Thu, 26 Nov 2026 17:29:34 +0700",
-      "source": "Techsauce",
-      "category": "Security",
-      "thumbnail": "https://storage.googleapis.com/techsauce-prod/ugc/uploads/2026/11/1795508127_%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B8%8D%E0%B9%88%E0%B8%B2%E0%B8%AD%E0%B8%A2%E0%B9%88%E0%B8%B2%E0%B8%A2%E0%B8%B8%E0%B9%88%E0%B8%87_%E0%B8%9B%E0%B8%81%E0%B8%82%E0%B9%88%E0%B8%B2%E0%B8%A71200x800_-_2026-11-20T143935.080.webp",
-      "readTime": "1 นาที"
-    },
-    {
       "id": "152261 at https://www.blognone.com",
       "title": "[ลือ] NVIDIA สั่งหยุดส่งชิปเข้าไทย มาเลเซีย สิงคโปร์ อินโดนีเซีย",
       "link": "https://www.blognone.com/node/152261",
@@ -170,23 +401,12 @@
       "id": "https://www.techtalkthai.com/?p=172569",
       "title": "Fairtex เดินหน้าวางระบบ ERP เร่งสร้างความเติบโตให้กับธุรกิจอย่างมั่นคง ด้วยโซลูชัน Infor และ Cuscen จาก Triforce",
       "link": "https://www.techtalkthai.com/triforce-fairtex-accelerates-growth-with-infor-cuscen-erp/",
-      "content": "มวยไทยนั้นได้กลายเป็นหนึ่งใน Soft Power สำคัญของประเทศไทย ที่นอกจากจะเป็นตัวกลางในการเผยแพร่ศิลปะการต่อสู้ประจำชาติไปสู่สายตาชาวโลกแล้ว มวยไทยก็ยังเป็นอีกหนึ่งโอกาสที่ทำให้ธุรกิจไทยสามารถเติบโตได้อย่างรวดเร็วมั่นคง Fairtex ผู้ผลิตและส่งออกอุปกรณ์การต่อสู้และเสื้อผ้าสำหรับมวยไทยและศิลปะการต่อสู้แบบผสมผสาน (MMA)การเติบโตสู่ระดับโลกของ Fairtex นี้ ได้สร้างความท้าทายในการบริหารธุรกิจและการเงิน ทำให้ Fairtex ได้ตัดสินใจปรับใช้งาน ERP ในการบริหารธุรกิจอย่างเป็นระบบ เพื่อรองรับและช่วยให้การเติบโตในแบบก้าวกระโดดนี้เป็นไปอย่างมั่นใจ     ในบทความนี้ เราจะพาทุกท่านไปรู้จักกับธุรกิจของ Fairtex พร้อมการตัดสินใจใช้ระบบ ERP ในแบบผสมผสานระหว่าง Infor SunSystems Cloud ที่มีความโดดเด่นด้านการบริหารจัดการบัญชีและจัดทำรายงานทางการเงินในเชิงลึกเพื่อให้ผู้บริหารสามารถวิเคราะห์ตัดสินใจและวางแผนธุรกิจได้อย่างแม่นยำ และ Cuscen ERP ที่มีจุดเด่นด้านการบริหารจัดการวัตถุดิบ และการผลิต ซึ่งก็เป็นอีกหัวใจสำคัญของ Fairtex ในฐานะของผู้ผลิตเสื้อผ้าและอุปกรณ์กีฬาในระดับพรีเมี่ยมนั่นเอง Fairtex: ผู้ส่งออกและผู้ผลิตอุปกรณ์การต่อสู้และเสื้อผ้าสำหรับอุตสาหกรรมมวยไทยและศิลปะการต่อสู้แบบผสมผสาน (MMA) ที่มีลูกค้าอยู่ทั่วโลก หากพูดถึงมวยไทย Fairtex หรือ บริษัท แฟร์เท็กซ์ อีควิปเม้นท์ จำกัด คงเป็นหนึ่งในชื่อที่มีความสัมพันธ์กับมวยไทยอย่างที่ปฏิเสธไม่ได้ ในฐานะของผู้ส่งออกและผู้ผลิตอุปกรณ์การต่อสู้และเสื้อผ้าสำหรับอุตสาหกรรมมวยไทยและศิลปะการต่อสู้แบบผสมผสาน (MMA) ชั้นนำ ที่มีโรงงานอยู่ในประเทศไทย …",
+      "content": "มวยไทยนั้นได้กลายเป็นหนึ่งใน Soft Power สำคัญของประเทศไทย ที่นอกจากจะเป็นตัวกลางในการเผยแพร่ศิลปะการต่อสู้ประจำชาติไปสู่สายตาชาวโลกแล้ว มวยไทยก็ยังเป็นอีกหนึ่งโอกาสที่ทำให้ธุรกิจไทยสามารถเติบโตได้อย่างรวดเร็วมั่นคง Fairtex ผู้ผลิตและส่งออกอุปกรณ์การต่อสู้และเสื้อผ้าสำหรับมวยไทยและศิลปะการต่อสู้แบบผสมผสาน (MMA)การเติบโตสู่ระดับโลกของ Fairtex นี้ ได้สร้างความท้าทายในการบริหารธุรกิจและการเงิน ทำให้ Fairtex ได้ตัดสินใจปรับใช้งาน ERP ในการบริหารธุรกิจอย่างเป็นระบบ เพื่อรองรับและช่วยให้การเติบโตในแบบก้าวกระโดดนี้เป็นไปอย่างมั่นใจ     ในบทความนี้ เราจะพาทุกท่านไปรู้จักกับธุรกิจของ Fairtex พร้อมการตัดสินใจใช้ระบบ ERP ในแบบผสมผสานระหว่าง Infor SunSystems Cloud ที่มีความโดดเด่นด้านการบริหารจัดการบัญชีและจัดทำรายงานทางการเงินในเชิงลึกเพื่อให้ผู้บริหารสามารถวิเคราะห์ตัดสินใจและวางแผนธุรกิจได้อย่างแม่นยำ และ Cuscen ERP ที่มีจุดเด่นด้านการบริหารจัดการวัตถุดิบ และการผลิต ซึ่งเป็นอีกหัวใจสำคัญของ Fairtex ในฐานะของผู้ผลิตเสื้อผ้าและอุปกรณ์กีฬาในระดับพรีเมี่ยมนั่นเอง Fairtex: ผู้ส่งออกและผู้ผลิตอุปกรณ์การต่อสู้และเสื้อผ้าสำหรับอุตสาหกรรมมวยไทยและศิลปะการต่อสู้แบบผสมผสาน (MMA) ที่มีลูกค้าอยู่ทั่วโลก หากพูดถึงมวยไทย Fairtex หรือ บริษัท แฟร์เท็กซ์ อีควิปเม้นท์ จำกัด คงเป็นหนึ่งในชื่อที่มีความสัมพันธ์กับมวยไทยอย่างที่ปฏิเสธไม่ได้ ในฐานะของผู้ส่งออกและผู้ผลิตอุปกรณ์การต่อสู้และเสื้อผ้าสำหรับอุตสาหกรรมมวยไทยและศิลปะการต่อสู้แบบผสมผสาน (MMA) ชั้นนำ ที่มีโรงงานอยู่ในประเทศไทย …",
       "pubDate": "Thu, 26 Nov 2026 08:35:08 +0000",
       "source": "TechTalk Thai",
       "category": "General",
       "thumbnail": "https://www.techtalkthai.com/wp-content/uploads/2026/11/images-640x162.png",
       "readTime": "4 นาที"
-    },
-    {
-      "id": "https://techsauce.co/ai/openai-ai-matrix-multiplication-exponent-2-25-proof",
-      "title": "สะเทือนวงการคณิตศาสตร์ OpenAI ไขโจทย์ที่ค้างมา 57 ปี  AI สามารถพิสูจน์ว่า ‘ขีดจำกัดความเร็ว’ ของการคูณเมทริกซ์อยู่ที่ 2.25 พอดี",
-      "link": "https://techsauce.co/ai/openai-ai-matrix-multiplication-exponent-2-25-proof",
-      "content": "OpenAI เผยเปเปอร์ 111 หน้า อ้างพิสูจน์ว่าเลขชี้กำลังของการคูณเมทริกซ์คือ 2.25 พอดี ปิดโจทย์ที่ค้างมาตั้งแต่ปี 1969 โดยบทพิสูจน์มาจากโมเดล AI ภายในที่ยังไม่เปิดตัว ขณะที่วงการยังต้องตรวจสอบต่อ",
-      "pubDate": "Thu, 26 Nov 2026 14:33:29 +0700",
-      "source": "Techsauce",
-      "category": "AI",
-      "thumbnail": "https://storage.googleapis.com/techsauce-prod/ugc/uploads/2026/11/1795678203_OpenAI_%E0%B9%84%E0%B8%82%E0%B9%82%E0%B8%88%E0%B8%97%E0%B8%A2%E0%B9%8C%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%84%E0%B9%89%E0%B8%B2%E0%B8%87%E0%B8%A1%E0%B8%B2_57_%E0%B8%9B%E0%B8%B5_800.webp",
-      "readTime": "1 นาที"
     },
     {
       "id": "https://www.thaicert.or.th/?p=18250",
@@ -222,83 +442,6 @@
       "readTime": "1 นาที"
     },
     {
-      "id": "https://www.thaicert.or.th/?p=18232",
-      "title": "1Password เผยเหตุข้อมูลลูกค้ารั่วไหล หลังบัญชี GitHub ของพนักงานถูกเจาะ ยืนยันคลังรหัสผ่านยังปลอดภัย",
-      "link": "https://www.thaicert.or.th/2026/11/26/1password-%e0%b9%80%e0%b8%9c%e0%b8%a2%e0%b9%80%e0%b8%ab%e0%b8%95%e0%b8%b8%e0%b8%82%e0%b9%89%e0%b8%ad%e0%b8%a1%e0%b8%b9%e0%b8%a5%e0%b8%a5%e0%b8%b9%e0%b8%81%e0%b8%84%e0%b9%89%e0%b8%b2%e0%b8%a3%e0%b8%b1/",
-      "content": "652/69 (IT) ประจำวันพฤหัสบดีที่ 26 พฤศจิกายน 2569 1Pass […]\nThe post 1Password เผยเหตุข้อมูลลูกค้ารั่วไหล หลังบัญชี GitHub ของพนักงานถูกเจาะ ยืนยันคลังรหัสผ่านยังปลอดภัย first appeared on Thailand Computer Emergency Response Team (ThaiCERT).",
-      "pubDate": "Thu, 26 Nov 2026 07:00:00 +0000",
-      "source": "ThaiCERT",
-      "category": "ภัยคุกคามทางไซเบอร์",
-      "thumbnail": "https://www.thaicert.or.th/wp-content/uploads/2026/11/1_2-2-1024x768.png",
-      "readTime": "1 นาที"
-    },
-    {
-      "id": "152260 at https://www.blognone.com",
-      "title": "OpenAI พบ Big-O ใหม่ของการคูณเมตริกซ์ คือ O(n⁹⁄₄)",
-      "link": "https://www.blognone.com/node/152260",
-      "content": "OpenAI พบ Big-O ใหม่ของการคูณเมตริกซ์ คือ O(n⁹⁄₄)\n\n  \nBody\nOpenAI เผยแพร่รายงานวิจัยคณิตศาสตร์ชุดใหม่ต่อเนื่องจากที่เคยเปิดเผยก่อนหน้านี้ โดยหนึ่งในนั้นคือบทพิสูจน์ว่า Big-O ของการคูณเมตริกซ์คือ O(n⁹⁄₄) ซึ่งเล็กลงกว่า O(n2.371) ที่เสนอโดย Virginia Vassilevska Williams, Yinzhan Xu, Zixuan Xu, Renfei Zhou เมื่อปี 2023 (Quanta Magazine)\nกระบวนการคูณเมตริกซ์เป็นหนึ่งในกระบวนการทำงานที่สำคัญที่สุดของคอมพิวเตอร์ยุคใหม่ เพราะการประมวลผล AI แบบ deep learning อาศัยการคูณเมตริกซ์จำนวนมหาศาล การสร้างกระบวนการคูณเมตริกซ์ใหม่ที่ประสิทธิภาพดีขึ้นจะลดระยะเวลาประมวลผลลงได้ในข้อมูลขนาดใหญ่\nรายงานนี้ยังอยู่ในสถานะ preprint และก่อนหน้านี้ OpenAI เคยต้องถอนรายงานบางส่วนจากความผิดพลาดมาแล้ว\nที่มา - GitHub: openai/math, The New Stack\nlew\nThu, 26/11/2026 - 13:37",
-      "pubDate": "Thu, 26 Nov 2026 06:37:54 +0000",
-      "source": "Blognone",
-      "category": "AI",
-      "thumbnail": null,
-      "readTime": "2 นาที"
-    },
-    {
-      "id": "https://techsauce.co/ai/openai-private-intelligence-private-inference-enterprise-data",
-      "title": "OpenAI เริ่มทดสอบฟีเจอร์ ‘Private Inference’ ให้องค์กรส่งงานลับเข้า AI ได้ โดยที่ OpenAI เองก็มองไม่เห็นข้อมูลนั้น",
-      "link": "https://techsauce.co/ai/openai-private-intelligence-private-inference-enterprise-data",
-      "content": "OpenAI เริ่มทดสอบ Private Inference ให้องค์กรใช้โมเดล AI ประมวลผลงานลับบนฮาร์ดแวร์ปิดผนึกที่ตรวจสอบได้ โดย OpenAI เข้าถึงข้อมูลไม่ได้ ส่วนหนึ่งของ Private Intelligence ที่รวม ZDR และ PSP",
-      "pubDate": "Thu, 26 Nov 2026 12:12:12 +0700",
-      "source": "Techsauce",
-      "category": "AI",
-      "thumbnail": "https://storage.googleapis.com/techsauce-prod/ugc/uploads/2026/11/1795668804_Private_Inference_800.webp",
-      "readTime": "1 นาที"
-    },
-    {
-      "id": "https://www.thaicert.or.th/?p=18231",
-      "title": "แจ้งเตือน! ช่องโหว่ระดับ Critical ใน VMware vCenter และ ESX เสี่ยงถูกสั่งรันคำสั่งและเข้าควบคุมระบบโดยไม่ต้องยืนยันตัวตน ผู้ดูแลระบบควรเร่งอัปเดตแพตช์แก้ไขโดยด่วน",
-      "link": "https://www.thaicert.or.th/2026/11/26/%e0%b9%81%e0%b8%88%e0%b9%89%e0%b8%87%e0%b9%80%e0%b8%95%e0%b8%b7%e0%b8%ad%e0%b8%99-%e0%b8%8a%e0%b9%88%e0%b8%ad%e0%b8%87%e0%b9%82%e0%b8%ab%e0%b8%a7%e0%b9%88%e0%b8%a3%e0%b8%b0%e0%b8%94%e0%b8%b1-10/",
-      "content": "ศูนย์ประสานการรักษาความมั่นคงปลอดภัยระบบคอมพิวเตอร์แห่ง […]\nThe post แจ้งเตือน! ช่องโหว่ระดับ Critical ใน VMware vCenter และ ESX เสี่ยงถูกสั่งรันคำสั่งและเข้าควบคุมระบบโดยไม่ต้องยืนยันตัวตน ผู้ดูแลระบบควรเร่งอัปเดตแพตช์แก้ไขโดยด่วน first appeared on Thailand Computer Emergency Response Team (ThaiCERT).",
-      "pubDate": "Thu, 26 Nov 2026 04:30:00 +0000",
-      "source": "ThaiCERT",
-      "category": "ภัยคุกคามทางไซเบอร์",
-      "thumbnail": "https://www.thaicert.or.th/wp-content/uploads/2026/11/VMware-Center-1024x595.png",
-      "readTime": "1 นาที"
-    },
-    {
-      "id": "https://techsauce.co/ai/accenture-life-trends-2027-walking-contradictions",
-      "title": "เจาะลึก Accenture Life Trends 2027 เมื่อ AI ยิ่งเก่ง มนุษย์ยิ่งโหยหา \"ความเป็นคน\"",
-      "link": "https://techsauce.co/ai/accenture-life-trends-2027-walking-contradictions",
-      "content": "เจาะลึกเทรนด์ 2027 จากรายงาน Accenture Life Trends เมื่อ AI ทำได้ทุกอย่าง แต่มนุษย์กลับโหยหาความจริงใจ งานฝีมือ และพื้นที่ส่วนตัว ส่อง 5 พฤติกรรมย้อนแย้งที่คุณต้องรู้",
-      "pubDate": "Thu, 26 Nov 2026 10:29:44 +0700",
-      "source": "Techsauce",
-      "category": "AI",
-      "thumbnail": "https://storage.googleapis.com/techsauce-prod/ugc/uploads/2026/11/1795663289_%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B8%8D%E0%B9%88%E0%B8%B2%E0%B8%AD%E0%B8%A2%E0%B9%88%E0%B8%B2%E0%B8%A2%E0%B8%B8%E0%B9%88%E0%B8%87_%E0%B8%9B%E0%B8%81%E0%B8%82%E0%B9%88%E0%B8%B2%E0%B8%A71200x800_-_2026-11-26T101702.116.webp",
-      "readTime": "1 นาที"
-    },
-    {
-      "id": "https://www.thaicert.or.th/?p=18228",
-      "title": "แจ้งเตือน! ช่องโหว่ระดับ Critical N-able Mail Assure เสี่ยงถูกใช้โจมตีแบบ SSRF เข้าถึงระบบและบริการภายใน",
-      "link": "https://www.thaicert.or.th/2026/11/26/%e0%b9%81%e0%b8%88%e0%b9%89%e0%b8%87%e0%b9%80%e0%b8%95%e0%b8%b7%e0%b8%ad%e0%b8%99-%e0%b8%8a%e0%b9%88%e0%b8%ad%e0%b8%87%e0%b9%82%e0%b8%ab%e0%b8%a7%e0%b9%88%e0%b8%a3%e0%b8%b0%e0%b8%94%e0%b8%b1-9/",
-      "content": "ศูนย์ประสานการรักษาความมั่นคงปลอดภัยระบบคอมพิวเตอร์แห่ง […]\nThe post แจ้งเตือน! ช่องโหว่ระดับ Critical N-able Mail Assure เสี่ยงถูกใช้โจมตีแบบ SSRF เข้าถึงระบบและบริการภายใน first appeared on Thailand Computer Emergency Response Team (ThaiCERT).",
-      "pubDate": "Thu, 26 Nov 2026 01:29:00 +0000",
-      "source": "ThaiCERT",
-      "category": "ภัยคุกคามทางไซเบอร์",
-      "thumbnail": "https://www.thaicert.or.th/wp-content/uploads/2026/11/n-able-1024x573.png",
-      "readTime": "1 นาที"
-    },
-    {
-      "id": "https://techsauce.co/news/ingram-micro-thailand-2027-vision-solution-aggregator-ai-ecosystem",
-      "title": "อินแกรม ไมโคร ประกาศวิสัยทัศน์ปี 2570 ชูบทบาท Solution Aggregator มุ่งเสริมสร้างระบบนิเวศเอไอที่แข็งแกร่ง",
-      "link": "https://techsauce.co/news/ingram-micro-thailand-2027-vision-solution-aggregator-ai-ecosystem",
-      "content": "อินแกรม ไมโคร ประกาศวิสัยทัศน์ปี 2570 ชูบทบาท Solution Aggregator เสริมระบบนิเวศ AI ชี้ตลาดไอทีไทยโตต่อเนื่อง ดาต้า เซ็นเตอร์โตสูงสุด พร้อมเปิด 3 ปัจจัยเทคขับเคลื่อนปีหน้า",
-      "pubDate": "Thu, 26 Nov 2026 08:26:58 +0700",
-      "source": "Techsauce",
-      "category": "AI",
-      "thumbnail": "https://storage.googleapis.com/techsauce-prod/ugc/uploads/2026/11/1795657034_ingram_5_800.webp",
-      "readTime": "1 นาที"
-    },
-    {
       "id": "https://www.techtalkthai.com/?p=172560",
       "title": "Broadcom ออกแพตช์ช่องโหว่ Critical บน VMware vCenter อีกครั้ง เสี่ยงถูก Bypass การยืนยันตัวตน",
       "link": "https://www.techtalkthai.com/broadcom-patches-another-critical-vmware-vcenter-authentication-bypass-flaw/",
@@ -321,17 +464,6 @@
       "readTime": "2 นาที"
     },
     {
-      "id": "https://techsauce.co/news/boi-lumentum-photonics-thailand-ai-supply-chain",
-      "title": "บีโอไอชู ลูเมนตั้ม ยกระดับฐานผลิตโฟโตนิกส์ไทย เชื่อมซัพพลายเชน AI ลงทุน 20,000 ล้าน สร้างงาน 10,000 คน",
-      "link": "https://techsauce.co/news/boi-lumentum-photonics-thailand-ai-supply-chain",
-      "content": "บีโอไอนำคณะสื่อมวลชนเยี่ยมโรงงานลูเมนตั้มที่ปทุมธานี ชูพัฒนาการฐานผลิตไทยสู่ชิปเลเซอร์กำลังสูง ได้รับส่งเสริมการลงทุนแล้ว 7 โครงการ มูลค่ากว่า 20,500 ล้านบาท",
-      "pubDate": "Wed, 25 Nov 2026 20:23:33 +0700",
-      "source": "Techsauce",
-      "category": "AI",
-      "thumbnail": "https://storage.googleapis.com/techsauce-prod/ugc/uploads/2026/11/1795612867_boi-lumentum-photonics-thailand-ai-supply-chain-body-1-2400x1600.webp",
-      "readTime": "1 นาที"
-    },
-    {
       "id": "https://www.techtalkthai.com/?p=172552",
       "title": "อินแกรม ไมโคร ประกาศวิสัยทัศน์ปี 2570 ชูบทบาท Solution Aggregator มุ่งเสริมสร้างระบบนิเวศ เอไอ (AI Ecosystem) ที่แข็งแกร่ง [PR]",
       "link": "https://www.techtalkthai.com/ingram-micro-value-of-the-heritage-to-modern-life-expierence-pr/",
@@ -344,91 +476,14 @@
     },
     {
       "id": "152250 at https://www.blognone.com",
-      "title": "รู้จักกับ AINU โซลูชั่น AI ของไทยที่ช่วยสร้าง Digital Trust ให้การทำธุรกรรมออนไลน์ปลอดภัยเหมือนเจอหน้ากันรู้จักกับ AINU บริษัท AI ไทยที่ช่วยสร้าง Digital Trust ให้การทำธุรกรรมออนไลน์ปลอดภัยเหมือนเจอหน้ากัน",
+      "title": "รู้จักกับ AINU โซลูชั่น AI ของไทยที่ช่วยสร้าง Digital Trust ให้การทำธุรกรรมออนไลน์ปลอดภัยเหมือนเจอหน้ากัน",
       "link": "https://www.blognone.com/node/152250",
-      "content": "รู้จักกับ AINU โซลูชั่น AI ของไทยที่ช่วยสร้าง Digital Trust ให้การทำธุรกรรมออนไลน์ปลอดภัยเหมือนเจอหน้ากันรู้จักกับ AINU บริษัท AI ไทยที่ช่วยสร้าง Digital Trust ให้การทำธุรกรรมออนไลน์ปลอดภัยเหมือนเจอหน้ากัน\n\n  \nBody\nนับตั้งแต่สมาร์ตโฟนได้รับความนิยมสูงขึ้นเรื่อยๆ คนไทยก็เริ่มชินกับการทำธุรกรรมต่างๆ ไม่ว่าจะเป็นการซื้อของออนไลน์ การโอนเงินหรือทำธุรกรรมต่างๆ ที่ไม่ต้องไปติดต่อสาขาธนาคารเช่นเดิม มาจนถึงช่วงไม่กี่ปีที่ผ่านมา เราเริ่มเห็นบริการที่เคยต้องรอพบเจ้าหน้าที่หรือไปติดต่อที่ทำการต่างๆ สามารถทำงานออนไลน์ได้มากขึ้นเรื่อยๆ แต่ความสะดวกเหล่านี้ก็มาพร้อมกับความท้าทายใหม่ๆ คนร้ายอาศัยระบบที่พยายามทำให้ผู้ใช้สะดวกมาโจมตีด้วยวิธีต่างๆ ที่เราเห็นมากที่สุดคงเป็นแก๊งคอลเซ็นเตอร์ที่พยายามขโมยเงินด้วยวิธีต่างๆ กันไป\n\nAINU เป็นผู้ให้บริการ AI ของไทยภายใต้ KASIKORN X (KX) โดยทีมงานเริ่มจากการทำโครงการภายในของ KBTG ที่ต้องการพัฒนาเทคโนโลยีมาใช้รองรับ NDID ในกระบวนการตรวจสอบยืนยันตัวตน (e-KYC) ระหว่างช่วง COVID-19 จากตอนนั้นเทคโนโลยีของ AINU ก็สามารถนำไปให้บริการต่างๆ ทั้งบริการในเครือของธนาคารกสิกรไทยเอง และธนาคารหรือหน่วยงานภายนอกจนตอนนี้มีผู้ใช้งานรวมกว่า 30 ล้านราย\nAINU Verify บริการยืนยันการทำธุรกรรมออนไลน์ ที่ทุกคนสัมผัสทุกวันAINU Verify บริการยืนยันการทำธุรกรรมออนไลน์ ที่ทุกคนสัมผัสทุกวัน\nบริการที่เราจะได้สัมผัสกับบริการของ AINU กันบ่อยๆ คือ AINU Verify ที่เรามักได้ใช้งานเมื่อต้องยืนยันตัวตนกับแอปธนาคารเช่นการโอนเงินเกิน 50,000 บาท แต่ภายในชุดบริการ AINU Verify ที่จริงแล้ว เป็นชุดบริการครบสำหรับธนาคารและสถาบันการเงินภายใต้กำกับอย่างครบถ้วน ตั้งแต่การอ่านข้อมูลจากบัตรประชาชน, การเปรียบเทียบใบหน้า, ไปจนถึงการตรวจสอบความน่าเชื่อถือของอุปกรณ์ที่ช่วงหลังธนาคารแห่งประเทศไทยกำหนดให้ตรวจสอบความปลอดภัยอุปกรณ์ว่าไม่มีการดัดแปลงเครื่อง\n\nปัจจุบัน AI เปรียบเทียบใบหน้าหาใช้ได้ไม่ยาก ทั้งจากผู้ให้บริการทั่วโลกและโครงการโอเพนซอร์ส แต่ความแม่นยำในการเปรียบเทียบเพียงอย่างเดียวยังไม่พอ AINU จึงพัฒนา AI ให้ทนทานต่อการโจมตีรูปแบบต่างๆ ด้วย โดยเฉพาะการโจมตีจากตัวผู้ใช้เอง\nตัวอย่างเช่น ในขั้นตอนถ่ายภาพบัตรประชาชน ผู้ไม่หวังดีอาจโจมตีได้หลายวิธี เช่น ใช้ AI สร้างภาพบัตรปลอมแล้วป้อนเข้าแอป , นำภาพบัตรจริงมาพิมพ์ออกเป็นบัตรปลอมเพื่อหลอกแอปธนาคาร หรือแม้แต่ถ่ายภาพบัตรจากหน้าจอคอมพิวเตอร์โดยตรง\nสำหรับระบบการตรวจสอบบัตรประชาชน AINU Verify ตรวจจับการปลอมแปลงได้ พร้อมกับตรวจคุณภาพของภาพที่ผู้ใช้ถ่ายเข้ามาว่าชัดเจนพอสำหรับการใช้งานหรือไม่ และอ่านข้อความบนบัตรได้แม่นยำกว่า 90%\nสำหรับระบบการตรวจสอบใบหน้า AINU Verify มีความสามารถตรวจสอบความพยายามหลอกลวงการยืนยันตัวตนเช่นกันโดยตรวจสอบได้ทั้งการหลอกลวงด้วยภาพปลอมต่างๆ หรือจะเป็นการใส่หน้ากากเพื่อปลอมแปลงระบบ โดยการตรวจสอบว่าเป็นคนจริงๆ อยู่หน้ากล้องหรือไม่ (liveness detection) ฟีเจอร์ส่วนนี้ผ่านมาตรฐาน ISO 30107-3 Level 1 และ  2  ซึ่งจะมีสองโหมด คือ Active เป็นการตรวจสอบความตั้งใจยืนยันตัวตนของผู้ใช้โดยซอฟต์แวร์จะบอกให้ผู้ใช้ทำหน้าตามคำสั่ง เช่น หันซ้าย ยิ้ม พยักหน้า และอีกแบบคือ Passive ที่ผู้ใช้เพียงมองกล้องก็สามารถตรวจสอบได้ทันที ทำให้การทำธุรกรรมทำได้เร็ว\nหลังจากได้ภาพใบหน้าที่ยืนยันว่าเป็นใบหน้าจริงแล้ว ขั้นตอนถัดไป AINU Verify ยังคงต้องตรวจสอบใบหน้า โดย AI เปรียบเทียบใบหน้าของ AINU ถูกสร้างมาให้ใช้งานกับตามลักษณะการใช้งานในไทย เช่น ภาพในบัตรประชาชนไทยมีขนาดเล็กมาก ทางธนาคารต้องการเทียบใบหน้ากับภาพในบัตรประชาชนโดยยังมีความแม่นยำสูงอยู่ นอกจากนี้ยังเข้าใจการเทียบรูปแบบที่เกิดขึ้นบ่อยในไทยที่มีความหลากหลายในการใช้งาน เช่น มีการโกนผม ที่อาจจะเกิดจากทางศาสนา หรือรักษาตัว ซึ่งระบบบางตัวไม่สามารถเทียบใบหน้าได้ กรณีแบบนี้ทาง AINU Verify มีปรับแต่ง AI จนกระทั่งมีอัตราการสแกนใบหน้าไม่ผ่าน และอัตราการยืนยันตัวตนผิดบุคคล ต่ำกว่ากำหนดของธนาคารแห่งประเทศไทยถึงหลายเท่าตัว\nบริการ AINU Verify อยู่ภายใต้การกำกับของธนาคารแห่งประเทศไทย ทาง AINU จึงให้บริการด้วยความน่าเชื่อถือระดับสูง ตัวบริการทำตามกฎหมายและกฎของหน่วยงานกำกับดูแลต่างๆ ไม่ว่าจะเป็นธนาคารแห่งประเทศไทย, คณะกรรมการกำกับหลักทรัพย์และตลาดหลักทรัพย์ (ก.ล.ต.), ETDA หรือคณะกรรมการกำกับและส่งเสริมการประกอบธุรกิจประกันภัย (คปภ.) รวมถึงผ่านการรับรองมาตรฐานความปลอดภัย SOC 2 Type II อย่างเต็มรูปแบบ\nAINU Insurtech บริการที่เปิดทางให้การเคลมอุบัติเหตุจบภายใน 5 นาทีAINU Insurtech บริการที่เปิดทางให้การเคลมอุบัติเหตุใช้เวลาเพียง 5 นาที\n\nบริการอีกตัว ของ AINU คือ AINU InsurTech ที่เป็นโซลูชั่นสำหรับการติดต่อประกันภัยเมื่อเกิดอุบัติเหตุ จากเดิมที่เราต้องรอตัวแทนประกันนานหลายสิบนาทีไปจนถึงระดับชั่วโมงด้วยเทคโนโลยี AINU Insurtech ก็ทำให้กระบวนการออกใบเคลมเหลือเพียง 4.8 นาทีเท่านั้น กระบวนการทำงาน AINU InsurTech จะอาศัยเจ้าหน้าที่ในศูนย์ โทรวิดีโอคุยกับผู้ขับขี่ จากนั้นเจ้าหน้าที่จะขอให้ผู้ขับขี่รถถ่ายรูปในมุมต่างๆ ที่จำเป็น โดยมีระบบ AINU InsurTech ช่วยเหลือวิเคราะห์ข้อมูลต่อเนื่อง\nเช่นเดียวกับเทรนการใช้งานของ AINU Verify ที่นับวันการใช้งานออนไลน์มีแนวโน้มการโจมตีด้วยภาพหลอกจาก AI สูงขึ้น AINU Insurtech ก็มีระบบที่เข้ามาช่วยป้องกันเช่นกัน โดยการโจมตีจะเกิดขึ้นในลักษณะการสร้างภาพ AI เพื่ออ้างความเสียหายเกินจริง หรือมีความพยายามจัดฉาก นอกจากนี้ AINU InsurTech ยังมมีโซลูชั่นช่วยในการเก็บภาพความละเอียดสูงเพื่อให้แน่ใจว่ากระบวนการเคลมเรียบร้อยสมบูรณ์\n\nเทคโนโลยี AI โดยคนไทย ที่เปิดทางให้คนไทยเข้าถึงบริการออนไลน์ได้สะดวกขึ้น\nเทคโนโลยีทั้งสองตัวของ AINU แสดงให้เห็นว่าแม้เราต้องการสร้างความสะดวกสบายด้วยบริการออนไลน์มากเพียงใด แต่อีกด้านหนึ่งแล้ว การตรวจสอบยืนยันว่าการใช้บริการเหล่านั้นมีความน่าเชื่อถือว่ากระทำโดยผู้ใช้จริง ข้อมูลหน่วยงานได้รับถูกต้องสมบูรณ์โดยไม่ถูกปลอมแปลงด้วยวิธีต่างๆ ก็นับเป็นความท้าทายสำคัญ ทาง AINU ระบุว่าไม่มีเทคโนโลยีตัวใดตัวหนึ่งสามารถตรวจจับความพยายามหลอกลวงระบบได้อย่างสมบูรณ์ในทุกรณี ซึ่งหลังจากนี้จึงเป็นการมุ่งสู่ multi-dimentional monitoring ที่ระบบต้องมีข้อมูลเพียงพอ ทั้งข้อมูลพฤติกรรมผู้ใช้เดิม, ความน่าเชื่อถือของอุปกรณ์, ตลอดจนการทำธุรกรรมต่างๆ ก่อนหน้า\nคนจำนวนมากอาจไม่ได้ซื้อบริการต่างๆ ของ AINU โดยตรง แต่ความครอบคลุมของ AINU ที่มีคนใช้งานผ่านหน่วยงานอื่นๆ จำนวนมาก การทำงานของ AINU กำลังเป็นกลไกลสำคัญทำให้เราสามารถใช้บริการดิจิทัลได้สะดวกขึ้น มีความมั่นใจว่าธุรกรรมต่างๆ ไม่ถูกคนร้ายหลอกลวง หรือถูกสวมรอย เปิดทางให้ในอนาคตจะมีบริการใหม่ๆ ที่สามารถให้บริการออนไลน์ได้เพิ่มขึ้นมา\nสำหรับองค์กรที่สนใจต้องการทำเทคโนโลยีของ AINU ไปใช้สร้างความน่าเชื่อถือให้กับบริการ สร้างความน่าเชื่อถือในการทำธุรกรรม สามารถติดต่อขอรับคำปรึกษาหรือการสาธิตการทำงานได้ที่ https://ainu.tech\n\n\n          \nsponsored\nWed, 25/11/2026 - 17:00",
+      "content": "รู้จักกับ AINU โซลูชั่น AI ของไทยที่ช่วยสร้าง Digital Trust ให้การทำธุรกรรมออนไลน์ปลอดภัยเหมือนเจอหน้ากัน\n\n  \nBody\nนับตั้งแต่สมาร์ตโฟนได้รับความนิยมสูงขึ้นเรื่อยๆ คนไทยก็เริ่มชินกับการทำธุรกรรมต่างๆ ไม่ว่าจะเป็นการซื้อของออนไลน์ การโอนเงินหรือทำธุรกรรมต่างๆ ที่ไม่ต้องไปติดต่อสาขาธนาคารเช่นเดิม มาจนถึงช่วงไม่กี่ปีที่ผ่านมา เราเริ่มเห็นบริการที่เคยต้องรอพบเจ้าหน้าที่หรือไปติดต่อที่ทำการต่างๆ สามารถทำงานออนไลน์ได้มากขึ้นเรื่อยๆ แต่ความสะดวกเหล่านี้ก็มาพร้อมกับความท้าทายใหม่ๆ คนร้ายอาศัยระบบที่พยายามทำให้ผู้ใช้สะดวกมาโจมตีด้วยวิธีต่างๆ ที่เราเห็นมากที่สุดคงเป็นแก๊งคอลเซ็นเตอร์ที่พยายามขโมยเงินด้วยวิธีต่างๆ กันไป\n\nAINU เป็นผู้ให้บริการ AI ของไทยภายใต้ KASIKORN X (KX) โดยทีมงานเริ่มจากการทำโครงการภายในของ KBTG ที่ต้องการพัฒนาเทคโนโลยีมาใช้รองรับ NDID ในกระบวนการตรวจสอบยืนยันตัวตน (e-KYC) ระหว่างช่วง COVID-19 จากตอนนั้นเทคโนโลยีของ AINU ก็สามารถนำไปให้บริการต่างๆ ทั้งบริการในเครือของธนาคารกสิกรไทยเอง และธนาคารหรือหน่วยงานภายนอกจนตอนนี้มีผู้ใช้งานรวมกว่า 30 ล้านราย\nAINU Verify บริการยืนยันการทำธุรกรรมออนไลน์ ที่ทุกคนสัมผัสทุกวันAINU Verify บริการยืนยันการทำธุรกรรมออนไลน์ ที่ทุกคนสัมผัสทุกวัน\nบริการที่เราจะได้สัมผัสกับบริการของ AINU กันบ่อยๆ คือ AINU Verify ที่เรามักได้ใช้งานเมื่อต้องยืนยันตัวตนกับแอปธนาคารเช่นการโอนเงินเกิน 50,000 บาท แต่ภายในชุดบริการ AINU Verify ที่จริงแล้ว เป็นชุดบริการครบสำหรับธนาคารและสถาบันการเงินภายใต้กำกับอย่างครบถ้วน ตั้งแต่การอ่านข้อมูลจากบัตรประชาชน, การเปรียบเทียบใบหน้า, ไปจนถึงการตรวจสอบความน่าเชื่อถือของอุปกรณ์ที่ช่วงหลังธนาคารแห่งประเทศไทยกำหนดให้ตรวจสอบความปลอดภัยอุปกรณ์ว่าไม่มีการดัดแปลงเครื่อง\n\nปัจจุบัน AI เปรียบเทียบใบหน้าหาใช้ได้ไม่ยาก ทั้งจากผู้ให้บริการทั่วโลกและโครงการโอเพนซอร์ส แต่ความแม่นยำในการเปรียบเทียบเพียงอย่างเดียวยังไม่พอ AINU จึงพัฒนา AI ให้ทนทานต่อการโจมตีรูปแบบต่างๆ ด้วย โดยเฉพาะการโจมตีจากตัวผู้ใช้เอง\nตัวอย่างเช่น ในขั้นตอนถ่ายภาพบัตรประชาชน ผู้ไม่หวังดีอาจโจมตีได้หลายวิธี เช่น ใช้ AI สร้างภาพบัตรปลอมแล้วป้อนเข้าแอป , นำภาพบัตรจริงมาพิมพ์ออกเป็นบัตรปลอมเพื่อหลอกแอปธนาคาร หรือแม้แต่ถ่ายภาพบัตรจากหน้าจอคอมพิวเตอร์โดยตรง\nสำหรับระบบการตรวจสอบบัตรประชาชน AINU Verify ตรวจจับการปลอมแปลงได้ พร้อมกับตรวจคุณภาพของภาพที่ผู้ใช้ถ่ายเข้ามาว่าชัดเจนพอสำหรับการใช้งานหรือไม่ และอ่านข้อความบนบัตรได้แม่นยำกว่า 90%\nสำหรับระบบการตรวจสอบใบหน้า AINU Verify มีความสามารถตรวจสอบความพยายามหลอกลวงการยืนยันตัวตนเช่นกันโดยตรวจสอบได้ทั้งการหลอกลวงด้วยภาพปลอมต่างๆ หรือจะเป็นการใส่หน้ากากเพื่อปลอมแปลงระบบ โดยการตรวจสอบว่าเป็นคนจริงๆ อยู่หน้ากล้องหรือไม่ (liveness detection) ฟีเจอร์ส่วนนี้ผ่านมาตรฐาน ISO 30107-3 Level 1 และ  2  ซึ่งจะมีสองโหมด คือ Active เป็นการตรวจสอบความตั้งใจยืนยันตัวตนของผู้ใช้โดยซอฟต์แวร์จะบอกให้ผู้ใช้ทำหน้าตามคำสั่ง เช่น หันซ้าย ยิ้ม พยักหน้า และอีกแบบคือ Passive ที่ผู้ใช้เพียงมองกล้องก็สามารถตรวจสอบได้ทันที ทำให้การทำธุรกรรมทำได้เร็ว\nหลังจากได้ภาพใบหน้าที่ยืนยันว่าเป็นใบหน้าจริงแล้ว ขั้นตอนถัดไป AINU Verify ยังคงต้องตรวจสอบใบหน้า โดย AI เปรียบเทียบใบหน้าของ AINU ถูกสร้างมาให้ใช้งานกับตามลักษณะการใช้งานในไทย เช่น ภาพในบัตรประชาชนไทยมีขนาดเล็กมาก ทางธนาคารต้องการเทียบใบหน้ากับภาพในบัตรประชาชนโดยยังมีความแม่นยำสูงอยู่ นอกจากนี้ยังเข้าใจการเทียบรูปแบบที่เกิดขึ้นบ่อยในไทยที่มีความหลากหลายในการใช้งาน เช่น มีการโกนผม ที่อาจจะเกิดจากทางศาสนา หรือรักษาตัว ซึ่งระบบบางตัวไม่สามารถเทียบใบหน้าได้ กรณีแบบนี้ทาง AINU Verify มีปรับแต่ง AI จนกระทั่งมีอัตราการสแกนใบหน้าไม่ผ่าน และอัตราการยืนยันตัวตนผิดบุคคล ต่ำกว่ากำหนดของธนาคารแห่งประเทศไทยถึงหลายเท่าตัว\nบริการ AINU Verify อยู่ภายใต้การกำกับของธนาคารแห่งประเทศไทย ทาง AINU จึงให้บริการด้วยความน่าเชื่อถือระดับสูง ตัวบริการทำตามกฎหมายและกฎของหน่วยงานกำกับดูแลต่างๆ ไม่ว่าจะเป็นธนาคารแห่งประเทศไทย, คณะกรรมการกำกับหลักทรัพย์และตลาดหลักทรัพย์ (ก.ล.ต.), ETDA หรือคณะกรรมการกำกับและส่งเสริมการประกอบธุรกิจประกันภัย (คปภ.) รวมถึงผ่านการรับรองมาตรฐานความปลอดภัย SOC 2 Type II อย่างเต็มรูปแบบ\nAINU Insurtech บริการที่เปิดทางให้การเคลมอุบัติเหตุจบภายใน 5 นาทีAINU Insurtech บริการที่เปิดทางให้การเคลมอุบัติเหตุใช้เวลาเพียง 5 นาที\n\nบริการอีกตัว ของ AINU คือ AINU InsurTech ที่เป็นโซลูชั่นสำหรับการติดต่อประกันภัยเมื่อเกิดอุบัติเหตุ จากเดิมที่เราต้องรอตัวแทนประกันนานหลายสิบนาทีไปจนถึงระดับชั่วโมงด้วยเทคโนโลยี AINU Insurtech ก็ทำให้กระบวนการออกใบเคลมเหลือเพียง 4.8 นาทีเท่านั้น กระบวนการทำงาน AINU InsurTech จะอาศัยเจ้าหน้าที่ในศูนย์ โทรวิดีโอคุยกับผู้ขับขี่ จากนั้นเจ้าหน้าที่จะขอให้ผู้ขับขี่รถถ่ายรูปในมุมต่างๆ ที่จำเป็น โดยมีระบบ AINU InsurTech ช่วยเหลือวิเคราะห์ข้อมูลต่อเนื่อง\nเช่นเดียวกับเทรนการใช้งานของ AINU Verify ที่นับวันการใช้งานออนไลน์มีแนวโน้มการโจมตีด้วยภาพหลอกจาก AI สูงขึ้น AINU Insurtech ก็มีระบบที่เข้ามาช่วยป้องกันเช่นกัน โดยการโจมตีจะเกิดขึ้นในลักษณะการสร้างภาพ AI เพื่ออ้างความเสียหายเกินจริง หรือมีความพยายามจัดฉาก นอกจากนี้ AINU InsurTech ยังมีโซลูชั่นช่วยในการเก็บภาพความละเอียดสูงเพื่อให้แน่ใจว่ากระบวนการเคลมเรียบร้อยสมบูรณ์\n\nเทคโนโลยี AI โดยคนไทย ที่เปิดทางให้คนไทยเข้าถึงบริการออนไลน์ได้สะดวกขึ้น\nเทคโนโลยีทั้งสองตัวของ AINU แสดงให้เห็นว่าแม้เราต้องการสร้างความสะดวกสบายด้วยบริการออนไลน์มากเพียงใด แต่อีกด้านหนึ่งแล้ว การตรวจสอบยืนยันว่าการใช้บริการเหล่านั้นมีความน่าเชื่อถือว่ากระทำโดยผู้ใช้จริง ข้อมูลหน่วยงานได้รับถูกต้องสมบูรณ์โดยไม่ถูกปลอมแปลงด้วยวิธีต่างๆ ก็นับเป็นความท้าทายสำคัญ ทาง AINU ระบุว่าไม่มีเทคโนโลยีตัวใดตัวหนึ่งสามารถตรวจจับความพยายามหลอกลวงระบบได้อย่างสมบูรณ์ในทุกกรณี ซึ่งหลังจากนี้จึงเป็นการมุ่งสู่ multi-dimentional monitoring ที่ระบบต้องมีข้อมูลเพียงพอ ทั้งข้อมูลพฤติกรรมผู้ใช้เดิม, ความน่าเชื่อถือของอุปกรณ์, ตลอดจนการทำธุรกรรมต่างๆ ก่อนหน้า\nคนจำนวนมากอาจไม่ได้ซื้อบริการต่างๆ ของ AINU โดยตรง แต่ความครอบคลุมของ AINU ที่มีคนใช้งานผ่านหน่วยงานอื่นๆ จำนวนมาก การทำงานของ AINU กำลังเป็นกลไกลสำคัญทำให้เราสามารถใช้บริการดิจิทัลได้สะดวกขึ้น มีความมั่นใจว่าธุรกรรมต่างๆ ไม่ถูกคนร้ายหลอกลวง หรือถูกสวมรอย เปิดทางให้ในอนาคตจะมีบริการใหม่ๆ ที่สามารถให้บริการออนไลน์ได้เพิ่มขึ้นมา\nสำหรับองค์กรที่สนใจต้องการทำเทคโนโลยีของ AINU ไปใช้สร้างความน่าเชื่อถือให้กับบริการ สร้างความน่าเชื่อถือในการทำธุรกรรม สามารถติดต่อขอรับคำปรึกษาหรือการสาธิตการทำงานได้ที่ https://ainu.tech\n\n\n          \nsponsored\nWed, 25/11/2026 - 17:00",
       "pubDate": "Wed, 25 Nov 2026 10:00:00 +0000",
       "source": "Blognone",
       "category": "Security",
       "thumbnail": "https://www.blognone.com/sites/default/files/files-2026/2026-11/AINU/image2.jpg",
       "readTime": "15 นาที"
-    },
-    {
-      "id": "https://techsauce.co/news/stanford-ai-curriculum-redesign-college-majors",
-      "title": "Stanford ทุ่ม 10 ล้านดอลลาร์ ปรับหลักสูตรปริญญาตรี เพิ่มทักษะการเรียนรู้เท่าทันยุค AI",
-      "link": "https://techsauce.co/news/stanford-ai-curriculum-redesign-college-majors",
-      "content": "มหาวิทยาลัย Stanford ลงทุน ทุ่มเงิน 339 ล้านบาท ให้ภาควิชาทบทวนหลักสูตรทั้งสาขาในยุค AI กำหนดให้ชัดว่าส่วนไหนใช้ AI ได้ และส่วนไหนนักศึกษาต้องทำเอง",
-      "pubDate": "Wed, 25 Nov 2026 16:33:41 +0700",
-      "source": "Techsauce",
-      "category": "AI",
-      "thumbnail": "https://storage.googleapis.com/techsauce-prod/ugc/uploads/2026/11/1795598980_%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B8%8D%E0%B9%88%E0%B8%B2%E0%B8%AD%E0%B8%A2%E0%B9%88%E0%B8%B2%E0%B8%A2%E0%B8%B8%E0%B9%88%E0%B8%87_%E0%B8%9B%E0%B8%81%E0%B8%82%E0%B9%88%E0%B8%B2%E0%B8%A71200x800_-_2026-11-25T162624.837.webp",
-      "readTime": "1 นาที"
-    },
-    {
-      "id": "https://techsauce.co/ai/ainu-ai-ekyc-identity-verification-kbtg-kx",
-      "title": "รู้จัก AINU เทคโนโลยี AI ยืนยันตัวตนฝีมือคนไทย เบื้องหลังความปลอดภัยของคนกว่า 30 ล้านบัญชี",
-      "link": "https://techsauce.co/ai/ainu-ai-ekyc-identity-verification-kbtg-kx",
-      "content": "รู้จัก AINU เทคโนโลยี AI ยืนยันตัวตน (eKYC) ฝีมือคนไทยจาก KBTG และ KX ผู้อยู่เบื้องหลังความปลอดภัยกว่า 30 ล้านบัญชี พร้อมมาตรฐานระดับโลก",
-      "pubDate": "Wed, 25 Nov 2026 16:00:15 +0700",
-      "source": "Techsauce",
-      "category": "Security",
-      "thumbnail": "https://storage.googleapis.com/techsauce-prod/ugc/uploads/2026/11/1795590657_%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B8%8D%E0%B9%88%E0%B8%B2%E0%B8%AD%E0%B8%A2%E0%B9%88%E0%B8%B2%E0%B8%A2%E0%B8%B8%E0%B9%88%E0%B8%87_%E0%B8%9B%E0%B8%81%E0%B8%82%E0%B9%88%E0%B8%B2%E0%B8%A71200x800_-_2026-11-17T150446.612.webp",
-      "readTime": "1 นาที"
-    },
-    {
-      "id": "https://www.thaicert.or.th/?p=18213",
-      "title": "Microsoft แก้ปัญหาความปลอดภัย Azure API Management Classic เสี่ยงข้อมูลรับรองและข้อมูลลับรั่วไหล",
-      "link": "https://www.thaicert.or.th/2026/11/25/microsoft-%e0%b9%81%e0%b8%81%e0%b9%89%e0%b8%9b%e0%b8%b1%e0%b8%8d%e0%b8%ab%e0%b8%b2%e0%b8%84%e0%b8%a7%e0%b8%b2%e0%b8%a1%e0%b8%9b%e0%b8%a5%e0%b8%ad%e0%b8%94%e0%b8%a0%e0%b8%b1%e0%b8%a2-azure-api-manageme/",
-      "content": "651/69 (IT) ประจำวันพุธที่ 25 พฤศจิกายน 2569 Microsoft  […]\nThe post Microsoft แก้ปัญหาความปลอดภัย Azure API Management Classic เสี่ยงข้อมูลรับรองและข้อมูลลับรั่วไหล first appeared on Thailand Computer Emergency Response Team (ThaiCERT).",
-      "pubDate": "Wed, 25 Nov 2026 07:02:00 +0000",
-      "source": "ThaiCERT",
-      "category": "ภัยคุกคามทางไซเบอร์",
-      "thumbnail": "https://www.thaicert.or.th/wp-content/uploads/2026/11/3_0-10-1024x768.png",
-      "readTime": "1 นาที"
-    },
-    {
-      "id": "https://www.thaicert.or.th/?p=18215",
-      "title": "FBI เร่งสอบสวนเหตุบุกรุกฐานข้อมูลอาชญากรรม NCIC ที่หน่วยงานบังคับใช้กฎหมายทั่วสหรัฐอเมริกาใช้งาน",
-      "link": "https://www.thaicert.or.th/2026/11/25/fbi-%e0%b9%80%e0%b8%a3%e0%b9%88%e0%b8%87%e0%b8%aa%e0%b8%ad%e0%b8%9a%e0%b8%aa%e0%b8%a7%e0%b8%99%e0%b9%80%e0%b8%ab%e0%b8%95%e0%b8%b8%e0%b8%9a%e0%b8%b8%e0%b8%81%e0%b8%a3%e0%b8%b8%e0%b8%81%e0%b8%90/",
-      "content": "650/69 (IT) ประจำวันพุธที่ 25 พฤศจิกายน 2569 สำนักงานสอ […]\nThe post FBI เร่งสอบสวนเหตุบุกรุกฐานข้อมูลอาชญากรรม NCIC ที่หน่วยงานบังคับใช้กฎหมายทั่วสหรัฐอเมริกาใช้งาน first appeared on Thailand Computer Emergency Response Team (ThaiCERT).",
-      "pubDate": "Wed, 25 Nov 2026 07:01:00 +0000",
-      "source": "ThaiCERT",
-      "category": "ภัยคุกคามทางไซเบอร์",
-      "thumbnail": "https://www.thaicert.or.th/wp-content/uploads/2026/11/2_0-10-1024x768.png",
-      "readTime": "1 นาที"
-    },
-    {
-      "id": "https://www.thaicert.or.th/?p=18211",
-      "title": "Broadcom ออกอัปเดตแก้ไขช่องโหว่ 23 รายการในผลิตภัณฑ์ VMware แนะผู้ดูแลระบบเร่งอัปเดต vCenter และ ESX ทันที",
-      "link": "https://www.thaicert.or.th/2026/11/25/broadcom-%e0%b8%ad%e0%b8%ad%e0%b8%81%e0%b8%ad%e0%b8%b1%e0%b8%9b%e0%b9%80%e0%b8%94%e0%b8%95%e0%b9%81%e0%b8%81%e0%b9%89%e0%b9%84%e0%b8%82%e0%b8%8a%e0%b9%88%e0%b8%ad%e0%b8%87%e0%b9%82%e0%b8%ab%e0%b8%a7-2/",
-      "content": "649/69 (IT) ประจำวันพุธที่ 25 พฤศจิกายน 2569 Broadcom อ […]\nThe post Broadcom ออกอัปเดตแก้ไขช่องโหว่ 23 รายการในผลิตภัณฑ์ VMware แนะผู้ดูแลระบบเร่งอัปเดต vCenter และ ESX ทันที first appeared on Thailand Computer Emergency Response Team (ThaiCERT).",
-      "pubDate": "Wed, 25 Nov 2026 07:00:00 +0000",
-      "source": "ThaiCERT",
-      "category": "ภัยคุกคามทางไซเบอร์",
-      "thumbnail": "https://www.thaicert.or.th/wp-content/uploads/2026/11/1_0-10-1024x768.png",
-      "readTime": "1 นาที"
-    },
-    {
-      "id": "https://techsauce.co/news/china-executes-civil-servant-spy-espionage-process",
-      "title": "จีนประหาร ‘ข้าราชการสายลับ’ โดนแบล็กเมล์ จึงจำใจขายความลับชาติ",
-      "link": "https://techsauce.co/news/china-executes-civil-servant-spy-espionage-process",
-      "content": "เปิดเบื้องหลังคดีระดับชาติยิ่งกว่าหนังสายลับ เมื่อศาลจีนสั่งประหารชีวิต ‘ข้าราชการสายลับ’ แกะรอยทุกขั้นตอน ตั้งแต่จุดเริ่มต้นในคลาสเรียนภาษา เกมแบล็กเมล์ สู่ปฏิบัติการส่งข้อมูลลับสุดยอดแลกเงินกว่า 1 ล้านหยวน",
-      "pubDate": "Wed, 25 Nov 2026 13:11:45 +0700",
-      "source": "Techsauce",
-      "category": "General",
-      "thumbnail": "https://storage.googleapis.com/techsauce-prod/ugc/uploads/2026/11/1795587074_%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B8%8D%E0%B9%88%E0%B8%B2%E0%B8%AD%E0%B8%A2%E0%B9%88%E0%B8%B2%E0%B8%A2%E0%B8%B8%E0%B9%88%E0%B8%87_%E0%B8%9B%E0%B8%81%E0%B8%82%E0%B9%88%E0%B8%B2%E0%B8%A71200x800_-_2026-11-25T130857.634.webp",
-      "readTime": "1 นาที"
-    },
-    {
-      "id": "https://techsauce.co/ai/claude-mcp-update-skills-tasks-elicitation",
-      "title": "Claude อัปเกรด MCP เชื่อม Skills ภายนอกสอน AI อัตโนมัติ",
-      "link": "https://techsauce.co/ai/claude-mcp-update-skills-tasks-elicitation",
-      "content": "Anthropic อัปเดต MCP ครั้งใหญ่ให้ Claude เชื่อมต่อแอปเก่งขึ้น ส่งคู่มือสอนงานได้ สั่งรันเบื้องหลังไม่ต้องนั่งรอ และหยุดถามยืนยันก่อนทำเรื่องสำคัญ",
-      "pubDate": "Wed, 25 Nov 2026 11:43:24 +0700",
-      "source": "Techsauce",
-      "category": "AI",
-      "thumbnail": null,
-      "readTime": "1 นาที"
     },
     {
       "id": "https://www.techtalkthai.com/?p=172490",
@@ -440,17 +495,6 @@
       "category": "Security",
       "thumbnail": "https://www.techtalkthai.com/wp-content/uploads/2026/11/CU_iSprint_102026-img-01.jpg",
       "readTime": "3 นาที"
-    },
-    {
-      "id": "https://www.thaicert.or.th/?p=18204",
-      "title": "แจ้งเตือน พบช่องโหว่ในไลบรารี binary-parser เสี่ยงถูกโจมตีผ่าน Code Injection และรัน JavaScript บนระบบ Node.js ในเวอร์ชันก่อน 2.3.1",
-      "link": "https://www.thaicert.or.th/2026/11/25/%e0%b9%81%e0%b8%88%e0%b9%89%e0%b8%87%e0%b9%80%e0%b8%95%e0%b8%b7%e0%b8%ad%e0%b8%99-%e0%b8%9e%e0%b8%9a%e0%b8%8a%e0%b9%88%e0%b8%ad%e0%b8%87%e0%b9%82%e0%b8%ab%e0%b8%a7%e0%b9%88%e0%b9%83%e0%b8%99%e0%b9%84/",
-      "content": "ศูนย์ประสานการรักษาความมั่นคงปลอดภัยระบบคอมพิวเตอร์แห่ง […]\nThe post แจ้งเตือน พบช่องโหว่ในไลบรารี binary-parser เสี่ยงถูกโจมตีผ่าน Code Injection และรัน JavaScript บนระบบ Node.js ในเวอร์ชันก่อน 2.3.1 first appeared on Thailand Computer Emergency Response Team (ThaiCERT).",
-      "pubDate": "Wed, 25 Nov 2026 02:40:00 +0000",
-      "source": "ThaiCERT",
-      "category": "ภัยคุกคามทางไซเบอร์",
-      "thumbnail": "https://www.thaicert.or.th/wp-content/uploads/2026/11/binary-parser-1024x574.png",
-      "readTime": "1 นาที"
     },
     {
       "id": "https://www.techtalkthai.com/?p=172280",
@@ -550,50 +594,6 @@
       "category": "Security",
       "thumbnail": "https://www.techtalkthai.com/wp-content/uploads/2026/11/crowdstrike-zscaler-cover-1920x1080-1-640x360.png",
       "readTime": "2 นาที"
-    },
-    {
-      "id": "https://www.techtalkthai.com/?p=172504",
-      "title": "Cisco และ OpenAI เปิดตัว Shirudo โปรเจกต์ Open Source ใช้ eBPF และ AI Agent ป้องกันช่องโหว่ก่อนแพตช์",
-      "link": "https://www.techtalkthai.com/cisco-openai-launch-shirudo-ebpf-ai-agent-vulnerability-shield/",
-      "content": "Cisco และ OpenAI เปิดตัว Shirudo โปรเจกต์ Open Source ที่ใช้ AI Agent สร้าง “โล่” ด้วย eBPF ปกป้องระบบ Linux ที่กำลังทำงานอยู่จากการโจมตีช่องโหว่ได้ทันที โดยไม่ต้อง reboot ระหว่างที่ทีมงานกำลังทยอยติดตั้งแพตช์ ปัญหาหลักที่ Shirudo ต้องการแก้คือช่องว่างระหว่างการค้นพบช่องโหว่กับการแพตช์ระบบให้ครบทุกเครื่อง ฝั่งผู้ป้องกันต้องดูแลโครงสร้างพื้นฐานทุกส่วนตลอดเวลา ขณะที่ผู้โจมตีต้องการเพียงเครื่องเดียวที่ยังไม่ได้แพตช์ Cisco และ OpenAI จึงร่วมกันผลักดันแนวคิดโครงสร้างพื้นฐานที่ปลอดภัยตั้งแต่ต้น (secure by default) และสามารถป้องกันตัวเองได้ โดย Cisco นำประสบการณ์ด้านการสร้างและปกป้องระบบโครงสร้างพื้นฐานมาใช้ ส่วน OpenAI นำงานวิจัย Frontier AI และข้อมูลเชิงลึกเกี่ยวกับรูปแบบการโจมตีที่กำลังจะเกิดขึ้นมาเสริม OpenAI มองว่าการค้นพบ bug ได้เร็วขึ้นไม่ได้แปลว่าจะแพตช์ทุกระบบได้ทันที จึงต้องมีเครื่องมือที่ปกป้องระบบซึ่งต้องให้บริการต่อเนื่องระหว่างรอการแก้ไขถาวร Shirudo ซึ่งมาจากคำภาษาญี่ปุ่นที่แปลว่า “โล่” ทำงานบน eBPF เทคโนโลยีที่ช่วยให้รันโปรแกรมขนาดเล็กภายใน Kernel …",
-      "pubDate": "Mon, 23 Nov 2026 22:38:59 +0000",
-      "source": "TechTalk Thai",
-      "category": "Security",
-      "thumbnail": "https://www.techtalkthai.com/wp-content/uploads/2026/11/cisco-openai-Shirudo-launch-banner-img-640x360.png",
-      "readTime": "3 นาที"
-    },
-    {
-      "id": "https://www.techtalkthai.com/?p=172500",
-      "title": "[วีดีโอย้อนหลัง] Tenable Webinar : พลิกโฉมระบบป้องกันแบบ Prompt AI สู่การทำงานแบบ Agentic ด้วย Tenable Hexa AI ",
-      "link": "https://www.techtalkthai.com/rerun-tenable-webinar-hexa-ai-102026/",
-      "content": "เมื่อวันที่ 28 ตุลาคมที่ผ่านมาท่านใดที่พลาดฟัง Tenable Webinar กับหัวข้อ “พลิกโฉมระบบป้องกันแบบ Prompt AI สู่การทำงานแบบ Agentic ด้วย Tenable Hexa AI” วันนี้ทีมงาน TechTalkThai ได้อัปโหลดวีดีโอย้อนหลังให้ผู้สนใจได้ชมกันอีกครั้ง การมาถึงของ Mythos ทำให้โฉมหน้าของโลก Cybersecurity เปลี่ยนไปตลอดกาล ความเร็วของ AI ในการหาช่องโหว่เกิดขึ้นได้อย่างน่าใจหาย ภาพของทีม IT Security ที่ต้องเสียเวลาไปกับงานซ้ำ ๆ ทั้งการคัดกรองช่องโหว่ และการจัดทำ Ticket การไล่ตามทีม Ops และระบบที่ซับซ้อนกระจายกัน ยิ่งทำให้ช่วงเวลาระหว่างการ รับรู้ และ แก้ไข กว้างขึ้น Tenable Hexa AI คือ Agentic AI Engine ของแพลตฟอร์ม Tenable One ที่ทำหน้าที่เป็น Master Orchestrator …",
-      "pubDate": "Mon, 23 Nov 2026 12:59:01 +0000",
-      "source": "TechTalk Thai",
-      "category": "Security",
-      "thumbnail": null,
-      "readTime": "2 นาที"
-    },
-    {
-      "id": "https://www.techtalkthai.com/?p=172475",
-      "title": "Confluent เปิดตัว Streamhouse เพื่อขับเคลื่อน AI ด้วยข้อมูลธุรกิจแบบเรียลไทม์ [PR]",
-      "link": "https://www.techtalkthai.com/confluent-introducing-streamhouse-pr/",
-      "content": "Confluent บริษัทในเครือ IBM ประกาศเปิดตัวความสามารถใหม่สำหรับการพัฒนา Streamhouse ซึ่งเป็นสถาปัตยกรรมข้อมูลรูปแบบใหม่ที่ช่วยทำให้ข้อมูลทางธุรกิจเป็นปัจจุบันอยู่เสมอ เพื่อนำมาใช้ร่วมกับ  AI Agents แอปพลิเคชัน และระบบวิเคราะห์ข้อมูลในระหว่างที่ระบบกำลังตัดสินใจและดำเนินการต่าง ๆ โดยการเปิดให้บริการ Lightning Tables อย่างเป็นทางการบน AWS ในครั้งนี้ จะช่วยเติมเต็มขีดความสามารถทั้ง 5 เสาหลักของ Confluent Data Streaming Platform ได้แก่ Stream, Connect, Process, Govern และ Query ให้ทำงานร่วมกันบนแพลตฟอร์มเดียว สำหรับการพัฒนา Streamhouse ทั้งนี้ Confluent ถือเป็นองค์ประกอบสำคัญในกลยุทธ์ด้านข้อมูลของ IBM โดยผสานความสามารถในการสตรีมข้อมูลแบบเรียลไทม์เข้ากับเทคโนโลยีด้านการบูรณาการข้อมูล (Integration) การกำกับดูแลข้อมูล (Governance) และ AI ของ IBM เพื่อรองรับการทำงานในสภาพแวดล้อมแบบ Hybrid ทำไมองค์กรจึงต้องมี Streamhouse ทั้ง Data Lake, Data …",
-      "pubDate": "Mon, 23 Nov 2026 10:42:43 +0000",
-      "source": "TechTalk Thai",
-      "category": "AI",
-      "thumbnail": "https://www.techtalkthai.com/wp-content/uploads/2026/11/conflluentstreamhousepr-640x335.png",
-      "readTime": "3 นาที"
-    },
-    {
-      "id": "https://www.techtalkthai.com/?p=172470",
-      "title": "Cadence เปิดตัว OrCAD Xplore Design Platform แพลตฟอร์มออกแบบระบบอิเล็กทรอนิกส์อัจฉริยะรุ่นใหม่ [PR]",
-      "link": "https://www.techtalkthai.com/cadence-orcad-xplore-design-platform-pr/",
-      "content": "Cadence (NASDAQ: CDNS) ผู้นำด้านเทคโนโลยีซอฟต์แวร์สำหรับการออกแบบระบบอิเล็กทรอนิกส์ ประกาศเปิดตัว Cadence® OrCAD® Xplore Design Platform แพลตฟอร์มออกแบบระบบอิเล็กทรอนิกส์รุ่นใหม่ ที่ได้รับการพัฒนาขึ้นเพื่อยกระดับประสิทธิภาพการออกแบบและพัฒนาผลิตภัณฑ์อิเล็กทรอนิกส์ โดยผสานกระบวนการค้นหาข้อมูลชิ้นส่วนอิเล็กทรอนิกส์ การออกแบบวงจร การเข้าถึงข้อมูลทางเทคนิคจากผู้ผลิต ตลอดจนข้อมูลด้านซัพพลายเชนและการจัดซื้อไว้ภายในแพลตฟอร์มเดียว ช่วยลดขั้นตอนการทำงานที่ซับซ้อน เพิ่มความแม่นยำในการเลือกใช้ชิ้นส่วนอิเล็กทรอนิกส์ และช่วยให้วิศวกรสามารถพัฒนาผลิตภัณฑ์ใหม่ออกสู่ตลาดได้รวดเร็วยิ่งขึ้น แพลตฟอร์มดังกล่าวได้รับการออกแบบมาเพื่อตอบโจทย์วิศวกรอิสระและทีมออกแบบขนาดเล็ก ที่ต้องใช้เวลาในการค้นหาข้อมูลและจัดหาชิ้นส่วนอิเล็กทรอนิกส์จากหลากหลายแหล่ง โดยพัฒนาต่อยอดจาก OrCAD X Capture และเชื่อมต่อกับระบบนิเวศ Cadence Ultra Librarian® ซึ่งรวบรวมข้อมูลและแบบจำลองชิ้นส่วนอิเล็กทรอนิกส์ที่ผ่านการตรวจสอบจากผู้ผลิตชั้นนำ พร้อมผสานข้อมูลด้านการจัดหาและการจัดซื้อเข้ากับกระบวนการออกแบบ ช่วยให้วิศวกรสามารถเลือกใช้ชิ้นส่วนที่เหมาะสม ลดข้อผิดพลาดจากการออกแบบ และลดความจำเป็นในการแก้ไขงานซ้ำ ส่งผลให้กระบวนการพัฒนาผลิตภัณฑ์ตั้งแต่การคัดเลือกชิ้นส่วนไปจนถึงการออกแบบที่พร้อมสำหรับการผลิตเป็นไปอย่างมีประสิทธิภาพมากยิ่งขึ้น ทั้งนี้ จากข้อมูลของลูกค้า Cadence พบว่า วิศวกรต้องใช้เวลามากกว่า 50% ของเวลาการทำงานไปกับการค้นหาข้อมูลชิ้นส่วนอิเล็กทรอนิกส์จากภายนอกเครื่องมือออกแบบ ไม่ว่าจะเป็นการเลือกชิ้นส่วน การค้นหาชิ้นส่วนทดแทน หรือการตรวจสอบสถานะด้านซัพพลายเชน การเปิดตัว OrCAD Xplore จึงถือเป็นอีกหนึ่งก้าวสำคัญในการเพิ่มประสิทธิภาพการทำงานของวิศวกร ด้วยการเชื่อมโยงกระบวนการค้นหา ตรวจสอบ จำลองการทำงาน และจัดหาชิ้นส่วนอิเล็กทรอนิกส์ไว้ด้วยกัน ซึ่งสามารถช่วยลดระยะเวลาในการค้นหาข้อมูลได้สูงสุดถึง 80% …",
-      "pubDate": "Mon, 23 Nov 2026 10:22:26 +0000",
-      "source": "TechTalk Thai",
-      "category": "General",
-      "thumbnail": "https://www.techtalkthai.com/wp-content/uploads/2026/11/cadenceocr-640x335.png",
-      "readTime": "5 นาที"
     },
     {
       "id": "https://it24hrs.com/?p=171179",
